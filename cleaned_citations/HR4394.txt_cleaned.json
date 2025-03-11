@@ -1,0 +1,578 @@
+[
+  {
+    "text": "33 U.S.C.",
+    "normCite": "33 usc",
+    "citeType": "USC",
+    "section": "33 U.S.C. ",
+    "sectionAndSubSection": "33 U.S.C. ",
+    "isShortCite": false
+  },
+  {
+    "text": "10 U.S.C. 3016(b)(3)",
+    "normCite": "10 usc 3016",
+    "citeType": "USC",
+    "section": "10 U.S.C. 3016",
+    "sectionAndSubSection": "10 U.S.C. 3016(b)(3)",
+    "isShortCite": false
+  },
+  {
+    "text": "33 U.S.C.",
+    "normCite": "33 usc",
+    "citeType": "USC",
+    "section": "33 U.S.C. ",
+    "sectionAndSubSection": "33 U.S.C. ",
+    "isShortCite": false
+  },
+  {
+    "text": "33 U.S.C.",
+    "normCite": "33 usc",
+    "citeType": "USC",
+    "section": "33 U.S.C. ",
+    "sectionAndSubSection": "33 U.S.C. ",
+    "isShortCite": false
+  },
+  {
+    "text": "60 Stat. 636",
+    "normCite": "60 stat 636",
+    "citeType": "StatutesAtLarge",
+    "section": "",
+    "sectionAndSubSection": "",
+    "isShortCite": false
+  },
+  {
+    "text": "88 Fed. Reg. 3004",
+    "normCite": "88 federal register 3004",
+    "citeType": "FR",
+    "section": "",
+    "sectionAndSubSection": "",
+    "isShortCite": false
+  },
+  {
+    "text": "33 U.S.C.",
+    "normCite": "33 usc",
+    "citeType": "USC",
+    "section": "33 U.S.C. ",
+    "sectionAndSubSection": "33 U.S.C. ",
+    "isShortCite": false
+  },
+  {
+    "text": "43 U.S.C.",
+    "normCite": "43 usc",
+    "citeType": "USC",
+    "section": "43 U.S.C. ",
+    "sectionAndSubSection": "43 U.S.C. ",
+    "isShortCite": false
+  },
+  {
+    "text": "16 U.S.C. 6806",
+    "normCite": "16 usc 6806",
+    "citeType": "USC",
+    "section": "16 U.S.C. 6806",
+    "sectionAndSubSection": "16 U.S.C. 6806",
+    "isShortCite": false
+  },
+  {
+    "text": "43 U.S.C. 395",
+    "normCite": "43 usc 395",
+    "citeType": "USC",
+    "section": "43 U.S.C. 395",
+    "sectionAndSubSection": "43 U.S.C. 395",
+    "isShortCite": false
+  },
+  {
+    "text": "43 U.S.C. 397a",
+    "normCite": "43 usc 397a",
+    "citeType": "USC",
+    "section": "43 U.S.C. 397a",
+    "sectionAndSubSection": "43 U.S.C. 397a",
+    "isShortCite": false
+  },
+  {
+    "text": "16 U.S.C.",
+    "normCite": "16 usc",
+    "citeType": "USC",
+    "section": "16 U.S.C. ",
+    "sectionAndSubSection": "16 U.S.C. ",
+    "isShortCite": false
+  },
+  {
+    "text": "in letters",
+    "normCite": "in letter s",
+    "citeType": "unknown",
+    "section": "",
+    "sectionAndSubSection": "",
+    "isShortCite": false
+  },
+  {
+    "text": "43 U.S.C. 377",
+    "normCite": "43 usc 377",
+    "citeType": "USC",
+    "section": "43 U.S.C. 377",
+    "sectionAndSubSection": "43 U.S.C. 377",
+    "isShortCite": false
+  },
+  {
+    "text": "42 U.S.C. 7101",
+    "normCite": "42 usc 7101",
+    "citeType": "USC",
+    "section": "42 U.S.C. 7101",
+    "sectionAndSubSection": "42 U.S.C. 7101",
+    "isShortCite": false
+  },
+  {
+    "text": "42 U.S.C. 7101",
+    "normCite": "42 usc 7101",
+    "citeType": "USC",
+    "section": "42 U.S.C. 7101",
+    "sectionAndSubSection": "42 U.S.C. 7101",
+    "isShortCite": false
+  },
+  {
+    "text": "42 U.S.C. 7101",
+    "normCite": "42 usc 7101",
+    "citeType": "USC",
+    "section": "42 U.S.C. 7101",
+    "sectionAndSubSection": "42 U.S.C. 7101",
+    "isShortCite": false
+  },
+  {
+    "text": "42 U.S.C. 7101",
+    "normCite": "42 usc 7101",
+    "citeType": "USC",
+    "section": "42 U.S.C. 7101",
+    "sectionAndSubSection": "42 U.S.C. 7101",
+    "isShortCite": false
+  },
+  {
+    "text": "42 U.S.C. 7101",
+    "normCite": "42 usc 7101",
+    "citeType": "USC",
+    "section": "42 U.S.C. 7101",
+    "sectionAndSubSection": "42 U.S.C. 7101",
+    "isShortCite": false
+  },
+  {
+    "text": "30 U.S.C. 3",
+    "normCite": "30 usc 3",
+    "citeType": "USC",
+    "section": "30 U.S.C. 3",
+    "sectionAndSubSection": "30 U.S.C. 3",
+    "isShortCite": false
+  },
+  {
+    "text": "1602",
+    "normCite": "30 usc 1602",
+    "citeType": "USC",
+    "section": "30 U.S.C. 1602",
+    "sectionAndSubSection": "30 U.S.C. 1602",
+    "isShortCite": false
+  },
+  {
+    "text": "42 U.S.C. 6201",
+    "normCite": "42 usc 6201",
+    "citeType": "USC",
+    "section": "42 U.S.C. 6201",
+    "sectionAndSubSection": "42 U.S.C. 6201",
+    "isShortCite": false
+  },
+  {
+    "text": "42 U.S.C. 6201",
+    "normCite": "42 usc 6201",
+    "citeType": "USC",
+    "section": "42 U.S.C. 6201",
+    "sectionAndSubSection": "42 U.S.C. 6201",
+    "isShortCite": false
+  },
+  {
+    "text": "42 U.S.C. 7101",
+    "normCite": "42 usc 7101",
+    "citeType": "USC",
+    "section": "42 U.S.C. 7101",
+    "sectionAndSubSection": "42 U.S.C. 7101",
+    "isShortCite": false
+  },
+  {
+    "text": "42 U.S.C. 7101",
+    "normCite": "42 usc 7101",
+    "citeType": "USC",
+    "section": "42 U.S.C. 7101",
+    "sectionAndSubSection": "42 U.S.C. 7101",
+    "isShortCite": false
+  },
+  {
+    "text": "42 U.S.C. 7101",
+    "normCite": "42 usc 7101",
+    "citeType": "USC",
+    "section": "42 U.S.C. 7101",
+    "sectionAndSubSection": "42 U.S.C. 7101",
+    "isShortCite": false
+  },
+  {
+    "text": "42 U.S.C. 7101",
+    "normCite": "42 usc 7101",
+    "citeType": "USC",
+    "section": "42 U.S.C. 7101",
+    "sectionAndSubSection": "42 U.S.C. 7101",
+    "isShortCite": false
+  },
+  {
+    "text": "31 U.S.C. 1511",
+    "normCite": "31 usc 1511",
+    "citeType": "USC",
+    "section": "31 U.S.C. 1511",
+    "sectionAndSubSection": "31 U.S.C. 1511",
+    "isShortCite": false
+  },
+  {
+    "text": "31 U.S.C.",
+    "normCite": "31 usc",
+    "citeType": "USC",
+    "section": "31 U.S.C. ",
+    "sectionAndSubSection": "31 U.S.C. ",
+    "isShortCite": false
+  },
+  {
+    "text": "42 U.S.C. 7101",
+    "normCite": "42 usc 7101",
+    "citeType": "USC",
+    "section": "42 U.S.C. 7101",
+    "sectionAndSubSection": "42 U.S.C. 7101",
+    "isShortCite": false
+  },
+  {
+    "text": "42 U.S.C. 7101",
+    "normCite": "42 usc 7101",
+    "citeType": "USC",
+    "section": "42 U.S.C. 7101",
+    "sectionAndSubSection": "42 U.S.C. 7101",
+    "isShortCite": false
+  },
+  {
+    "text": "42 U.S.C. 7101",
+    "normCite": "42 usc 7101",
+    "citeType": "USC",
+    "section": "42 U.S.C. 7101",
+    "sectionAndSubSection": "42 U.S.C. 7101",
+    "isShortCite": false
+  },
+  {
+    "text": "42 U.S.C. 7101",
+    "normCite": "42 usc 7101",
+    "citeType": "USC",
+    "section": "42 U.S.C. 7101",
+    "sectionAndSubSection": "42 U.S.C. 7101",
+    "isShortCite": false
+  },
+  {
+    "text": "42 U.S.C. 7101",
+    "normCite": "42 usc 7101",
+    "citeType": "USC",
+    "section": "42 U.S.C. 7101",
+    "sectionAndSubSection": "42 U.S.C. 7101",
+    "isShortCite": false
+  },
+  {
+    "text": "16 U.S.C.",
+    "normCite": "16 usc",
+    "citeType": "USC",
+    "section": "16 U.S.C. ",
+    "sectionAndSubSection": "16 U.S.C. ",
+    "isShortCite": false
+  },
+  {
+    "text": "31 U.S.C. 3302",
+    "normCite": "31 usc 3302",
+    "citeType": "USC",
+    "section": "31 U.S.C. 3302",
+    "sectionAndSubSection": "31 U.S.C. 3302",
+    "isShortCite": false
+  },
+  {
+    "text": "31 U.S.C. 3302",
+    "normCite": "31 usc 3302",
+    "citeType": "USC",
+    "section": "31 U.S.C. 3302",
+    "sectionAndSubSection": "31 U.S.C. 3302",
+    "isShortCite": false
+  },
+  {
+    "text": "16 U.S.C.",
+    "normCite": "16 usc",
+    "citeType": "USC",
+    "section": "16 U.S.C. ",
+    "sectionAndSubSection": "16 U.S.C. ",
+    "isShortCite": false
+  },
+  {
+    "text": "31 U.S.C. 3302",
+    "normCite": "31 usc 3302",
+    "citeType": "USC",
+    "section": "31 U.S.C. 3302",
+    "sectionAndSubSection": "31 U.S.C. 3302",
+    "isShortCite": false
+  },
+  {
+    "text": "16 U.S.C.",
+    "normCite": "16 usc",
+    "citeType": "USC",
+    "section": "16 U.S.C. ",
+    "sectionAndSubSection": "16 U.S.C. ",
+    "isShortCite": false
+  },
+  {
+    "text": "31 U.S.C. 3302",
+    "normCite": "31 usc 3302",
+    "citeType": "USC",
+    "section": "31 U.S.C. 3302",
+    "sectionAndSubSection": "31 U.S.C. 3302",
+    "isShortCite": false
+  },
+  {
+    "text": "42 U.S.C.",
+    "normCite": "42 usc",
+    "citeType": "USC",
+    "section": "42 U.S.C. ",
+    "sectionAndSubSection": "42 U.S.C. ",
+    "isShortCite": false
+  },
+  {
+    "text": "31 U.S.C. 3302",
+    "normCite": "31 usc 3302",
+    "citeType": "USC",
+    "section": "31 U.S.C. 3302",
+    "sectionAndSubSection": "31 U.S.C. 3302",
+    "isShortCite": false
+  },
+  {
+    "text": "16 U.S.C.",
+    "normCite": "16 usc",
+    "citeType": "USC",
+    "section": "16 U.S.C. ",
+    "sectionAndSubSection": "16 U.S.C. ",
+    "isShortCite": false
+  },
+  {
+    "text": "43 U.S.C.",
+    "normCite": "43 usc",
+    "citeType": "USC",
+    "section": "43 U.S.C. ",
+    "sectionAndSubSection": "43 U.S.C. ",
+    "isShortCite": false
+  },
+  {
+    "text": "31 U.S.C. 3302",
+    "normCite": "31 usc 3302",
+    "citeType": "USC",
+    "section": "31 U.S.C. 3302",
+    "sectionAndSubSection": "31 U.S.C. 3302",
+    "isShortCite": false
+  },
+  {
+    "text": "31 U.S.C. 3302",
+    "normCite": "31 usc 3302",
+    "citeType": "USC",
+    "section": "31 U.S.C. 3302",
+    "sectionAndSubSection": "31 U.S.C. 3302",
+    "isShortCite": false
+  },
+  {
+    "text": "42 U.S.C. 7101",
+    "normCite": "42 usc 7101",
+    "citeType": "USC",
+    "section": "42 U.S.C. 7101",
+    "sectionAndSubSection": "42 U.S.C. 7101",
+    "isShortCite": false
+  },
+  {
+    "text": "5 U.S.C. 3109",
+    "normCite": "5 usc 3109",
+    "citeType": "USC",
+    "section": "5 U.S.C. 3109",
+    "sectionAndSubSection": "5 U.S.C. 3109",
+    "isShortCite": false
+  },
+  {
+    "text": "50 U.S.C.",
+    "normCite": "50 usc",
+    "citeType": "USC",
+    "section": "50 U.S.C. ",
+    "sectionAndSubSection": "50 U.S.C. ",
+    "isShortCite": false
+  },
+  {
+    "text": "10 CFR Part 830",
+    "normCite": "10 cfr pt 830",
+    "citeType": "CFR",
+    "section": "",
+    "sectionAndSubSection": "",
+    "isShortCite": false
+  },
+  {
+    "text": "42 U.S.C. 6241",
+    "normCite": "42 usc 6241",
+    "citeType": "USC",
+    "section": "42 U.S.C. 6241",
+    "sectionAndSubSection": "42 U.S.C. 6241",
+    "isShortCite": false
+  },
+  {
+    "text": "42 U.S.C. 19231",
+    "normCite": "42 usc 19231",
+    "citeType": "USC",
+    "section": "42 U.S.C. 19231",
+    "sectionAndSubSection": "42 U.S.C. 19231",
+    "isShortCite": false
+  },
+  {
+    "text": "88 Fed. Reg. 6818",
+    "normCite": "88 federal register 6818",
+    "citeType": "FR",
+    "section": "",
+    "sectionAndSubSection": "",
+    "isShortCite": false
+  },
+  {
+    "text": "5 U.S.C. 3109",
+    "normCite": "5 usc 3109",
+    "citeType": "USC",
+    "section": "5 U.S.C. 3109",
+    "sectionAndSubSection": "5 U.S.C. 3109",
+    "isShortCite": false
+  },
+  {
+    "text": "31 U.S.C. 3302",
+    "normCite": "31 usc 3302",
+    "citeType": "USC",
+    "section": "31 U.S.C. 3302",
+    "sectionAndSubSection": "31 U.S.C. 3302",
+    "isShortCite": false
+  },
+  {
+    "text": "32 Stat. 388",
+    "normCite": "32 stat 388",
+    "citeType": "StatutesAtLarge",
+    "section": "",
+    "sectionAndSubSection": "",
+    "isShortCite": false
+  },
+  {
+    "text": "43 U.S.C. 371",
+    "normCite": "43 usc 371",
+    "citeType": "USC",
+    "section": "43 U.S.C. 371",
+    "sectionAndSubSection": "43 U.S.C. 371",
+    "isShortCite": false
+  },
+  {
+    "text": "32 Stat. 388",
+    "normCite": "32 stat 388",
+    "citeType": "StatutesAtLarge",
+    "section": "",
+    "sectionAndSubSection": "",
+    "isShortCite": false
+  },
+  {
+    "text": "43 U.S.C. 371",
+    "normCite": "43 usc 371",
+    "citeType": "USC",
+    "section": "43 U.S.C. 371",
+    "sectionAndSubSection": "43 U.S.C. 371",
+    "isShortCite": false
+  },
+  {
+    "text": "42 U.S.C. 4321",
+    "normCite": "42 usc 4321",
+    "citeType": "USC",
+    "section": "42 U.S.C. 4321",
+    "sectionAndSubSection": "42 U.S.C. 4321",
+    "isShortCite": false
+  },
+  {
+    "text": "42 U.S.C. 4321",
+    "normCite": "42 usc 4321",
+    "citeType": "USC",
+    "section": "42 U.S.C. 4321",
+    "sectionAndSubSection": "42 U.S.C. 4321",
+    "isShortCite": false
+  },
+  {
+    "text": "18 U.S.C. 1913",
+    "normCite": "18 usc 1913",
+    "citeType": "USC",
+    "section": "18 U.S.C. 1913",
+    "sectionAndSubSection": "18 U.S.C. 1913",
+    "isShortCite": false
+  },
+  {
+    "text": "86 Fed. Reg. 7009",
+    "normCite": "86 federal register 7009",
+    "citeType": "FR",
+    "section": "",
+    "sectionAndSubSection": "",
+    "isShortCite": false
+  },
+  {
+    "text": "86 Fed. Reg. 34593",
+    "normCite": "86 federal register 34593",
+    "citeType": "FR",
+    "section": "",
+    "sectionAndSubSection": "",
+    "isShortCite": false
+  },
+  {
+    "text": "88 Fed. Reg. 10825",
+    "normCite": "88 federal register 10825",
+    "citeType": "FR",
+    "section": "",
+    "sectionAndSubSection": "",
+    "isShortCite": false
+  },
+  {
+    "text": "Internal Revenue Code",
+    "normCite": "26 usc",
+    "citeType": "USC",
+    "section": "",
+    "sectionAndSubSection": "",
+    "isShortCite": false
+  },
+  {
+    "text": "19 U.S.C.",
+    "normCite": "19 usc",
+    "citeType": "USC",
+    "section": "19 U.S.C. ",
+    "sectionAndSubSection": "19 U.S.C. ",
+    "isShortCite": false
+  },
+  {
+    "text": "19 U.S.C.",
+    "normCite": "19 usc",
+    "citeType": "USC",
+    "section": "19 U.S.C. ",
+    "sectionAndSubSection": "19 U.S.C. ",
+    "isShortCite": false
+  },
+  {
+    "text": "19 U.S.C.",
+    "normCite": "19 usc",
+    "citeType": "USC",
+    "section": "19 U.S.C. ",
+    "sectionAndSubSection": "19 U.S.C. ",
+    "isShortCite": false
+  },
+  {
+    "text": "88 Fed. Reg. 32728",
+    "normCite": "88 federal register 32728",
+    "citeType": "FR",
+    "section": "",
+    "sectionAndSubSection": "",
+    "isShortCite": false
+  },
+  {
+    "text": "42 U.S.C. 4321",
+    "normCite": "42 usc 4321",
+    "citeType": "USC",
+    "section": "42 U.S.C. 4321",
+    "sectionAndSubSection": "42 U.S.C. 4321",
+    "isShortCite": false
+  }
+]
