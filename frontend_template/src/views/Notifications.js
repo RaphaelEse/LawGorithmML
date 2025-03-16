@@ -35,7 +35,7 @@ function Homepage() {
                 <i className="nc-icon nc-app" style={{ fontSize: "3rem" }}></i>
                 <Card.Title>Project Overview</Card.Title>
                 <Card.Text>
-                  LawGorithm conducts a comparative analysis between a fine-tuned, custom machine learning model and various currently available machine learning models to classify the context of citations.
+                  LawGorithm has conducted a comparative analysis between a fine-tuned, custom machine learning model and various inudstry-standard machine learning models to classify the context of citations within legal documentation.
                 </Card.Text>
               </Card.Body>
             </Card>
@@ -63,11 +63,11 @@ function Homepage() {
             <Card className="text-center">
               <Card.Body>
                 <i className="nc-icon nc-chart-bar-32" style={{ fontSize: "3rem" }}></i>
-                <Card.Title>Abstract & Results</Card.Title>
+                <Card.Title>Additional Information</Card.Title>
                 <Card.Text>
-                  Our study found that [general results].
+                  Here is where additional information could be shown about our project
                 </Card.Text>
-                <Button variant="warning">View Findings</Button>  {/* link to visulization tap */}
+                {/* <Button variant="warning">View Findings</Button>  link to visulization tap */}
               </Card.Body>
             </Card>
           </Col>
