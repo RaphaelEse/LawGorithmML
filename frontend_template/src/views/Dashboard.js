@@ -20,7 +20,7 @@ function Dashboard() {
   return (
     <>
       <Container fluid>
-        <Row>
+        {/* <Row>
           <Col lg="3" sm="6">
             <Card className="card-stats">
               <Card.Body>
@@ -125,13 +125,13 @@ function Dashboard() {
               </Card.Footer>
             </Card>
           </Col>
-        </Row>
+        </Row> */}
         <Row>
-          <Col md="8">
+          <Col md="6">
             <Card>
               <Card.Header>
-                <Card.Title as="h4">Users Behavior</Card.Title>
-                <p className="card-category">24 Hours performance</p>
+                <Card.Title as="h4">Citation Context Type Over Time</Card.Title>
+                <p className="card-category">March 2020 - November 2024</p>
               </Card.Header>
               <Card.Body>
                 <div className="ct-chart" id="chartHours">
@@ -188,19 +188,103 @@ function Dashboard() {
               <Card.Footer>
                 <div className="legend">
                   <i className="fas fa-circle text-info"></i>
-                  Open <i className="fas fa-circle text-danger"></i>
-                  Click <i className="fas fa-circle text-warning"></i>
-                  Click Second Time
+                  Legal Basis/Precedent <i className="fas fa-circle text-danger"></i>
+                  Authority <i className="fas fa-circle text-warning"></i>
+                  Ammending
                 </div>
                 <hr></hr>
                 <div className="stats">
-                  <i className="fas fa-history"></i>
-                  Updated 3 minutes ago
+                  {/* <i className="fas fa-history"></i> */}
+                  As provided by Bloomberg
                 </div>
               </Card.Footer>
             </Card>
           </Col>
-          <Col md="4">
+          <Col md="6">
+            <Card>
+              <Card.Header>
+                <Card.Title as="h4">NLP Model Citation Context Type Identifications</Card.Title>
+                <p className="card-category">Based on Defined Citation Context Taxonomy</p>
+              </Card.Header>
+              <Card.Body>
+                <div className="ct-chart" id="chartActivity">
+                  <ChartistGraph
+                    data={{
+                      labels: [
+                        "Legal Basis/Precedent",
+                        "Authority",
+                        "Definition",
+                        "Supporting/    Example",
+                        "Exception/     Limitation",
+                        "Rescending",
+                        "Adjusting",
+                      ],
+                      series: [
+                        [
+                          542,
+                          443,
+                          320,
+                          780,
+                          553,
+                          453,
+                          326,
+                        ],
+                        // [
+                        //   412,
+                        //   243,
+                        //   280,
+                        //   580,
+                        //   453,
+                        //   353,
+                        //   300,
+                        //   364,
+                        //   368,
+                        //   410,
+                        //   636,
+                        //   695,
+                        // ],
+                      ],
+                    }}
+                    type="Bar"
+                    options={{
+                      seriesBarDistance: 10,
+                      axisX: {
+                        showGrid: false,
+                      },
+                      height: "245px",
+                    }}
+                    responsiveOptions={[
+                      [
+                        "screen and (max-width: 640px)",
+                        {
+                          seriesBarDistance: 5,
+                          axisX: {
+                            labelInterpolationFnc: function (value) {
+                              return value[0];
+                            },
+                          },
+                        },
+                      ],
+                    ]}
+                  />
+                </div>
+              </Card.Body>
+              <Card.Footer>
+                <div className="legend">
+                  <i className="fas fa-circle text-info"></i>
+                  Citation Context Type Number
+                  {/* <i className="fas fa-circle text-danger"></i>
+                  BMW 5 Series */}
+                </div>
+                <hr></hr>
+                <div className="stats">
+                  <i className="fas fa-check"></i>
+                  Data information certified
+                </div>
+              </Card.Footer>
+            </Card>
+          </Col>
+          {/* <Col md="4">
             <Card>
               <Card.Header>
                 <Card.Title as="h4">Email Statistics</Card.Title>
@@ -232,102 +316,10 @@ function Dashboard() {
                 </div>
               </Card.Body>
             </Card>
-          </Col>
+          </Col> */}
         </Row>
-        <Row>
-          <Col md="6">
-            <Card>
-              <Card.Header>
-                <Card.Title as="h4">2017 Sales</Card.Title>
-                <p className="card-category">All products including Taxes</p>
-              </Card.Header>
-              <Card.Body>
-                <div className="ct-chart" id="chartActivity">
-                  <ChartistGraph
-                    data={{
-                      labels: [
-                        "Jan",
-                        "Feb",
-                        "Mar",
-                        "Apr",
-                        "Mai",
-                        "Jun",
-                        "Jul",
-                        "Aug",
-                        "Sep",
-                        "Oct",
-                        "Nov",
-                        "Dec",
-                      ],
-                      series: [
-                        [
-                          542,
-                          443,
-                          320,
-                          780,
-                          553,
-                          453,
-                          326,
-                          434,
-                          568,
-                          610,
-                          756,
-                          895,
-                        ],
-                        [
-                          412,
-                          243,
-                          280,
-                          580,
-                          453,
-                          353,
-                          300,
-                          364,
-                          368,
-                          410,
-                          636,
-                          695,
-                        ],
-                      ],
-                    }}
-                    type="Bar"
-                    options={{
-                      seriesBarDistance: 10,
-                      axisX: {
-                        showGrid: false,
-                      },
-                      height: "245px",
-                    }}
-                    responsiveOptions={[
-                      [
-                        "screen and (max-width: 640px)",
-                        {
-                          seriesBarDistance: 5,
-                          axisX: {
-                            labelInterpolationFnc: function (value) {
-                              return value[0];
-                            },
-                          },
-                        },
-                      ],
-                    ]}
-                  />
-                </div>
-              </Card.Body>
-              <Card.Footer>
-                <div className="legend">
-                  <i className="fas fa-circle text-info"></i>
-                  Tesla Model S <i className="fas fa-circle text-danger"></i>
-                  BMW 5 Series
-                </div>
-                <hr></hr>
-                <div className="stats">
-                  <i className="fas fa-check"></i>
-                  Data information certified
-                </div>
-              </Card.Footer>
-            </Card>
-          </Col>
+        {/* <Row>
+         
           <Col md="6">
             <Card className="card-tasks">
               <Card.Header>
@@ -631,7 +623,7 @@ function Dashboard() {
               </Card.Footer>
             </Card>
           </Col>
-        </Row>
+        </Row> */}
       </Container>
     </>
   );
