@@ -1,0 +1,20 @@
+[
+  {
+    "text": "chapter 8 of title 5",
+    "normCite": "unknown",
+    "citeType": "unknown",
+    "section": "",
+    "sectionAndSubSection": "",
+    "isShortCite": false,
+    "chunk_id": 0
+  },
+  {
+    "text": "88 Fed. Reg. 10619",
+    "normCite": "88 federal register 10619",
+    "citeType": "FR",
+    "section": "",
+    "sectionAndSubSection": "",
+    "isShortCite": false,
+    "chunk_id": 0
+  }
+]
