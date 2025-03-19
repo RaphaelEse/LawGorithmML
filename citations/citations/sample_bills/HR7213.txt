@@ -1,0 +1,922 @@
+
+<!DOCTYPE publaw
+  SYSTEM "cq-dscs-exchange-publaw.dtd">
+<publaw bill-num="hr7213"
+         congress="118"
+         corrected-print="no"
+         document-type="enr"
+         pl-num="118-180"
+         public-private="public"
+         session="2"
+         stat-page="2614"
+         stat-vol="138"
+         version-date="20241223">
+   
+      Public Law 118-180
+      138 STAT. 2614
+      118th Congress
+      December 23, 2024
+      [H. R. 7213]
+      AN ACT
+      To amend the Public Health Service Act to enhance and reauthorize activities and programs relating to autism spectrum disorder, and for other purposes.
+   
+   
+      Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+      <section display-inline="no-display-inline"
+                id="H77F8C695AA60449DAF87B0DD29D50CC9"
+                qb-display-quote="yes"
+                section-type="section-one">
+         1.
+         SHORT TITLE
+          This Act may be cited as the <quote quote-display-end="auto"
+                    quote-display-start="auto"
+                    quote-type="text">
+               Autism Collaboration, Accountability, Research, Education, and Support Act of 2024
+             or the <quote quote-display-end="auto"
+                    quote-display-start="auto"
+                    quote-type="text">
+               Autism CARES Act of 2024
+            .
+      
+      <section display-inline="no-display-inline"
+                id="HACA3A8D58D1540C0800168A1CB732444"
+                qb-display-quote="yes"
+                section-type="subsequent-section">
+         2.
+         NATIONAL INSTITUTES OF HEALTH ACTIVITIES
+         <subsection display-inline="no-display-inline"
+                      id="H6481814FA54D4E49A907DF80E9C5E690"
+                      qb-display-quote="yes">
+            (a)
+            Expansion of activities
+            Section 409C(a)(1) of the Public Health Service Act (42 U.S.C. 284g(a)(1)) is amended—
+            <paragraph display-inline="no-display-inline"
+                        id="HD187FDD15DDD469D99A37012EFEFEA83"
+                        qb-display-quote="yes">
+               (1)
+               by striking <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">) shall, subject to the availability and inserting the following: 
+               <quoted-block display-end-quotes="yes"
+                              display-inline="no-display-inline"
+                              display-quotes="yes"
+                              id="H35762BB763D744AABC7F0787E9D55EA7"
+                              style="OLC">
+                  ), in consultation with relevant Federal departments and agencies, as appropriate, shall—
+                  <subparagraph display-inline="no-display-inline"
+                                 id="H806B3E8A94014CBDAF7398737B343082"
+                                 qb-display-quote="yes">
+                     (A)
+                     subject to the availability 
+                  
+                  ;
+               
+            
+            <paragraph display-inline="no-display-inline"
+                        id="HAC0C9D57B17041808A3EEF4C596601BB"
+                        qb-display-quote="yes">
+               (2)
+               by striking <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">basic and clinical research in fields including pathology and inserting the following: 
+               <quoted-block display-end-quotes="yes"
+                              display-inline="no-display-inline"
+                              display-quotes="yes"
+                              id="HAF809EDC4CB8433BA98B4D31B8BA8C79"
+                              style="OLC">
+                  basic and clinical research—
+                  <clause display-inline="no-display-inline"
+                           id="HE0BEF0C90FD84381B55A75F792C192D1"
+                           qb-display-quote="yes">
+                     (i)
+                     in fields, such as pathology
+                  
+                  ;
+               
+            
+            <paragraph display-inline="no-display-inline"
+                        id="H0D8395C04CCD48759B422C29E9296AB1"
+                        qb-display-quote="yes">
+               (3)
+               by striking <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">toxicology, and interventions and inserting the following: 
+               <quoted-block display-end-quotes="yes"
+                              display-inline="no-display-inline"
+                              display-quotes="yes"
+                              id="HBB1305A9F7A640DCA108448421D5126F"
+                              style="OLC">
+                  toxicology, psychiatry, psychology, developmental behavioral pediatrics, audiology, and gerontology; and 
+                  <clause display-inline="no-display-inline"
+                           id="HA2F91E1A91C5476C8239A9331536374F"
+                           qb-display-quote="yes">
+                     (ii)
+                     on interventions
+                  
+                  ; 
+               
+            
+            <paragraph display-inline="no-display-inline"
+                        id="H528D876C28334CF490C5B5A68739C58F"
+                        qb-display-quote="yes">
+               (4)
+               by striking <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">disorder. Such research shall investigate and inserting the following: 
+               <quoted-block display-end-quotes="yes"
+                              display-inline="no-display-inline"
+                              display-quotes="yes"
+                              id="H71272DA1B7894F91970213FA9C144442"
+                              style="OLC">
+                  disorder; and
+                  <subparagraph display-inline="no-display-inline"
+                                 id="H0D9E9F047E2141AF92FCB3E772BA16A9"
+                                 qb-display-quote="yes">
+                     (B)
+                     ensure that research referred to in subparagraph (A)—
+                     <clause display-inline="no-display-inline"
+                              id="H57FC3E6E44334677A100F3FFD08F2381"
+                              qb-display-quote="yes">
+                        (i)
+                        investigates
+                     
+                  
+                  ;
+               
+            
+            <paragraph display-inline="no-display-inline"
+                        id="H54F3E5D380B1495DB0697CAC73BDA9E9"
+                        qb-display-quote="yes">
+               (5)
+               by striking <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">prevention, services across the lifespan, supports, intervention, and treatment of autism spectrum disorder and inserting <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">prevention, services and supports across the lifespan, intervention, and treatment of autism spectrum disorder and co-occurring conditions; and
+            
+            <paragraph display-inline="no-display-inline"
+                        id="H5A2A1C1284D141A9B32FFA713818FA62"
+                        qb-display-quote="yes">
+               (6)
+               by striking <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">treatments. and inserting the following:
+               <quoted-block display-end-quotes="yes"
+                              display-inline="no-display-inline"
+                              display-quotes="yes"
+                              id="HF05E743F4BDB4E358B12B59C1F8521D8"
+                              style="OLC">
+                  treatments; 
+                  <clause display-inline="no-display-inline"
+                           id="H020E6A80118640E58F7FC8418260F4CE"
+                           qb-display-quote="yes">
+                     (ii)
+                     examines supports for caregivers; and
+                  
+                  <clause display-inline="no-display-inline"
+                           id="HCAB30DF1A85B4C58A909F95017DAD680"
+                           qb-display-quote="yes">
+                     (iii)
+                     reflects the entire population of individuals with autism spectrum disorder, including those individuals with co-occurring conditions and the full range of needs for supports and services, including such supports and services to ensure the safety, and promote the well-being, of such individuals.
+                  
+                  .
+               
+            
+         
+         <subsection display-inline="no-display-inline"
+                      id="HAA6B95658DCD4FD1AE56906E75B4E3C7"
+                      qb-display-quote="yes">
+            (b)
+            Centers of excellence
+            Section 409C(b) of the Public Health Service Act (42 U.S.C. 284g(b)) is amended—
+            <paragraph display-inline="no-display-inline"
+                        id="H1AA663B95C584B6482444AD91B44D2FD"
+                        qb-display-quote="yes">
+               (1)
+               in paragraph (2)—
+               <subparagraph display-inline="no-display-inline"
+                              id="HF0012B22AFE64A60800E5A068E7CBB9C"
+                              qb-display-quote="yes">
+                  (A)
+                  by striking <quote quote-display-end="auto"
+                             quote-display-start="auto"
+                             quote-type="text">including the fields of and inserting <quote quote-display-end="auto"
+                             quote-display-start="auto"
+                             quote-type="text">in fields such as; and
+               
+               <subparagraph display-inline="no-display-inline"
+                              id="H5701CE950EB54330A028E8ADA233B908"
+                              qb-display-quote="yes">
+                  (B)
+                  by striking <quote quote-display-end="auto"
+                             quote-display-start="auto"
+                             quote-type="text">behavioral psychology, and clinical psychology and inserting <quote quote-display-end="auto"
+                             quote-display-start="auto"
+                             quote-type="text">behavioral psychology, clinical psychology, and gerontology;
+               
+            
+            <paragraph display-inline="no-display-inline"
+                        id="HFA0A4229C35F4A3E9A9940BE2DFC1D46"
+                        qb-display-quote="yes">
+               (2)
+               in paragraph (5)(A), by striking <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">five and inserting <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">seven; and
+            
+            <paragraph display-inline="no-display-inline"
+                        id="HFEF34701C76A4635834F0B9D6E1E65E9"
+                        qb-display-quote="yes">
+               (3)
+               in paragraph (5)(B), by striking <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">period of not to exceed and inserting <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">period not to exceed.
+            
+         
+         <subsection display-inline="no-display-inline"
+                      id="H556883F84B074259B55DF6EC80EC2500"
+                      qb-display-quote="yes">
+            (c)
+            Public input
+            Section 409C(d) of the Public Health Service Act (42 U.S.C. 284g(d)) is amended to read as follows: 
+            <quoted-block display-end-quotes="yes"
+                           display-inline="no-display-inline"
+                           display-quotes="yes"
+                           id="H781F1E6F06B84255B33181AAE4611432"
+                           style="OLC">
+               <section display-inline="no-display-inline"
+                         id="d1e229"
+                         qb-display-quote="yes"
+                         section-type="subsequent-section">
+                  <subsection display-inline="no-display-inline"
+                               id="H3322CAFB81B34CB7836139512DC406ED"
+                               qb-display-quote="yes">
+                     (d)
+                     Public input
+                     <paragraph display-inline="no-display-inline"
+                                 id="H4070A4A755764D12921D022964E94A16"
+                                 qb-display-quote="yes">
+                        (1)
+                        In general
+                        The Director shall under subsection (a)(1) provide for means through which the public can obtain information on the existing and planned programs and activities of the National Institutes of Health with respect to autism spectrum disorder and through which the Director can receive comments from the public regarding such programs and activities.
+                     
+                     <paragraph display-inline="no-display-inline"
+                                 id="H00DEA67DFF1841379100983455B60F4B"
+                                 qb-display-quote="yes">
+                        (2)
+                        Guidance
+                        The Director may provide guidance to centers under subsection (b)(1) on strategies, activities, and opportunities to promote engagement with, and solicit input from, individuals with autism spectrum disorder and their family members, guardians, advocates or authorized representatives, providers, or other appropriate individuals to inform the activities of the center. Such strategies, activities, and opportunities should consider including, as appropriate, individuals, family members, and caregivers of individuals with autism spectrum disorder who represent the entire population of individuals with autism spectrum disorder, including those individuals with co-occurring conditions and the full range of needs for supports and services, including such supports and services to ensure the safety, and promote the well-being, of such individuals, to inform the activities of the center.
+                     
+                  
+               
+               .
+            
+         
+         <subsection display-inline="no-display-inline"
+                      id="HDC9371F6332543EFB94C6C99C0BB5A1B"
+                      qb-display-quote="yes">
+            (d)
+            Budget estimate
+            Section 409C of the Public Health Service Act (42 U.S.C. 284g) is amended by adding at the end the following: 
+            <quoted-block display-end-quotes="yes"
+                           display-inline="no-display-inline"
+                           display-quotes="yes"
+                           id="HD90851517BD047B5BA71401C71AA49E6"
+                           style="OLC">
+               <section display-inline="no-display-inline"
+                         id="d1e257"
+                         qb-display-quote="yes"
+                         section-type="subsequent-section">
+                  <subsection display-inline="no-display-inline"
+                               id="HE3F89B2FE36243F6983F02F5B97E92A9"
+                               qb-display-quote="yes">
+                     (e)
+                     Budget estimate
+                     For each of fiscal years 2026 through 2029, the Director shall prepare and submit, directly to the President for review and transmittal to Congress, an annual budget estimate for the initiatives of the National Institutes of Health pursuant to the strategic plan developed under section 399CC(b)(5) and updated under section 399CC(b)(6)(B), after reasonable opportunity for comment (but without change) by the Secretary and the Interagency Autism Coordinating Committee established under section 399CC.
+                  
+               
+               .
+            
+         
+      
+      <section display-inline="no-display-inline"
+                id="HF869FBEBE7A14A758E97373AC4FA3CC6"
+                qb-display-quote="yes"
+                section-type="subsequent-section">
+         3.
+         PROGRAMS RELATING TO AUTISM
+         <subsection display-inline="no-display-inline"
+                      id="H288F2F87D27F4582B797AF1A6E042BD8"
+                      qb-display-quote="yes">
+            (a)
+            Developmental disabilities surveillance and research program
+            Section 399AA of the Public Health Service Act (42 U.S.C. 280i) is amended—
+            <paragraph display-inline="no-display-inline"
+                        id="HEFFB03E225B647D19D01D6606383683E"
+                        qb-display-quote="yes">
+               (1)
+               in subsection (a)(3), by striking <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">an Indian tribe, or a tribal organization and inserting <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">an Indian Tribe, or a Tribal organization; 
+            
+            <paragraph display-inline="no-display-inline"
+                        id="H3E69BFA76C3F47FC864A25A947F2CC76"
+                        qb-display-quote="yes">
+               (2)
+               in subsection (b)(1), by inserting <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">across the lifespan before the period at the end;
+            
+            <paragraph display-inline="no-display-inline"
+                        id="H030B090476554EAEA86AA5823CB7C613"
+                        qb-display-quote="yes">
+               (3)
+               in subsection (d)(1)—
+               <subparagraph display-inline="no-display-inline"
+                              id="HCE7B6BB068C1449BB0B1B2E72554D543"
+                              qb-display-quote="yes">
+                  (A)
+                  in the paragraph heading, by striking <quote quote-display-end="auto"
+                             quote-display-start="auto"
+                             quote-type="text">
+                        tribe; tribal
+                      and inserting <quote quote-display-end="auto"
+                             quote-display-start="auto"
+                             quote-type="text">
+                        Tribe; Tribal
+                     ; 
+               
+               <subparagraph display-inline="no-display-inline"
+                              id="H863D7B18DD2A423996F5781C2C4B276F"
+                              qb-display-quote="yes">
+                  (B)
+                  by striking <quote quote-display-end="auto"
+                             quote-display-start="auto"
+                             quote-type="text">tribe and inserting <quote quote-display-end="auto"
+                             quote-display-start="auto"
+                             quote-type="text">Tribe; and
+               
+               <subparagraph display-inline="no-display-inline"
+                              id="H99388D3F2ABF43EB9C95172117A7F57F"
+                              qb-display-quote="yes">
+                  (C)
+                  by striking <quote quote-display-end="auto"
+                             quote-display-start="auto"
+                             quote-type="text">tribal and inserting <quote quote-display-end="auto"
+                             quote-display-start="auto"
+                             quote-type="text">Tribal; and 
+               
+            
+            <paragraph display-inline="no-display-inline"
+                        id="H52825123C89F4AECA2D57F2D540A2D4E"
+                        qb-display-quote="yes">
+               (4)
+               in subsection (e), by striking <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">December 20, 2024 and inserting <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">September 30, 2029.
+            
+         
+         <subsection display-inline="no-display-inline"
+                      id="H262B998F74D448608CD6BA959369484B"
+                      qb-display-quote="yes">
+            (b)
+            Autism education, early detection, and intervention
+            Section 399BB of the Public Health Service Act (42 U.S.C. 280i–1) is amended—
+            <paragraph display-inline="no-display-inline"
+                        id="HF9E5D30AB1B94F7D82F508E3CFECB67F"
+                        qb-display-quote="yes">
+               (1)
+               in subsection (b)(1), by striking <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">culturally competent information and inserting <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">culturally and linguistically appropriate information;
+            
+            <paragraph display-inline="no-display-inline"
+                        id="H6360E35817494B2CA52D16486C189BB4"
+                        qb-display-quote="yes">
+               (2)
+               in subsection (b)(2)—
+               <subparagraph display-inline="no-display-inline"
+                              id="H1EA34E04AE644B43BA6B70C52A8C1F23"
+                              qb-display-quote="yes">
+                  (A)
+                  by striking <quote quote-display-end="auto"
+                             quote-display-start="auto"
+                             quote-type="text">promote research and inserting <quote quote-display-end="auto"
+                             quote-display-start="auto"
+                             quote-type="text">promote research, which may include research that takes a community-based approach,; and
+               
+               <subparagraph display-inline="no-display-inline"
+                              id="H9859ED2F1B0440468D72EBBABAA6B568"
+                              qb-display-quote="yes">
+                  (B)
+                  by striking <quote quote-display-end="auto"
+                             quote-display-start="auto"
+                             quote-type="text">screening tools each place it appears and inserting <quote quote-display-end="auto"
+                             quote-display-start="auto"
+                             quote-type="text">screening and diagnostic tools;
+               
+            
+            <paragraph display-inline="no-display-inline"
+                        id="H92F27477A0C84B29A162DF693AD0EA41"
+                        qb-display-quote="yes">
+               (3)
+               in subsection (b)(3), by striking <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">at higher risk and inserting <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">at increased likelihood; 
+            
+            <paragraph display-inline="no-display-inline"
+                        id="H4A9C4FB53A5A4632976322EFBD5EC7DE"
+                        qb-display-quote="yes">
+               (4)
+               in subsection (b)(4), by inserting <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">, which may give consideration to the perspectives of parents and guardians before the semicolon at the end;
+            
+            <paragraph display-inline="no-display-inline"
+                        id="H251D8BE3B7054101971C2A49135AF6DD"
+                        qb-display-quote="yes">
+               (5)
+               in subsection (b)(7), by striking <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">at higher risk and inserting <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">at increased likelihood;
+            
+            <paragraph display-inline="no-display-inline"
+                        id="H3DEFBF34968640C5AC699AB27A37DDC7"
+                        qb-display-quote="yes">
+               (6)
+               in subsection (c)(1), by striking <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">culturally competent information and inserting <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">culturally and linguistically appropriate information;
+            
+            <paragraph display-inline="no-display-inline"
+                        id="HBA02FE870624454F8BFEBF853F874A80"
+                        qb-display-quote="yes">
+               (7)
+               in subsection (c)(2)(A)(ii), by striking <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">culturally competent information and inserting <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">culturally and linguistically appropriate information;
+            
+            <paragraph display-inline="no-display-inline"
+                        id="HF1AB0200FBEA4F649651D037B945B845"
+                        qb-display-quote="yes">
+               (8)
+               by amending paragraph (1) of subsection (e) to read as follows:
+            
+            <paragraph display-inline="no-display-inline"
+                        id="H99DFFF38EE8D44C5971CE5F930B80879"
+                        qb-display-quote="yes">
+               (9)
+               in subsection (e)(1)—
+               <subparagraph display-inline="no-display-inline"
+                              id="H7BD692B8FF3B4F28B4F2447DE210113C"
+                              qb-display-quote="yes">
+                  (A)
+                  in the matter preceding subparagraph (A), by inserting <quote quote-display-end="auto"
+                             quote-display-start="auto"
+                             quote-type="text">, and strengthen the capacity of,  after <quote quote-display-end="auto"
+                             quote-display-start="auto"
+                             quote-type="text">expand; and
+               
+               <subparagraph display-inline="no-display-inline"
+                              id="HDAF3D36F017F485C9A089FA668070663"
+                              qb-display-quote="yes">
+                  (B)
+                  in subparagraph (A)—
+                  <clause display-inline="no-display-inline"
+                           id="HDA6C18A7736447E1B2432042669F3265"
+                           qb-display-quote="yes">
+                     (i)
+                     by striking <quote quote-display-end="auto"
+                                quote-display-start="auto"
+                                quote-type="text">expand existing or develop new and inserting <quote quote-display-end="auto"
+                                quote-display-start="auto"
+                                quote-type="text">expand and strengthen the capacity of existing, or, in States that do not have such a program, develop new,; and
+                  
+                  <clause display-inline="no-display-inline"
+                           id="HF5D2350020CF42538F5492AA6388CF34"
+                           qb-display-quote="yes">
+                     (ii)
+                     by striking <quote quote-display-end="auto"
+                                quote-display-start="auto"
+                                quote-type="text">Act) in States that do not have such a program and inserting <quote quote-display-end="auto"
+                                quote-display-start="auto"
+                                quote-type="text">Act);
+                  
+               
+               <subparagraph display-inline="no-display-inline"
+                              id="HD69151E9FA3442CD999E3EF016EC4F7F"
+                              qb-display-quote="yes">
+                  (C)
+                  in subparagraph (B)(v), by inserting <quote quote-display-end="auto"
+                             quote-display-start="auto"
+                             quote-type="text">or other providers, as applicable before the semicolon at the end; and
+               
+               <subparagraph display-inline="no-display-inline"
+                              id="HC670257766C1494686C340D408AB64B2"
+                              qb-display-quote="yes">
+                  (D)
+                  by amending subparagraph (C) to read as follows: 
+                  <quoted-block display-end-quotes="yes"
+                                 display-inline="no-display-inline"
+                                 display-quotes="yes"
+                                 id="HACCEFF38176C4F0FAEF41495E314FEBC"
+                                 style="OLC">
+                     <subparagraph display-inline="no-display-inline"
+                                    id="H6D18C8CF89114915B48EB8E7B4473A79"
+                                    qb-display-quote="yes">
+                        (C)
+                        program sites—
+                        <clause display-inline="no-display-inline"
+                                 id="HBBE7DE8A659749CC9D9FBE21D460EDE6"
+                                 qb-display-quote="yes">
+                           (i)
+                           provide culturally and linguistically appropriate services;
+                        
+                        <clause display-inline="no-display-inline"
+                                 id="H4AB5B62CA13548A5B3ECAAA781BB0BCE"
+                                 qb-display-quote="yes">
+                           (ii)
+                           take a multidisciplinary approach and have experience working with underserved populations; and
+                        
+                        <clause display-inline="no-display-inline"
+                                 id="HBD9949EF6D83425F8A7FF3ABA9556294"
+                                 qb-display-quote="yes">
+                           (iii)
+                           identify opportunities to partner with community-based organizations to expand the capacity of communities to serve individuals with autism spectrum disorder or other developmental disabilities.
+                        
+                     
+                     ;
+                  
+               
+            
+            <paragraph display-inline="no-display-inline"
+                        id="HA2AB5A5BFACB41CFB099DC928A4C9A90"
+                        qb-display-quote="yes">
+               (10)
+               in subsection (e)(2), by adding at the end the following new subparagraph:
+               <quoted-block display-end-quotes="yes"
+                              display-inline="no-display-inline"
+                              display-quotes="yes"
+                              id="H166917DBA89F4B95A8B53BD15523B051"
+                              style="OLC">
+                  <subparagraph display-inline="no-display-inline"
+                                 id="H3E4A72432366492E9E75820D8C19D327"
+                                 qb-display-quote="yes">
+                     (C)
+                     Report
+                     Not later than 2 years after the date of the enactment of the Autism CARES Act of 2024, the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report that examines the need for, and feasibility of, expanding the developmental-behavioral pediatrician training programs described in subparagraph (A). 
+                  
+                  ;
+               
+            
+            <paragraph display-inline="no-display-inline"
+                        id="HA9B6F69BFC0045039B55E0E2BC729F12"
+                        qb-display-quote="yes">
+               (11)
+               by amending subsection (f) to read as follows: 
+               <quoted-block display-end-quotes="yes"
+                              display-inline="no-display-inline"
+                              display-quotes="yes"
+                              id="H28A83BC923BA4410A98E6FB274ED666B"
+                              style="OLC">
+                  <section display-inline="no-display-inline"
+                            id="d1e517"
+                            qb-display-quote="yes"
+                            section-type="subsequent-section">
+                     <subsection display-inline="no-display-inline"
+                                  id="H7FCD64BE45EE46C186915F70C1A4FB01"
+                                  qb-display-quote="yes">
+                        (f)
+                        Intervention
+                        The Secretary shall promote research through grants or contracts, which may include grants or contracts to research centers or networks, to—
+                        <paragraph display-inline="no-display-inline"
+                                    id="H15FFAF63EFB74A299CEDEEF5E26B81E7"
+                                    qb-display-quote="yes">
+                           (1)
+                           develop and evaluate evidence-based practices and interventions to improve outcomes for individuals with autism spectrum disorder or other developmental disabilities by addressing physical and behavioral health and communication needs of such individuals across the lifespan; 
+                        
+                        <paragraph display-inline="no-display-inline"
+                                    id="H89FAB9C0ADF449E6BFC984499F7619EB"
+                                    qb-display-quote="yes">
+                           (2)
+                           develop guidelines for such evidence-based practices and interventions; and 
+                        
+                        <paragraph display-inline="no-display-inline"
+                                    id="H6DE19E79A4F34ABE9142DCB54BD4598F"
+                                    qb-display-quote="yes">
+                           (3)
+                           disseminate information related to such evidence-based practices and interventions and guidelines.
+                        
+                     
+                  
+                  ; and
+               
+            
+            <paragraph display-inline="no-display-inline"
+                        id="HB10151009213498E98364CF7263F52A1"
+                        qb-display-quote="yes">
+               (12)
+               in subsection (g), by striking <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">December 20, 2024 and inserting <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">September 30, 2029.
+            
+         
+         <subsection display-inline="no-display-inline"
+                      id="H322F78D4C0214BBDBDB48368E706E09A"
+                      qb-display-quote="yes">
+            (c)
+            Interagency Autism Coordinating Committee
+            Section 399CC of the Public Health Service Act (42 U.S.C. 280i–2) is amended—
+            <paragraph display-inline="no-display-inline"
+                        id="H414CABAFE9984D4EBF31E293CE096375"
+                        qb-display-quote="yes">
+               (1)
+               in subsection (b)—
+               <subparagraph display-inline="no-display-inline"
+                              id="HB9DFC52CAFF4412BAB97954694CC778F"
+                              qb-display-quote="yes">
+                  (A)
+                  in the matter preceding paragraph (1), by inserting <quote quote-display-end="auto"
+                             quote-display-start="auto"
+                             quote-type="text">, on a regular basis after <quote quote-display-end="auto"
+                             quote-display-start="auto"
+                             quote-type="text">shall; 
+               
+               <subparagraph display-inline="no-display-inline"
+                              id="H83C00D73A7D14627A20AAC1271C51E1B"
+                              qb-display-quote="yes">
+                  (B)
+                  in paragraph (2), by striking <quote quote-display-end="auto"
+                             quote-display-start="auto"
+                             quote-type="text">develop a summary and inserting <quote quote-display-end="auto"
+                             quote-display-start="auto"
+                             quote-type="text">summarize; and
+               
+               <subparagraph display-inline="no-display-inline"
+                              id="H8570D2BA5EE0447BA386D80534976850"
+                              qb-display-quote="yes">
+                  (C)
+                  by striking paragraphs (5) and (6) and inserting the following:
+                  <quoted-block display-end-quotes="yes"
+                                 display-inline="no-display-inline"
+                                 display-quotes="yes"
+                                 id="H0BB22092D898474094A9DDA5E54F78F3"
+                                 style="OLC">
+                     <paragraph display-inline="no-display-inline"
+                                 id="H1BCC71B556EB41EE88A7977226011173"
+                                 qb-display-quote="yes">
+                        (5)
+                        develop a strategic plan for the conduct of, and support for, autism spectrum disorder research, as described in section 409C(a)(1), which shall include—
+                        <subparagraph display-inline="no-display-inline"
+                                       id="HA47243B7DA884F528DCA9C6A30D2CD79"
+                                       qb-display-quote="yes">
+                           (A)
+                           proposed budgetary requirements; and
+                        
+                        <subparagraph display-inline="no-display-inline"
+                                       id="H0F5B50125E26494B990B00D15B90E2AB"
+                                       qb-display-quote="yes">
+                           (B)
+                           recommendations to ensure that autism spectrum disorder research, and services and support activities to the extent practicable, of the Department of Health and Human Services and of other Federal departments and agencies are not unnecessarily duplicative; and
+                        
+                     
+                     <paragraph display-inline="no-display-inline"
+                                 id="HCB99F2D1DB11420FAD6432E1DBC75C72"
+                                 qb-display-quote="yes">
+                        (6)
+                        submit to the Congress and the President—
+                        <subparagraph display-inline="no-display-inline"
+                                       id="H9C3DBCBBD2B54AF7A00ACA4585E94ABD"
+                                       qb-display-quote="yes">
+                           (A)
+                           an annual update on the summary of advances described in paragraph (2); and
+                        
+                        <subparagraph display-inline="no-display-inline"
+                                       id="H20E330020F004EAB9AC9897739102810"
+                                       qb-display-quote="yes">
+                           (B)
+                           a biennial update on the strategic plan described in paragraph (5), including progress made in achieving the goals outlined in such strategic plan and any specific measures taken pursuant to such strategic plan.
+                        
+                     
+                     ; and
+                  
+               
+            
+            <paragraph display-inline="no-display-inline"
+                        id="HF430FB2091F74BB19C7B9A3D75B8BDDF"
+                        qb-display-quote="yes">
+               (2)
+               in subsection (f), by striking <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">December 20, 2024 and inserting <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">September 30, 2029. 
+            
+         
+         <subsection display-inline="no-display-inline"
+                      id="HFE0A0437970449A2BF9B712C183E1E40"
+                      qb-display-quote="yes">
+            (d)
+            Reports to Congress
+            Section 399DD of the Public Health Service Act (42 U.S.C. 280i–3) is amended—
+            <paragraph display-inline="no-display-inline"
+                        id="H9B93568EF8194DB093B0E7BB44F260C1"
+                        qb-display-quote="yes">
+               (1)
+               by striking <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">2019 each place it appears and inserting <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">2024; and 
+            
+            <paragraph display-inline="no-display-inline"
+                        id="H0C1DF0721F23444895EE4D941CC36613"
+                        qb-display-quote="yes">
+               (2)
+               in subsection (a), by amending paragraph (1) to read as follows:
+               <quoted-block display-end-quotes="yes"
+                              display-inline="no-display-inline"
+                              display-quotes="yes"
+                              id="HFC7E9E13E830447F9F75F261A8CAA07B"
+                              style="OLC">
+                  <paragraph display-inline="no-display-inline"
+                              id="H0949DE1785804CA0AD680FBEF476B05A"
+                              qb-display-quote="yes">
+                     (1)
+                     In general
+                     Not later than 4 years after September 30, 2024, the Secretary, in consultation with other relevant Federal departments and agencies, shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, and make publicly available, including through posting on the website of the Department of Health and Human Services, a progress report on activities related to autism spectrum disorder and other developmental disabilities. Such report shall include activities and research related to the entire population of individuals with autism spectrum disorder, including those individuals with co-occurring conditions and the full range of needs for supports and services, including such supports and services to ensure the safety, and promote the well-being, of such individuals.
+                  
+                  ; 
+               
+            
+            <paragraph display-inline="no-display-inline"
+                        id="HA5B513032BF7460D93E9ACED354B9BCC"
+                        qb-display-quote="yes">
+               (3)
+               in subsection (b)—
+               <subparagraph display-inline="no-display-inline"
+                              id="H0B92DEC5E4094DE69755DB63FE85C27A"
+                              qb-display-quote="yes">
+                  (A)
+                  in the heading of subsection (b), by striking <quote quote-display-end="auto"
+                             quote-display-start="auto"
+                             quote-type="text">
+                        Health and Well-Being
+                      and inserting <quote quote-display-end="auto"
+                             quote-display-start="auto"
+                             quote-type="text">
+                        Mental Health Needs
+                     ;
+               
+               <subparagraph display-inline="no-display-inline"
+                              id="HF483181CC5964C24B49B86123F41DF78"
+                              qb-display-quote="yes">
+                  (B)
+                  in paragraph (1), by striking <quote quote-display-end="auto"
+                             quote-display-start="auto"
+                             quote-type="text">health and well-being and inserting <quote quote-display-end="auto"
+                             quote-display-start="auto"
+                             quote-type="text">mental health needs; and
+               
+               <subparagraph display-inline="no-display-inline"
+                              id="H65AD4A05B1DA43A1A5DE98989927D655"
+                              qb-display-quote="yes">
+                  (C)
+                  by amending paragraph (2) to read as follows: 
+                  <quoted-block display-end-quotes="yes"
+                                 display-inline="no-display-inline"
+                                 display-quotes="yes"
+                                 id="H7B6D2B1A5DAE4B2CBF63368C8A346CAE"
+                                 style="OLC">
+                     <paragraph display-inline="no-display-inline"
+                                 id="HF9C096CB417148E8AB2EAE6DF2257080"
+                                 qb-display-quote="yes">
+                        (2)
+                        Contents
+                        The report submitted under paragraph (1) shall contain—
+                        <subparagraph display-inline="no-display-inline"
+                                       id="H05CF93A219D64FEEBF9617FAFDD371BB"
+                                       qb-display-quote="yes">
+                           (A)
+                           an overview of policies and programs relevant to the mental health of individuals with autism spectrum disorder across their lifespan, including an identification of existing Federal laws, regulations, policies, research, and programs; and
+                        
+                        <subparagraph display-inline="no-display-inline"
+                                       id="H216D3B5F3E7241CB95AAF3761786F7BF"
+                                       qb-display-quote="yes">
+                           (B)
+                           recommendations to improve mental health outcomes and address related disparities in mental health care for individuals with autism spectrum disorder, including prevention, care coordination, and community-based services.
+                        
+                     
+                     ;
+                  
+               
+            
+            <paragraph display-inline="no-display-inline"
+                        id="H8AE692BC3EC249F6A8BEA18E2A9E6DA5"
+                        qb-display-quote="yes">
+               (4)
+               by adding at the end the following:
+               <quoted-block display-end-quotes="yes"
+                              display-inline="no-display-inline"
+                              display-quotes="yes"
+                              id="H6B78DC9AFEC346E9976CED2099BDB665"
+                              style="OLC">
+                  <section display-inline="no-display-inline"
+                            id="d1e706"
+                            qb-display-quote="yes"
+                            section-type="subsequent-section">
+                     <subsection display-inline="no-display-inline"
+                                  id="H3490924982BC4B41B37DC65F38271651"
+                                  qb-display-quote="yes">
+                        (c)
+                        Update on young adults and youth transitioning to adulthood
+                        Not later than 2 years after the date of enactment of the Autism CARES Act of 2024, the Secretary, in coordination with other relevant Federal departments and agencies, as appropriate, shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate an update to the report required pursuant to subsection (b) of this section, as added by section 6 of the Autism Cares Act of 2014 (Public Law 113–157), and in effect before the date of enactment of the Autism CARES Act of 2019 (Public Law 116–60), concerning young adults with autism spectrum disorder and the challenges related to the transition from existing school-based services to those services available during adulthood.
+                     
+                  
+                  .
+               
+            
+         
+         <subsection display-inline="no-display-inline"
+                      id="H44F8CDDDA8854121B588CDAF30A34172"
+                      qb-display-quote="yes">
+            (e)
+            Authorization of appropriations
+            Section 399EE of the Public Health Service Act (42 U.S.C. 280i–4) is amended—
+            <paragraph display-inline="no-display-inline"
+                        id="H3183D05E82DF4CC28FA9B5B7B713A895"
+                        qb-display-quote="yes">
+               (1)
+               in subsection (a), by striking <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">$23,100,000 for each of fiscal years 2020 through 2024 and inserting <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">$28,100,000 for each of fiscal years 2025 through 2029;
+            
+            <paragraph display-inline="no-display-inline"
+                        id="H96C626485ABC4AF0A03B986E9732E073"
+                        qb-display-quote="yes">
+               (2)
+               in subsection (b), by striking <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">$50,599,000 for each of fiscal years 2020 through 2024 and inserting <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">$56,344,000 for each of fiscal years 2025 through 2029; and
+            
+            <paragraph display-inline="no-display-inline"
+                        id="H51489B113CE74B4EB106521C8CED66BE"
+                        qb-display-quote="yes">
+               (3)
+               in subsection (c), by striking <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">there are authorized to be appropriated $296,000,000 for each of fiscal years 2020 through 2024 and inserting <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">there is authorized to be appropriated $306,000,000 for each of fiscal years 2025 through 2029.
+            
+         
+      
+      <section display-inline="no-display-inline"
+                id="H552D3C4EBCDE4D4FBA57FE0A375FE91F"
+                qb-display-quote="yes"
+                section-type="subsequent-section">
+         4.
+         TECHNICAL ASSISTANCE TO IMPROVE ACCESS TO COMMUNICATION TOOLS
+         <subsection display-inline="no-display-inline"
+                      id="H2CA65C8EAF05472FB55C1FEAA9D90526"
+                      qb-display-quote="yes">
+            (a)
+            In general
+            The Secretary of Health and Human Services (referred to in this section as the <quote quote-display-end="auto"
+                       quote-display-start="auto"
+                       quote-type="text">Secretary) may, at the request of a State, Indian Tribe, Tribal organization, locality, or territory, provide training and technical assistance to such jurisdiction on the manner in which Federal funding administered by the Secretary may be used to provide individuals with autism spectrum disorder and other developmental disabilities with access to evidence-based services, tools, and technologies that support communication needs.
+         
+         <subsection display-inline="no-display-inline"
+                      id="HDC6DC96B75AE425E9B062F2384809AB4"
+                      qb-display-quote="yes">
+            (b)
+            Annual report
+            The Secretary shall annually prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report summarizing any technical assistance provided by the Secretary in the preceding fiscal year under subsection (a) and any advancements in the development or evaluation of such evidence-based services, tools, and technologies. 
+         
+      
+   
+   Approved December 23, 2024.
+

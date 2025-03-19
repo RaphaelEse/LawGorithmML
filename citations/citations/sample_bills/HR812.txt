@@ -1,0 +1,47 @@
+
+<!DOCTYPE bill
+  SYSTEM "blp-dscs-billres.dtd">
+
+   
+      
+         Inflation Reduction Act of 2023
+      
+   
+   
+      I
+      118th CONGRESS
+      1st Session
+      H. R. 812
+      IN THE HOUSE OF REPRESENTATIVES
+      
+         February 2, 2023
+         
+            Mr. Ogles (for himself, Mr. Perry, Mr. Biggs, Mrs. Miller of Illinois, Mr. Jackson of Texas, Mr. Burlison, Mr. Good of Virginia, Mrs. Luna, Mr. Donalds, Mr. Brecheen, Mr. Bishop of North Carolina, Mr. Rosendale, Mr. Self, Mr. Roy, Mr. Crane, Mr. Rouzer, Mr. Tiffany, Mr. Zinke, Ms. Hageman, Mr. Cloud, and Mr. Buck) introduced the following bill; which was referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, Agriculture, Natural Resources, Financial Services, Science, Space, and Technology, Transportation and Infrastructure, and Oversight and Accountability, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned
+      
+      A BILL
+      To repeal the Inflation Reduction Act of 2022.
+   
+   
+      Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+      
+         1.
+         SHORT TITLE
+         This Act may be cited as the 
+               Inflation Reduction Act of 2023
+            . 
+      
+      
+         2.
+         REPEAL OF INFLATION REDUCTION ACT OF 2022
+         
+            (a)
+            In general
+            Public Law 117–169 (commonly referred to as the Inflation Reduction Act of 2022) is repealed.
+         
+         
+            (b)
+            Rescissions
+            The unobligated balances of any amounts made available under Public Law 117–169 are rescinded.
+         
+      
+   

@@ -1,0 +1,275 @@
+
+<!DOCTYPE bill
+  SYSTEM "blp-dscs-billres.dtd">
+
+   
+      
+         No Funds for Iranian Terrorism Act
+      
+   
+   
+      IIB
+      118th CONGRESS
+      1st Session
+      H. R. 5961
+      IN THE SENATE OF THE UNITED STATES
+      
+         December 4, 2023
+         Received; read twice and referred to the Committee on Foreign Relations
+      
+      AN ACT
+      To freeze certain Iranian funds involved in the 2023 hostage deal between the United States and Iran, and for other purposes.
+   
+   
+      Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+      
+         1.
+         SHORT TITLE
+         This Act may be cited as the 
+               No Funds for Iranian Terrorism Act
+            .
+      
+      
+         2.
+         FINDINGS
+         Congress makes the following findings:
+         
+            (1)
+            On October 7, 2023, Iran-backed Hamas terrorists launched a massive, unprovoked war on Israel by air, land, and sea, in which they engaged in the brutal murder of over 1,300 people and kidnapped at least 230 people who are now being held hostage.
+         
+         
+            (2)
+            Hamas, Palestinian Islamic Jihad, and Hezbollah have all been designated by the United States as Foreign Terrorist Organizations pursuant to section 219 of the Immigration and Nationality Act (8 U.S.C. 1189).
+         
+         
+            (3)
+            Hamas, Palestinian Islamic Jihad, and associated terrorist organizations backed by Iran routinely and unabashedly use civilians as “human shields” to shield their weapons and terrorist militants from legitimate military engagement, a contravention of international humanitarian law and a heinous violation of the rights and dignity of civilian noncombatants. 
+         
+         
+            (4)
+            Only the cessation of Hamas’ operations, the unconditional surrender of Hamas, and the immediate dismantlement of Hamas and all other Iran-backed terrorist organizations that participated in the massacre of Israelis on and since October 7, 2023, will ensure that innocent Israeli and Palestinian civilian lives are saved.
+         
+         
+            (5)
+            According to an unclassified United States government assessment, Iran has historically provided up to $100 million annually in combined support to Palestinian terrorist groups, including Hamas, Palestinian Islamic Jihad (PIJ), and the Popular Front for the Liberation of Palestine-General Command..
+         
+         
+            (6)
+            As National Security Advisor Jake Sullivan stated on October 10, 2023, Iran is complicit in this attack in a broad sense because they have provided the lion’s share of the funding for the military wing of Hamas, they have provided training, they have provided capabilities, they have provided support, and they have provided engagement and contact with Hamas over years and years..
+         
+         
+            (7)
+            President Biden reached an agreement with the Iranian regime to bring home Siamak Namazi, Morad Tahbaz, Emad Shargi, and two additional American hostages all of whom were wrongfully detained in Iran.
+         
+      
+      
+         3.
+         IMPOSITION OF SANCTIONS WITH RESPECT TO COVERED IRANIAN ASSETS
+         
+            (a)
+            In general
+            On and after the date of the enactment of this Act, the President shall impose the sanction described in subsection (c) with respect to each foreign financial institution that the President determines engages in an activity described in subsection (b).
+         
+         
+            (b)
+            Activities described
+            A foreign financial institution engages in an activity described in this subsection if the institution processes, participates in, or facilitates a transaction using or involving covered Iranian funds.
+         
+         
+            (c)
+            Blocking of property
+            The sanction described in this subsection is the exercise of all of the powers granted to the President under the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to the extent necessary to block and prohibit all transactions in property and interests in property of a foreign financial institution described in subsection (a) if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
+         
+         
+            (d)
+            Penalties
+            The penalties provided for in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) shall apply to a person that violates, attempts to violate, conspires to violate, or causes a violation of this section or any regulations promulgated to carry out this section to the same extent that such penalties apply to a person that commits an unlawful act described in section 206(a) of that Act.
+         
+         
+            (e)
+            Termination of sanctions
+            The President shall not be required to impose sanctions under this section with respect to a foreign financial institution or international financial institution described in subsection (a) if the President certifies in writing to the appropriate congressional committees not later than 45 days before the termination of such sanctions that the Government of Iran—
+            
+               (1)
+               no longer repeatedly provides support for international terrorism as determined by the Secretary of State pursuant to—
+               
+                  (A)
+                  section 1754(c)(1)(A) of the Export Control Reform Act of 2018 (50 U.S.C. 4318(c)(1)(A));
+               
+               
+                  (B)
+                  section 620A of the Foreign Assistance Act of 1961 (22 U.S.C. 2371);
+               
+               
+                  (C)
+                  section 40 of the Arms Export Control Act (22 U.S.C. 2780); or
+               
+               
+                  (D)
+                  any other provision of law; and
+               
+            
+            
+               (2)
+               has ceased the pursuit, acquisition, and development of, and verifiably dismantled its, nuclear, biological, and chemical weapons and ballistic missiles and ballistic missile launch technology.
+            
+         
+         
+            (f)
+            Exception Relating To Importation Of Goods
+            
+               (1)
+               In general
+               The authorities and requirements to impose sanctions authorized under this Act shall not include the authority or requirement to impose sanctions on the importation of goods.
+            
+            
+               (2)
+               Good defined
+               In this subsection, the term good means any article, natural or man-made substance, material, supply, or manufactured product, including inspection and test equipment, and excluding technical data.
+            
+         
+      
+      
+         4.
+         SENSE OF CONGRESS
+         It is the sense of Congress that the terrorist-funding, human rights-violating Iranian regime should receive no additional funds but that basic humanitarian assistance for the people of Iran is important.
+      
+      
+         5.
+         LIMITATION OF APPLICABILITY OF CERTAIN LICENSES
+         
+            (a)
+            In general
+            Notwithstanding any other provision of law, on and after the date of the enactment of this Act, the President may not—
+            
+               (1)
+               exercise the waiver authority described in section 1245(d)(5) of the National Defense Authorization Act for Fiscal Year 2012 and sections 1244(i) and 1247(f) of the Iran Freedom and Counter-Proliferation Act of 2012 permitting the Government of Iran or any Iranian person access to any account established or maintained pursuant to or in accordance with section 1245(d)(4)(D)(ii)(II) of the National Defense Authorization Act for Fiscal Year 2012; or 
+            
+            
+               (2)
+               issue a general or specific license, frequently asked question, or any other licensing action or guidance permitting the Government of Iran or any Iranian person access to or to benefit directly or indirectly from any account established pursuant to or in accordance with any account described in 1245(d)(4)(D)(ii)(II) of the National Defense Authorization Act for Fiscal Year 2012. 
+            
+         
+         
+            (b)
+            Importation of goods
+            
+               (1)
+               In general
+               The exercise of the authorities and requirements under paragraph (1) or (2) of subsection (a)—
+               
+                  (A)
+                  shall not include the authority or requirement to impose sanctions on the importation of goods; and
+               
+               
+                  (B)
+                  shall not apply to any procurement sanctions.
+               
+            
+            
+               (2)
+               Good defined
+               In this subsection, the term good means any article, natural or manmade substance, material, supply or manufactured product, including inspection and test equipment, and excluding technical data.
+            
+         
+      
+      
+         6.
+         DEFINITIONS
+         In this Act:
+         
+            (1)
+            Appropriate congressional committees
+            The term appropriate congressional committees means—
+            
+               (A)
+               the Committee on Foreign Affairs and the Committee on Financial Services of the House of Representatives; and
+            
+            
+               (B)
+               the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+            
+         
+         
+            (2)
+            Covered Iranian funds
+            The term covered Iranian funds means any funds transferred from accounts in the Republic of Korea to Qatar pursuant to or under the authority or guaranty of a waiver, license, assurance letter, or other guidance issued pursuant to or in furtherance of the waiver determination made pursuant to sections 1244(i) (22 U.S.C. 8803(i)) and 1247(f) of the Iran Freedom and Counter-Proliferation Act of 2012 (22 U.S.C. 8806(f)) and section 1245(d)(5) of the National Defense Authorization Act for Fiscal Year 2012 (22 U.S.C. 8513a(d)(5)) that is the subject of the document entitled Waiver of Sanctions with Respect to the Transfer of Funds from the Republic of Korea to Qatar and was transmitted to Congress in September 2023.
+         
+         
+            (3)
+            Foreign financial institution
+            The term foreign financial institution has the meaning given such term under section 561.308 of title 31, Code of Federal Regulations.
+         
+      
+      
+         7.
+         SENSE OF CONGRESS ON QATAR
+         It is the sense of Congress that the Government of Qatar should publicly condemn Hamas, turn Hamas leadership over the United States or Israeli control, and pledge never to facilitate the transfer of any covered Iranian funds to Iran or any agency or instrumentality of Iran. 
+      
+      
+         8.
+         REPORT ON IRANIAN INTERNET CENSORSHIP
+         
+            (a)
+            In general
+            The Secretary of the Treasury and the Secretary of State shall jointly submit to Congress a report regarding Iranian internet censorship and applicable United States licensing requirements. Such report shall include the following:
+            
+               (1)
+               An assessment of the Iranian Government’s ability to impose internet shutdowns, censor the internet, and track Iranian dissidents, labor organizers, political activists, or human rights defenders inside Iran through targeted digital surveillance or other digital means. 
+            
+            
+               (2)
+               An assessment of the impact of General License D-2, issued on September 23, 2022, on the availability of private communications tools inside Iran, including encryption tools to assist the people of Iran in circumventing targeted digital surveillance by the Iranian Government.
+            
+            
+               (3)
+               A determination of whether additional updates to General License D-2 or other licenses are needed to keep up with the pace of technology and ensure that United States restrictions do not unintentionally inhibit the flow of vital communication tools to the people of Iran, including cloud technology, hardware, software, and services incident to personal communications, including set-top boxes (STB), satellites, and web developer tools.
+            
+            
+               (4)
+               A strategy to ensure that resources are available for digital rights experts to study Iran’s online repression and identify opportunities to counter it.
+            
+            
+               (5)
+               A strategy to prevent the Government of Iran from acquiring or developing tools that could be exploited against activists, including facial recognition software.
+            
+         
+         
+            (b)
+            Form
+            The report required pursuant to subsection (a) shall be submitted in unclassified form but may include a classified annex if such annex is provided separately from such unclassified version.
+         
+         
+            (c)
+            Definition
+            In this section, the term targeted digital surveillance means the use of items or services that enable an individual or entity (with or without the knowing authorization of the product’s owner) to detect, monitor, intercept, collect, exploit, preserve, protect, transmit, retain, or otherwise gain access to the communications, sensitive or protected information, work product, browsing data, research, identifying information, location history, or online or offline activities of other individuals, organizations, or entities. 
+         
+      
+      
+         9.
+         SENSE OF CONGRESS
+         It is the sense of Congress that all United States allies in the Middle East should publicly and unequivocally condemn the antisemitism displayed by Iranian-backed terrorist groups, including Hamas.
+      
+      
+         10.
+         PROHIBITION ON FUNDS
+         No federal funds may be used to make any funds (as such term is defined in section 2339C(e)(1) of title 18, United States Code) available to Iran.
+      
+      
+         11.
+         SENSE OF CONGRESS ON THE HOUTHIS
+         It is the sense of Congress that the Houthis, an Iran-backed terrorist group which has hijacked a Japanese-operated cargo ship, kidnapped and tortured United States citizens, and supports Hamas’ ongoing war against Israel, continues to benefit from the Biden Administration’s failure to unequivocally condemn it.
+      
+      
+         12.
+         REPORT ON POLICY RELATING TO HUMAN RIGHTS, NUCLEAR PROLIFERATION, BALLISTIC MISSILES, AND REGIONAL TERRORISM IN IRAN
+         Not later than 120 days after the date of the enactment of this Act, the President shall submit to Congress a report (which may contain a classified annex) outlining the policy of the United States with respect to human rights, nuclear proliferation, the ballistic missile program, and regional terrorism in Iran.
+      
+   
+   
+      
+         Passed the House of Representatives November 30, 2023.
+         KEVIN F. MCCUMBER,
+         Clerk.
+      
+   

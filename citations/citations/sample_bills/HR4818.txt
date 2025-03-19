@@ -1,0 +1,140 @@
+
+<!DOCTYPE bill
+  SYSTEM "blp-dscs-billres.dtd">
+
+   
+      
+         Treat and Reduce Obesity Act of 2023
+      
+   
+   
+      I
+      118th CONGRESS
+      1st Session
+      H. R. 4818
+      IN THE HOUSE OF REPRESENTATIVES
+      
+         July 20, 2023
+         
+            Mr. Wenstrup (for himself, Mr. Ruiz, Mrs. Miller-Meeks, and Ms. Moore of Wisconsin) introduced the following bill; which was referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned
+      
+      A BILL
+      To amend title XVIII of the Social Security Act to provide for the coordination of programs to prevent and treat obesity, and for other purposes.
+   
+   
+      Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+      
+         1.
+         SHORT TITLE
+         This Act may be cited as the 
+               Treat and Reduce Obesity Act of 2023
+            .
+      
+      
+         2.
+         FINDINGS
+         Congress makes the following findings:
+         
+            (1)
+            According to the Centers for Disease Control and Prevention, about 41 percent of adults aged 60 and over had obesity in the period of 2015 through 2016, representing more than 27 million people.
+         
+         
+            (2)
+            The National Institutes of Health has reported that obesity and overweight are now the second leading cause of death nationally, with an estimated 300,000 deaths a year attributed to the epidemic.
+         
+         
+            (3)
+            Obesity increases the risk for chronic diseases and conditions, including high blood pressure, heart disease, certain cancers, arthritis, mental illness, lipid disorders, sleep apnea, and type 2 diabetes.
+         
+         
+            (4)
+            More than half of Medicare beneficiaries are treated for 5 or more chronic conditions per year. The rate of obesity among Medicare beneficiaries doubled from 1987 to 2002 and nearly doubled again by 2016, with Medicare spending on individuals with obesity during that time rising proportionately to reach $50 billion in 2014.
+         
+         
+            (5)
+            Men and women with obesity at age 65 have decreased life expectancy of 1.6 years for men and 1.4 years for women.
+         
+         
+            (6)
+            The direct and indirect cost of obesity was more than $427.8 billion in 2014 and is growing.
+         
+         
+            (7)
+            On average, a Medicare beneficiary with obesity costs $2,018 (in 2019 dollars) more than a healthy-weight beneficiary.
+         
+         
+            (8)
+            The prevalence of obesity among older individuals in the United States is growing at a linear rate and, if nothing changes, nearly one in two (47%) Medicare beneficiaries aged 65 and over will have obesity in 2030, up from slightly more than one in four (28%) in 2010.
+         
+      
+      
+         3.
+         AUTHORITY TO EXPAND HEALTH CARE PROVIDERS QUALIFIED TO FURNISH INTENSIVE BEHAVIORAL THERAPY
+         Section 1861(ddd) of the Social Security Act (42 U.S.C. 1395x(ddd)) is amended by adding at the end the following new paragraph:
+         
+            
+               (4)
+               
+                  (A)
+                  Subject to subparagraph (B), the Secretary may, in addition to qualified primary care physicians and other primary care practitioners, cover intensive behavioral therapy for obesity furnished by any of the following:
+                  
+                     (i)
+                     A physician (as defined in subsection (r)(1)) who is not a qualified primary care physician.
+                  
+                  
+                     (ii)
+                     Any other appropriate health care provider (including a physician assistant, nurse practitioner, or clinical nurse specialist (as those terms are defined in subsection (aa)(5)), a clinical psychologist, a registered dietitian or nutrition professional (as defined in subsection (vv))).
+                  
+                  
+                     (iii)
+                     An evidence-based, community-based lifestyle counseling program approved by the Secretary.
+                  
+               
+               
+                  (B)
+                  In the case of intensive behavioral therapy for obesity furnished by a provider described in clause (ii) or (iii) of subparagraph (A), the Secretary may only cover such therapy if such therapy is furnished—
+                  
+                     (i)
+                     upon referral from, and in coordination with, a physician or primary care practitioner operating in a primary care setting or any other setting specified by the Secretary; and
+                  
+                  
+                     (ii)
+                     in an office setting, a hospital outpatient department, a community-based site that complies with the Federal regulations concerning the privacy of individually identifiable health information promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996, or another setting specified by the Secretary.
+                  
+               
+               
+                  (C)
+                  In order to ensure a collaborative effort, the coordination described in subparagraph (B)(i) shall include the health care provider or lifestyle counseling program communicating to the referring physician or primary care practitioner any recommendations or treatment plans made regarding the therapy.
+               
+            
+            .
+         
+      
+      
+         4.
+         MEDICARE PART D COVERAGE OF OBESITY MEDICATION
+         
+            (a)
+            In general
+            Section 1860D–2(e)(2)(A) of the Social Security Act (42 U.S.C. 1395w–102(e)(2)(A)) is amended, in the first sentence—
+            
+               (1)
+               by striking and other than and inserting other than; and
+            
+            
+               (2)
+               by inserting after benzodiazepines), the following: and other than subparagraph (A) of such section if the drug is used for the treatment of obesity (as defined in section 1861(yy)(2)(C)) or for weight loss management for an individual who is overweight (as defined in section 1861(yy)(2)(F)(i)) and has one or more related comorbidities,.
+            
+         
+         
+            (b)
+            Effective date
+            The amendments made by subsection (a) shall apply to plan years beginning on or after the date that is 2 years after the date of the enactment of this Act.
+         
+      
+      
+         5.
+         REPORT TO CONGRESS
+         Not later than the date that is 1 year after the date of the enactment of this Act, and every 2 years thereafter, the Secretary of Health and Human Services shall submit a report to Congress describing the steps the Secretary has taken to implement the provisions of, and amendments made by, this Act. Such report shall also include recommendations for better coordination and leveraging of programs within the Department of Health and Human Services and other Federal agencies that relate in any way to supporting appropriate research and clinical care (such as any interactions between physicians and other health care providers and their patients) to treat, reduce, and prevent obesity in the adult population.
+      
+   

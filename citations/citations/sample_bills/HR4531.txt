@@ -1,0 +1,1253 @@
+
+<!DOCTYPE bill
+  SYSTEM "blp-dscs-billres.dtd">
+
+   
+      
+         Support for Patients and Communities Reauthorization Act
+      
+   
+   
+      IIB
+      118th CONGRESS
+      1st Session
+      H. R. 4531
+      IN THE SENATE OF THE UNITED STATES
+      
+         December 13, 2023
+         Received; read twice and referred to the Committee on Health, Education, Labor, and Pensions
+      
+      AN ACT
+      To reauthorize certain programs that provide for opioid use disorder prevention, recovery, and treatment, and for other purposes.
+   
+   
+      Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+      
+         1.
+         SHORT TITLE
+         This Act may be cited as the 
+               Support for Patients and Communities Reauthorization Act
+            .
+      
+      
+         2.
+         TABLE OF CONTENTS
+         The table of contents for this Act is as follows:
+         
+            Sec. 1. Short title.
+            Sec. 2. Table of contents.
+            TITLE I—PUBLIC HEALTH
+            Sec. 101. Prenatal and postnatal health.
+            Sec. 102. Monitoring and education regarding infections associated with illicit drug use and other risk factors.
+            Sec. 103. Preventing overdoses of controlled substances.
+            Sec. 104. Residential treatment programs for pregnant and postpartum women.
+            Sec. 105. Youth prevention and recovery.
+            Sec. 106. First responder training.
+            Sec. 107. Building communities of recovery.
+            Sec. 108. National Peer-Run Training and Technical Assistance Center for Addiction Recovery Support.
+            Sec. 109. Comprehensive opioid recovery centers.
+            Sec. 110. Grants to address the problems of persons who experience violence related stress.
+            Sec. 111. Mental and behavioral health education and training grants.
+            Sec. 112. Loan repayment program for the substance use disorder treatment workforce.
+            Sec. 113. Pilot program for public health laboratories to detect fentanyl and other synthetic opioids.
+            Sec. 114. Monitoring and reporting of child, youth, and adult trauma.
+            Sec. 115. Task force to develop best practices for trauma-informed identification, referral, and support.
+            Sec. 116. Treatment, recovery, and workforce support grants.
+            Sec. 117. Grant program for State and Tribal response to opioid use disorders.
+            Sec. 118. References to opioid overdose reversal agents in HHS grant programs.
+            Sec. 119. Addressing other concurrent substance use disorders through grant program for State and Tribal response to opioid use disorders.
+            Sec. 120. Providing for a study on the effects of remote monitoring on individuals who are prescribed opioids.
+            TITLE II—CONTROLLED SUBSTANCES
+            Sec. 201. Delivery of certain substances by a pharmacy to an administering practitioner.
+            Sec. 202. Reviewing the scheduling of approved products containing a combination of buprenorphine and naloxone.
+            Sec. 203. Combating illicit xylazine.
+            Sec. 204. Technical corrections.
+            Sec. 205. Required training for prescribers of controlled substances.
+            TITLE III—MEDICAID
+            Sec. 301. Extending requirement for State Medicaid plans to provide coverage for medication-assisted treatment.
+            Sec. 302. Expanding required reports on T-MSIS substance use disorder data to include mental health condition data.
+            Sec. 303. Monitoring prescribing of antipsychotic medications.
+            Sec. 304. Lifting the IMD exclusion for substance use disorder.
+            Sec. 305. Prohibition on termination of enrollment due to incarceration.
+            Sec. 306. State option relating to inmates who are pregnant women pending disposition of charges.
+            Sec. 307. Permitting access to medical assistance under the Medicaid program for foster youth.
+            TITLE IV—OFFSETS
+            Sec. 401. Promoting value in Medicaid managed care.
+         
+      
+      
+         I
+         PUBLIC HEALTH
+         
+            101.
+            PRENATAL AND POSTNATAL HEALTH
+            Section 317L(d) of the Public Health Service Act (42 U.S.C. 247b–13(d)) is amended by striking such sums as may be necessary for each of the fiscal years 2019 through 2023 and inserting $4,250,000 for each of fiscal years 2024 through 2028. 
+         
+         
+            102.
+            MONITORING AND EDUCATION REGARDING INFECTIONS ASSOCIATED WITH ILLICIT DRUG USE AND OTHER RISK FACTORS
+            Section 317N of the Public Health Service Act (42 U.S.C. 247b–15) is amended—
+            
+               (1)
+               in the section heading, by striking 
+                     Surveillance and
+                   and inserting 
+                     Monitoring and
+                   ; and
+            
+            
+               (2)
+               in subsection (d), by striking fiscal years 2019 through 2023 and inserting fiscal years 2024 through 2028.
+            
+         
+         
+            103.
+            PREVENTING OVERDOSES OF CONTROLLED SUBSTANCES
+            
+               (a)
+               Evidence-based prevention grants
+               Section 392A(a)(2)(D) of the Public Health Service Act (42 U.S.C. 280b–1(a)(2)(D)) is amended by inserting after new and emerging public health crises the following: , such as the fentanyl crisis,.
+            
+            
+               (b)
+               Use of grants by States, localities, and Indian Tribes to conduct wastewater surveillance
+               Section 392A(a)(3)(A) of the Public Health Service Act (42 U.S.C. 280b–1(a)(3)(A)) is amended by inserting , including through the use of wastewater surveillance to identify trends associated with controlled substance use if it is determined by appropriate evidence that wastewater surveillance is an effective way to survey controlled substance use within a community before the semicolon.
+            
+            
+               (c)
+               Authorization of appropriations
+               Section 392A(e) of the Public Health Service Act (42 U.S.C. 280b–1(e)) is amended by striking $496,000,000 for each of fiscal years 2019 through 2023 and inserting $505,579,000 for each of fiscal years 2024 through 2028.
+            
+         
+         
+            104.
+            RESIDENTIAL TREATMENT PROGRAMS FOR PREGNANT AND POSTPARTUM WOMEN
+            Section 508(s) of the Public Health Service Act (42 U.S.C. 290bb–1(s)) is amended by striking $29,931,000 for each of fiscal years 2019 through 2023 and inserting $38,931,000 for each of fiscal years 2024 through 2028.
+         
+         
+            105.
+            YOUTH PREVENTION AND RECOVERY
+            Section 7102(c)(9) of the SUPPORT for Patients and Communities Act (42 U.S.C. 290bb–7a(c)(9)) is amended by striking fiscal years 2019 through 2023 and inserting fiscal years 2024 through 2028.
+         
+         
+            106.
+            FIRST RESPONDER TRAINING
+            Section 546(h) of the Public Health Service Act (42 U.S.C. 290ee–1(h)) is amending by striking $36,000,000 for each of fiscal years 2019 through 2023 and inserting $56,000,000 for each of fiscal years 2024 through 2028.
+         
+         
+            107.
+            BUILDING COMMUNITIES OF RECOVERY
+            Section 547(f) of the Public Health Service Act (42 U.S.C. 290ee–2(f)) is amended by striking $5,000,000 for each of fiscal years 2019 through 2023 and inserting $16,000,000 for each of fiscal years 2024 through 2028. 
+         
+         
+            108.
+            NATIONAL PEER-RUN TRAINING AND TECHNICAL ASSISTANCE CENTER FOR ADDICTION RECOVERY SUPPORT
+            Section 547A(e) of the Public Health Service Act (42 U.S.C. 290ee–2a(e)) is amended by striking $1,000,000 for each of fiscal years 2019 through 2023 and inserting $2,000,000 for each of fiscal years 2024 through 2028.
+         
+         
+            109.
+            COMPREHENSIVE OPIOID RECOVERY CENTERS
+            
+               (a)
+               Reauthorization
+               Section 552(j) of the Public Health Service Act (42 U.S.C. 290ee–7(j)) is amended by striking 2019 through 2023 and inserting 2024 through 2028.
+            
+            
+               (b)
+               Documentation for evidence of capacity To carry out required activities
+               Section 552(d) of the Public Health Service Act (42 U.S.C. 290ee–7(d)) is amended by adding at the end the following: 
+               
+                  
+                     (3)
+                     Documentation
+                     
+                        (A)
+                        In general
+                        Evidence required to be provided under paragraph (1) may be provided through a letter of intent from partner agencies or other relevant documentation (as defined by the Secretary).
+                     
+                     
+                        (B)
+                        Partner agency defined
+                        In this paragraph, the term partner agency means a non-governmental organization or other public or private entity—
+                        
+                           (i)
+                           the primary purpose of which is the delivery of mental health or substance use disorder treatment services; and
+                        
+                        
+                           (ii)
+                           with which the applicant coordinates to provide the full continuum of treatment services (as specified in subsection (g)(1)(B)) that the applicant is unable to offer on site.
+                        
+                     
+                  
+                  .
+               
+            
+            
+               (c)
+               Center activities carried out through third parties
+               Section 552(g) of the Public Health Service Act (42 U.S.C. 290ee–7(g)) is amended in the matter preceding paragraph (1) by striking Each Center shall and all that follows through subsection (f): and inserting the following: Each Center shall, at a minimum, carry out the activities specified in this subsection directly, through referral, or through contractual arrangements. If a Center elects to carry out such activities through contractual arrangements, the Secretary may issue guidance on best practices to ensure that the Center is capable of carrying out such activities, including carrying out such activities through technology-enabled collaborative learning and capacity building models described in subsection (f) and coordinating the full continuum of treatment services specified in subparagraph (B). Such activities include the following:. 
+            
+         
+         
+            110.
+            GRANTS TO ADDRESS THE PROBLEMS OF PERSONS WHO EXPERIENCE VIOLENCE RELATED STRESS
+            Section 582(j) of the Public Health Service Act (42 U.S.C. 290hh–1(j)) is amended by striking $63,887,000 for each of fiscal years 2019 through 2023 and inserting $93,887,000 for each of fiscal years 2024 through 2028.
+         
+         
+            111.
+            MENTAL AND BEHAVIORAL HEALTH EDUCATION AND TRAINING GRANTS
+            Section 756(f) of the Public Health Service Act (42 U.S.C. 294e–1(f)) is amended by striking fiscal years 2023 through 2027 and inserting fiscal years 2024 through 2028.
+         
+         
+            112.
+            LOAN REPAYMENT PROGRAM FOR THE SUBSTANCE USE DISORDER TREATMENT WORKFORCE
+            Section 781(j) of the Public Health Service Act (42 U.S.C. 295h(j)) is amended by striking $25,000,000 for each of fiscal years 2019 through 2023 and inserting $40,000,000 for each of fiscal years 2024 through 2028.
+         
+         
+            113.
+            PILOT PROGRAM FOR PUBLIC HEALTH LABORATORIES TO DETECT FENTANYL AND OTHER SYNTHETIC OPIOIDS
+            
+               (a)
+               Detection activities
+               Section 7011(b) of the SUPPORT for Patients and Communities Act (42 U.S.C. 247d–10 note) is amended—
+               
+                  (1)
+                  in paragraph (2), by striking and at the end;
+               
+               
+                  (2)
+                  in paragraph (3), by striking the period at the end and inserting ; and; and
+               
+               
+                  (3)
+                  by adding at the end the following:
+                  
+                     
+                        (4)
+                        public, private, and academic entities with expertise in detection and testing activities, such as wastewater surveillance, with respect to synthetic opioids, including fentanyl and its analogues.
+                     
+                     .
+                  
+               
+            
+            
+               (b)
+               Authorization of appropriations
+               Section 7011(d) of the SUPPORT for Patients and Communities Act (42 U.S.C. 247d–10(d)) is amended by striking fiscal years 2019 through 2023 and inserting fiscal years 2024 through 2028.
+            
+         
+         
+            114.
+            MONITORING AND REPORTING OF CHILD, YOUTH, AND ADULT TRAUMA
+            Section 7131(e) of the SUPPORT for Patients and Communities Act (42 U.S.C. 242t(e)) is amended by striking $2,000,000 for each of fiscal years 2019 through 2023 and inserting $9,000,000 for each of fiscal years 2024 through 2028.
+         
+         
+            115.
+            TASK FORCE TO DEVELOP BEST PRACTICES FOR TRAUMA-INFORMED IDENTIFICATION, REFERRAL, AND SUPPORT
+            Section 7132 of the SUPPORT for Patients and Communities Act (Public Law 115–271) is amended—
+            
+               (1)
+               in subsection (g)—
+               
+                  (A)
+                  in paragraph (1), by striking and at the end;
+               
+               
+                  (B)
+                  in paragraph (2), by striking the period at the end and inserting ; and; and
+               
+               
+                  (C)
+                  by adding at the end the following:
+                  
+                     
+                        (3)
+                        additional reports and updates to existing reports, as necessary.
+                     
+                     ; and
+                  
+               
+            
+            
+               (2)
+               by amending subsection (i) to read as follows:
+               
+                  
+                     (i)
+                     Sunset
+                     The task force shall sunset on September 30, 2026.
+                  
+                  .
+               
+            
+         
+         
+            116.
+            TREATMENT, RECOVERY, AND WORKFORCE SUPPORT GRANTS
+            Section 7183 of the SUPPORT for Patients and Communities Act (42 U.S.C. 290ee–8) is amended—
+            
+               (1)
+               in subsection (b), by inserting each before for a period;
+            
+            
+               (2)
+               by amending subsection (c)(2) to read as follows:
+               
+                  
+                     (2)
+                     Rates
+                     The rates described in this paragraph are the following:
+                     
+                        (A)
+                        The amount by which the average rate of drug overdose deaths in the State, adjusted for age, for the period of 5 calendar years for which there is available data, including if necessary provisional data, immediately preceding the grant cycle (which shall be the period of calendar years 2018 through 2022 for the first grant cycle following the enactment of the Support for Patients and Communities Reauthorization Act) is above the average national overdose mortality rate, as determined by the Director of the Centers for Disease Control and Prevention, for the same period.
+                     
+                     
+                        (B)
+                        The amount by which the average rate of unemployment for the State, based on data provided by the Bureau of Labor Statistics, for the period of 5 calendar years for which there is available data, including if necessary provisional data, immediately preceding the grant cycle (which shall be the period of calendar years 2018 through 2022 for the first grant cycle following the enactment of the Support for Patients and Communities Reauthorization Act) is above the national average for the same period.
+                     
+                     
+                        (C)
+                        The amount by which the average rate of labor force participation in the State, based on data provided by the Bureau of Labor Statistics, for the period of 5 calendar years for which there is available data, including if necessary provisional data, immediately preceding the grant cycle (which shall be the period of calendar years 2018 through 2022 for the first grant cycle following the enactment of the Support for Patients and Communities Reauthorization Act) is below the national average for the same period.
+                     
+                  
+                  ;
+               
+            
+            
+               (3)
+               in subsection (g)—
+               
+                  (A)
+                  in paragraphs (1) and (3), by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively, and adjusting the margins accordingly;
+               
+               
+                  (B)
+                  by redesignating paragraphs (1) through (3) as subparagraphs (A) through (C), respectively, and adjusting the margins accordingly;
+               
+               
+                  (C)
+                  by striking An entity and inserting the following:
+                  
+                     
+                        (1)
+                        In general
+                        An entity
+                     
+                     ; and
+                  
+               
+               
+                  (D)
+                  by adding at the end the following:
+                  
+                     
+                        (2)
+                        Transportation services
+                        An entity receiving a grant under this section may use not more than 5 percent of the funds for providing transportation for individuals to participate in an activity supported by a grant under this section, which transportation shall be to or from a place of work or a place where the individual is receiving vocational education or job training services or receiving services directly linked to treatment of or recovery from a substance use disorder.
+                     
+                     
+                        (3)
+                        No other authorized uses
+                        An entity receiving a grant under this section may not use the funds for any activity other than the activities listed in paragraphs (1) and (2).
+                     
+                     ;
+                  
+               
+            
+            
+               (4)
+               in subsection (i)(2), by inserting , which shall include the employment and earnings outcomes as described in subclauses (I) and (III) of section 116(b)(2)(A)(i) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3141(b)(2)(A)(i)) after subsection (g);
+            
+            
+               (5)
+               in subsection (j)—
+               
+                  (A)
+                  in paragraph (1), by inserting for each grant cycle after grant period; and
+               
+               
+                  (B)
+                  in paragraph (2)—
+                  
+                     (i)
+                     in the matter preceding subparagraph (A)—
+                     
+                        (I)
+                        by striking the preliminary report and inserting each preliminary report; and
+                     
+                     
+                        (II)
+                        by inserting for the grant cycle after final report; and
+                     
+                  
+                  
+                     (ii)
+                     in subparagraph (A), by striking (g)(3) and inserting (g)(1)(C); and
+                  
+               
+            
+            
+               (6)
+               in subsection (k), by striking $5,000,000 for each of fiscal years 2019 through 2023 and inserting $12,000,000 for each of fiscal years 2024 through 2028.
+            
+         
+         
+            117.
+            GRANT PROGRAM FOR STATE AND TRIBAL RESPONSE TO OPIOID USE DISORDERS
+            Section 1003(b)(4)(A) of the 21st Century Cures Act (42 U.S.C. 290ee–3a(b)(4)(A)) is amended after which may include drugs or devices approved, cleared, or otherwise legally marketed under the Federal Food, Drug, and Cosmetic Act by inserting or fentanyl or xylazine test strips.
+         
+         
+            118.
+            REFERENCES TO OPIOID OVERDOSE REVERSAL AGENTS IN HHS GRANT PROGRAMS
+            
+               (a)
+               In general
+               The Secretary of Health and Human Services shall ensure that, as appropriate, whenever the Department of Health and Human Services issues a regulation or guidance for any grant program addressing opioid misuse and use disorders, any reference to an opioid overdose reversal drug (such as a reference to naloxone) is inclusive of any opioid overdose reversal drug that has been approved under section 505 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355) for emergency treatment of a known or suspected opioid overdose.
+            
+            
+               (b)
+               Existing references
+               
+                  (1)
+                  Update
+                  Not later than one year after the date of enactment of this Act, the Secretary of Health and Human Services shall update all references described in paragraph (2) to be inclusive of any opioid overdose reversal drug that has been approved or otherwise authorized for use by the Food and Drug Administration.
+               
+               
+                  (2)
+                  References
+                  A reference described in this paragraph is any reference to an opioid overdose reversal drug (such as naloxone) in any regulation or guidance of the Department of Health and Human Services that—
+                  
+                     (A)
+                     was issued before the date of enactment of this Act; and
+                  
+                  
+                     (B)
+                     is included in—
+                     
+                        (i)
+                        the grant program for State and Tribal response to opioid use disorders under section 1003 of the 21st Century Cures Act (42 U.S.C. 290ee–3 note) (commonly referred to as State Opioid Response Grants and Tribal Opioid Response Grants); or
+                     
+                     
+                        (ii)
+                        the grant program for priority substance use disorder prevention needs of regional and national significance under section 516 of the Public Health Service Act (42 U.S.C. 290bb–22).
+                     
+                  
+               
+            
+         
+         
+            119.
+            ADDRESSING OTHER CONCURRENT SUBSTANCE USE DISORDERS THROUGH GRANT PROGRAM FOR STATE AND TRIBAL RESPONSE TO OPIOID USE DISORDERS
+            
+               (a)
+               Additional use of funds
+               Section 1003(b) of the 21st Century Cures Act (42 U.S.C. 290ee–3 note) is amended by adding at the end the following:
+               
+                  
+                     (5)
+                     Other concurrent substance use disorders
+                     The Secretary may authorize the recipient of a grant under this subsection, in addition to using the grant for activities described in paragraph (4) with respect to opioid misuse and use disorders and stimulant misuse and use disorders, to use the grant for similar activities with respect to other concurrent substance use disorders.
+                  
+                  .
+               
+            
+            
+               (b)
+               Annual report to Congress
+               Section 1003(f) of the 21st Century Cures Act (42 U.S.C. 290ee–3 note) is amended—
+               
+                  (1)
+                  in paragraph (2), strike and at the end;
+               
+               
+                  (2)
+                  in paragraph (3), strike the period at the end and insert a semicolon; and
+               
+               
+                  (3)
+                  by adding at the end the following:
+                  
+                     
+                        (4)
+                        the amount of funds each State that received a grant under subsection (b) received for the 12-month grant cycle covered by the report;
+                     
+                     
+                        (5)
+                        the amount of grant funds each such State spent for such grant cycle, disaggregated by the uses for which such funds were spent, including each allowable use under paragraphs (4) and (5) of subsection (b);
+                     
+                     
+                        (6)
+                        how many such States for such grant cycle did not spend all of the grant funds before such grant cycle expired;
+                     
+                     
+                        (7)
+                        how many such States for such grant cycle requested no-cost extensions to extend the grant cycle; and
+                     
+                     
+                        (8)
+                        challenges for such States to spend all of the funds allocated and the reason for such challenges, including to what extent reporting requirements or other requirements placed an increased burden on the ability of such States to spend all of the funds.
+                     
+                     .
+                  
+               
+            
+            
+               (c)
+               Other concurrent substance use disorders defined
+               Section 1003(h) of the 21st Century Cures Act (42 U.S.C. 290ee–3 note) is amended—
+               
+                  (1)
+                  by redesignating paragraphs (2) through (4) as paragraphs (3) through (5); and
+               
+               
+                  (2)
+                  by inserting before paragraph (3), as redesignated, the following:
+                  
+                     
+                        (2)
+                        Other concurrent substance use disorders
+                        The term other concurrent substance use disorders means—
+                        
+                           (A)
+                           alcohol use disorders co-occurring with opioid misuse and use disorders as a primary disorder; or
+                        
+                        
+                           (B)
+                           alcohol use disorders co-occurring with stimulant misuse and use disorders as a primary disorder.
+                        
+                     
+                     .
+                  
+               
+            
+            
+               (d)
+               Rule of construction
+               Nothing in this Act or the amendments made by this Act shall be construed to change the allocation of funds among grantees pursuant to the minimum allocations and formula methodology under section 1003 of the 21st Century Cures Act (42 U.S.C. 290ee–3 note). 
+            
+         
+         
+            120.
+            PROVIDING FOR A STUDY ON THE EFFECTS OF REMOTE MONITORING ON INDIVIDUALS WHO ARE PRESCRIBED OPIOIDS
+            
+               (a)
+               In general
+               Not later than 18 months after the date of enactment of this Act, the Comptroller General of the United States shall conduct a study and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions and the Committee on Finance of the Senate a report on the use of remote monitoring with respect to individuals who are prescribed opioids.
+            
+            
+               (b)
+               Report
+               The report described in subsection (a) shall include to the extent information is available and reliable—
+               
+                  (1)
+                  an assessment of scientific evidence related to the efficacy, individual outcomes, and potential cost savings associated with remote monitoring for individuals who are prescribed opioids compared to such individuals who are not so monitored;
+               
+               
+                  (2)
+                  an assessment of the current prevalence of remote monitoring for individuals who are prescribed opioids, including the use of such monitoring for such individuals in other countries; and
+               
+               
+                  (3)
+                  information, including recommendations as appropriate, to improve availability, access, and coverage for remote monitoring for individuals who are prescribed opioids, including through changes to Federal health care programs (as defined in section 1128B of the Social Security Act (42 U.S.C. 1320a–7b)).
+               
+            
+         
+      
+      
+         II
+         CONTROLLED SUBSTANCES
+         
+            201.
+            DELIVERY OF CERTAIN SUBSTANCES BY A PHARMACY TO AN ADMINISTERING PRACTITIONER
+            Paragraph (2) of section 309A(a) of the Controlled Substances Act (21 U.S.C. 829a(a)) is amended to read as follows:
+            
+               
+                  (2)
+                  the controlled substance is a drug in schedule III, IV, or V that is, pursuant to the approval or licensure of such drug under the Federal Food, Drug, and Cosmetic Act or section 351 of the Public Health Service Act, to be administered by, or under the supervision of, the prescribing practitioner;
+               
+               .
+            
+         
+         
+            202.
+            REVIEWING THE SCHEDULING OF APPROVED PRODUCTS CONTAINING A COMBINATION OF BUPRENORPHINE AND NALOXONE
+            
+               (a)
+               Secretary of HHS
+               The Secretary of Health and Human Services shall, consistent with the requirements and procedures set forth in sections 201 and 202 of the Controlled Substances Act (21 U.S.C. 811; 812)—
+               
+                  (1)
+                  review the relevant data pertaining to the scheduling of products containing a combination of buprenorphine and naloxone that have been approved under section 505 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355); and
+               
+               
+                  (2)
+                  if appropriate, request that the Attorney General initiate rulemaking proceedings to revise the schedules accordingly with respect to such products.
+               
+            
+            
+               (b)
+               Attorney General
+               The Attorney General shall review any request made by the Secretary of Health and Human Services under subsection (a)(2) and determine whether to initiate proceedings to revise the schedules in accordance with the criteria set forth in sections 201 and 202 of the Controlled Substances Act (21 U.S.C. 811; 812).
+            
+         
+         
+            203.
+            COMBATING ILLICIT XYLAZINE
+            
+               (a)
+               Definitions
+               
+                  (1)
+                  In general
+                  In this section, the term xylazine has the meaning given the term in paragraph (60) of section 102 of the Controlled Substances Act, as added by paragraph (2).
+               
+               
+                  (2)
+                  Controlled Substances Act
+                  Section 102 of the Controlled Substances Act (21 U.S.C. 802) is amended—
+                  
+                     (A)
+                     by redesignating the second paragraph (57) (relating to serious drug felony) and paragraph (58) as paragraphs (58) and (59), respectively;
+                  
+                  
+                     (B)
+                     by moving the margin of paragraph (57) 2 ems to the left;
+                  
+                  
+                     (C)
+                     by moving the margins of paragraphs (58) and (59), as redesignated, 2 ems to the left; and
+                  
+                  
+                     (D)
+                     by adding at the end the following:
+                     
+                        
+                           (60)
+                           
+                              (A)
+                              The term xylazine means the substance xylazine as well as its salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible.
+                           
+                           
+                              (B)
+                              Except as provided in subparagraph (E), such term does not include a substance described in subparagraph (A) to the extent—
+                              
+                                 (i)
+                                 such substance is an animal drug that has been approved by the Secretary of Health and Human Services under section 512 of the Federal Food, Drug, and Cosmetic Act and such substance’s use or intended use conforms to the approved application, including the manufacturing, importation, holding, or distribution for such use; or
+                              
+                              
+                                 (ii)
+                                 such substance is used or intended for use in animals other than humans as permitted under section 512(a)(4) of the Federal Food, Drug, and Cosmetic Act.
+                              
+                           
+                           
+                              (C)
+                              If any person prescribes, dispenses, distributes, manufactures, or imports xylazine for human use, such person shall be considered to have prescribed, dispensed, distributed, manufactured, or imported xylazine not subject to an exclusion under subparagraph (B).
+                           
+                        
+                        .
+                     
+                  
+               
+            
+            
+               (b)
+               Placement of xylazine on schedule III
+               Schedule III in section 202(c) of the Controlled Substances Act (21 U.S.C. 812(c)) is amended by adding at the end the following:
+               
+                  
+                     (f)
+                     Xylazine.
+                  
+                  .
+               
+            
+            
+               (c)
+               ARCOS tracking
+               Section 307(i) of the Controlled Substances Act (21 U.S.C. 827(i)) is amended—
+               
+                  (1)
+                  in the matter preceding paragraph (1)—
+                  
+                     (A)
+                     by inserting or xylazine after gamma hydroxybutyric acid;
+                  
+                  
+                     (B)
+                     by inserting or 512 after section 505; and
+                  
+                  
+                     (C)
+                     by inserting respectively, after the Federal Food, Drug, and Cosmetic Act,; and
+                  
+               
+               
+                  (2)
+                  in paragraph (6), by inserting or xylazine after gamma hydroxybutyric acid.
+               
+            
+            
+               (d)
+               Report to Congress on xylazine
+               
+                  (1)
+                  Initial report
+                  Not later than 1 year after the date of enactment of this Act, the Attorney General, acting through the Administrator of the Drug Enforcement Administration and in coordination with the Commissioner of Food and Drugs, shall submit to Congress a report on the prevalence of illicit use of xylazine in the United States and the impacts of such use, including—
+                  
+                     (A)
+                     where the drug is being diverted;
+                  
+                  
+                     (B)
+                     where the drug is originating;
+                  
+                  
+                     (C)
+                     whether any analogues to such drug present a substantial risk of abuse;
+                  
+                  
+                     (D)
+                     whether and to what extent the illicit supply of xylazine derives from the licit supply chain; and
+                  
+                  
+                     (E)
+                     recommendations for Congress with respect to whether xylazine should be transferred to another schedule under section 202 of the Controlled Substances Act (21 U.S.C. 812).
+                  
+               
+               
+                  (2)
+                  Additional report
+                  Not later than 3 years after the date of enactment of this Act, the Attorney General, acting through the Administrator of the Drug Enforcement Administration and in coordination with the Commissioner of Food and Drugs, shall submit to Congress a report updating Congress on the prevalence of xylazine trafficking, misuse, and proliferation in the United States, including—
+                  
+                     (A)
+                     the status and results of research on the impact xylazine has on human health; and
+                  
+                  
+                     (B)
+                     the effects of the classification of xylazine under the Controlled Substances Act (21 U.S.C. 801 et seq.) on the prevalence of xylazine trafficking, misuse, and proliferation in the United States.
+                  
+               
+               
+                  (3)
+                  Obtaining official data
+                  The Attorney General, acting through the Administrator of the Drug Enforcement Administration and in coordination with the Commissioner of Food and Drugs, may secure directly from any department or agency of the United States documents, statistical data, and other information necessary to carry out paragraphs (1) and (2). Upon receipt of a request from the Attorney General for such documents, data, and information, the head of the department or agency shall, in accordance with applicable procedures for the appropriate handling of classified information, promptly provide reasonable access to such documents, data, and information.
+               
+               
+                  (4)
+                  Views of experts from non-Federal entities
+                  In developing the reports under paragraphs (1) and (2), the Attorney General, acting through the Administrator of the Drug Enforcement Administration and in coordination with the Commissioner of Food and Drugs, shall consult with, and take into consideration the views of, experts from appropriate non-Federal entities, including such experts from—
+                  
+                     (A)
+                     the scientific and medical research community;
+                  
+                  
+                     (B)
+                     the State and local law enforcement community; and
+                  
+                  
+                     (C)
+                     community-based organizations.
+                  
+               
+            
+         
+         
+            204.
+            TECHNICAL CORRECTIONS
+            Effective as if included in the enactment of Public Law 117–328—
+            
+               (1)
+               section 1252(a) of division FF of Public Law 117–328 is amended, in the matter being inserted into section 302(e) of the Controlled Substances Act, by striking 303(g) and inserting 303(h);
+            
+            
+               (2)
+               section 1262 of division FF of Public Law 117–328 is amended—
+               
+                  (A)
+                  in subsection (a)—
+                  
+                     (i)
+                     in the matter preceding paragraph (1), by striking 303(g) and inserting 303(h);
+                  
+                  
+                     (ii)
+                     in the matter being stricken by subsection (a)(2), by striking (g)(1) and inserting (h)(1); and
+                  
+                  
+                     (iii)
+                     in the matter being inserted by subsection (a)(2), by striking (g) Practitioners and inserting (h) Practitioners; and
+                  
+               
+               
+                  (B)
+                  in subsection (b)—
+                  
+                     (i)
+                     in the matter being stricken by paragraph (1), by striking 303(g)(1) and inserting 303(h)(1);
+                  
+                  
+                     (ii)
+                     in the matter being inserted by paragraph (1), by striking 303(g) and inserting 303(h);
+                  
+                  
+                     (iii)
+                     in the matter being stricken by paragraph (2)(A), by striking 303(g)(2) and inserting 303(h)(2);
+                  
+                  
+                     (iv)
+                     in the matter being stricken by paragraph (3), by striking 303(g)(2)(B) and inserting 303(h)(2)(B);
+                  
+                  
+                     (v)
+                     in the matter being stricken by paragraph (5), by striking 303(g) and inserting 303(h); and
+                  
+                  
+                     (vi)
+                     in the matter being stricken by paragraph (6), by striking 303(g) and inserting 303(h); and
+                  
+               
+            
+            
+               (3)
+               section 1263(b) of division FF of Public Law 117–328 is amended—
+               
+                  (A)
+                  by striking 303(g)(2) and inserting 303(h)(2); and
+               
+               
+                  (B)
+                  by striking (21 U.S.C. 823(g)(2)) and inserting (21 U.S.C. 823(h)(2)). 
+               
+            
+         
+         
+            205.
+            REQUIRED TRAINING FOR PRESCRIBERS OF CONTROLLED SUBSTANCES
+            Section 303 of the Controlled Substances Act (21 U.S.C. 823) is amended—
+            
+               (1)
+               by redesignating the second subsection (l) (added by section 1263 of division FF of Public Law 117–328) as subsection (m); and
+            
+            
+               (2)
+               in subsection (m), as redesignated—
+               
+                  (A)
+                  in paragraph (1)(A)(iv)—
+                  
+                     (i)
+                     in subclause (I), by striking or the Commission for Continuing Education Provider Recognition (CCEPR) and inserting the Commission for Continuing Education Provider Recognition (CCEPR), the American Podiatric Medical Association, the Council on Podiatric Medical Education (CPME), or the Academy of General Dentistry;
+                  
+                  
+                     (ii)
+                     by redesignating subclauses (II), (III), and (IV) as subclauses (III), (IV), and (V), respectively; and
+                  
+                  
+                     (iii)
+                     by inserting after subclause (I) the following:
+                     
+                        
+                           (II)
+                           the American Academy of Family Physicians or any organization whose continuing medical education activity has been approved or accredited by the American Academy of Family Physicians;
+                        
+                        ; and
+                     
+                  
+                  
+                     (iv)
+                     in subclause (V), as redesignated, by striking any organization approved by the Assistant Secretary for Mental Health and Substance Use, the ACCME, or the CCEPR and inserting any organization approved by the ACCME or the CCEPR;
+                  
+               
+               
+                  (B)
+                  in paragraph (1)(A)(v)—
+                  
+                     (i)
+                     by inserting podiatric medicine, after allopathic medicine, osteopathic medicine,; and
+                  
+                  
+                     (ii)
+                     by striking allopathic or osteopathic medicine curriculum and inserting allopathic, osteopathic, or podiatric medicine curriculum;
+                  
+               
+               
+                  (C)
+                  in paragraph (1)(B)(i), by striking or any other organization approved or accredited by the Assistant Secretary for Mental Health and Substance Use or the Accreditation Council for Continuing Medical Education and inserting the American Podiatric Medical Association, the Council on Podiatric Medical Education (CPME), the American Pharmacists Association, the Accreditation Council for Pharmacy Education, the American Optometric Association, the Academy of General Dentistry, the American Psychiatric Nurses Association, the American Academy of Nursing, the American Academy of Family Physicians, or any other organization approved or accredited by the American Academy of Family Physicians or the Accreditation Council for Continuing Medical Education; and
+               
+               
+                  (D)
+                  in paragraph (1)(B)(ii), by striking from an accredited physician assistant school or accredited school of advanced practice nursing and inserting from an accredited physician assistant school, an accredited school of advanced practice nursing, or an accredited school of pharmacy.
+               
+            
+         
+      
+      
+         III
+         MEDICAID
+         
+            301.
+            EXTENDING REQUIREMENT FOR STATE MEDICAID PLANS TO PROVIDE COVERAGE FOR MEDICATION-ASSISTED TREATMENT
+            
+               (a)
+               In general
+               Section 1905 of the Social Security Act (42 U.S.C. 1396d) is amended—
+               
+                  (1)
+                  in subsection (a)(29), by striking for the period beginning October 1, 2020, and ending September 30, 2025, and inserting beginning on October 1, 2020,; and
+               
+               
+                  (2)
+                  in subsection (ee)(2), by striking for the period specified in such paragraph, if before the beginning of such period the State certifies to the satisfaction of the Secretary and inserting if such State certifies, not less than every 5 years and to the satisfaction of the Secretary,.
+               
+            
+            
+               (b)
+               Conforming amendment
+               Section 1006(b)(4)(A) of the Substance Use-Disorder Prevention that Promotes Opioid Recovery and Treatment for Patients and Communities Act (42 U.S.C. 1396a note) is amended by striking , and before October 1, 2025.
+            
+         
+         
+            302.
+            EXPANDING REQUIRED REPORTS ON T-MSIS SUBSTANCE USE DISORDER DATA TO INCLUDE MENTAL HEALTH CONDITION DATA
+            
+               (a)
+               In general
+               Section 1015(a) of the SUPPORT for Patients and Communities Act (42 U.S.C. 1320d–2 note) is amended—
+               
+                  (1)
+                  in the heading, by striking 
+                        substance use disorder data book
+                      and inserting 
+                        behavioral health data book
+                     ; 
+               
+               
+                  (2)
+                  in paragraph (2)—
+                  
+                     (A)
+                     in the matter preceding subparagraph (A), by inserting , including as updated in accordance with paragraph (3), after paragraph (1);
+                  
+                  
+                     (B)
+                     in subparagraph (A), by inserting , mental health condition, or a mental health condition co-occurring with substance use disorder after substance use disorder;
+                  
+                  
+                     (C)
+                     in subparagraph (B), by inserting and mental health treatment services after substance use disorder treatment services;
+                  
+                  
+                     (D)
+                     in subparagraph (C)—
+                     
+                        (i)
+                        by inserting , mental health condition, or a mental health condition co-occurring with a substance use disorder diagnosis after substance use disorder diagnosis; and
+                     
+                     
+                        (ii)
+                        by inserting or mental health treatment services, respectively, after substance use disorder treatment services;
+                     
+                  
+                  
+                     (E)
+                     in subparagraph (D), by inserting , mental health condition, or a mental health condition co-occurring with substance use disorder after substance use disorder diagnosis;
+                  
+                  
+                     (F)
+                     in subparagraph (E), by inserting or mental health treatment after substance use disorder treatment; and
+                  
+                  
+                     (G)
+                     in subparagraph (F), by inserting , individuals with a mental health condition who receive mental health treatment services, and individuals with a co-occurring mental health condition and substance use disorder who receive substance use disorder treatment services and mental health treatment services, after substance use disorder treatment services; and
+                  
+               
+               
+                  (3)
+                  in paragraph (3), by striking through 2024.
+               
+            
+            
+               (b)
+               Application
+               The amendments made by subsection (a)(1) shall apply beginning with respect to the first update made pursuant to section 1015(a)(3) of the SUPPORT for Patients and Communities Act (42 U.S.C. 1320d–2 note) after the date that is 12 months after the date of enactment of this Act.
+            
+         
+         
+            303.
+            MONITORING PRESCRIBING OF ANTIPSYCHOTIC MEDICATIONS
+            Section 1902(oo)(1)(B) of the Social Security Act (42 U.S.C. 1396a(oo)(1)(B)) is amended—
+            
+               (1)
+               in the subparagraph heading, by striking 
+                     by children
+                  ; 
+            
+            
+               (2)
+               by inserting , and beginning on the date that is 24 months after the date of enactment of Support for Patients and Communities Reauthorization Act, individuals over the age of 18, individuals receiving home and community-based services (as defined in section 9817(a)(2)(B) of Public Law 117–2), and individuals residing in institutional care settings (including nursing facilities, intermediate care facilities for individuals with intellectual disabilities, and other such institutional care settings) enrolled, after children enrolled; and
+            
+            
+               (3)
+               by striking not more than the age of 18 years and inserting subject to the program.
+            
+         
+         
+            304.
+            LIFTING THE IMD EXCLUSION FOR SUBSTANCE USE DISORDER
+            
+               (a)
+               Making permanent State Plan Amendment Option To Provide Medical Assistance for Certain Individuals Who Are Patients in Certain Institutions for Mental Diseases
+               Section 1915(l)(1) of the Social Security Act (42 U.S.C. 1396n(l)(1)) is amended by striking With respect to calendar quarters beginning during the period beginning October 1, 2019, and ending September 30, 2023, and inserting With respect to calendar quarters beginning on or after October 1, 2019,.
+            
+            
+               (b)
+               Maintenance of effort revision
+               Section 1915(l)(3) of the Social Security Act (42 U.S.C. 1396n(l)(3)) is amended—
+               
+                  (1)
+                  in subparagraph (A)-—
+                  
+                     (A)
+                     in the matter preceding clause (i), by striking other than under this title; and 
+                  
+                  
+                     (B)
+                     in clause (i), by striking or, if higher, and all that follows through in accordance with this subsection; and
+                  
+               
+               
+                  (2)
+                  by adding at the end the following new subparagraph:
+                  
+                     
+                        (D)
+                        Application of maintenance of effort requirements to certain States
+                        In the case of a State with a State plan amendment in effect on the date of the enactment of this subparagraph, for the 1-year period beginning on such date, the provisions of subparagraph (A) shall be applied as if the amendments to such subparagraph made by the Support for Patients and Communities Reauthorization Act had never been made.
+                     
+                     .
+                  
+               
+            
+            
+               (c)
+               Additional requirements
+               
+                  (1)
+                  In general
+                  
+                     (A)
+                     General requirements
+                     Section 1915(l)(4) of the Social Security Act (42 U.S.C. 1396n(l)(4)) is amended—
+                     
+                        (i)
+                        in subparagraph (A), by striking through (D) and inserting through (F);
+                     
+                     
+                        (ii)
+                        in subparagraph (D), in the matter preceding clause (i), by inserting have in place evidence-based, substance use disorder-specific individual placement criteria and utilization management approach to ensure placement of such individual in an appropriate level of care and shall after State shall; and
+                     
+                     
+                        (iii)
+                        by adding at the end the following new subparagraph:
+                        
+                           
+                              (E)
+                              Review process
+                              The State shall have in place a process to review the compliance of eligible institutions for mental diseases with evidence-based, substance use disorder-specific program standards for eligible individuals specified by the State.
+                           
+                           .
+                        
+                     
+                  
+                  
+                     (B)
+                     Effective date
+                     The amendments made by subparagraph (A) shall apply with respect to medical assistance furnished in calendar quarters beginning on or after October 1, 2025.
+                  
+               
+               
+                  (2)
+                  One-time assessment
+                  Section 1915(l)(4) of the Social Security Act (42 U.S.C. 1396n(l)(4)), as amended by paragraph (1), is further amended by adding at the end the following new subparagraph:
+                  
+                     
+                        (F)
+                        Assessment
+                        
+                           (i)
+                           In general
+                           The State shall, not later than 12 months after the approval of a State plan amendment described in this subsection (or, in the case such State has such an amendment approved as of the date of the enactment of this subparagraph, not later than 12 months after such date), commence an assessment of—
+                           
+                              (I)
+                              the availability of treatment for individuals enrolled under a State plan under this title (or waiver of such plan) in each level of care described in subparagraph (C); and
+                           
+                           
+                              (II)
+                              the availability of medication-assisted treatment and medically supervised withdrawal management services for such individuals.
+                           
+                        
+                        
+                           (ii)
+                           Required completion
+                           The State compete an assessment described in clause (i) not later than 12 months after the date the State commences such assessment.
+                        
+                     
+                     .
+                  
+               
+               
+                  (3)
+                  Clarification of levels of care
+                  Section 1915(l)(7)(A) of the Social Security Act (42 U.S.C. 1396n(l)(7)(A)) is amended by inserting (or any successor publication) before the period.
+               
+            
+         
+         
+            305.
+            PROHIBITION ON TERMINATION OF ENROLLMENT DUE TO INCARCERATION
+            
+               (a)
+               Medicaid
+               
+                  (1)
+                  In general
+                  Section 1902(a)(84)(A) of the Social Security Act (42 U.S.C. 1396a(a)(86)(A)), as amended by section 5122(a)(2) of the Consolidated Appropriations Act, 2023 (Public Law 117–328), is further amended—
+                  
+                     (A)
+                     by striking under the State plan and inserting under the State plan (or waiver of such plan);
+                  
+                  
+                     (B)
+                     by striking who is an eligible juvenile (as defined in subsection (nn)(2));
+                  
+                  
+                     (C)
+                     by striking because the juvenile and inserting because the individual;
+                  
+                  
+                     (D)
+                     by striking during the period the juvenile and inserting during the period the individual; and
+                  
+                  
+                     (E)
+                     by inserting such an individual who is an eligible juvenile (as defined in subsection (nn)(2)) or a woman during pregnancy (and during the 60-day beginning on the last day of pregnancy) and after or in the case of.
+                  
+               
+               
+                  (2)
+                  Effective date
+                  The amendments made by—
+                  
+                     (A)
+                     subparagraph (A) of paragraph (1) shall take effect on the date of the enactment of this Act; and
+                  
+                  
+                     (B)
+                     subparagraphs (B) through (E) of paragraph (1) shall take effect on January 1, 2025.
+                  
+               
+            
+            
+               (b)
+               CHIP
+               
+                  (1)
+                  In general
+                  Section 2102(d)(1)(A) of the Social Security Act (42 U.S.C. 1397bb(d)(1)(A)) is amended—
+                  
+                     (A)
+                     by inserting or pregnancy-related after child health;
+                  
+                  
+                     (B)
+                     by inserting or targeted low-income pregnant woman after targeted low-income child;
+                  
+                  
+                     (C)
+                     by inserting or pregnant woman after because the child; and
+                  
+                  
+                     (D)
+                     by inserting or pregnant woman after during the period the child.
+                  
+               
+               
+                  (2)
+                  Effective date
+                  The amendments made by paragraph (1) shall apply beginning January 1, 2025.
+               
+            
+            
+               (c)
+               Technical correction
+               Section 1902(nn)(2)(A) of the Social Security Act (42 U.S.C. 1395a(a)(nn)(2)(A)) is amended by striking State plan and inserting State plan (or waiver of such plan). 
+            
+         
+         
+            306.
+            STATE OPTION RELATING TO INMATES WHO ARE PREGNANT WOMEN PENDING DISPOSITION OF CHARGES
+            
+               (a)
+               State option
+               
+                  (1)
+                  Medicaid
+                  The subdivision (A) of section 1905(a) of the Social Security Act (42 U.S.C. 1396d(a)) following paragraph (31) of such section, as amended by section 5122 of the Consolidated Appropriations Act, 2023 (Public Law 117–328), is further amended by inserting or a woman during pregnancy (and during the 60-day beginning on the last day of pregnancy) after (as defined in section 1902(nn)(2)).
+               
+               
+                  (2)
+                  CHIP
+                  Section 2110(b)(7) of the Social Security Act (42 U.S.C. 1397jj(b)(10)), as amended by section 5122 of the Consolidated Appropriations Act, 2023 (Public Law 117–328), is further amended—
+                  
+                     (A)
+                     by inserting a woman during pregnancy (and during the 60-day beginning on the last day of pregnancy) or after At the option of the State,; and
+                  
+                  
+                     (B)
+                     by striking during the period that the child and inserting during the period that the woman or child. 
+                  
+               
+               
+                  (3)
+                  Effective date
+                  The amendments made by this subsection shall take effect on January 1, 2025. 
+               
+            
+            
+               (b)
+               Technical correction
+               Section 5122(a)(1) of the Consolidated Appropriations Act, 2023 (Public Law 117–328) is amended by striking after and all that follows through the period at the end and inserting after or in the case of an eligible juvenile described in section 1902(a)(84)(D) with respect to the screenings, diagnostic services, referrals, and targeted case management services required under such section.. 
+            
+         
+         
+            307.
+            PERMITTING ACCESS TO MEDICAL ASSISTANCE UNDER THE MEDICAID PROGRAM FOR FOSTER YOUTH
+            
+               (a)
+               In general
+               Section 1905(a) of the Social Security Act (42 U.S.C. 1396d(a)) is amended by adding at the end the following new sentence: In the case of an individual who is under the age of 21 and who is a patient in an institution for mental diseases that is a qualified residential treatment program (as defined in section 472(k)(4)), the exclusion from the definition of medical assistance set forth in the subdivision (B) following the last numbered paragraph of this subsection shall not apply with respect to items and services furnished to such an individual when received outside of such program..
+            
+            
+               (b)
+               Effective date
+               The amendment made by paragraph (1) shall apply with respect to medical assistance furnished in calendar quarters beginning on or after January 1, 2025.
+            
+         
+      
+      
+         IV
+         OFFSETS
+         
+            401.
+            PROMOTING VALUE IN MEDICAID MANAGED CARE
+            Section 1903(m)(9)(A) of the Social Security Act (42 U.S.C. 1396b(m)(9)(A)) is amended by striking (and before fiscal year 2024).
+         
+      
+   
+   
+      
+         Passed the House of Representatives December 12, 2023.
+         KEVIN F. MCCUMBER,
+         Clerk.
+      
+   

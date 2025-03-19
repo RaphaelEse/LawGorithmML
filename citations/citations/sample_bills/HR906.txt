@@ -1,0 +1,574 @@
+
+<!DOCTYPE bill
+  SYSTEM "blp-dscs-billres.dtd">
+
+
+   
+      
+         Right to Equitable and Professional Auto Industry Repair Act REPAIR Act
+      
+   
+   
+      I
+      118th CONGRESS
+      1st Session
+      H. R. 906
+      IN THE HOUSE OF REPRESENTATIVES
+      
+         February 9, 2023
+         
+            Mr. Dunn of Florida (for himself, Mr. Boyle of Pennsylvania, Mr. Davidson, and Ms. Perez) introduced the following bill; which was referred to the Committee on Energy and Commerce
+      
+      A BILL
+      To ensure consumers have access to data relating to their motor vehicles, critical repair information, and tools, and to provide them choices for the maintenance, service, and repair of their motor vehicles, and for other purposes.
+   
+   
+      Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+      
+         1.
+         SHORT TITLE
+         This Act may be cited as the 
+               Right to Equitable and Professional Auto Industry Repair Act
+             or the 
+               REPAIR Act
+            .
+       
+      
+         2.
+         FINDINGS
+         Congress finds that—
+         
+            (1)
+            as technology advances and vehicle systems become more advanced, vehicle repair and maintenance will require access to extensive vehicle data, software, sophisticated replacement components, training, diagnostic tools, and enhanced diagnostic repair services;
+          
+         
+            (2)
+            consumers and their designees must have access to vehicle-generated data and aftermarket parts that are necessary to maintain consumer choice and competitive pricing;
+         
+         
+            (3)
+            consumer choice, consumer control, motor vehicle cybersecurity, and safety are all valid concerns and do not have to be mutually exclusive;
+          
+         
+            (4)
+            vehicles generate increasingly massive amounts of data and the Federal Trade Commission and the National Highway Traffic Safety Administration are uniquely positioned, after considering consumers’ privacy and cybersecurity needs, to designate additional types of data not specifically considered or identified by Congress that consumers should be able to easily share with persons they choose for the reasons they choose and examine fair competition in evolving motor vehicle technologies; and
+         
+         
+            (5)
+            it is in the interest of the United States to foster competition in the motor vehicle repair industry and not limit consumers in their choices for maintenance, service, and repair, allowing consumers and the industry to benefit from a system that fosters communication, collaboration, and innovation and promotes consumer choice.
+         
+       
+      
+         3.
+         MAINTAINING COMPETITION AFTER CONSUMERS PURCHASE OR LEASE THEIR MOTOR VEHICLES 
+         
+            (a)
+            In general 
+            
+               (1)
+               Prohibition on motor vehicle manufacturers withholding of data, critical repair information, and tools
+               A motor vehicle manufacturer shall not employ any technological barrier or specified legal barrier that impairs the ability of—
+               
+                  (A)
+                  a motor vehicle owner or the motor vehicle owner’s designee to access vehicle-generated data pursuant to subparagraphs (A) and (B) of paragraph (2);
+                
+               
+                  (B)
+                  a motor vehicle owner or the motor vehicle owner’s designee, or an aftermarket parts manufacturer, a motor vehicle equipment manufacturer, an aftermarket parts remanufacturer, or a motor vehicle repair facility and their distributors and service providers to access critical repair information and tools pursuant to paragraph (2)(C);
+               
+               
+                  (C)
+                  a motor vehicle owner or the motor vehicle owner’s designee to use a vehicle towing or service provider of their choice;
+                
+               
+                  (D)
+                  an aftermarket parts manufacturer, a motor vehicle equipment manufacturer, an aftermarket parts remanufacturer, or a motor vehicle repair facility and their distributors and service providers to produce or offer compatible aftermarket parts; or
+               
+               
+                  (E)
+                  a motor vehicle owner or the motor vehicle owner’s designee to diagnose, repair, and maintain a motor vehicle in the same manner as any motor vehicle manufacturer or motor vehicle dealer.
+               
+             
+            
+               (2)
+               Requirement to provide motor vehicle data to owners
+               A motor vehicle manufacturer shall—
+               
+                  (A)
+                  effective on the date of enactment of this Act, provide for motor vehicle owners or their designees, without restrictions or limitations (including a fee, license, or requiring use of a device mandated by the motor vehicle manufacturer to decrypt vehicle-generated data), to have access to vehicle-generated data;
+                
+               
+                  (B)
+                  beginning not later than 1 year after publication of the final rule issued under section 5(b), if the motor vehicle manufacturer utilizes wireless technology or telematics systems to transmit any vehicle-generated data, make available vehicle-generated data described in subparagraph (A) to the motor vehicle owner and their designees, directly and wirelessly from the vehicle through a standardized access platform; and
+               
+               
+                  (C)
+                  effective on the date of enactment of this Act, make available to motor vehicle owners and their designees, aftermarket parts manufacturers, aftermarket parts remanufacturers, and motor vehicle repair facilities, and their distributors and service providers without restrictions or limitations, any critical repair information and tools related to the motor vehicles it manufactures at a fair, reasonable, and nondiscriminatory cost. 
+               
+             
+            
+               (3)
+               Prohibition on certain mandates by motor vehicle manufacturers related to repairs
+               Outside of recall and warranty repairs, a motor vehicle manufacturer shall not, within repair or maintenance service procedures, recommendations, service bulletins, repair manuals, position statements, or other similar repair or maintenance guides that are distributed to consumers or to professional repairers—
+               
+                  (A)
+                  mandate or imply a mandate to use any particular brand or manufacturer of parts, tools, or equipment; or
+                
+               
+                  (B)
+                  recommend the use of any particular brand or manufacturer of parts, tools, or equipment unless the motor vehicle manufacturer provides a prominent notice immediately following the recommendation, in the same font as the recommendation and in a font size no smaller than the font size used in the recommendation, stating that: Vehicle owners can choose which repair parts, tools, and equipment to purchase and should carefully consider their options..
+               
+            
+            
+               (4)
+               Cybersecurity
+               Nothing in this section shall preclude a manufacturer from employing cryptographic or technological protections necessary to secure vehicle-generated data, safety critical vehicle systems, and vehicles. 
+             
+            
+               (5)
+               Prohibition on certain limitations
+               The entity managing access to vehicle-generated data transmitted by the standardized access platform shall not limit the number or types of persons which each motor vehicle owner may designate as simultaneous designees under this subsection.
+            
+            
+               (6)
+               Notifications
+               Each motor vehicle manufacturer shall notify motor vehicle owners either via an on-vehicle screen or through a mobile device that vehicle-generated data is being accessed. Notifications shall specify whether each such access by the motor vehicle owner, a designee of the motor vehicle owner, or the motor vehicle manufacturer, includes the ability to send an in-vehicle command or software update in order to complete a repair.
+             
+            
+               (7)
+               Limitation
+               A motor vehicle manufacturer, including any affiliates of the motor vehicle manufacturer, and any persons working on behalf of the motor vehicle manufacturer, shall not be considered or treated as, or in the same way, as the motor vehicle owner or as designees of the motor vehicle owner for any purpose except for including them in notifications of persistent access to vehicle-generated data.
+            
+         
+         
+            (b)
+            Nullification of attempts To restrict competition and consumer rights
+            Any provision in a contract executed on or after the date of enactment of this Act by or on behalf of a motor vehicle manufacturer that purports to violate subsection (a) shall be null and void to the extent that it would allow the motor vehicle manufacturer to avoid its obligations under subsection (a).
+         
+       
+      
+         4.
+         FAIR COMPETITION AFTER VEHICLES ARE SOLD ADVISORY COMMITTEE 
+         
+            (a)
+            Establishment
+            Not later than 90 days after the date of enactment of this Act, the Commission shall establish a Fair Competition After Vehicles Are Sold Advisory Committee, hereafter referred to as the Advisory Committee. The Chairman of the Commission (or the designee of the Chairman) shall serve as the chairman of the Advisory Committee.
+         
+         
+            (b)
+            Membership
+            The Advisory Committee shall be composed of the following members: 
+            
+               (1)
+               The Director of the Bureau of Competition, or his or her designee.
+            
+            
+               (2)
+               The Administrator of the National Highway Traffic Safety Administration, or his or her designee.
+             
+            
+               (3)
+               Eleven individuals, appointed by the Chairman of the Commission, from each of the following:
+               
+                  (A)
+                  Independent repair facilities.
+                
+               
+                  (B)
+                  Motor vehicle parts retailers.
+               
+               
+                  (C)
+                  Motor vehicle parts distributors.
+                
+               
+                  (D)
+                  Original equipment parts manufacturers.
+               
+               
+                  (E)
+                  Aftermarket parts manufacturers.
+                
+               
+                  (F)
+                  Aftermarket tools manufacturers.
+               
+               
+                  (G)
+                  Motor vehicle manufacturers.
+                
+               
+                  (H)
+                  Vehicle dealership service centers.
+               
+               
+                  (I)
+                  Consumer rights organizations.
+                
+               
+                  (J)
+                  Automobile insurers.
+               
+               
+                  (K)
+                  Trucking companies.
+               
+            
+          
+         
+            (c)
+            Function
+            The Advisory Committee shall provide recommendations to the Commission on implementation of this Act and competition issues after motor vehicles are sold, including those facing the vehicle repair industry to include an assessment of existing and emerging barriers related to vehicle repair, as well as ensuring motor vehicle owners’ control over their vehicle-generated data.
+         
+         
+            (d)
+            Duties
+            In carrying out its function under subsection (c), the Advisory Committee shall— 
+            
+               (1)
+               foster industry collaboration in a clear and transparent manner;
+            
+            
+               (2)
+               coordinate with and include participation by the private sector, including representatives of— 
+               
+                  (A)
+                  independent repair facilities;
+               
+               
+                  (B)
+                  motor vehicle parts retailers;
+                
+               
+                  (C)
+                  motor vehicle parts distributors;
+               
+               
+                  (D)
+                  original equipment parts manufacturers;
+                
+               
+                  (E)
+                  aftermarket parts manufacturers;
+               
+               
+                  (F)
+                  aftermarket tools manufacturers;
+                
+               
+                  (G)
+                  motor vehicle manufacturers;
+               
+               
+                  (H)
+                  vehicle dealership service centers; 
+                
+               
+                  (I)
+                  consumer rights organizations;
+               
+               
+                  (J)
+                  automobile insurers;
+                
+               
+                  (K)
+                  members of the public; and
+               
+               
+                  (L)
+                  other interested parties; and
+               
+             
+            
+               (3)
+               assess existing and emerging barriers to competitive vehicle repair.
+            
+         
+         
+            (e)
+            Meetings
+            The Advisory Committee shall meet at least three times per year at the call of the chairman.
+          
+         
+            (f)
+            Report
+            On at least an annual basis, the Advisory Committee shall issue a report to the chairman on efforts by the industries represented within the Advisory Committee to implement this Act as well as an assessment of existing and emerging barriers to vehicle repair and motor vehicle owners’ control over their vehicle-generated data, including whether additional types of data should be included in the definition of vehicle-generated data. The Commission shall provide a copy of each report to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate within 30 days of receipt of each report.
+         
+         
+            (g)
+            Termination
+            The Advisory Committee shall terminate upon an agreement of a majority of the membership. The Advisory Committee shall provide notice of its planned termination to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, not later than 30 days prior to such termination and shall include a basis for the termination.
+         
+       
+      
+         5.
+         RULEMAKING AND OTHER DIRECTIVES 
+         
+            (a)
+            Security standards for access to vehicle-Generated data through the standardized access platform
+            Not later than 1 year after the date of enactment of this Act, the National Highway Traffic Safety Administration, in consultation with the Commission, shall, by regulations issued under section 553 of title 5, United States Code, issue standards for access to data through the standardized access platform and establish guidance to ensure the security of vehicle-generated data and vehicles as related to the access of vehicle-generated data required pursuant to this Act.
+         
+         
+            (b)
+            Designation of Independent Entity To administer access to data through the standardized access platform
+            
+               (1)
+               In general
+               Not later than 2 years after the date of enactment of this Act, the Commission, in consultation with the National Highway Traffic Safety Administration, shall, by regulations issued under section 553 of title 5, United States Code, designate an independent entity not controlled by one or more motor vehicle manufacturers to establish and administer access to vehicle-generated data transmitted by standardized access platforms. 
+             
+            
+               (2)
+               Composition
+               Such independent entity designated under paragraph (1) shall consist of a cross-section of industry stakeholders, including aftermarket part manufacturers, telematics service providers, and motor vehicle manufacturers.
+            
+            
+               (3)
+               Responsibilities
+               The responsibilities of such independent entity shall include— 
+               
+                  (A)
+                  managing cybersecure access of vehicle-generated data, including ensuring, on an ongoing basis, that access to the platform is secure based on all applicable international standards, including those required by the National Highway Traffic Safety Administration in the final regulations issued pursuant to paragraph (1); 
+               
+               
+                  (B)
+                  managing legitimate data requests, data standardization, and harmonization; and
+                
+               
+                  (C)
+                  dispute resolution.
+               
+            
+         
+         
+            (c)
+            Informing motor vehicle owners of their rights under this Act
+            Not later than 2 years after the date of enactment of this Act, the Commission, in consultation with the National Highway Traffic Safety Administration, shall issue final regulations under section 553 of title 5, United States Code, to require motor vehicle manufacturers and motor vehicle dealers to inform motor vehicle owners of their rights under this Act at the point of purchase or lease of a motor vehicle.
+         
+       
+      
+         6.
+         ENFORCEMENT BY THE FEDERAL TRADE COMMISSION 
+         
+            (a)
+            Unfair or deceptive Acts or Practices
+            A violation of this Act or a regulation issued under section 5 shall be treated as a violation of a regulation under section 18(a)(1)(B) of the Federal Trade Commission Act (15 U.S.C. 57a(a)(1)(B)) regarding unfair or deceptive acts or practices. The Commission shall enforce this section in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated into and made a part of this Act.
+         
+         
+            (b)
+            Privileges and immunities
+            Any person who violates this Act shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act.
+          
+         
+            (c)
+            Complaint process 
+            
+               (1)
+               Filing
+               Any person alleging any action taken or refused to be taken by any motor vehicle manufacturer subject to this Act, in violation of this Act may file a complaint with the Commission briefly stating the facts of such complaint.
+            
+            
+               (2)
+               Notification to and response from motor vehicle manufacturer
+               Upon receiving a complaint under this subsection, the Commission shall forward the complaint to the motor vehicle manufacturer named in the complaint, and request that such motor vehicle manufacturer answer such complaint in writing within a reasonable time to be specified by the Commission.
+             
+            
+               (3)
+               Further action
+               If such motor vehicle manufacturer within the time specified in paragraph (2) has ceased the conduct that is the subject of the complaint and has otherwise made reparation for any harm or injury alleged to have been caused, the motor vehicle manufacturer shall be relieved of liability to the complainant only for the particular violation of law thus complained of. If such motor vehicle manufacturer does not satisfy the complaint within the time specified or there is any reasonable ground for investigating such complaint, the Commission shall investigate the matters complained of in such manner and by such means as it shall consider proper. No complaint may at any time be dismissed because of the absence of direct damage to the complaint.
+            
+            
+               (4)
+               Deadline for orders by the Commission
+               The Commission shall, with respect to any investigation of complaint of a violation of this Act or a regulation issued under section 5, issue an order concluding such investigation within 5 months after the date on which the complaint was filed. Any order concluding an investigation under this paragraph shall be a final order and may be appealed to the Federal district court for the District of Columbia. 
+            
+         
+       
+      
+         7.
+         DEFINITIONS 
+         
+            (a)
+            Definitions
+            In this Act, the following definitions apply:
+            
+               (1)
+               Aftermarket part
+               The term aftermarket part means any part offered for sale or for installation in or on a motor vehicle after such vehicle has left the vehicle manufacturer's production line. Such term does not include any original equipment or part manufactured for a motor vehicle manufacturer.
+             
+            
+               (2)
+               Barrier
+               The term barrier means a restriction that prohibits, makes more difficult, or tends to make more difficult, the ability of a person to exercise rights under this Act.
+            
+            
+               (3)
+               Critical repair information and tools
+               The term critical repair information and tools means all necessary technical and compatibility information, tools, equipment, schematics, parts nomenclature and descriptions, parts catalogs, repair procedures, training materials, software, and technology, specifically including but not limited to information related to diagnostics, repair, service, calibration or recalibration of parts and systems to return a vehicle to operational specifications.
+             
+            
+               (4)
+               Insurer
+               The term insurer has the meaning given that term under section 313(r) of title 31, United States Code.
+            
+            
+               (5)
+               Motor vehicle repair facility
+               The term motor vehicle repair facility means any person or business who, in the ordinary course of its business, is engaged in the business of diagnosis, service, maintenance, repair, or calibration of motor vehicles or motor vehicle equipment.
+             
+            
+               (6)
+               Motor vehicle dealer
+               The term motor vehicle dealer means a dealer, as defined in section 30102(a) of title 49, United States Code, which has an agreement with a motor vehicle manufacturer related to the diagnostics, repair, or service of a motor vehicle.
+            
+            
+               (7)
+               Motor vehicle manufacturer
+               The term motor vehicle manufacturer means an entity manufacturing a “motor vehicle” as defined in section 30102(a) of title 49, United States Code.
+             
+            
+               (8)
+               Motor vehicle
+               The term motor vehicle has the meaning given such term in section 30102(a) of title 49, United States Code, and of the term “motor vehicle trailer” in section 390 of title 49, Code of Federal Regulations.
+            
+            
+               (9)
+               Motor vehicle equipment
+               The term motor vehicle equipment has the meaning given such term in section 30102(a) of title 49, United States Code.
+             
+            
+               (10)
+               Motor vehicle owner
+               The term motor vehicle owner means a person with a present possessive ownership right in a motor vehicle or a lessee of a motor vehicle. It does not include a motor vehicle manufacturer or a person operating on behalf of a motor vehicle manufacturer, a motor vehicle financing company, a motor vehicle dealer, or a motor vehicle lessor.
+            
+            
+               (11)
+               Person
+               The term person means an individual, trust, estate, partnership, association, company, or corporation.
+             
+            
+               (12)
+               Commission
+               The term Commission means the Federal Trade Commission.
+            
+            
+               (13)
+               Chairman
+               The term “Chairman” means the Chairman of the Federal Trade Commission.
+             
+            
+               (14)
+               Remanufacturer
+               The term remanufacturer means a person utilizing a standardized industrial process by which previously sold, worn, or non-functional products are returned to same-as-new, or better, condition and performance. The process is in line with specific technical specifications, including engineering, quality, and testing standards. The process yields fully warranted products.
+            
+            
+               (15)
+               Service provider
+               The term service provider means any designee of a motor vehicle owner or motor vehicle repair facility employed by the motor vehicle owner or motor vehicle repair facility to assist with the diagnosis and repair of a vehicle including wireless and remote technologies, or with any other wireless and remote services comparable to those provided by a vehicle manufacturer.
+             
+            
+               (16)
+               Specified legal barrier
+               The term specified legal barrier means—
+               
+                  (A)
+                  requesting a waiver of a motor vehicle owner’s right to use a repair facility of the consumer’s choice under this Act, requiring a waiver as a condition for purchasing, leasing, operating, or obtaining warranty repairs, or offering any compensation or other incentive for such a waiver; or
+                
+               
+                  (B)
+                  a barrier included within the definition of specified legal barrier in regulations promulgated by the Commission pursuant to subsection (b).
+               
+            
+            
+               (17)
+               Standardized access platform
+               The term standardized access platform means a cybersecure authentication and authorization system developed by a motor vehicle manufacturer, for the motor vehicles it manufactures, that has the ability to securely access and communicate vehicle generated data emanating directly from a motor vehicle via direct local and remote wireless data connections bidirectionally and in real time. 
+             
+            
+               (18)
+               Technological barrier
+               The term technological barrier means any technological restriction that prohibits, makes more difficult, or tends to make more difficult, the ability of a person to exercise rights under this Act. It includes any such restriction specifically prohibited by regulations promulgated by the Commission pursuant to subsection (b).
+            
+            
+               (19)
+               Telematics system
+               The term telematics system means any system in a motor vehicle that collects information generated by the operation of the vehicle and transmits such information, utilizing wireless communications to a remote receiving point where it is stored.
+             
+            
+               (20)
+               Vehicle-generated data
+               The term vehicle-generated data means any direct, real-time, in-vehicle data generated, or generated and retained, by the operation of a motor vehicle related to diagnostics, repair, service, wear, and calibration or recalibration of parts and systems required to return a vehicle to operational specifications in compliance with Federal motor vehicle safety and emissions laws, regulations, and standards, as well as any data related to the types of data included within the definition of vehicle-generated data in regulations promulgated by the Commission pursuant to subsection (b).
+            
+         
+         
+            (b)
+            Authority To expand certain definitions
+            
+               (1)
+               Regulations
+               The Commission, in consultation with the National Highway Traffic Safety Administration, may, by regulation under section 553 of title 5, United States Code— 
+               
+                  (A)
+                  expand the definition of specified legal barrier under subsection (a)(16) to include barriers to—
+                  
+                     (i)
+                     motor vehicle repair; or
+                   
+                  
+                     (ii)
+                     control by a motor vehicle owner of the motor vehicle owner’s vehicle-generated data; 
+                  
+               
+               
+                  (B)
+                  include within the definition of technological barrier under subsection (a)(18) specific prohibited practices; or 
+                
+               
+                  (C)
+                  add additional types of data to the definition of vehicle-generated data under subsection (a)(20), regardless of whether those types of data are related to motor vehicle repair, taking cybersecurity and privacy into consideration, to allow consumers and their designees to directly access additional types of vehicle-generated data, and for additional purposes.
+               
+            
+            
+               (2)
+               Review
+               The Commission shall review its authority under paragraph (1) not less frequently than every 3 years after the date of enactment of this Act to consider whether it is necessary to update such definitions under such authority to ensure that the standardized access platform is effective for motor vehicle owners and their designees. In conducting such reviews, the Commission shall request comments from aftermarket parts manufacturers, motor vehicle repair facilities, motor vehicle manufacturers, consumer rights organizations, automobile insurers, and others for the Commission to collect information on new, emerging barriers and other issues relevant to the Commission’s determination of whether to updates such definitions.
+            
+         
+       
+      
+         8.
+         REPORT TO CONGRESS
+         Not later than 2 years after the date of enactment of this Act, and every two years thereafter, the Commission shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that includes—
+         
+            (1)
+            a summary of investigations conducted and orders issued under section 6, including descriptions of unfair practices relating to repair and data access restrictions, and a summary of best practices from stakeholders;
+          
+         
+            (2)
+            actions the Commission is taking to adapt to changes and advances in motor vehicle technology to maintain competition in the motor vehicle aftermarket and to ensure motor vehicle owners’ control over their vehicle-generated data; and
+         
+         
+            (3)
+            any recommendations by the Commission for legislation that would improve the ability of the Commission and other relevant Federal agencies to further protect consumers from unfair acts limiting competition in motor vehicle repair and strengthen their control over their vehicle-generated data.
+         
+       
+      
+         9.
+         EFFECT ON STATE LAW 
+         
+            (a)
+            In general
+            Except as provided in subsection (b), this Act shall preempt State law only to the extent a State law imposes a duty on a manufacturer that is narrower than the duties described in this section.
+         
+         
+            (b)
+            Preemption
+            Notwithstanding subsection (a), this Act shall preempt any State law mandating the use of any particular brand or manufacturer of parts, tools, or equipment for the purpose of maintaining, diagnosing, or repairing a motor vehicle.
+         
+       
+      
+         10.
+         SEVERABILITY
+          If any provision of this Act is held to be invalid, the remainder of this Act shall not be affected thereby.
+      
+   

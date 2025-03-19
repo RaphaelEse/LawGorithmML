@@ -1,0 +1,256 @@
+
+<!DOCTYPE bill
+  SYSTEM "blp-dscs-billres.dtd">
+
+   
+      
+         D.C. Robert F. Kennedy Memorial Stadium Campus Revitalization Act
+      
+   
+   
+      I
+      118th Congress
+      2nd Session
+      H. R. 4984
+      
+                                In the House of Representatives
+                            
+      AN ACT
+      To direct the Secretary of the Interior to transfer administrative jurisdiction over the Robert F. Kennedy Memorial Stadium Campus to the District of Columbia so that the District may use the Campus for purposes including residential and commercial development, and for other purposes.
+   
+   
+      Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+      
+         1.
+         SHORT TITLE
+         This Act may be cited as the 
+               D.C. Robert F. Kennedy Memorial Stadium Campus Revitalization Act
+            .
+      
+      
+         2.
+         TRANSFER OF ADMINISTRATIVE JURISDICTION OVER RFK MEMORIAL STADIUM CAMPUS TO DISTRICT OF COLUMBIA
+         
+            (a)
+            Exercise of transfer authority
+            
+               (1)
+               Transfer
+               Not later than 180 days after the date of the enactment of this Act, the Secretary of the Interior (hereafter referred to as the Secretary), acting under the authority of section 8124 of title 40, United States Code (except as provided under paragraph (2)), shall transfer administrative jurisdiction over the Robert F. Kennedy Memorial Stadium Campus (hereafter referred to as the Campus) to the District of Columbia (hereafter referred to as the District), subject to a Declaration of Covenants with the District which is consistent with the succeeding provisions of this Act and which includes such other terms and conditions as may be agreed to by the Secretary and the District.
+            
+            
+               (2)
+               Waiver of requirement for prior recommendation of national capital planning commission
+               The second sentence of section 8124(a) of title 40, United States Code, shall not apply to the transfer of administrative jurisdiction over the Campus under this section.
+            
+            
+               (3)
+               No effect on status of ownership of campus
+               Consistent with section 8124 of title 40, United States Code, the transfer of administrative jurisdiction over the Campus under this section does not change the status of the ownership of the Campus by the United States.
+            
+         
+         
+            (b)
+            Development and uses of campus
+            After transfer of administrative jurisdiction over the Campus under this section, the District may develop and use, and permit the development and use of, the Campus for any of the following purposes:
+            
+               (1)
+               Stadium purposes, including training facilities, offices, and other structures necessary to support a stadium.
+            
+            
+               (2)
+               Commercial and residential development.
+            
+            
+               (3)
+               Facilities, open space, and public outdoor opportunities, which may include supporting cultural activities, educational activities, and recreational activities, as such terms are defined in section 3306(a) of title 40, United States Code.
+            
+            
+               (4)
+               Such other public purposes for which the Campus was used or approved for use prior to June 1, 1985.
+            
+            
+               (5)
+               Demolition purposes to facilitate development and use of the Campus under subparagraphs (1) through (4). 
+            
+         
+         
+            (c)
+            Specific requirements relating to development and use of campus
+            The Declaration of Covenants entered into under subsection (a)(1) shall include provisions to require the District to meet the following requirements as a condition of the development and use of the Campus as set forth under subsection (b) after transfer of administrative jurisdiction over the Campus under this section:
+            
+               (1)
+               The District shall ensure that the development and use does not materially degrade or adversely impact any lands under the jurisdiction of the National Park Service, including the restoration of the wetlands south of Kingman Island.
+            
+            
+               (2)
+               The District shall designate, develop, operate, and maintain at least 30 percent of the Campus (excluding the riparian area of the Campus as defined in subsection (g)(2)) as the Robert F. Kennedy Memorial Park as parks and open space to provide land for passive and active outdoor recreation and shall require that portion to be reserved for such purposes for the duration of the transfer.
+            
+            
+               (3)
+               The District shall ensure that the development and use provides for improved public access to the Anacostia River and shall not interrupt the Anacostia River Trail.
+            
+            
+               (4)
+               The District shall, to the extent necessary, ensure that parking facilities are provided to accommodate the development.
+            
+            
+               (5)
+               The District shall provide for adequate public safety and security measures and resources in the planning and ongoing management of the development.
+            
+            
+               (6)
+               The District shall carry out measures that, to the greatest extent practicable, will reduce the impact of noise and traffic of the development on surrounding residential areas in the District.
+            
+            
+               (7)
+               The District shall operate and maintain the riparian area of the Campus in accordance with subsection (g).
+            
+            
+               (8)
+               The District shall ensure that no Member of Congress, Delegate or Resident Commissioner to the Congress, or any other official of the Government of the United States or the Government of the District of Columbia shall be admitted to any share or part of any lease entered into by the District in the exercise of the administrative jurisdiction over the Campus transferred under this section, or to any benefit that may arise therefrom, including any contract or agreement made, entered into, or accepted by or on behalf of the District as a result of this section. Nothing in the previous sentence may be construed to apply to a person who is a shareholder or other beneficial owner of any publicly held corporation or other entity, if the lease is for the general benefit of such corporation or other entity.
+            
+         
+         
+            (d)
+            Survey
+            
+               (1)
+               Requiring survey
+               As soon as practicable after the date of the enactment of this Act, the District shall conduct a survey of the Campus, which shall determine the exact acreage and legal description of the Campus by a boundary survey prepared by a qualified Federally-, State-, or District-licensed surveyor who is approved by the Secretary.
+            
+            
+               (2)
+               Submission to congress
+               Upon completion, the survey conducted under paragraph (1) shall be submitted to—
+               
+                  (A)
+                  the Committee on Oversight and Accountability and the Committee on Natural Resources of the House of Representatives; and
+               
+               
+                  (B)
+                  the Committee on Homeland Security and Governmental Affairs and the Committee on Energy and Natural Resources of the Senate.
+               
+            
+            
+               (3)
+               Incorporation in declaration of covenants for transfer
+               The survey conducted under paragraph (1) shall be incorporated in the Declaration of Covenants entered into under subsection (a)(1).
+            
+            
+               (4)
+               Availability of survey and map for public inspection
+               The survey conducted under paragraph (1), together with the map of the Campus referred to in subsection (m), shall be kept on file and available for public inspection in the appropriate offices of the Secretary.
+            
+         
+         
+            (e)
+            Memorandum of understanding
+            As a condition of the development and use of the Campus after transfer of administrative jurisdiction over the Campus under this section, the Secretary and the District shall enter into a memorandum of understanding to determine an allocation of the costs of carrying out all responsibilities of the United States and the District with respect to the Campus under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.) and the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.), including any costs of any response action with respect to any contamination present on the Campus.
+         
+         
+            (f)
+            Costs
+            
+               (1)
+               Costs of transfer
+               The District shall be responsible for payment of any costs of carrying out the transfer of administrative jurisdiction over the Campus under this section, including—
+               
+                  (A)
+                  any costs of carrying out the survey under subsection (d); and
+               
+               
+                  (B)
+                  any costs of carrying out any environmental analysis required under Federal law.
+               
+            
+            
+               (2)
+               Costs after transfer
+               Except as provided under the memorandum of understanding entered into under subsection (e), the Secretary shall not be responsible for payment of any costs or expenses that are incurred by the District or any other party (other than the United States) associated with the Campus after the transfer of administrative jurisdiction under this section.
+            
+         
+         
+            (g)
+            Special rules for riparian area
+            
+               (1)
+               Restriction on development and use
+               The Declaration of Covenants entered into under subsection (a)(1) shall include provisions to ensure that the riparian area of the Campus may not be developed or used for any purposes other than the continuing maintenance of any development, use, or infrastructure (including roads and pathways) existing at the time of the execution of the transfer of administrative jurisdiction over the Campus under this section. 
+            
+            
+               (2)
+               Riparian area of the campus defined
+               In this subsection, the term riparian area of the Campus means the area designated in the map referred to in subsection (m) as Riparian Area (Area F).
+            
+         
+         
+            (h)
+            Prohibiting use of federal funds for stadium
+            The Declaration of Covenants entered into under subsection (a)(1) shall include provisions to ensure that the District may not use Federal funds for stadium purposes on the Campus, including training facilities, offices, and other structures necessary to support a stadium.
+         
+         
+            (i)
+            Term
+            The transfer of administrative jurisdiction over the Campus under this section shall be in effect for a term of not less than 99 years, and may be renewed for subsequent periods agreed to by the Secretary and the District.
+         
+         
+            (j)
+            Reversion of administrative jurisdiction
+            
+               (1)
+               Grounds for reversion
+               The Declaration of Covenants entered into under subsection (a)(1) shall include provisions stating that administrative jurisdiction over the Campus transferred under this section shall revert to the Secretary if each of the following occurs:
+               
+                  (A)
+                  The terms and conditions of the Declaration of Covenants have not been complied with, as reasonably determined by the Secretary.
+               
+               
+                  (B)
+                  Such noncompliance has not been corrected within 90 days after written notice of such noncompliance has been received by the District. Such noncompliance shall be treated as corrected if the District and the Secretary enter into an agreement that the Secretary finds adequate to ensure that the Campus will be developed and used in a manner consistent with the purposes referred to in subsection (b).
+               
+            
+            
+               (2)
+               Timing
+               The Secretary may not seek the reversion of administrative jurisdiction over the Campus under this subsection before the expiration of 90 days after the date on which written notice of the alleged violation is received by the District. The notice shall include notice of the Secretary’s intention for administrative jurisdiction over the Campus to revert to the Secretary.
+            
+            
+               (3)
+               Cost of rehabilitating property
+               The Declaration of Covenants entered into under subsection (a)(1) shall include provisions requiring the District to bear the actual cost of removing structures from or rehabilitating the Campus if administrative jurisdiction over the Campus reverts to the Secretary under this subsection.
+            
+         
+         
+            (k)
+            Rule of construction related to the applicability to the administrative jurisdiction transfer
+            Nothing in this section may be construed to affect or limit the application of or obligation to comply with the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.) and the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.).
+         
+         
+            (l)
+            Conforming amendment; termination of existing lease
+            Effective on the date of the transfer of administrative jurisdiction over the Campus under this section—
+            
+               (1)
+               the District of Columbia Stadium Act of 1957 (sec. 3–321 et seq., D.C. Official Code) is repealed; and
+            
+            
+               (2)
+               the lease dated January 14, 1988, between the United States and the District for the use of the Campus, as authorized by section 7(b)(1)(B) of such Act (sec. 3–326(b)(1)(B), D.C. Official Code), is terminated.
+            
+         
+         
+            (m)
+            Definition
+            In this Act, the term Robert F. Kennedy Memorial Stadium Campus means the approximately 174 acres of Federal land as generally depicted on the map entitled Anacostia Park, Robert F. Kennedy Memorial Stadium Campus – Transfer of Administrative Jurisdiction, numbered 831/189,767, and dated January 2024.
+         
+      
+   
+   
+      
+         Speaker of the House of Representatives.
+      
+      
+         Vice President of the United States and President of the Senate.
+      
+   

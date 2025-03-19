@@ -1,0 +1,238 @@
+
+<!DOCTYPE bill
+  SYSTEM "blp-dscs-billres.dtd">
+
+   
+      
+         Telehealth Modernization Act of 2024
+      
+   
+   
+      I
+      118th CONGRESS
+      2d Session
+      H. R. 7623
+      IN THE HOUSE OF REPRESENTATIVES
+      
+         March 12, 2024
+         
+            Mr. Carter of Georgia (for himself, Ms. Blunt Rochester, Mr. Steube, Ms. Sewell, Mrs. Miller-Meeks, Mrs. Dingell, Mr. Van Drew, and Mr. Morelle) introduced the following bill; which was referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned
+      
+      A BILL
+      To amend title XVIII of the Social Security Act to make permanent certain telehealth flexibilities under the Medicare program.
+   
+   
+      Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+      
+         1.
+         SHORT TITLE
+         This Act may be cited as the 
+               Telehealth Modernization Act of 2024
+            .
+      
+      
+         2.
+         EXTENDING MEDICARE TELEHEALTH FLEXIBILITIES
+         
+            (a)
+            Expanding access to telehealth services
+            
+               (1)
+               In general
+               Section 1834(m)(4)(C)(iii) of the Social Security Act (42 U.S.C. 1395m(m)(4)(C)(iii)) is amended by striking In the case that and all that follows through 2024, and inserting Beginning on the date of the enactment of the Telehealth Modernization Act,. 
+            
+            
+               (2)
+               Conforming amendments
+               Section 1834(m) of the Social Security Act (42 U.S.C. 1395m(m)) is amended—
+               
+                  (A)
+                  in paragraph (2)(B)(iii), by striking In the case that and all that follows through ending December 31, 2024, and inserting With respect to telehealth services furnished on or after the date of the enactment of the Telehealth Modernization Act,; 
+               
+               
+                  (B)
+                  in paragraph (4)(C)(ii)(X), by striking , but only for purposes of section 1881(b)(3)(B) or telehealth services described in paragraph (7); 
+               
+               
+                  (C)
+                  in paragraph (5), by inserting and prior to the date of the enactment of the Telehealth Modernization Act, after January 1, 2019,;
+               
+               
+                  (D)
+                  in paragraph (6)(A), by inserting and prior to the date of the enactment of the Telehealth Modernization Act, after January 1, 2019,; and
+               
+               
+                  (E)
+                  in paragraph (7), by adding at the end the following new subparagraph:
+                  
+                     
+                        (C)
+                        Sunset
+                        The provisions of this paragraph shall not apply with respect to services furnished on or after the date of the enactment of this subparagraph.
+                     
+                     .
+                  
+               
+            
+         
+         
+            (b)
+            Expanding practitioners eligible To furnish telehealth services
+            Section 1834(m) of the Social Security Act (42 U.S.C. 1395m(m)) is amended—
+            
+               (1)
+               in paragraph (1), by striking (described in section 1842(b)(18)(C)) and inserting (defined in paragraph (4)(E)); and
+            
+            
+               (2)
+               in paragraph (4)(E)—
+               
+                  (A)
+                  by striking 
+                        practitioner.—The term and inserting “
+                        practitioner
+                     .—
+                  
+                     
+                        (A)
+                        In general
+                        Subject to subparagraph (B), the term
+                     
+                     ; 
+                  
+               
+               
+                  (B)
+                  in subparagraph (A), as so inserted, by striking , in the case that the emergency period described in section 1135(g)(1)(B) ends before December 31, 2024, for the period beginning on the first day after the end of such emergency period and ending on December 31, 2024,; and 
+               
+               
+                  (C)
+                  by adding at the end the following new subparagraph:
+                  
+                     
+                        (B)
+                        Expansion
+                        The Secretary, after consulting with stakeholders regarding services that are clinically appropriate, may expand the types of practitioners who may furnish telehealth services to include any health care professional that is eligible to bill the program under this title for their professional services.
+                     
+                     .
+                  
+               
+            
+         
+         
+            (c)
+            Retention of additional services and subregulatory process for modifications following emergency period
+            Section 1834(m)(4)(F) of the Social Security Act (42 U.S.C. 1395m(m)(4)(F)) is amended—
+            
+               (1)
+               in clause (i), by inserting and clause (iii) after paragraph (8);
+            
+            
+               (2)
+               in clause (ii), by striking The Secretary and inserting Subject to clause (iii), the Secretary; and
+            
+            
+               (3)
+               by adding at the end the following new clause:
+               
+                  
+                     (iii)
+                     Retention of additional services and subregulatory process for modifications following emergency period
+                     With respect to telehealth services furnished on or after the date of the enactment of this clause, the Secretary may—
+                     
+                        (I)
+                        retain as appropriate the expanded list of telehealth services specified in clause (i) pursuant to the waiver authority under section 1135(b)(8) during the emergency period described in section 1135(g)(1)(B); and
+                     
+                     
+                        (II)
+                        retain the subregulatory process used to modify the services included on the list of such telehealth services pursuant to clause (ii) during such emergency period.
+                     
+                  
+                  .
+               
+            
+         
+         
+            (d)
+            Enhancing telehealth services for federally qualified health centers and rural health clinics
+            Section 1834(m)(8) of the Social Security Act (42 U.S.C. 1395m(m)(8)) is amended—
+            
+               (1)
+               in subparagraph (A), in the matter preceding clause (i), by striking and, in the case and all that follows through 2024— and inserting and after such period—; 
+            
+            
+               (2)
+               in subparagraph (B)—
+               
+                  (A)
+                  in the header, by inserting 
+                        before 2025
+                      after 
+                        rule
+                     ; and
+               
+               
+                  (B)
+                  in clause (i), by striking during the periods for which subparagraph (A) applies and inserting before January 1, 2025; and
+               
+            
+            
+               (3)
+               by adding at the end the following new subparagraph:
+               
+                  
+                     (C)
+                     Payment rule for 2025 and subsequent years
+                     
+                        (i)
+                        In general
+                        A telehealth service furnished to an eligible telehealth individual by a Federally qualified health center or rural health clinic on or after January 1, 2025, shall be deemed to be so furnished to such individual as an outpatient of such center or clinic (as applicable) for purposes of paragraphs (1) and (3), respectively, of section 1861(aa), and payable as a Federally qualified health center service or rural health clinic service (as applicable) under the prospective payment system established under section 1834(o) or the payment methodology established under section 1833(a)(3), respectively.
+                     
+                     
+                        (ii)
+                        Treatment of costs
+                        Costs associated with the delivery of telehealth services by a Federally qualified health center or rural health clinic on or after January 1, 2025, shall be considered allowable costs for purposes of the prospective payment system established under section 1834(o) and any payment methodologies developed under section 1833(a)(3), as applicable.
+                     
+                  
+                  .
+               
+            
+         
+         
+            (e)
+            Use of telehealth, as clinically appropriate, To conduct face-to-Face encounter for hospice care
+            Section 1814(a)(7)(D)(i)(II) of the Social Security Act (42 U.S.C. 1395f(a)(7)(D)(i)(II)) is amended by striking , and, in the case and all that follows through ending on December 31, 2024, and inserting and after such period, as clinically appropriate,. 
+         
+         
+            (f)
+            Use of telehealth, as clinically appropriate, To conduct face-to-Face clinical assessments for home dialysis
+            Clause (iii) of section 1881(b)(3)(B) of the Social Security Act (42 U.S.C. 1395rr(b)(3)(B)) is amended—
+            
+               (1)
+               by moving such clause 4 ems to the left; and
+            
+            
+               (2)
+               by inserting and after such emergency period as clinically appropriate before the period.
+            
+         
+         
+            (g)
+            Allowing for the use of audio-Only telecommunications technology
+            Section 1834(m)(9) of the Social Security Act (42 U.S.C. 1395m(m)(9)) is amended—
+            
+               (1)
+               by striking the first sentence and inserting the following: The Secretary shall provide coverage and payment under this part for telehealth services identified in paragraph (4)(F)(i) as of the date of the enactment of this paragraph that are furnished via an audio-only communications system.; and
+            
+            
+               (2)
+               in the second sentence, by striking during such emergency period and inserting during the emergency period described in section 1135(g)(1)(B). 
+            
+         
+         
+            (h)
+            Implementation
+            Notwithstanding any provision of law, the Secretary may implement the provisions of, and amendments made by, this section by interim final rule, program instruction, or otherwise. 
+         
+      
+   

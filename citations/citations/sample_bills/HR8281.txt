@@ -1,0 +1,656 @@
+
+<!DOCTYPE bill
+  SYSTEM "blp-dscs-billres.dtd">
+
+   
+      
+         Safeguard American Voter Eligibility Act SAVE Act
+      
+   
+   
+      II
+      Calendar No. 439
+      118th CONGRESS
+      2d Session
+      H. R. 8281
+      IN THE SENATE OF THE UNITED STATES
+      
+         July 11 (legislative day, July 10), 2024
+         Received; read the first time
+      
+      
+         July 23, 2024
+         Read the second time and placed on the calendar
+      
+      AN ACT
+      To amend the National Voter Registration Act of 1993 to require proof of United States citizenship to register an individual to vote in elections for Federal office, and for other purposes.
+   
+   
+      Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+      
+         1.
+         SHORT TITLE
+         This Act may be cited as the 
+               Safeguard American Voter Eligibility Act
+             or the 
+               SAVE Act
+            .
+      
+      
+         2.
+         ENSURING ONLY CITIZENS ARE REGISTERED TO VOTE IN ELECTIONS FOR FEDERAL OFFICE
+         
+            (a)
+            Definition of documentary proof of United States citizenship
+            Section 3 of the National Voter Registration Act of 1993 (52 U.S.C. 20502) is amended—
+            
+               (1)
+               by striking As used and inserting (a) In general.—As used; and
+            
+            
+               (2)
+               by adding at the end the following:
+               
+                  
+                     (b)
+                     Documentary proof of United States citizenship
+                     As used in this Act, the term documentary proof of United States citizenship means, with respect to an applicant for voter registration, any of the following:
+                     
+                        (1)
+                        A form of identification issued consistent with the requirements of the REAL ID Act of 2005 that indicates the applicant is a citizen of the United States.
+                     
+                     
+                        (2)
+                        A valid United States passport.
+                     
+                     
+                        (3)
+                        The applicant's official United States military identification card, together with a United States military record of service showing that the applicant's place of birth was in the United States.
+                     
+                     
+                        (4)
+                        A valid government-issued photo identification card issued by a Federal, State or Tribal government showing that the applicant’s place of birth was in the United States.
+                     
+                     
+                        (5)
+                        A valid government-issued photo identification card issued by a Federal, State or Tribal government other than an identification described in paragraphs (1) through (4), but only if presented together with one or more of the following:
+                        
+                           (A)
+                           A certified birth certificate issued by a State, a unit of local government in a State, or a Tribal government which—
+                           
+                              (i)
+                              was issued by the State, unit of local government, or Tribal government in which the applicant was born;
+                           
+                           
+                              (ii)
+                              was filed with the office responsible for keeping vital records in the State;
+                           
+                           
+                              (iii)
+                              includes the full name, date of birth, and place of birth of the applicant;
+                           
+                           
+                              (iv)
+                              lists the full names of one or both of the parents of the applicant;
+                           
+                           
+                              (v)
+                              has the signature of an individual who is authorized to sign birth certificates on behalf of the State, unit of local government, or Tribal government in which the applicant was born;
+                           
+                           
+                              (vi)
+                              includes the date that the certificate was filed with the office responsible for keeping vital records in the State; and
+                           
+                           
+                              (vii)
+                              has the seal of the State, unit of local government, or Tribal government that issued the birth certificate.
+                           
+                        
+                        
+                           (B)
+                           An extract from a United States hospital Record of Birth created at the time of the applicant's birth which indicates that the applicant’s place of birth was in the United States.
+                        
+                        
+                           (C)
+                           A final adoption decree showing the applicant’s name and that the applicant’s place of birth was in the United States.
+                        
+                        
+                           (D)
+                           A Consular Report of Birth Abroad of a citizen of the United States or a certification of the applicant’s Report of Birth of a United States citizen issued by the Secretary of State.
+                        
+                        
+                           (E)
+                           A Naturalization Certificate or Certificate of Citizenship issued by the Secretary of Homeland Security or any other document or method of proof of United States citizenship issued by the Federal government pursuant to the Immigration and Nationality Act.
+                        
+                        
+                           (F)
+                           An American Indian Card issued by the Department of Homeland Security with the classification ‘KIC’.
+                        
+                     
+                  
+                  .
+               
+            
+         
+         
+            (b)
+            In general
+            Section 4 of the National Voter Registration Act of 1993 (52 U.S.C. 20503) is amended—
+            
+               (1)
+               in subsection (a), by striking subsection (b) and inserting subsection (c);
+            
+            
+               (2)
+               by redesignating subsection (b) as subsection (c); and
+            
+            
+               (3)
+               by inserting after subsection (a) the following new subsection: 
+               
+                  
+                     (b)
+                     Requiring applicants to present documentary proof of United States citizenship
+                     Under any method of voter registration in a State, the State shall not accept and process an application to register to vote in an election for Federal office unless the applicant presents documentary proof of United States citizenship with the application. 
+                  
+                  .
+               
+            
+         
+         
+            (c)
+            Registration with application for motor vehicle driver’s license
+            Section 5 of the National Voter Registration Act of 1993 (52 U.S.C. 20504) is amended—
+            
+               (1)
+               in subsection (a)(1), by striking Each State motor vehicle driver's license application and inserting Subject to the requirements under section 8(j), each State motor vehicle driver's license application;
+            
+            
+               (2)
+               in subsection (c)(1), by striking Each State shall include and inserting Subject to the requirements under section 8(j), each State shall include;
+            
+            
+               (3)
+               in subsection (c)(2)(B)—
+               
+                  (A)
+                  in clause (i), by striking and at the end;
+               
+               
+                  (B)
+                  in clause (ii), by adding and at the end; and
+               
+               
+                  (C)
+                  by adding at the end the following new clause:
+                  
+                     
+                        (iii)
+                        verify that the applicant is a citizen of the United States;
+                     
+                     ; 
+                  
+               
+            
+            
+               (4)
+               in subsection (c)(2)(C)(i), by striking (including citizenship) and inserting , including the requirement that the applicant provides documentary proof of United States citizenship; and
+            
+            
+               (5)
+               in subsection (c)(2)(D)(iii), by striking ; and and inserting the following: , other than as evidence in a criminal proceeding or immigration proceeding brought against an applicant who knowingly attempts to register to vote and knowingly makes a false declaration under penalty of perjury that the applicant meets the eligibility requirements to register to vote in an election for Federal office; and.
+            
+         
+         
+            (d)
+            Requiring documentary proof of United States citizenship with national mail voter registration form
+            Section 6 of the National Voter Registration Act of 1993 (52 U.S.C. 20505) is amended—
+            
+               (1)
+               in subsection (a)(1)—
+               
+                  (A)
+                  by striking Each State shall accept and use and inserting Subject to the requirements under section 8(j), each State shall accept and use; and 
+               
+               
+                  (B)
+                  by striking Federal Election Commission and inserting Election Assistance Commission;
+               
+            
+            
+               (2)
+               in subsection (b), by adding at the end the following: The chief State election official of a State shall take such steps as may be necessary to ensure that residents of the State are aware of the requirement to provide documentary proof of United States citizenship to register to vote in elections for Federal office in the State.;
+            
+            
+               (3)
+               in subsection (c)(1)—
+               
+                  (A)
+                  in subparagraph (A), by striking and at the end;
+               
+               
+                  (B)
+                  in subparagraph (B) by striking the period at the end and inserting ; and; and
+               
+               
+                  (C)
+                  by adding at the end the following new subparagraph:
+                  
+                     
+                        (C)
+                        the person did not provide documentary proof of United States citizenship when registering to vote.
+                     
+                     ; and
+                  
+               
+            
+            
+               (4)
+               by adding at the end the following new subsection:
+               
+                  
+                     (e)
+                     Ensuring proof of United States citizenship
+                     
+                        (1)
+                        Presenting proof of United States citizenship to election official
+                        An applicant who submits the mail voter registration application form prescribed by the Election Assistance Commission pursuant to section 9(a)(2) or a form described in paragraph (1) or (2) of subsection (a) shall not be registered to vote in an election for Federal office unless—
+                        
+                           (A)
+                           the applicant presents documentary proof of United States citizenship in person to the office of the appropriate election official not later than the deadline provided by State law for the receipt of a completed voter registration application for the election; or
+                        
+                        
+                           (B)
+                           in the case of a State which permits an individual to register to vote in an election for Federal office at a polling place on the day of the election and on any day when voting, including early voting, is permitted for the election, the applicant presents documentary proof of United States citizenship to the appropriate election official at the polling place not later than the date of the election.
+                        
+                     
+                     
+                        (2)
+                        Notification of requirement
+                        Upon receiving an otherwise completed mail voter registration application form prescribed by the Election Assistance Commission pursuant to section 9(a)(2) or a form described in paragraph (1) or (2) of subsection (a), the appropriate election official shall transmit a notice to the applicant of the requirement to present documentary proof of United States citizenship under this subsection, and shall include in the notice instructions to enable the applicant to meet the requirement.
+                     
+                     
+                        (3)
+                        Accessibility
+                        Each State shall, in consultation with the Election Assistance Commission, ensure that reasonable accommodations are made to allow an individual with a disability who submits the mail voter registration application form prescribed by the Election Assistance Commission pursuant to section 9(a)(2) or a form described in paragraph (1) or (2) of subsection (a) to present documentary proof of United States citizenship to the appropriate election official. 
+                     
+                  
+                  .
+               
+            
+         
+         
+            (e)
+            Requirements for voter registration agencies
+            Section 7 of the National Voter Registration Act of 1993 (52 U.S.C. 20506) is amended—
+            
+               (1)
+               in subsection (a)—
+               
+                  (A)
+                  in paragraph (4)(A), by adding at the end the following new clause:
+                  
+                     
+                        (iv)
+                        Receipt of documentary proof of United States citizenship of each applicant to register to vote in elections for Federal office in the State.
+                     
+                     ; and
+                  
+               
+               
+                  (B)
+                  in paragraph (6)—
+                  
+                     (i)
+                     in subparagraph (A)(i)(I), by striking (including citizenship) and inserting , including the requirement that the applicant provides documentary proof of United States citizenship; and
+                  
+                  
+                     (ii)
+                     by redesignating subparagraph (B) as subparagraph (C); and
+                  
+                  
+                     (iii)
+                     by inserting after subparagraph (A) the following new subparagraph:
+                     
+                        
+                           (B)
+                           ask the applicant the question, Are you a citizen of the United States? and if the applicant answers in the affirmative require documentary proof of United States citizenship prior to providing the form under subparagraph (C);
+                        
+                        ; and
+                     
+                  
+               
+            
+            
+               (2)
+               in subsection (c)(1), by inserting who are citizens of the United States after for persons.
+            
+         
+         
+            (f)
+            Requirements with respect to administration of voter registration
+            Section 8 of the National Voter Registration Act of 1993 (52 U.S.C. 20507) is amended—
+            
+               (1)
+               in subsection (a)—
+               
+                  (A)
+                  by striking In the administration of voter registration and inserting Subject to the requirements of subsection (j), in the administration of voter registration; and
+               
+               
+                  (B)
+                  in paragraph (3)—
+                  
+                     (i)
+                     in subparagraph (B), by striking or at the end; and
+                  
+                  
+                     (ii)
+                     by adding at the end the following new subparagraphs:
+                     
+                        
+                           (D)
+                           based on documentary proof or verified information that the registrant is not a United States citizen; or
+                        
+                        
+                           (E)
+                           the registration otherwise fails to comply with applicable State law;
+                        
+                        ;
+                     
+                  
+               
+            
+            
+               (2)
+               by redesignating subsection (j) as subsection (l); and
+            
+            
+               (3)
+               by inserting after subsection (i) the following new subsections:
+               
+                  
+                     (j)
+                     Ensuring only citizens are registered to vote
+                     
+                        (1)
+                        In general
+                        Notwithstanding any other provision of this Act, a State may not register an individual to vote in elections for Federal office held in the State unless, at the time the individual applies to register to vote, the individual provides documentary proof of United States citizenship.
+                     
+                     
+                        (2)
+                        Additional processes in certain cases
+                        
+                           (A)
+                           Process for those without documentary proof
+                           
+                              (i)
+                              In general
+                              Subject to any relevant guidance adopted by the Election Assistance Commission, each State shall establish a process under which an applicant who cannot provide documentary proof of United States citizenship under paragraph (1) may, if the applicant signs an attestation under penalty of perjury that the applicant is a citizen of the United States and eligible to vote in elections for Federal office, submit such other evidence to the appropriate State or local official demonstrating that the applicant is a citizen of the United States and such official shall make a determination as to whether the applicant has sufficiently established United States citizenship for purposes of registering to vote in elections for Federal office in the State.
+                           
+                           
+                              (ii)
+                              Affidavit requirement
+                              If a State or local official makes a determination under clause (i) that an applicant has sufficiently established United States citizenship for purposes of registering to vote in elections for Federal office in the State, such determination shall be accompanied by an affidavit developed under clause (iii) signed by the official swearing or affirming the applicant sufficiently established United States citizenship for purposes of registering to vote.
+                           
+                           
+                              (iii)
+                              Development of affidavit by the Election Assistance Commission
+                              The Election Assistance Commission shall develop a uniform affidavit for use by State and local officials under clause (ii), which shall—
+                              
+                                 (I)
+                                 include an explanation of the minimum standards required for a State or local official to register an applicant who cannot provide documentary proof of United States citizenship to vote in elections for Federal office in the State; and
+                              
+                              
+                                 (II)
+                                 require the official to explain the basis for registering such applicant to vote in such elections.
+                              
+                           
+                        
+                        
+                           (B)
+                           Process in case of certain discrepancies in documentation
+                           Subject to any relevant guidance adopted by the Election Assistance Commission, each State shall establish a process under which an applicant can provide such additional documentation to the appropriate election official of the State as may be necessary to establish that the applicant is a citizen of the United States in the event of a discrepancy with respect to the applicant’s documentary proof of United States citizenship.
+                        
+                     
+                     
+                        (3)
+                        State requirements
+                        Each State shall take affirmative steps on an ongoing basis to ensure that only United States citizens are registered to vote under the provisions of this Act, which shall include the establishment of a program described in paragraph (4) not later than 30 days after the date of the enactment of this subsection.
+                     
+                     
+                        (4)
+                        Program described
+                        A State may meet the requirements of paragraph (3) by establishing a program under which the State identifies individuals who are not United States citizens using information supplied by one or more of the following sources:
+                        
+                           (A)
+                           The Department of Homeland Security through the Systematic Alien Verification for Entitlements (SAVE) or otherwise.
+                        
+                        
+                           (B)
+                           The Social Security Administration through the Social Security Number Verification Service, or otherwise.
+                        
+                        
+                           (C)
+                           State agencies that supply State identification cards or driver’s licenses where the agency confirms the United States citizenship status of applicants.
+                        
+                        
+                           (D)
+                           Other sources, including databases, which provide confirmation of United States citizenship status.
+                        
+                     
+                     
+                        (5)
+                        Availability of information
+                        
+                           (A)
+                           In general
+                           At the request of a State election official (including a request related to a process established by a State under paragraph (2)(A) or (2)(B)), any head of a Federal department or agency possessing information relevant to determining the eligibility of an individual to vote in elections for Federal office shall, not later than 24 hours after receipt of such request, provide the official with such information as may be necessary to enable the official to verify that an applicant for voter registration in elections for Federal office held in the State or a registrant on the official list of eligible voters in elections for Federal office held in the State is a citizen of the United States, which shall include providing the official with such batched information as may be requested by the official.
+                        
+                        
+                           (B)
+                           Use of SAVE system
+                           The Secretary of Homeland Security may respond to a request received under paragraph (1) by using the system for the verification of immigration status under the applicable provisions of section 1137 of the Social Security Act (42 U.S.C. 1320b-7), as established pursuant to section 121(c) of the Immigration Reform and Control Act of 1986 (Public Law 99–603).
+                        
+                        
+                           (C)
+                           Sharing of information
+                           The heads of Federal departments and agencies shall share information with each other with respect to an individual who is the subject of a request received under paragraph (A) in order to enable them to respond to the request.
+                        
+                        
+                           (D)
+                           Investigation for purposes of removal
+                           The Secretary of Homeland Security shall conduct an investigation to determine whether to initiate removal proceedings under section 239 of the Immigration and Nationality Act (8 U.S.C. 1229) if it is determined pursuant to subparagraph (A) or (B) that an alien (as such term is defined in section 101 of the Immigration and Nationality Act (8 U.S.C. 1101)) is unlawfully registered to vote in elections for Federal office. 
+                        
+                        
+                           (E)
+                           Prohibiting fees
+                           The head of a Federal department or agency may not charge a fee for responding to a State’s request under paragraph (A).
+                        
+                     
+                  
+                  
+                     (k)
+                     Removal of noncitizens from registration rolls
+                     A State shall remove an individual who is not a citizen of the United States from the official list of eligible voters for elections for Federal office held in the State at any time upon receipt of documentation or verified information that a registrant is not a United States citizen.
+                  
+                  .
+               
+            
+         
+         
+            (g)
+            Clarification of authority of State to remove noncitizens from official list of eligible voters
+            
+               (1)
+               In general
+               Section 8(a)(4) of the National Voter Registration Act of 1993 (52 U.S.C. 20507(a)(4)) is amended—
+               
+                  (A)
+                  by striking or at the end of subparagraph (A);
+               
+               
+                  (B)
+                  by adding or at the end of subparagraph (B); and
+               
+               
+                  (C)
+                  by adding at the end the following new subparagraph:
+                  
+                     
+                        (C)
+                        documentary proof or verified information that the registrant is not a United States citizen;
+                     
+                     .
+                  
+               
+            
+            
+               (2)
+               Conforming amendment
+               Section 8(c)(2)(B)(i) of such Act (52 U.S.C. 20507(c)(2)(B)(i)) is amended by striking (4)(A) and inserting (4)(A) or (C).
+            
+         
+         
+            (h)
+            Requirements with respect to Federal mail voter registration form
+            
+               (1)
+               Contents of mail voter registration form
+               Section 9(b) of such Act (52 U.S.C. 20508(b)) is amended—
+               
+                  (A)
+                  in paragraph (2)(A), by striking (including citizenship) and inserting (including an explanation of what is required to present documentary proof of United States citizenship);
+               
+               
+                  (B)
+                  in paragraph (3), by striking and at the end;
+               
+               
+                  (C)
+                  in paragraph (4), by striking the period at the end and inserting ; and; and
+               
+               
+                  (D)
+                  by adding at the end the following new paragraph:
+                  
+                     
+                        (5)
+                        shall include a section, for use only by a State or local election official, to record the type of document the applicant presented as documentary proof of United States citizenship, including the date of issuance, the date of expiration (if any), the office which issued the document, and any unique identification number associated with the document.
+                     
+                     .
+                  
+               
+            
+            
+               (2)
+               Information on mail voter registration form
+               Section 9(b)(4) of such Act (52 U.S.C. 20508(b)(4)) is amended—
+               
+                  (A)
+                  by redesignating clauses (i) through (iii) as subparagraphs (A) through (C), respectively; and
+               
+               
+                  (B)
+                  in subparagraph (C) (as so redesignated and as amended by paragraph (1)(C)), by striking ; and and inserting the following: , other than as evidence in a criminal proceeding or immigration proceeding brought against an applicant who attempts to register to vote and makes a false declaration under penalty of perjury that the applicant meets the eligibility requirements to register to vote in an election for Federal office; and.
+               
+            
+         
+         
+            (i)
+            Private right of action
+            Section 11(b)(1) of the National Voter Registration Act of 1993 (52 U.S.C. 20510(b)(1)) is amended by striking a violation of this Act and inserting a violation of this Act, including the act of an election official who registers an applicant to vote in an election for Federal office who fails to present documentary proof of United States citizenship,.
+         
+         
+            (j)
+            Criminal penalties
+            Section 12(2) of such Act (52 U.S.C. 20511(2)) is amended—
+            
+               (1)
+               by striking or at the end of subparagraph (A);
+            
+            
+               (2)
+               by redesignating subparagraph (B) as subparagraph (D); and
+            
+            
+               (3)
+               by inserting after subparagraph (A) the following new subparagraphs:
+               
+                  
+                     (B)
+                     in the case of an officer or employee of the executive branch, providing material assistance to a noncitizen in attempting to register to vote or vote in an election for Federal office; 
+                  
+                  
+                     (C)
+                     registering an applicant to vote in an election for Federal office who fails to present documentary proof of United States citizenship; or
+                  
+                  .
+               
+            
+         
+         
+            (k)
+            Applicability of requirements to certain States
+            
+               (1)
+               In general
+               Subsection (c) of section 4 of the National Voter Registration Act of 1993 (52 U.S.C. 20503), as redesignated by subsection (b), is amended by striking This Act does not apply to a State and inserting Except with respect to the requirements under subsection (i) and (j) of section 8 in the case of a State described in paragraph (2), this Act does not apply to a State.
+            
+            
+               (2)
+               Permitting States to adopt requirements after enactment
+               Section 4 of such Act (52 U.S.C. 20503) is amended by adding at the end the following new subsection:
+               
+                  
+                     (d)
+                     Permitting States to adopt certain requirements after enactment
+                     Subsections (i) and (j) of section 8 shall not apply to a State described in subsection (c)(2) if the State, by law or regulation, adopts requirements which are identical to the requirements under such subsections not later than 60 days prior to the date of the first election for Federal office which is held in the State after the date of the enactment of the SAVE Act.
+                  
+                  .
+               
+            
+         
+      
+      
+         3.
+         ELECTION ASSISTANCE COMMISSION GUIDANCE
+         Not later than 10 days after the date of the enactment of this Act, the Election Assistance Commission shall adopt and transmit to the chief State election official of each State guidance with respect to the implementation of the requirements under the National Voter Registration Act of 1993 (52 U.S.C. 20501 et seq.), as amended by section 2.
+      
+      
+         4.
+         INAPPLICABILITY OF PAPERWORK REDUCTION ACT
+         Subchapter I of chapter 35 of title 44 (commonly referred to as the Paperwork Reduction Act) shall not apply with respect to the development or modification of voter registration materials under the National Voter Registration Act of 1993 (52 U.S.C. 20501 et seq.), as amended by section 2, including the development or modification of any voter registration application forms.
+      
+      
+         5.
+         DUTY OF SECRETARY OF HOMELAND SECURITY TO NOTIFY ELECTION OFFICIALS OF NATURALIZATION
+         Upon receiving information that an individual has become a naturalized citizen of the United States, the Secretary of Homeland Security shall promptly provide notice of such information to the appropriate chief election official of the State in which such individual is domiciled.
+      
+      
+         6.
+         RULE OF CONSTRUCTION REGARDING PROVISIONAL BALLOTS
+         Nothing in this Act or in any amendment made by this Act may be construed to supercede, restrict, or otherwise affect the ability of an individual to cast a provisional ballot in an election for Federal office or to have the ballot counted in the election if the individual is verified as a citizen of the United States pursuant to section 8(j) of the National Voter Registration Act of 1993 (as added by section 2(f)).
+      
+      
+         7.
+         RULE OF CONSTRUCTION REGARDING EFFECT ON STATE EXEMPTIONS FROM OTHER FEDERAL LAWS
+         Nothing in this Act or in any amendment made by this Act may be construed to affect the exemption of a State from any requirement of any Federal law other than the National Voter Registration Act of 1993 (52 U.S.C. 20501 et seq.).
+      
+      
+         8.
+         EFFECTIVE DATE
+         This Act and the amendments made by this Act shall take effect on the date of the enactment of this Act, and shall apply with respect to applications for voter registration which are submitted on or after such date. 
+      
+   
+   
+      
+         Passed the House of Representatives July 10, 2024.
+         KEVIN F. MCCUMBER,
+         Clerk.
+      
+   
+   
+      July 23, 2024
+      Read the second time and placed on the calendar
+   

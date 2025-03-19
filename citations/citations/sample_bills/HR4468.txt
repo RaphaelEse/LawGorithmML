@@ -1,0 +1,81 @@
+
+<!DOCTYPE bill
+  SYSTEM "blp-dscs-billres.dtd">
+
+   
+      
+         Choice in Automobile Retail Sales Act of 2023
+      
+   
+   
+      IIB
+      118th CONGRESS
+      1st Session
+      H. R. 4468
+      IN THE SENATE OF THE UNITED STATES
+      
+         December 7, 2023
+         Received; read twice and referred to the Committee on Environment and Public Works
+      
+      AN ACT
+      To prohibit the Administrator of the Environmental Protection Agency from finalizing, implementing, or enforcing a proposed rule with respect to emissions from vehicles, and for other purposes.
+   
+   
+      Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+      
+         1.
+         SHORT TITLE
+         This Act may be cited as the 
+               Choice in Automobile Retail Sales Act of 2023
+            .
+      
+      
+         2.
+         PROHIBITION AGAINST FINALIZING, IMPLEMENTING, OR ENFORCING A PROPOSED RULE WITH RESPECT TO EMISSIONS FROM VEHICLES
+         The Administrator of the Environmental Protection Agency may not finalize, implement, or enforce the proposed rule titled Multi-Pollutant Emissions Standards for Model Years 2027 and Later Light-Duty and Medium-Duty Vehicles published by the Environmental Protection Agency in the Federal Register on May 5, 2023 (88 Fed. Reg. 29184).
+      
+      
+         3.
+         ENSURING TAILPIPE REGULATIONS DO NOT LIMIT THE AVAILABILITY OF NEW MOTOR VEHICLES
+         
+            (a)
+            In general
+            Section 202(a)(2) of the Clean Air Act (42 U.S.C. 7521(a)(3)) is amended—
+            
+               (1)
+               by striking (2) Any regulation and inserting (2)(A) Any regulation; and
+            
+            
+               (2)
+               by adding at the end the following:
+               
+                  
+                     (B)
+                     Any regulation proposed or prescribed, including any revision to a regulation, under paragraph (1) on or after January 1, 2021, shall not—
+                     
+                        (i)
+                        mandate the use of any specific technology; or
+                     
+                     
+                        (ii)
+                        result in limited availability of new motor vehicles based on the type of new motor vehicle engine in such new motor vehicles.
+                     
+                  
+                  .
+               
+            
+         
+         
+            (b)
+            Necessary revisions to regulations
+            Not later than 24 months after the date of enactment of this Act, the Administrator of the Environmental Protection Agency shall promulgate such revisions to regulations as may be necessary to conform such regulations to section 202(a)(2)(B) of the Clean Air Act, as added by subsection (a).
+         
+      
+   
+   
+      
+         Passed the House of Representatives December 6, 2023.
+         KEVIN F. MCCUMBER,
+         Clerk.
+      
+   

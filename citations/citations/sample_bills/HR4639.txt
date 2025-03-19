@@ -1,0 +1,520 @@
+
+<!DOCTYPE bill
+  SYSTEM "blp-dscs-billres.dtd">
+
+   
+      
+         Fourth Amendment Is Not For Sale Act
+      
+   
+   
+      I
+      118th CONGRESS
+      2d Session
+      H. R. 4639
+      IN THE HOUSE OF REPRESENTATIVES
+      AN ACT
+      To amend section 2702 of title 18, United States Code, to prevent law enforcement and intelligence agencies from obtaining subscriber or customer records in exchange for anything of value, to address communications and records in the possession of intermediary internet service providers, and for other purposes.
+   
+   
+      Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+      
+         1.
+         SHORT TITLE
+         This Act may be cited as the 
+               Fourth Amendment Is Not For Sale Act
+            .
+      
+      
+         2.
+         PROTECTION OF RECORDS HELD BY DATA BROKERS
+         Section 2702 of title 18, United States Code, is amended by adding at the end the following:
+         
+            
+               (e)
+               Prohibition on obtaining in exchange for anything of value certain records and information by law enforcement and intelligence agencies
+               
+                  (1)
+                  Definitions
+                  In this subsection—
+                  
+                     (A)
+                     the term covered customer or subscriber record means a covered record that is— 
+                     
+                        (i)
+                        disclosed to a third party by— 
+                        
+                           (I)
+                           a provider of an electronic communication service to the public or a provider of a remote computing service of which the covered person with respect to the covered record is a subscriber or customer; or 
+                        
+                        
+                           (II)
+                           an intermediary service provider that delivers, stores, or processes communications of such covered person; 
+                        
+                     
+                     
+                        (ii)
+                        collected by a third party from an online account of a covered person; or
+                     
+                     
+                        (iii)
+                        collected by a third party from or about an electronic device of a covered person;
+                     
+                  
+                  
+                     (B)
+                     the term covered person means—
+                     
+                        (i)
+                        a person who is located inside the United States; or
+                     
+                     
+                        (ii)
+                        a person— 
+                        
+                           (I)
+                           who is located outside the United States or whose location cannot be determined; and
+                        
+                        
+                           (II)
+                           who is a United States person, as defined in section 101 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801);
+                        
+                     
+                  
+                  
+                     (C)
+                     the term covered record—
+                     
+                        (i)
+                        means a record or other information that—
+                        
+                           (I)
+                           pertains to a covered person; and
+                        
+                        
+                           (II)
+                           is—
+                           
+                              (aa)
+                              a record or other information described in the matter preceding paragraph (1) of subsection (c);
+                           
+                           
+                              (bb)
+                              the contents of a communication; or
+                           
+                           
+                              (cc)
+                              location information; and
+                           
+                        
+                     
+                     
+                        (ii)
+                        does not include a record or other information that—
+                        
+                           (I)
+                           has been voluntarily made available to the general public by a covered person on a social media plat form or similar service;
+                        
+                        
+                           (II)
+                           is lawfully available to the public as a Federal, State, or local government record or through other widely distributed media;
+                        
+                        
+                           (III)
+                           is obtained by a law enforcement agency of a governmental entity or an element of the intelligence community for the purpose of conducting a background check of a covered person—
+                           
+                              (aa)
+                              with the written consent of such person;
+                           
+                           
+                              (bb)
+                              for access or use by such agency or element for the purpose of such background check; and 
+                           
+                           
+                              (cc)
+                              that is destroyed after the date on which it is no longer needed for such background check; or
+                           
+                        
+                        
+                           (IV)
+                           is data generated by a public or private ALPR system;
+                        
+                     
+                  
+                  
+                     (D)
+                     the term electronic device has the meaning given the term computer in section 1030(e); 
+                  
+                  
+                     (E)
+                     the term illegitimately obtained information means a covered record that— 
+                     
+                        (i)
+                        was obtained— 
+                        
+                           (I)
+                           from a provider of an electronic communication service to the public or a provider of a remote computing service in a manner that— 
+                           
+                              (aa)
+                              violates the service agreement between the provider and customers or subscribers of the provider; or
+                           
+                           
+                              (bb)
+                              is inconsistent with the privacy policy of the provider; 
+                           
+                        
+                        
+                           (II)
+                           by deceiving the covered person whose covered record was obtained; or
+                        
+                        
+                           (III)
+                           through the unauthorized accessing of an electronic device or online account; or
+                        
+                     
+                     
+                        (ii)
+                        was—
+                        
+                           (I)
+                           obtained from a provider of an electronic communication service to the public, a provider of a remote computing service, or an intermediary service provider; and 
+                        
+                        
+                           (II)
+                           collected, processed, or shared in violation of a contract relating to the covered record; 
+                        
+                     
+                  
+                  
+                     (F)
+                     the term intelligence community has the meaning given that term in section 3 of the National Security Act of 1947 (50 U.S.C. 3003); 
+                  
+                  
+                     (G)
+                     the term location information means information derived or otherwise calculated from the transmission or reception of a radio signal that reveals the approximate or actual geographic location of a customer, subscriber, or device; 
+                  
+                  
+                     (H)
+                     the term obtain in exchange for anything of value means to obtain by purchasing, to receive in connection with services being provided for consideration, or to otherwise obtain in exchange for consideration, including an access fee, service fee, maintenance fee, or licensing fee; 
+                  
+                  
+                     (I)
+                     the term online account means an online account with an electronic communication service to the public or remote computing service;
+                  
+                  
+                     (J)
+                     the term pertain, with respect to a person, means—
+                     
+                        (i)
+                        information that is linked to the identity of a person; or
+                     
+                     
+                        (ii)
+                        information— 
+                        
+                           (I)
+                           that has been anonymized to remove links to the identity of a person; and 
+                        
+                        
+                           (II)
+                           that, if combined with other information, could be used to identify a person; 
+                        
+                     
+                  
+                  
+                     (K)
+                     the term third party means a person who—
+                     
+                        (i)
+                        is not a governmental entity; and
+                     
+                     
+                        (ii)
+                        in connection with the collection, disclosure, obtaining, processing, or sharing of the covered record at issue, was not acting as— 
+                        
+                           (I)
+                           a provider of an electronic communication service to the public; or
+                        
+                        
+                           (II)
+                           a provider of a remote computing service; and
+                        
+                     
+                  
+                  
+                     (L)
+                     the term automated license plate recognition system or ALPR system means a system of one or more mobile or fixed high-speed cameras combined with computer algorithms to convert images of license plates into computer-readable data.
+                  
+               
+               
+                  (2)
+                  Limitation
+                  
+                     (A)
+                     In general
+                     A law enforcement agency of a governmental entity and an element of the intelligence community may not obtain from a third party in exchange for anything of value a covered customer or subscriber record or any illegitimately obtained information. 
+                  
+                  
+                     (B)
+                     Indirectly acquired records and information
+                     The limitation under subparagraph (A) shall apply without regard to whether the third party possessing the covered customer or subscriber record or illegitimately obtained information is the third party that initially obtained or collected, or is the third party that initially received the disclosure of, the covered customer or subscriber record or illegitimately obtained information.
+                  
+               
+               
+                  (3)
+                  Limit on sharing between agencies
+                  An agency of a governmental entity that is not a law enforcement agency or an element of the intelligence community may not provide to a law enforcement agency of a governmental entity or an element of the intelligence community a covered customer or subscriber record or illegitimately obtained information that was obtained from a third party in exchange for anything of value.
+               
+               
+                  (4)
+                  Prohibition on use as evidence
+                  A covered customer or subscriber record or illegitimately obtained information obtained by or provided to a law enforcement agency of a governmental entity or an element of the intelligence community in violation of paragraph (2) or (3), and any evidence derived therefrom, may not be received in evidence in any trial, hearing, or other proceeding in or before any court, grand jury, department, officer, agency, regulatory body, legislative committee, or other authority of the United States, a State, or a political subdivision thereof.
+               
+               
+                  (5)
+                  Minimization procedures
+                  
+                     (A)
+                     In general
+                     The Attorney General shall adopt specific procedures that are reasonably designed to minimize the acquisition and retention, and prohibit the dissemination, of information pertaining to a covered person that is acquired in violation of paragraph (2) or (3).
+                  
+                  
+                     (B)
+                     Use by agencies
+                     If a law enforcement agency of a governmental entity or element of the intelligence community acquires information pertaining to a covered person in violation of paragraph (2) or (3), the law enforcement agency of a governmental entity or element of the intelligence community shall minimize the acquisition and retention, and prohibit the dissemination, of the information in accordance with the procedures adopted under subparagraph (A).
+                  
+               
+            
+            .
+         
+      
+      
+         3.
+         REQUIRED DISCLOSURE
+         Section 2703 of title 18, United States Code, is amended by adding at the end the following:
+         
+            
+               (i)
+               Covered customer or subscriber records and illegitimately obtained information
+               
+                  (1)
+                  Definitions
+                  In this subsection, the terms covered customer or subscriber record, illegitimately obtained information, and third party have the meanings given such terms in section 2702(e).
+               
+               
+                  (2)
+                  Limitation
+                  Unless a governmental entity obtains an order in accordance with paragraph (3), the governmental entity may not require a third party to disclose a covered customer or subscriber record or any illegitimately obtained information if a court order would be required for the governmental entity to require a provider of remote computing service or a provider of electronic communication service to the public to disclose such a covered customer or subscriber record or illegitimately obtained information that is a record of a customer or subscriber of the provider.
+               
+               
+                  (3)
+                  Orders
+                  
+                     (A)
+                     In general
+                     A court may only issue an order requiring a third party to disclose a covered customer or subscriber record or any illegitimately obtained information on the same basis and subject to the same limitations as would apply to a court order to require disclosure by a provider of remote computing service or a provider of electronic communication service to the public of a record of a customer or subscriber of the provider.
+                  
+                  
+                     (B)
+                     Standard
+                     For purposes of subparagraph (A), a court shall apply the most stringent standard under Federal statute or the Constitution of the United States that would be applicable to a request for a court order to require a comparable disclosure by a provider of remote computing service or a provider of electronic communication service to the public of a record of a customer or subscriber of the provider.
+                  
+               
+            
+            .
+         
+      
+      
+         4.
+         INTERMEDIARY SERVICE PROVIDERS
+         
+            (a)
+            Definition
+            Section 2711 of title 18, United States Code, is amended—
+            
+               (1)
+               in paragraph (3), by striking and at the end; 
+            
+            
+               (2)
+               in paragraph (4), by striking the period at the end and inserting ; and; and
+            
+            
+               (3)
+               by adding at the end the following:
+               
+                  
+                     (5)
+                     the term intermediary service provider means an entity or facilities owner or operator that directly or indirectly delivers, stores, or processes communications for or on behalf of a provider of electronic communication service to the public or a provider of remote computing service.
+                  
+                  .
+               
+            
+         
+         
+            (b)
+            Prohibition
+            Section 2702(a) of title 18, United States Code, is amended—
+            
+               (1)
+               in paragraph (1), by striking and at the end; 
+            
+            
+               (2)
+               in paragraph (2), by striking and at the end; 
+            
+            
+               (3)
+               in paragraph (3), by striking the period at the end and inserting ; and; and
+            
+            
+               (4)
+               by adding at the end the following:
+               
+                  
+                     (4)
+                     an intermediary service provider shall not knowingly divulge—
+                     
+                        (A)
+                        to any person or entity the contents of a communication while in electronic storage by that provider; or
+                     
+                     
+                        (B)
+                        to any governmental entity a record or other information pertaining to a subscriber to or customer of, a recipient of a communication from a subscriber to or customer of, or the sender of a communication to a subscriber to or customer of, the provider of electronic communication service to the public or the provider of remote computing service for, or on behalf of, which the intermediary service provider directly or indirectly delivers, transmits, stores, or processes communications.
+                     
+                  
+                  .
+               
+            
+         
+      
+      
+         5.
+         LIMITS ON SURVEILLANCE CONDUCTED FOR FOREIGN INTELLIGENCE PURPOSES OTHER THAN UNDER THE FOREIGN INTELLIGENCE SURVEILLANCE ACT OF 1978
+         
+            (a)
+            In general
+            Section 2511(2)(f) of title 18, United States Code, is amended to read as follows:
+            
+               
+                  (f)
+                  
+                     (i)
+                     
+                        (A)
+                        Nothing contained in this chapter, chapter 121 or 206 of this title, or section 705 of the Communications Act of 1934 (47 U.S.C. 151 et seq.) shall be deemed to affect an acquisition or activity described in clause (B) that is carried out utilizing a means other than electronic surveillance, as defined in section 101 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801).
+                     
+                     
+                        (B)
+                        An acquisition or activity described in this clause is—
+                        
+                           (I)
+                           an acquisition by the United States Government of foreign intelligence information from international or foreign communications that—
+                           
+                              (aa)
+                              is acquired pursuant to express statutory authority; or 
+                           
+                           
+                              (bb)
+                              only includes information of persons who are not United States persons and are located outside the United States; or 
+                           
+                        
+                        
+                           (II)
+                           a foreign intelligence activity involving a foreign electronic communications system that— 
+                           
+                              (aa)
+                              is conducted pursuant to express statutory authority; or 
+                           
+                           
+                              (bb)
+                              only involves the acquisition by the United States Government of information of persons who are not United States persons and are located outside the United States.
+                           
+                        
+                     
+                  
+                  
+                     (ii)
+                     The procedures in this chapter, chapter 121, and the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.) shall be the exclusive means by which electronic surveillance, as defined in section 101 of such Act, and the interception of domestic wire, oral, and electronic communications may be conducted.
+                  
+               
+               .
+            
+         
+         
+            (b)
+            Exclusive means related to communications records
+            The Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.) shall be the exclusive means by which electronic communications transactions records, call detail records, or other information from communications of United States persons or persons inside the United States are acquired for foreign intelligence purposes inside the United States or from a person or entity located in the United States that provides telecommunications, electronic communication, or remote computing services.
+         
+         
+            (c)
+            Exclusive means related to location information, web browsing history, and internet search history
+            
+               (1)
+               Definition
+               In this subsection, the term location information has the meaning given that term in subsection (e) of section 2702 of title 18, United States Code, as added by section 2 of this Act.
+            
+            
+               (2)
+               Exclusive means
+               Title I and sections 303, 304, 702, 703, 704, and 705 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq., 1823, 1824, 1881a, 1881b, 1881c, 1881d) shall be the exclusive means by which location information, web browsing history, and internet search history of United States persons or persons inside the United States are acquired for foreign intelligence purposes inside the United States or from a person or entity located in the United States.
+            
+         
+         
+            (d)
+            Exclusive means related to fourth amendment-Protected information
+            Title I and sections 303, 304, 702, 703, 704, and 705 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq., 1823, 1824, 1881a, 1881b, 1881c, 1881d) shall be the exclusive means by which any information, records, data, or tangible things are acquired for foreign intelligence purposes from a person or entity located in the United States if the compelled production of such information, records, data, or tangible things would require a warrant for law enforcement purposes.
+         
+         
+            (e)
+            Definition
+            In this section, the term United States person has the meaning given that term in section 101 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801). 
+         
+      
+      
+         6.
+         LIMIT ON CIVIL IMMUNITY FOR PROVIDING INFORMATION, FACILITIES, OR TECHNICAL ASSISTANCE TO THE GOVERNMENT ABSENT A COURT ORDER
+         Section 2511(2)(a) of title 18, United States Code, is amended—
+         
+            (1)
+            in subparagraph (ii), by striking clause (B) and inserting the following:
+            
+               
+                  (B)
+                  a certification in writing—
+                  
+                     (I)
+                     by a person specified in section 2518(7) or the Attorney General of the United States; 
+                  
+                  
+                     (II)
+                     that the requirements for an emergency authorization to intercept a wire, oral, or electronic communication under section 2518(7) have been met; and
+                  
+                  
+                     (III)
+                     that the specified assistance is required,
+                  
+               
+               ; and
+            
+         
+         
+            (2)
+            by striking subparagraph (iii) and inserting the following:
+            
+               
+                  (iii)
+                  For assistance provided pursuant to a certification under subparagraph (ii)(B), the limitation on causes of action under the last sentence of the matter following subparagraph (ii)(B) shall only apply to the extent that the assistance ceased at the earliest of the time the application for a court order was denied, the time the communication sought was obtained, or 48 hours after the interception began.
+               
+               .
+            
+         
+      
+   
+   
+      
+         Passed the House of Representatives April 17, 2024.
+         CHERYL L. JOHNSON,
+         Clerk.
+      
+   

@@ -1,0 +1,462 @@
+
+<!DOCTYPE bill
+  SYSTEM "blp-dscs-billres.dtd">
+ 
+
+   
+      
+         Violent Incident Clearance and Technological Investigative Methods Act of 2022 VICTIM Act of 2022
+      
+   
+   
+      IB 
+      117th CONGRESS
+      2d Session 
+      H. R. 5768 
+      IN THE HOUSE OF REPRESENTATIVES 
+      AN ACT 
+      To direct the Attorney General to establish a grant program to establish, create, and administer the violent incident clearance and technology investigative method, and for other purposes. 
+    
+   
+      Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, 
+      
+         1.
+         SHORT TITLE
+         This Act may be cited as the 
+               Violent Incident Clearance and Technological Investigative Methods Act of 2022
+             or 
+               VICTIM Act of 2022
+            .
+       
+      
+         2.
+         FINDINGS
+         Congress finds the following: 
+         
+            (1)
+            Research indicates that law enforcement agencies can increase clearance rates by improving— 
+            
+               (A)
+               investigative processes; 
+             
+            
+               (B)
+               detective capacities; and 
+             
+            
+               (C)
+               organizational oversight and supervision of investigations.
+            
+          
+         
+            (2)
+            When a law enforcement agency expends additional investigative effort, the law enforcement agency improves its success in gaining cooperation of key witnesses and increases the amount of forensic evidence collected.
+          
+         
+            (3)
+            Effective investigation of shootings can prevent subsequent related violence by— 
+            
+               (A)
+               deterring retaliation; and
+             
+            
+               (B)
+               providing interventions to individuals who may continue to commit crimes or become victims of retaliatory violence.
+            
+          
+         
+            (4)
+            Law enforcement agencies that demonstrate higher rates of clearance for violent crimes committed against a person— 
+            
+               (A)
+               have more structured oversight and formal interactions between investigative units and agency leadership;
+             
+            
+               (B)
+               are more likely to have investigative units that have collaborative relationships and robust information sharing with other units of the law enforcement agency;
+             
+            
+               (C)
+               have investigative units that have specific goals and performance metrics for both the unit and for investigators within the unit;
+             
+            
+               (D)
+               have investigators who more frequently respond to the initial crime scene shortly after crimes have been reported to collect evidence and interview witnesses;
+             
+            
+               (E)
+               have investigators who either have specialized experience before joining investigative units or are trained in investigations once they join those units;
+             
+            
+               (F)
+               often have standard operating procedures for investigations that establish policies and evidence-based best practices for conducting and completing homicide investigations; and
+             
+            
+               (G)
+               have better relationships with the communities they serve, even if no specific community-oriented campaign or initiative exists between investigative units and community groups. 
+            
+          
+         
+            (5)
+            Criminal justice agencies should collaborate with each other and share best practices for solving violent crimes committed against a person.
+          
+         
+            (6)
+            A comprehensive community engagement strategy concerning gun violence is essential to improving clearance rates for violent crimes committed against a person.
+         
+       
+      
+         3.
+         GRANT PROGRAM WITH RESPECT TO VIOLENT INCIDENT CLEARANCE AND TECHNOLOGICAL INVESTIGATIVE METHODS 
+         
+            (a)
+            Definitions
+            In this section: 
+            
+               (1)
+               Clearance by arrest
+               The term clearance by arrest, with respect to an offense reported to a law enforcement agency, means the law enforcement agency— 
+               
+                  (A)
+                  has— 
+                  
+                     (i)
+                     arrested not less than 1 person for the offense;
+                   
+                  
+                     (ii)
+                     charged the person described in subparagraph (A) with the commission of the offense; and
+                   
+                  
+                     (iii)
+                     referred the person described in subparagraph (A) for prosecution for the offense; or
+                  
+                
+               
+                  (B)
+                  has cited an individual under the age of 18 to appear in juvenile court or before another juvenile authority with respect to the offense, regardless of whether a physical arrest occurred.
+               
+             
+            
+               (2)
+               Clearance by exception
+               The term clearance by exception, with respect to an offense reported to a law enforcement agency, means the law enforcement agency— 
+               
+                  (A)
+                  has identified not less than 1 person suspected of the offense; and
+                
+               
+                  (B)
+                  with respect to the suspect described in subparagraph (A), has— 
+                  
+                     (i)
+                     gathered enough evidence to— 
+                     
+                        (I)
+                        support an arrest of the suspect;
+                      
+                     
+                        (II)
+                        make a charge against the suspect; and
+                      
+                     
+                        (III)
+                        refer the suspect for prosecution;
+                     
+                   
+                  
+                     (ii)
+                     identified the exact location of the suspect so that the suspect could be taken into custody immediately; and
+                   
+                  
+                     (iii)
+                     encountered a circumstance outside the control of the law enforcement agency that prohibits the agency from arresting the suspect, charging the suspect, or referring the suspect for prosecution, including— 
+                     
+                        (I)
+                        the death of the suspect; 
+                      
+                     
+                        (II)
+                        the refusal of the victim to cooperate with the prosecution after the suspect has been identified; or 
+                      
+                     
+                        (III)
+                        the denial of extradition because the suspect committed an offense in another jurisdiction and is being prosecuted for that offense.
+                     
+                  
+               
+             
+            
+               (3)
+               Clearance rate
+               The term clearance rate, with respect to a law enforcement agency, means—  
+               
+                  (A)
+                  the number of offenses cleared by the law enforcement agency, including through clearance by arrest and clearance by exception, divided by 
+                
+               
+                  (B)
+                  the total number of offenses reported to the law enforcement agency.
+               
+             
+            
+               (4)
+               Eligible entity
+               The term eligible entity means a State, Tribal, or local law enforcement agency or prosecuting office, or a group of Tribal law enforcement agencies or Tribal prosecuting offices.
+             
+            
+               (5)
+               Grant recipient
+               The term grant recipient means a recipient of a grant under the Program. 
+             
+            
+               (6)
+               Law enforcement agency
+               The term law enforcement agency means a public agency charged with policing functions, including any component bureau of the agency (such as a governmental victim services program or village public safety officer program), including an agency composed of officers or persons referred to in subparagraph (B) or (C) of section 2(10) of the Indian Law Enforcement Reform Act (25 U.S.C. 2801(10)).
+             
+            
+               (7)
+               Program
+               The term Program means the grant program established under subsection (b)(1).
+            
+          
+         
+            (b)
+            Grant program 
+            
+               (1)
+               In general
+               Not later than 180 days after the date of enactment of this Act, the Attorney General shall establish a grant program within the Office of Justice Programs under which the Attorney General awards grants to eligible entities to establish, implement, and administer violent incident clearance and technological investigative methods.
+             
+            
+               (2)
+               Applications
+               An eligible entity seeking a grant under the Program shall submit to the Attorney General an application at such time, in such manner, and containing or accompanied by— 
+               
+                  (A)
+                  such information as the Attorney General may reasonably require; and
+                
+               
+                  (B)
+                  a description of each eligible project under paragraph (4) that the grant will fund.
+               
+             
+            
+               (3)
+               Selection of grant recipients
+               The Attorney General, in selecting a recipient of a grant under the Program, shall consider the specific plan and activities proposed by the applicant to improve clearance rates for homicides, rapes, sexual assaults, kidnappings, and non-fatal shootings.
+             
+            
+               (4)
+               Eligible projects
+               A grant recipient shall use the grant for activities with the specific objective of improving clearance rates for homicides, rapes, sexual assaults, kidnappings, and non-fatal shootings, including— 
+               
+                  (A)
+                  ensuring the retention of detectives who are assigned to investigate homicides, rapes, sexual assaults, kidnappings, and non-fatal shootings as of the date of receipt of the grant;
+                
+               
+                  (B)
+                  hiring and training additional detectives who will be dedicated to investigating homicides, rapes, sexual assaults, kidnappings, and non-fatal shootings;
+                
+               
+                  (C)
+                  developing policies, procedures, and training to improve the ability of detectives to effectively investigate and solve homicides, rapes, sexual assaults, kidnappings, and non-fatal shootings, including implementing best practices relating to— 
+                  
+                     (i)
+                     improving internal agency cooperation, organizational oversight and accountability, and supervision of investigations;
+                   
+                  
+                     (ii)
+                     developing specific goals and performance metrics for both investigators and investigative units;
+                   
+                  
+                     (iii)
+                     establishing or improving relationships with the communities the agency serves; and
+                   
+                  
+                     (iv)
+                     collaboration with and among other law enforcement agencies and criminal justice organizations;
+                  
+                
+               
+                  (D)
+                  training personnel to address the needs of victims and family members of victims of homicides, rapes, sexual assaults, kidnappings, or non-fatal shootings or collaborating with trained victim advocates and specialists to better meet victims’ needs;
+                
+               
+                  (E)
+                  acquiring, upgrading, or replacing investigative, evidence processing, or forensic testing technology or equipment;
+                
+               
+                  (F)
+                  development and implementation of policies that safeguard civil rights and civil liberties during the collection, processing, and forensic testing of evidence; 
+                
+               
+                  (G)
+                  hiring or training personnel for collection, processing, and forensic testing of evidence;
+                
+               
+                  (H)
+                  hiring and training of personnel to analyze violent crime and the temporal and geographic trends among homicides, rapes, sexual assaults, kidnappings, and nonfatal shootings;
+                
+               
+                  (I)
+                  retaining experts to conduct a detailed analysis of homicides and shootings using Gun Violence Problem Analysis (commonly known as GVPA) or a similar research methodology;
+                
+               
+                  (J)
+                  ensuring victims have appropriate access to emergency food, housing, clothing, travel, and transportation;
+                
+               
+                  (K)
+                  developing competitive and evidence-based programs to improve homicide and non-fatal shooting clearance rates;
+                
+               
+                  (L)
+                  developing best practices for improving access to and acceptance of victim services, including victim services that promote medical and psychological wellness, ongoing counseling, legal advice, and financial compensation;
+                
+               
+                  (M)
+                  training investigators and detectives in trauma-informed interview techniques; 
+                
+               
+                  (N)
+                  establishing programs to support officers who experience stress or trauma as a result of responding to or investigating shootings or other violent crime incidents; or
+                
+               
+                  (O)
+                  ensuring language and disability access supports are provided to victims, survivors, and their families so that victims can exercise their rights and participate in the criminal justice process.
+               
+            
+          
+         
+            (c)
+            Federal share 
+            
+               (1)
+               In general
+               The Federal share of the cost of a project assisted with a grant under the Program shall not exceed— 
+               
+                  (A)
+                  100 percent if the grant is awarded on or before December 31, 2032; or
+                
+               
+                  (B)
+                  subject to paragraph (2), 50 percent if the grant is awarded after December 31, 2032.
+               
+             
+            
+               (2)
+               Waiver
+               With respect to a grant awarded under the Program after December 31, 2032, the Attorney General may determine that the Federal share of the cost of a project assisted with the grant shall not exceed 100 percent.
+            
+          
+         
+            (d)
+            Report by grant recipient
+            Not later than 1 year after receiving a grant under the Program, and each year thereafter, a grant recipient shall submit to the Attorney General a report on the activities carried out using the grant, including, if applicable— 
+            
+               (1)
+               the number of homicide and non-fatal shooting detectives hired by the grant recipient;
+             
+            
+               (2)
+               the number of evidence processing personnel hired by the grant recipient;
+             
+            
+               (3)
+               a description of any training that is— 
+               
+                  (A)
+                  provided to existing (as of the date on which the grant was awarded) or newly hired homicide and non-fatal shooting detectives; and
+                
+               
+                  (B)
+                  designed to assist in the solving of crimes and improve clearance rates;
+               
+             
+            
+               (4)
+               any new evidence processing technology or equipment purchased or any upgrades made to existing (as of the date on which the grant was awarded) evidence technology or equipment, and the associated cost;
+             
+            
+               (5)
+               any assessments of evidence processing technology or equipment purchased with grant funds to determine whether such technology or equipment satisfies the objectives of the use of the technology or equipment in increasing clearance rates, and any policies in place to govern the use of the technology or equipment;
+             
+            
+               (6)
+               the internal policies and oversight used to ensure that any technology purchased through the grant for the purposes of improving clearance rates does not violate the civil rights and civil liberties of individuals;
+             
+            
+               (7)
+               data regarding clearance rates for homicides, rapes, other aggravated felonies, and non-fatal shootings, including the rate of clearances by arrest and clearances by exception, and crime trends from within each jurisdiction in which the grant recipient carried out activities supported by the grant;
+             
+            
+               (8)
+               whether the grant recipient has provided grant funds to any victim services organizations, and if so, which organizations;
+             
+            
+               (9)
+               the demographic information for victims of homicides, rapes, other aggravated felonies, and non-fatal shootings, and the length and outcomes of each investigation, including whether the investigation was cleared by arrest or exception;
+             
+            
+               (10)
+               the demographic information for each victim or family member of a victim who received victim-related services provided by the grant recipient; and
+             
+            
+               (11)
+               identification of the services most used by victims and their families and identification of additional services needed.
+            
+          
+         
+            (e)
+            National institute of justice evaluation and report to congress 
+            
+               (1)
+               Evaluation
+               Not later than 2 years after the date of enactment of this Act, and every 2 years thereafter, the Director of the National Institute of Justice shall conduct an evaluation of— 
+               
+                  (A)
+                  the practices deployed by grant recipients to identify policies and procedures that have successfully improved clearance rates for homicides, rapes, sexual assaults, kidnappings, and non-fatal shootings; and 
+                
+               
+                  (B)
+                  the efficacy of any services provided to victims and family members of victims of homicides, rapes, sexual assaults, kidnappings, and non-fatal shootings.
+               
+             
+            
+               (2)
+               Report to Congress
+               Not later than 30 days after completion of an evaluation by the National Institute of Justice under paragraph (1), the Attorney General shall submit to Congress a report including— 
+               
+                  (A)
+                  the results of the evaluation; and
+                
+               
+                  (B)
+                  information reported by each grant recipient under subsection (d).
+               
+            
+          
+         
+            (f)
+            Authorization of appropriations 
+            
+               (1)
+               In general
+               There are authorized to be appropriated to carry out this section $100,000,000 for each of fiscal years 2023 through 2032.
+             
+            
+               (2)
+               Percent for certain eligible entities
+               The Attorney General shall use 10 percent of the amount made available under paragraph (1) for a fiscal year to award grants under the Program to Tribal law enforcement agencies or prosecuting offices, or groups of such agencies or offices.
+            
+         
+       
+    
+   
+      
+         Passed the House of Representatives September 22, 2022.
+         CHERYL L. JOHNSON,
+         Clerk.
+      
+     

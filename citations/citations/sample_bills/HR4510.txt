@@ -1,0 +1,3444 @@
+
+<!DOCTYPE bill
+  SYSTEM "blp-dscs-billres.dtd">
+
+   
+      
+         National Telecommunications and Information Administration Reauthorization Act of 2023 NTIA Reauthorization Act of 2023
+      
+   
+   
+      I
+      118th CONGRESS
+      1st Session
+      H. R. 4510
+      IN THE HOUSE OF REPRESENTATIVES
+      
+         July 10, 2023
+         
+            Mr. Latta (for himself and Ms. Matsui) introduced the following bill; which was referred to the Committee on Energy and Commerce
+      
+      A BILL
+      To reauthorize the National Telecommunications and Information Administration, to update the mission and functions of the agency, and for other purposes.
+   
+   
+      Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+      
+         1.
+         SHORT TITLE; TABLE OF CONTENTS
+         
+            (a)
+            Short title
+            This Act may be cited as the 
+                  National Telecommunications and Information Administration Reauthorization Act of 2023
+                or the 
+                  NTIA Reauthorization Act of 2023
+               .
+         
+         
+            (b)
+            Table of contents
+            The table of contents for this Act is as follows:
+            
+               Sec. 1. Short title; table of contents.
+               Sec. 2. Definitions.
+               TITLE I—REAUTHORIZATION
+               Sec. 101. Reauthorization of the National Telecommunications and Information Administration Organization Act.
+               Sec. 102. NTIA Consolidated Reporting Act.
+               TITLE II—OFFICE OF SPECTRUM MANAGEMENT
+               Sec. 201. Office of Spectrum Management.
+               Sec. 202. Improving spectrum management.
+               Sec. 203. Spectrum management improvements.
+               Sec. 204. Institute for Telecommunication Sciences.
+               Sec. 205. Commerce Spectrum Management Advisory Committee.
+               Sec. 206. Incumbent informing capability.
+               Sec. 207. Working group on performance criteria for radio receivers.
+               TITLE III—OFFICE OF INTERNET CONNECTIVITY AND GROWTH
+               Sec. 301. National Strategy to Close Digital Divide.
+               TITLE IV—OFFICE OF POLICY DEVELOPMENT AND CYBERSECURITY
+               Sec. 401. Office of Policy Development and Cybersecurity.
+               Sec. 402. Economic competitiveness of information and communication technology supply chain.
+               Sec. 403. Digital Economy and Cybersecurity Board of Advisors.
+               Sec. 404. Cybersecurity literacy.
+               Sec. 405. Understanding cybersecurity of mobile networks.
+               Sec. 406. Open RAN outreach.
+               TITLE V—OFFICE OF PUBLIC SAFETY COMMUNICATIONS
+               Sec. 501. Establishment of the Office of Public Safety Communications.
+               TITLE VI—OFFICE OF INTERNATIONAL AFFAIRS
+               Sec. 601. Office of International Affairs.
+               Sec. 602. Establishment of interagency national security review process.
+            
+         
+      
+      
+         2.
+         DEFINITIONS
+         In this Act:
+         
+            (1)
+            Commission
+            The term Commission means the Federal Communications Commission.
+         
+         
+            (2)
+            NTIA
+            The term NTIA means the National Telecommunications and Information Administration.
+         
+         
+            (3)
+            Under Secretary
+            The term Under Secretary means the Under Secretary of Commerce for Communications and Information. 
+         
+      
+      
+         I
+         REAUTHORIZATION
+         
+            101.
+            REAUTHORIZATION OF THE NATIONAL TELECOMMUNICATIONS AND INFORMATION ADMINISTRATION ORGANIZATION ACT
+            
+               (a)
+               Authorization of appropriations
+               Section 151 of the National Telecommunications and Information Administration Organization Act is amended by striking $17,600,000 for fiscal year 1992 and $17,900,000 for fiscal year 1993 and inserting $62,000,000 for fiscal year 2024 and $62,000,000 for fiscal year 2025.
+            
+            
+               (b)
+               Under secretary of commerce for communications and information
+               
+                  (1)
+                  Under Secretary; Deputy Under Secretary
+                  
+                     (A)
+                     Under Secretary
+                     The National Telecommunications and Information Administration Organization Act (47 U.S.C. 901 et seq.) is amended by striking Assistant Secretary each place it appears and inserting Under Secretary.
+                  
+                  
+                     (B)
+                     Deputy under secretary
+                     Section 103(a) of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 902(a)), as amended by this section, is amended by adding at the end the following:
+                     
+                        
+                           (3)
+                           Deputy under secretary
+                           The Deputy Under Secretary of Commerce for Communications and Information shall—
+                           
+                              (A)
+                              be the principal policy advisor of the Under Secretary;
+                           
+                           
+                              (B)
+                              perform such other functions as the Under Secretary shall from time to time assign or delegate; and
+                           
+                           
+                              (C)
+                              act as Under Secretary during the absence or disability of the Under Secretary or in the event of a vacancy in the office of the Under Secretary.
+                           
+                        
+                        .
+                     
+                  
+               
+               
+                  (2)
+                  Continuation of civil actions
+                  This subsection, and the amendments made by this subsection, shall not abate any civil action commenced by or against the Assistant Secretary of Commerce for Communications and Information before the date of the enactment of this Act, except that the Under Secretary shall be substituted as a party to the action on and after such date.
+               
+               
+                  (3)
+                  Continuation in office
+                  The individual serving as the Assistant Secretary of Commerce for Communications and Information and the individual serving as the Deputy Assistant Secretary of Commerce for Communications and Information on the day before the date of the enactment of this Act may serve as the Under Secretary and the Deputy Under Secretary of Commerce for Communications and Information, respectively, on and after that date without the need for renomination or reappointment.
+               
+               
+                  (4)
+                  References
+                  Any reference in a law, regulation, document, paper, or other record of the United States to the Assistant Secretary of Commerce for Communications and Information shall, on and after the date of the enactment of this Act, be deemed to be a reference to the Under Secretary.
+               
+               
+                  (5)
+                  Executive schedule
+                  
+                     (A)
+                     In general
+                     Subchapter II of chapter 53 of title 5, United States Code, is amended—
+                     
+                        (i)
+                        in section 5314, by adding at the end the following:
+                        
+                           
+                              
+                              Under Secretary of Commerce for Communications and Information.
+                           
+                           ; and
+                        
+                     
+                     
+                        (ii)
+                        in section 5315, in the item relating to the Assistant Secretaries of Commerce, by striking (11) and inserting (10).
+                     
+                  
+                  
+                     (B)
+                     Effective date
+                     The amendment made by subparagraph (A) (establishing the annual rate of the basic pay of the Under Secretary) shall take effect on the first day of the first pay period beginning after the date of the enactment of this Act.
+                  
+               
+            
+            
+               (c)
+               Authorities and responsibilities
+               
+                  (1)
+                  Coordination of executive branch views on matters before the federal communications commission
+                  Section 105(a)(1) of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 904(a)(1)) is amended—
+                  
+                     (A)
+                     by striking to ensure that the conduct and inserting the following: 
+                     
+                        to ensure that—
+                        
+                           (A)
+                           the conduct
+                        
+                        ;
+                     
+                  
+                  
+                     (B)
+                     in subparagraph (A), as so redesignated, by striking the period at the end and inserting ; and; and
+                  
+                  
+                     (C)
+                     by adding at the end the following:
+                     
+                        
+                           (B)
+                           the views of the executive branch on matters presented to the Commission are, consistent with section 103(b)(2)(J)—
+                           
+                              (i)
+                              appropriately coordinated; and
+                           
+                           
+                              (ii)
+                              reflective of executive branch policy.
+                           
+                        
+                        .
+                     
+                  
+               
+               
+                  (2)
+                  Modernization of agency mission
+                  
+                     (A)
+                     Policy
+                     Section 102(c) of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 901(c)) is amended by adding at the end the following:
+                     
+                        
+                           (6)
+                           Fostering the digital economy of the United States in order to ensure the competitiveness, future economic growth, and security of the United States.
+                        
+                        
+                           (7)
+                           Working to ensure that global communications networks remain open and innovative, including without inappropriate barriers to entry or operation.
+                        
+                        
+                           (8)
+                           With respect to the United States, in coordination with the Commission, achieving the universal availability of and access to telecommunications service and information service (as those terms are defined in section 3 of the Communications Act of 1934) and any technology related to such service.
+                        
+                        .
+                     
+                  
+                  
+                     (B)
+                     Assigned functions
+                     Section 103(b)(2) of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 902(b)(2)) is amended—
+                     
+                        (i)
+                        in the matter preceding subparagraph (A), by inserting , some of which were before transferred to the Secretary; 
+                     
+                     
+                        (ii)
+                        in subparagraph (H)—
+                        
+                           (I)
+                           by inserting and information after telecommunications; and
+                        
+                        
+                           (II)
+                           by striking and emergency readiness and inserting emergency readiness, the flow of information, and with respect to the United States, in coordination with the Commission, the universal availability of and access to telecommunications service and information service (as those terms are defined in section 3 of the Communications Act of 1934) and any technology related to such service;
+                        
+                     
+                     
+                        (iii)
+                        in subparagraph (M), by inserting , publish reports, after studies; and
+                     
+                     
+                        (iv)
+                        by inserting at the end the following:
+                        
+                           
+                              (V)
+                              The authority to conduct studies, publish reports, and make recommendations—
+                              
+                                 (i)
+                                 on any Federal, State, local, or private policy or practice relating to communications, information, or the digital economy of the United States; and
+                              
+                              
+                                 (ii)
+                                 that consider interoperability, privacy, security, spectrum use, emergency readiness, the flow of information, and with respect to the United States, in coordination with the Commission, the universal availability of and access to telecommunications service and information service (as those terms are defined in section 3 of the Communications Act of 1934) and any technology related to such service. 
+                              
+                           
+                           .
+                        
+                     
+                  
+               
+            
+            
+               (d)
+               Acceptance of gifts and bequests for the under secretary
+               The Under Secretary is hereby authorized to accept, hold, administer, and utilize gifts and bequests of property, both real and personal, for the purpose of aiding or facilitating the work of the NTIA. Gifts and bequests of money and the proceeds from sales of other property received as gifts or bequests shall be deposited in the Treasury in a separate fund and shall be disbursed upon order of the Under Secretary. Property accepted pursuant to this provision, and the proceeds thereof, shall be used as nearly as possible in accordance with the terms of the gift or bequest.
+            
+            
+               (e)
+               Technical and conforming amendments
+               
+                  (1)
+                  Public Telecommunications Financing Act of 1978
+                  Section 106(c) of the Public Telecommunications Financing Act of 1978 (5 U.S.C. 5316 note; Public Law 95–567) is amended by striking The position of Deputy Assistant Secretary of Commerce for Communications and Information established in Department of Commerce Organization Order Numbered 10–10 (effective March 26, 1978), and inserting The position of Deputy Under Secretary of Commerce for Communications and Information, established under section 103(a) of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 902(a)),.
+               
+               
+                  (2)
+                  Communications act of 1934
+                  Section 344(d)(2) of the Communications Act of 1934 (47 U.S.C. 344(d)(2)) is amended by striking Assistant Secretary and inserting Under Secretary.
+               
+               
+                  (3)
+                  Homeland security act of 2002
+                  Section 1805(d)(2) of the Homeland Security Act of 2002 (6 U.S.C. 575(d)(2)) is amended by striking Assistant Secretary for Communications and Information of the Department of Commerce and inserting Under Secretary of Commerce for Communications and Information.
+               
+               
+                  (4)
+                  Agriculture improvement act of 2018
+                  Section 6212 of the Agriculture Improvement Act of 2018 (7 U.S.C. 950bb–6) is amended—
+                  
+                     (A)
+                     in subsection (d)(1), in the heading, by striking 
+                           assistant secretary
+                         and inserting 
+                           under secretary
+                        ; and
+                  
+                  
+                     (B)
+                     by striking Assistant Secretary each place the term appears and inserting Under Secretary.
+                  
+               
+               
+                  (5)
+                  Title 17, united states code
+                  Section 1201(a)(1)(C) of title 17, United States Code, is amended by striking Assistant Secretary for Communications and Information of the Department of Commerce and inserting Under Secretary of Commerce for Communications and Information. 
+               
+               
+                  (6)
+                  Unlocking consumer choice and wireless competition act
+                  Section 2(b) of the Unlocking Consumer Choice and Wireless Competition Act (17 U.S.C. 1201 note; Public Law 113–144) is amended by striking Assistant Secretary for Communications and Information of the Department of Commerce and inserting Under Secretary of Commerce for Communications and Information.
+               
+               
+                  (7)
+                  Communications satellite act of 1962
+                  Section 625(a)(1) of the Communications Satellite Act of 1962 (47 U.S.C. 763d(a)(1)) is amended, in the matter preceding subparagraph (A), by striking Assistant Secretary and inserting Under Secretary of Commerce.
+               
+               
+                  (8)
+                  Spectrum pipeline act of 2015
+                  The Spectrum Pipeline Act of 2015 (47 U.S.C. 921 note; title X of Public Law 114–74) is amended—
+                  
+                     (A)
+                     in section 1002(1), in the heading, by striking 
+                           assistant secretary
+                         and inserting 
+                           under secretary
+                        ; and
+                  
+                  
+                     (B)
+                     by striking Assistant Secretary each place the term appears and inserting Under Secretary.
+                  
+               
+               
+                  (9)
+                  Warning, alert, and response network act
+                  Section 606 of the Warning, Alert, and Response Network Act (47 U.S.C. 1205) is amended—
+                  
+                     (A)
+                     by striking Assistant Secretary each place the term appears and inserting Under Secretary; and
+                  
+                  
+                     (B)
+                     in subsection (b), in the first sentence, by striking for7Communications and inserting for Communications. 
+                  
+               
+               
+                  (10)
+                  American recovery and reinvestment act of 2009
+                  Section 6001 of the American Recovery and Reinvestment Act of 2009 (47 U.S.C. 1305) is amended—
+                  
+                     (A)
+                     by striking Assistant Secretary each place the term appears and inserting Under Secretary; and
+                  
+                  
+                     (B)
+                     in subsection (d), in the heading, by striking 
+                           Assistant Secretary
+                         and inserting 
+                           Under Secretary
+                        . 
+                  
+               
+               
+                  (11)
+                  Middle class tax relief and job creation act of 2012
+                  Title VI of the Middle Class Tax Relief and Job Creation Act of 2012 (47 U.S.C. 1401 et seq.) is amended—
+                  
+                     (A)
+                     in section 6001 (47 U.S.C. 1401)—
+                     
+                        (i)
+                        by striking paragraph (4);
+                     
+                     
+                        (ii)
+                        by redesignating paragraphs (5) through (32) as paragraphs (4) through (31), respectively; and
+                     
+                     
+                        (iii)
+                        by inserting after paragraph (31), as so redesignated, the following:
+                        
+                           
+                              (32)
+                              Under secretary
+                              The term Under Secretary means the Under Secretary of Commerce for Communications and Information.
+                           
+                           ; and 
+                        
+                     
+                  
+                  
+                     (B)
+                     by striking Assistant Secretary each place the term appears and inserting Under Secretary.
+                  
+               
+               
+                  (12)
+                  Ray Baum’s act of 2018
+                  The RAY BAUM’S Act of 2018 (division P of Public Law 115–141; 132 Stat. 348) is amended by striking Assistant Secretary each place the term appears and inserting Under Secretary.
+               
+               
+                  (13)
+                  Secure and trusted communications networks act of 2019
+                  Section 8 of the Secure and Trusted Communications Networks Act of 2019 (47 U.S.C. 1607) is amended—
+                  
+                     (A)
+                     in subsection (c)(1), in the heading, by striking 
+                           assistant secretary
+                         and inserting 
+                           under secretary
+                        ; and
+                  
+                  
+                     (B)
+                     by striking Assistant Secretary each place the term appears and inserting Under Secretary.
+                  
+               
+               
+                  (14)
+                  Title 51, united states code
+                  Section 50112(3) of title 51, United States Code, is amended, in the matter preceding subparagraph (A), by striking Assistant Secretary each place the term appears and inserting Under Secretary.
+               
+               
+                  (15)
+                  Consolidated Appropriations act, 2021
+                  The Consolidated Appropriations Act, 2021 (Public Law 116–260) is amended—
+                  
+                     (A)
+                     in title IX of division N—
+                     
+                        (i)
+                        in section 902(a)(2), in the heading, by striking 
+                              assistant secretary
+                            and inserting 
+                              under secretary
+                           ;
+                     
+                     
+                        (ii)
+                        in section 905—
+                        
+                           (I)
+                           in subsection (a)(1), in the heading, by striking 
+                                 assistant secretary
+                               and inserting 
+                                 under secretary
+                              ;
+                        
+                        
+                           (II)
+                           in subsection (c)(3)(B), in the heading, by striking 
+                                 assistant secretary
+                               and inserting 
+                                 under secretary
+                              ; and
+                        
+                        
+                           (III)
+                           in subsection (d)(2)(B), in the heading, by striking 
+                                 assistant secretary
+                               and inserting 
+                                 under secretary
+                              ; and
+                        
+                     
+                     
+                        (iii)
+                        by striking Assistant Secretary each place the term appears and inserting Under Secretary; and
+                     
+                  
+                  
+                     (B)
+                     in title IX of division FF—
+                     
+                        (i)
+                        in section 903(g)(2), in the heading, by striking 
+                              assistant secretary
+                            and inserting 
+                              under secretary
+                           ; and
+                     
+                     
+                        (ii)
+                        by striking Assistant Secretary each place the term appears and inserting Under Secretary.
+                     
+                  
+               
+               
+                  (16)
+                  Infrastructure investment and jobs act
+                  The Infrastructure Investment and Jobs Act (Public Law 117–58) is amended—
+                  
+                     (A)
+                     in section 27003, by striking Assistant Secretary each place the term appears and inserting Under Secretary;
+                  
+                  
+                     (B)
+                     in division F—
+                     
+                        (i)
+                        in section 60102—
+                        
+                           (I)
+                           in subsection (a)(2)(A), by striking 
+                                 assistant secretary
+                               and inserting 
+                                 under secretary
+                              ;
+                        
+                        
+                           (II)
+                           in subsection (d)(1), by striking 
+                                 assistant secretary
+                               and inserting 
+                                 under secretary
+                              ; and
+                        
+                        
+                           (III)
+                           in subsection (h)—
+                           
+                              (aa)
+                              in paragraph (1)(B), by striking 
+                                    assistant secretary
+                                  and inserting 
+                                    under secretary
+                                 ; and
+                           
+                           
+                              (bb)
+                              in paragraph (5)(B)(iii), by striking 
+                                    assistant secretary
+                                  and inserting 
+                                    under secretary
+                                 ;
+                           
+                        
+                     
+                     
+                        (ii)
+                        in title III—
+                        
+                           (I)
+                           in section 60302(5), by striking 
+                                 assistant secretary
+                               and inserting 
+                                 under secretary
+                              ; and
+                        
+                        
+                           (II)
+                           in section 60305(d)(2)(B)(ii), by striking 
+                                 assistant secretary
+                               and inserting 
+                                 under secretary
+                              ;
+                        
+                     
+                     
+                        (iii)
+                        in section 60401(a)(2), by striking 
+                              assistant secretary
+                            and inserting 
+                              under secretary
+                           ; and
+                     
+                     
+                        (iv)
+                        by striking Assistant Secretary each place the term appears and inserting Under Secretary; and
+                     
+                  
+                  
+                     (C)
+                     in division J, in title I, in the matter under the heading distance learning, telemedicine, and broadband program under the heading Rural Utilities Service under the heading RURAL DEVELOPMENT PROGRAMS, by striking Assistant Secretary and inserting Under Secretary.
+                  
+               
+            
+         
+         
+            102.
+            NTIA CONSOLIDATED REPORTING ACT
+            
+               (a)
+               Elimination of certain outdated or completed reporting requirements
+               
+                  (1)
+                  BTOP quarterly report
+                  Section 6001(d) of the American Recovery and Reinvestment Act of 2009 (47 U.S.C. 1305(d)) is amended—
+                  
+                     (A)
+                     in paragraph (2), by striking the semicolon at the end and inserting ; and;
+                  
+                  
+                     (B)
+                     in paragraph (3), by striking ; and and inserting a period; and
+                  
+                  
+                     (C)
+                     by striking paragraph (4).
+                  
+               
+               
+                  (2)
+                  Certain reports required by National Telecommunications and Information Administration Organization Act
+                  Sections 154, 155, and 156 of the National Telecommunications and Information Administration Organization Act are repealed.
+               
+               
+                  (3)
+                  Certain reports relating to 3 gigahertz spectrum
+                  
+                     (A)
+                     In general
+                     Section 605 of division P of the Consolidated Appropriations Act, 2018 (Public Law 115–141; 132 Stat. 1100) is repealed.
+                  
+                  
+                     (B)
+                     Clerical amendment
+                     The table of contents in section 1(b) of such division is amended by striking the item relating to section 605.
+                  
+               
+               
+                  (4)
+                  Initial report required by section 9202(a)(1)(G) of the NDAA for Fiscal Year 2021
+                  Section 9202(a)(1)(G) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (47 U.S.C. 906(a)(1)(G)) is amended—
+                  
+                     (A)
+                     in clause (ii), by redesignating subclauses (I), (II), and (III) as clauses (i), (ii), and (iii), respectively, and conforming the margins of such clauses accordingly; and
+                  
+                  
+                     (B)
+                     by striking 
+                           Reports to Congress
+                         and all that follows through For each fiscal year and inserting 
+                           Annual report to Congress.—For each fiscal year.
+                  
+               
+               
+                  (5)
+                  Report to President
+                  Section 105(a) of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 904(a)) is amended—
+                  
+                     (A)
+                     by striking paragraph (2); and
+                  
+                  
+                     (B)
+                     by redesignating paragraph (3) as paragraph (2).
+                  
+               
+               
+                  (6)
+                  Effect on authority
+                  Nothing in this subsection or the amendments made by this subsection shall be construed to expand or contract the authority of the Secretary, the Under Secretary, the NTIA, or the Commission.
+               
+               
+                  (7)
+                  Other reports
+                  Nothing in this subsection or the amendments made by this subsection shall be construed to prohibit or otherwise prevent the Secretary, the Under Secretary, the NTIA, or the Commission from producing any additional reports otherwise within the authority of the Secretary, the Under Secretary, the NTIA, or the Commission, respectively.
+               
+            
+            
+               (b)
+               Consolidated annual report
+               
+                  (1)
+                  In general
+                  In the first quarter of each calendar year, the Under Secretary shall publish on the website of the NTIA and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that contains the reports described in paragraph (2) for the fiscal year ending most recently before the beginning of such quarter.
+               
+               
+                  (2)
+                  Reports described
+                  The reports described in this paragraph are the following:
+                  
+                     (A)
+                     The report required by section 903(c)(2)(C) of division FF of the Consolidated Appropriations Act, 2021 (47 U.S.C. 1307(c)(2)(C)).
+                  
+                  
+                     (B)
+                     If amounts in the Public Wireless Supply Chain Innovation Fund established by section 9202(a)(1)(A)(i) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (47 U.S.C. 906(a)(1)(A)(i)) were available for the fiscal year described in paragraph (1) of this subsection, the report required by section 9202(a)(1)(G) of such Act (47 U.S.C. 906(a)(1)(G)).
+                  
+                  
+                     (C)
+                     If the Under Secretary awarded grants under section 60304(d)(1) of the Infrastructure Investment and Jobs Act (47 U.S.C. 1723(d)(1)) in the fiscal year described in paragraph (1) of this subsection, the report required by section 60306(a)(1)(A) of such Act (47 U.S.C. 1725(a)(1)(A)).
+                  
+                  
+                     (D)
+                     A summary of the reports for the fiscal year described in paragraph (1) that are required to be submitted to the Under Secretary by executive agencies under section 107(b)(5) of the National Telecommunications and Information Administration Organization Act, as added by this Act.
+                  
+               
+               
+                  (3)
+                  Timing of underlying reporting requirements
+                  
+                     (A)
+                     Report of Office of Internet Connectivity and Growth
+                     Section 903(c)(2)(C) of division FF of the Consolidated Appropriations Act, 2021 (47 U.S.C. 1307(c)(2)(C)) is amended—
+                     
+                        (i)
+                        in the matter preceding clause (i)—
+                        
+                           (I)
+                           by striking Not later than 1 year after the date of the enactment of this Act, and every year thereafter, and inserting In the first quarter of each calendar year,; and
+                        
+                        
+                           (II)
+                           by inserting , for the fiscal year ending most recently before the beginning of such quarter, after a report; and
+                        
+                     
+                     
+                        (ii)
+                        in clause (i), by striking for the previous year. 
+                     
+                  
+                  
+                     (B)
+                     Report on digital equity grant programs
+                     Section 60306(a)(1) of the Infrastructure Investment and Jobs Act (47 U.S.C. 1725(a)(1)) is amended—
+                     
+                        (i)
+                        in the matter preceding subparagraph (A), by striking Not later than 1 year and all that follows through shall— and inserting the following: For the first fiscal year in which the Under Secretary awards grants under section 60304(d)(1), and each fiscal year thereafter in which the Under Secretary awards grants under such section, the Under Secretary shall—; and
+                     
+                     
+                        (ii)
+                        in subparagraph (A)—
+                        
+                           (I)
+                           by inserting in the first quarter of the first calendar year that begins after the end of such fiscal year, before submit; and 
+                        
+                        
+                           (II)
+                           by striking , for the year covered by the report.
+                        
+                     
+                  
+               
+               
+                  (4)
+                  Satisfaction of underlying reporting requirements
+                  
+                     (A)
+                     In general
+                     Except as provided in subparagraph (B), the publication and submission of a report as required by paragraph (1) in the first quarter of a calendar year shall be treated as satisfying any requirement to publish or otherwise make publicly available or to submit to Congress or to a committee of Congress a report described in paragraph (2) for the fiscal year ending most recently before the beginning of such quarter.
+                  
+                  
+                     (B)
+                     Certain submission requirements
+                     At the time when the Under Secretary submits a report required by paragraph (1) to the committees described in such paragraph, the Under Secretary shall submit any portion of such report that relates to a report described in paragraph (2)(C) to each committee of Congress not described in paragraph (1) to which such report would (without regard to subparagraph (A) of this paragraph) be required to be submitted.
+                  
+               
+               
+                  (5)
+                  Applicability
+                  Paragraph (1), and the amendments made by paragraph (3), shall apply beginning on January 1 of the first calendar year that begins after the date of the enactment of this Act.
+               
+            
+            
+               (c)
+               Extension of certain audit and reporting requirements
+               Section 902(c)(4)(A) of division N of the Consolidated Appropriations Act, 2021 (47 U.S.C. 1306(c)(4)(A)) is amended by striking fiscal years 2021 and 2022 and inserting fiscal years 2021, 2022, 2023, and 2024.
+            
+            
+               (d)
+               Definition
+               In this section, the term Secretary means the Secretary of Commerce.
+            
+         
+      
+      
+         II
+         OFFICE OF SPECTRUM MANAGEMENT
+         
+            201.
+            OFFICE OF SPECTRUM MANAGEMENT
+            Part A of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 901 et seq.) is amended by adding at the end the following:
+            
+               
+                  106.
+                  OFFICE OF SPECTRUM MANAGEMENT
+                  
+                     (a)
+                     Establishment
+                     There is established within the NTIA an Office of Spectrum Management (in this section referred to as the Office).
+                  
+                  
+                     (b)
+                     Head of Office
+                     
+                        (1)
+                        In general
+                        The head of the Office shall be an Associate Administrator for Spectrum Management (in this section referred to as the Associate Administrator).
+                     
+                     
+                        (2)
+                        Career position
+                        The position of Associate Administrator shall be a career position in the Senior Executive Service occupied by a career appointee (as that term is defined in section 3132(a)(4) of title 5, United States Code).
+                     
+                     
+                        (3)
+                        Requirement to report
+                        The Associate Administrator shall report to the Under Secretary.
+                     
+                  
+                  
+                     (c)
+                     Duties
+                     The Associate Administrator shall, at the direction of the Under Secretary—
+                     
+                        (1)
+                        carry out responsibilities under section 103(b)(2)(A) (relating to frequency assignments for radio stations belonging to and operated by the United States), make frequency allocations for frequencies that will be used by such stations, and develop and maintain techniques, databases, measurements, files, and procedures necessary for such allocations;
+                     
+                     
+                        (2)
+                        carry out responsibilities under section 103(b)(2)(K) (relating to establishing policies concerning spectrum assignments and use by radio stations belonging to and operated by the United States) and provide Federal agencies with guidance to ensure that the conduct of telecommunications activities by such agencies is consistent with such policies;
+                     
+                     
+                        (3)
+                        develop, in coordination with the Commission, a comprehensive long-range plan for improved management of all electromagnetic spectrum resources, including through representing the interests of Federal agencies in the process through which the Commission and the NTIA jointly determine the National Table of Frequency Allocations;
+                     
+                     
+                        (4)
+                        appoint the chairpersons of and provide secretariat functions for the Interdepartmental Radio Advisory Committee and the PPSG (as defined in section 107(d));
+                     
+                     
+                        (5)
+                        carry out responsibilities under section 103(b)(2)(B) (relating to authorizing a foreign government to construct and operate a radio station at the seat of Government of the United States) and assign frequencies for use by such stations;
+                     
+                     
+                        (6)
+                        provide advice and assistance to the Under Secretary and coordinate with the Associate Administrator for International Affairs in carrying out spectrum management aspects of the international policy responsibilities of the NTIA, including spectrum-related responsibilities under section 103(b)(2)(G);
+                     
+                     
+                        (7)
+                        advise and assist the Under Secretary on spectrum-related technical and policy issues regarding—
+                        
+                           (A)
+                           the security of telecommunications in the United States; and
+                        
+                        
+                           (B)
+                           systems and means to ensure such security;
+                        
+                     
+                     
+                        (8)
+                        in coordination with the Associate Administrator for Policy Development and Cybersecurity, carry out spectrum-related responsibilities under section 103(b)(2)(H) (relating to coordination of the telecommunications activities of the executive branch and assistance in the formulation of policies and standards for such activities);
+                     
+                     
+                        (9)
+                        carry out spectrum-related responsibilities under section 103(b)(2)(Q) (relating to certain activities with respect to telecommunications resources);
+                     
+                     
+                        (10)
+                        carry out responsibilities under section 107 (relating to improving spectrum management); and
+                     
+                     
+                        (11)
+                        carry out any other duties of the NTIA with respect to spectrum policy that the Under Secretary may designate.
+                     
+                  
+               
+               .
+            
+         
+         
+            202.
+            IMPROVING SPECTRUM MANAGEMENT
+            Part A of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 901 et seq.), as amended by the preceding provisions of this Act, is further amended by adding at the end the following:
+            
+               
+                  107.
+                  IMPROVING SPECTRUM MANAGEMENT
+                  
+                     (a)
+                     Federal coordination procedures
+                     
+                        (1)
+                        Notice
+                        With respect to each spectrum action, not later than the end of the period for submitting comments to the Commission in the proceeding relating to the spectrum action, the Under Secretary shall file in the public record with respect to the proceeding information (redacted as necessary if the information is protected from disclosure for a reason described in paragraph (3)) regarding—
+                        
+                           (A)
+                           when the Commission provided notice to the Under Secretary regarding the spectrum action, as required under the Memorandum;
+                        
+                        
+                           (B)
+                           the Federal entities that may be impacted by the spectrum action;
+                        
+                        
+                           (C)
+                           when the Under Secretary provided notice to the Federal entities described in subparagraph (B) regarding the spectrum action;
+                        
+                        
+                           (D)
+                           a summary of any general technical or procedural concerns raised by Federal entities to the Under Secretary regarding the spectrum action; and
+                        
+                        
+                           (E)
+                           any policy concerns of the Under Secretary regarding the spectrum action.
+                        
+                     
+                     
+                        (2)
+                        Final rule
+                        If the Commission promulgates a final rule under section 553 of title 5, United States Code, involving a spectrum action, the Commission shall prepare, make available to the public, and publish in the Federal Register along with the final rule an interagency coordination summary that describes—
+                        
+                           (A)
+                           when the Commission provided notice to the Under Secretary regarding the spectrum action, as required under the Memorandum;
+                        
+                        
+                           (B)
+                           whether the Under Secretary raised technical, procedural, or policy concerns regarding the spectrum action; and
+                        
+                        
+                           (C)
+                           how any concerns described in subparagraph (B) were resolved.
+                        
+                     
+                     
+                        (3)
+                        Rule of construction
+                        Nothing in this subsection may be construed to require the disclosure of classified information, or other information reflecting technical, procedural, or policy concerns that is exempt from disclosure under section 552 of title 5, United States Code (commonly known as the Freedom of Information Act).
+                     
+                     
+                        (4)
+                        FCC consideration
+                        The Commission may not consider any technical, procedural, or policy concerns of a Federal entity regarding a spectrum action unless such concerns are filed by the Under Secretary on behalf of the Federal entity in the public record with respect to the proceeding of the Commission relating to the spectrum action.
+                     
+                  
+                  
+                     (b)
+                     Federal spectrum coordination responsibilities
+                     
+                        (1)
+                        In general
+                        Not later than 180 days after the date of the enactment of this section, the Under Secretary shall establish a charter for the PPSG.
+                     
+                     
+                        (2)
+                        PPSG representative
+                        
+                           (A)
+                           In general
+                           The head of each Federal entity that is reflected in the membership of the PPSG, as identified in the charter established under paragraph (1), shall appoint a senior-level employee (or an individual occupying a Senior Executive Service position, as defined in section 3132(a) of title 5, United States Code) who is eligible to receive a security clearance that allows for access to sensitive compartmented information to serve as the representative of the Federal entity to the PPSG.
+                        
+                        
+                           (B)
+                           Security clearance requirement
+                           If an individual appointed under subparagraph (A) is not eligible to receive a security clearance described in that subparagraph—
+                           
+                              (i)
+                              the appointment shall be invalid; and
+                           
+                           
+                              (ii)
+                              the head of the Federal entity making the appointment shall appoint another individual who satisfies the requirements of that subparagraph, including the requirement that the individual is eligible to receive such a security clearance.
+                           
+                        
+                     
+                     
+                        (3)
+                        Duties
+                        An individual appointed under paragraph (2) shall—
+                        
+                           (A)
+                           oversee the spectrum coordination policies and procedures of the applicable Federal entity;
+                        
+                        
+                           (B)
+                           be responsible for timely notification to the PPSG and to the Under Secretary of technical or procedural concerns of the applicable Federal entity regarding a spectrum action; and
+                        
+                        
+                           (C)
+                           work closely with the representative of the applicable Federal entity to the Interdepartmental Radio Advisory Committee.
+                        
+                     
+                     
+                        (4)
+                        Public contact
+                        
+                           (A)
+                           In general
+                           The head of each Federal entity described in paragraph (2) shall list, on the website of the Federal entity, the name and contact information of the representative of the Federal entity to the PPSG, as appointed under such paragraph.
+                        
+                        
+                           (B)
+                           NTIA responsibility
+                           The Under Secretary shall publish on the public website of the NTIA a complete list of the representatives to the PPSG appointed under paragraph (2).
+                        
+                     
+                     
+                        (5)
+                        Annual report
+                        In the last quarter of each calendar year, each executive agency that is authorized and directed to cooperate with the NTIA under section 105(c)(2) shall submit to the Under Secretary a report, for the fiscal year ending most recently before the beginning of such quarter, describing the steps taken in such fiscal year by the executive agency to comply with such section.
+                     
+                  
+                  
+                     (c)
+                     Coordination between Commission and NTIA
+                     
+                        (1)
+                        Updates
+                        Not later than 3 years after the date of the enactment of this section, and every 4 years thereafter or more frequently as appropriate, the Commission and the NTIA shall update the Memorandum.
+                     
+                     
+                        (2)
+                        Nature of update
+                        The updates required by paragraph (1) shall reflect such changing technological, procedural, and policy circumstances as the Commission and the NTIA determine necessary and appropriate.
+                     
+                  
+                  
+                     (d)
+                     Definitions
+                     In this section:
+                     
+                        (1)
+                        Memorandum
+                        The term Memorandum means the Memorandum of Understanding between the Commission and the NTIA (relating to increased coordination between Federal spectrum management agencies to promote the efficient use of the radio spectrum in the public interest), signed on August 1, 2022, or any successor memorandum.
+                     
+                     
+                        (2)
+                        PPSG
+                        The term PPSG means the interagency advisory body that, as of the date of the enactment of this section, is known as the Policy and Plans Steering Group.
+                     
+                     
+                        (3)
+                        Spectrum action
+                        The term spectrum action means any proposed action by the Commission to reallocate radio frequency spectrum that is anticipated to result in a system of competitive bidding conducted under section 309(j) of the Communications Act of 1934 (47 U.S.C. 309(j)) or licensing that could potentially impact the spectrum operations of a Federal entity.
+                     
+                  
+               
+               .
+            
+         
+         
+            203.
+            SPECTRUM MANAGEMENT IMPROVEMENTS
+            
+               (a)
+               Prototyping
+               Consistent with subparagraphs (F), (L), (P), and (U) of section 103(b)(2) of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 902(b)(2)), the Under Secretary shall develop, establish, prototype, and support the implementation of common models, common methodologies, and common inputs to inform electromagnetic spectrum management decisions with respect to frequencies assigned on a primary or co-primary basis to 1 or more Federal entities, such as—
+               
+                  (1)
+                  technologies and techniques to control radio frequency emissions and interference;
+               
+               
+                  (2)
+                  advanced antenna arrays, and artificial intelligence systems and technologies capable of operating advanced antenna arrays, including multiple-input, multiple-output antennas, beam forming and steering technology, antenna nulling technology, and conformal arrays;
+               
+               
+                  (3)
+                  network sensing and monitoring technologies;
+               
+               
+                  (4)
+                  advanced receivers that incorporate new technologies supporting new waveforms and multiple bands;
+               
+               
+                  (5)
+                  dynamic spectrum access technologies across wireless systems and frequencies, including local-to-the-radio and cognitive multidomain access;
+               
+               
+                  (6)
+                  novel spectrum access technologies;
+               
+               
+                  (7)
+                  artificial intelligence systems to enable dynamic spectrum access, Internet of Things networks, and other advanced communications technologies; and
+               
+               
+                  (8)
+                  optical and quantum communications technologies.
+               
+            
+            
+               (b)
+               Spectrum management and advanced communications technologies
+               Section 104 of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 903) is amended by adding at the end the following:
+               
+                  
+                     (f)
+                     Identification and implementation of spectrum management technologies
+                     The Under Secretary shall identify and implement technologies that promote, with respect to frequencies assigned on a primary or co-primary basis to 1 or more Federal entities—
+                     
+                        (1)
+                        dynamic spectrum access;
+                     
+                     
+                        (2)
+                        network sensing and monitoring; and
+                     
+                     
+                        (3)
+                        optical and quantum communications.
+                     
+                  
+                  
+                     (g)
+                     Prototyping of advanced communications technologies
+                     The Under Secretary shall, with respect to frequencies assigned on a primary or co-primary basis to 1 or more Federal entities—
+                     
+                        (1)
+                        encourage the development of, and broad participation in, a skilled workforce to conduct prototyping of advanced communications technologies; and
+                     
+                     
+                        (2)
+                        support partnerships among institutions to develop a skilled workforce to conduct prototyping of advanced communications technologies.
+                     
+                  
+                  .
+               
+            
+         
+         
+            204.
+            INSTITUTE FOR TELECOMMUNICATION SCIENCES
+            Part A of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 901 et seq.), as amended by the preceding provisions of this Act, is further amended by adding at the end the following:
+            
+               
+                  108.
+                  INSTITUTE FOR TELECOMMUNICATION SCIENCES
+                  
+                     (a)
+                     Establishment
+                     
+                        (1)
+                        In general
+                        Under the authority provided to the Under Secretary under section 103, the Under Secretary shall operate a test center to be known as the Institute for Telecommunication Sciences (in this section referred to as ITS).
+                     
+                     
+                        (2)
+                        Functions
+                        
+                           (A)
+                           In general
+                           In addition to any functions delegated by the Under Secretary under subparagraph (B), ITS shall serve as the primary laboratory for the executive branch of the Federal Government to—
+                           
+                              (i)
+                              study radio frequency emissions, including technologies and techniques to control such emissions and interference caused by such emissions;
+                           
+                           
+                              (ii)
+                              determine spectrum propagation characteristics;
+                           
+                           
+                              (iii)
+                              conduct tests on technology that enhances the sharing of electromagnetic spectrum between Federal and non-Federal users;
+                           
+                           
+                              (iv)
+                              improve the interference tolerance of Federal systems operating with, or using, Federal spectrum;
+                           
+                           
+                              (v)
+                              promote activities relating to access to Federal spectrum by non-Federal users and the sharing of Federal spectrum between Federal and non-Federal users; and
+                           
+                           
+                              (vi)
+                              conduct such other activities as determined necessary by the Under Secretary.
+                           
+                        
+                        
+                           (B)
+                           Additional functions
+                           The Under Secretary may delegate to ITS any of the functions assigned to the Under Secretary under section 103(b)(1). 
+                        
+                     
+                     
+                        (3)
+                        Agreements and transactions
+                        In carrying out the functions described in paragraph (2), the Under Secretary, acting through the head of ITS, may enter into agreements as provided under the following authorities:
+                        
+                           (A)
+                           Sections 11 and 12 of the Stevenson–Wydler Technology Innovation Act of 1980.
+                        
+                        
+                           (B)
+                           Section 1535 of title 31, United States Code.
+                        
+                        
+                           (C)
+                           Sections 207 and 209 of title 35, United States Code.
+                        
+                        
+                           (D)
+                           Section 103(b)(2) of this Act.
+                        
+                        
+                           (E)
+                           Section 113(g) of this Act.
+                        
+                        
+                           (F)
+                           The first undesignated section of Public Law 91–412.
+                        
+                        
+                           (G)
+                           Authority provided under any other Federal statute.
+                        
+                     
+                     
+                        (4)
+                        Federal spectrum defined
+                        In this subsection, the term Federal spectrum means frequencies assigned on a primary basis to a Federal entity (as defined in section 113(l)).
+                     
+                  
+                  
+                     (b)
+                     Emergency communication and tracking technologies initiative
+                     
+                        (1)
+                        Establishment
+                        The Under Secretary, acting through the head of ITS, shall establish an initiative to support the development of emergency communication and tracking technologies for use in locating trapped individuals in confined spaces, such as underground mines, and other shielded environments, such as high-rise buildings or collapsed structures, where conventional radio communication is limited.
+                     
+                     
+                        (2)
+                        Activities
+                        In order to carry out this subsection, the Under Secretary, acting through the head of ITS, shall work with private sector entities and the heads of appropriate Federal agencies, to—
+                        
+                           (A)
+                           perform a needs assessment to identify and evaluate the measurement, technical specifications, and conformity assessment needs required to improve the operation and reliability of such emergency communication and tracking technologies; and
+                        
+                        
+                           (B)
+                           support the development of technical specifications and conformance architecture to improve the operation and reliability of such emergency communication and tracking technologies.
+                        
+                     
+                     
+                        (3)
+                        Report
+                        Not later than 18 months after the date of the enactment of this section, the Under Secretary shall submit to Congress, and make publicly available, a report on the assessment performed under paragraph (2)(A).
+                     
+                  
+               
+               .
+            
+         
+         
+            205.
+            COMMERCE SPECTRUM MANAGEMENT ADVISORY COMMITTEE
+            Part A of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 901 et seq.), as amended by the preceding provisions of this Act, is further amended by adding at the end the following:
+            
+               
+                  109.
+                  COMMERCE SPECTRUM MANAGEMENT ADVISORY COMMITTEE
+                  
+                     (a)
+                     Establishment
+                     There is established within NTIA a Commerce Spectrum Management Advisory Committee (referred to in this section as the CSMAC). 
+                  
+                  
+                     (b)
+                     Duties
+                     The CSMAC shall advise and make recommendations to the Under Secretary with respect to—
+                     
+                        (1)
+                        developing and maintaining spectrum management policies that enable the United States to maintain or strengthen its global leadership role in the introduction of innovative communications technologies and services, including those that enable the United States to support the needs of homeland security, national defense, and other critical missions of the Federal Government; 
+                     
+                     
+                        (2)
+                        objectives that advance spectrum-based innovation, including—
+                        
+                           (A)
+                           facilitating access to mobile broadband internet access service;
+                        
+                        
+                           (B)
+                           space-based services; and
+                        
+                        
+                           (C)
+                           other emerging technologies; 
+                        
+                     
+                     
+                        (3)
+                        fostering increased spectrum sharing among all users;
+                     
+                     
+                        (4)
+                        promoting innovation and rapid advances in technology that support the more efficient use of spectrum;
+                     
+                     
+                        (5)
+                        authorizing radio systems and frequencies in a way that maximizes the benefits to the public;
+                     
+                     
+                        (6)
+                        establishing a long-range spectrum planning process and identifying international opportunities to advance the economic interests of the United States through spectrum management;
+                     
+                     
+                        (7)
+                        how best to leverage radio frequency-related research, development, and testing and evaluation efforts;
+                     
+                     
+                        (8)
+                        ways to foster more efficient and innovative uses of electromagnetic spectrum resources across the Federal Government, subject to and consistent with the needs and missions of Federal agencies;
+                     
+                     
+                        (9)
+                        new issues associated with spectrum sharing on frequencies assigned on a primary or co-primary basis to 1 or more Federal entities, including harmful interference and associated enforcement challenges; and
+                     
+                     
+                        (10)
+                        developing balanced policies that promote both licensed and unlicensed access to spectrum. 
+                     
+                  
+                  
+                     (c)
+                     Members
+                     
+                        (1)
+                        Composition of Committee
+                        The CSMAC shall be composed of not less than 5 but not more than 30 members appointed by the Under Secretary that provide a balanced representation of—
+                        
+                           (A)
+                           non-Federal spectrum users;
+                        
+                        
+                           (B)
+                           State government and local government; 
+                        
+                        
+                           (C)
+                           technology developers and manufacturers;
+                        
+                        
+                           (D)
+                           academia;
+                        
+                        
+                           (E)
+                           civil society;
+                        
+                        
+                           (F)
+                           providers of mobile broadband internet access service and providers of fixed broadband internet access service, including—
+                           
+                              (i)
+                              providers with customers in both domestic and international markets;
+                           
+                           
+                              (ii)
+                              small providers; and
+                           
+                           
+                              (iii)
+                              rural providers; and
+                           
+                        
+                        
+                           (G)
+                           providers of communications services using satellite communications networks.
+                        
+                     
+                     
+                        (2)
+                        Appointments
+                        
+                           (A)
+                           In general
+                           The Under Secretary shall appoint members to the CSMAC for up to a two-year term, except that members may be reappointed for additional terms by the Under Secretary.
+                        
+                        
+                           (B)
+                           Removal
+                           Each member appointed under subparagraph (A) shall serve on the CSMAC at the pleasure and discretion of the Under Secretary. 
+                        
+                     
+                     
+                        (3)
+                        Chair
+                        
+                           (A)
+                           Appointment
+                           The Under Secretary shall appoint one or more members from among those appointed to the CSMAC to serve as Chair or Co-Chairs of the CSMAC.
+                        
+                        
+                           (B)
+                           Service
+                           The Chair, or Co-Chairs, as the case may be, shall serve at the pleasure and discretion of the Under Secretary.
+                        
+                     
+                     
+                        (4)
+                        Vacancy
+                        A vacancy on the CSMAC shall be filled in the manner in which the original appointment was made and the member so appointed shall serve for the remainder of the term. 
+                     
+                     
+                        (5)
+                        Compensation
+                        The members of the CSMAC shall serve without compensation. 
+                     
+                  
+                  
+                     (d)
+                     Subcommittees
+                     
+                        (1)
+                        Authority
+                        Subject to the approval of the Under Secretary, as the Under Secretary determines necessary for the performance by the CSMAC of the duties described under subsection (b), the CSMAC may establish subcommittees, working groups, standing committees, ad hoc groups, task groups, or other subgroups of the CSMAC.
+                     
+                     
+                        (2)
+                        Limitation
+                        Any subcommittee, working group, standing committee, ad hoc group, task group, or other subgroup established under paragraph (1)—
+                        
+                           (A)
+                           shall report to the CSMAC; and
+                        
+                        
+                           (B)
+                           may not provide any advice, recommendation, or other work product directly to the Under Secretary.
+                        
+                     
+                  
+                  
+                     (e)
+                     Termination of CSMAC
+                     Notwithstanding section 1013 of title 5, United States Code, the CSMAC shall terminate on December 31, 2028.
+                  
+               
+               .
+            
+         
+         
+            206.
+            INCUMBENT INFORMING CAPABILITY
+            Part B of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 921 et seq.) is amended by adding at the end the following:
+            
+               
+                  120.
+                  INCUMBENT INFORMING CAPABILITY
+                  
+                     (a)
+                     In general
+                     The Under Secretary shall—
+                     
+                        (1)
+                        not later than 120 days after the date of the enactment of this section, begin to amend the Department of Commerce spectrum management document entitled Manual of Regulations and Procedures for Federal Radio Frequency Management so as to incorporate an incumbent informing capability; and
+                     
+                     
+                        (2)
+                        not later than the date on which amounts appropriated to carry out this section are first made available, begin to implement such capability, including the development and testing of such capability.
+                     
+                  
+                  
+                     (b)
+                     Establishment of the incumbent informing capability
+                     
+                        (1)
+                        In general
+                        The incumbent informing capability required by subsection (a) shall include a system to enable sharing, including time-based sharing, to securely manage harmful interference between non-Federal users and incumbent Federal entities sharing a band of covered spectrum and between Federal entities sharing a band of covered spectrum.
+                     
+                     
+                        (2)
+                        Requirements for system
+                        The system required by paragraph (1) shall contain, at a minimum, the following:
+                        
+                           (A)
+                           One or more mechanisms to allow non-Federal use in covered spectrum, as authorized by the rules of the Commission. Such mechanism or mechanisms shall include interfaces to commercial sharing systems, as appropriate.
+                        
+                        
+                           (B)
+                           One or more mechanisms to facilitate Federal-to-Federal sharing, as authorized by the NTIA.
+                        
+                        
+                           (C)
+                           One or more mechanisms to prevent, eliminate, or mitigate harmful interference to incumbent Federal entities, including one or more of the following functions:
+                           
+                              (i)
+                              Sensing.
+                           
+                           
+                              (ii)
+                              Identification.
+                           
+                           
+                              (iii)
+                              Reporting.
+                           
+                           
+                              (iv)
+                              Analysis.
+                           
+                           
+                              (v)
+                              Resolution.
+                           
+                        
+                        
+                           (D)
+                           Dynamic coordination area analysis, definition, and control, if appropriate for a band.
+                        
+                     
+                     
+                        (3)
+                        Compliance with Commission rules
+                        The incumbent informing capability required by subsection (a) shall ensure that use of covered spectrum is in accordance with the applicable rules of the Commission.
+                     
+                     
+                        (4)
+                        Input of information
+                        Each incumbent Federal entity sharing a band of covered spectrum shall—
+                        
+                           (A)
+                           input into the system required by paragraph (1) such information as the Under Secretary may require, including the frequency, time, and location of the use of the band by such Federal entity; and
+                        
+                        
+                           (B)
+                           to the extent practicable, input such information into such system on an automated basis.
+                        
+                     
+                     
+                        (5)
+                        Protection of classified information and controlled unclassified information
+                        The system required by paragraph (1) shall contain appropriate measures to protect classified information and controlled unclassified information, including any such classified information or controlled unclassified information that relates to military operations.
+                     
+                  
+                  
+                     (c)
+                     Briefing
+                     Not later than 1 year after the date on which amounts appropriated to carry out this section are first made available, the Under Secretary shall provide a briefing on the implementation of this section to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+                  
+                  
+                     (d)
+                     Definitions
+                     In this section:
+                     
+                        (1)
+                        Covered spectrum
+                        The term covered spectrum means—
+                        
+                           (A)
+                           electromagnetic spectrum for which usage rights are assigned to or authorized for (including before the date on which the incumbent informing capability required by subsection (a) is implemented) a non-Federal user or class of non-Federal users for use on a shared basis with an incumbent Federal entity in accordance with the rules of the Commission; and
+                        
+                        
+                           (B)
+                           electromagnetic spectrum allocated on a primary or co-primary basis for Federal use that is shared among Federal entities.
+                        
+                     
+                     
+                        (2)
+                        Federal entity
+                        The term Federal entity has the meaning given such term in section 113(l).
+                     
+                     
+                        (3)
+                        Incumbent informing capability
+                        The term incumbent informing capability means a capability to facilitate the sharing of covered spectrum.
+                     
+                  
+                  
+                     (e)
+                     Rule of construction
+                     Nothing in this section shall be construed to alter or expand the authority of the NTIA as described in section 113(j)(1).
+                  
+               
+               .
+            
+         
+         
+            207.
+            WORKING GROUP ON PERFORMANCE CRITERIA FOR RADIO RECEIVERS
+            
+               (a)
+               Establishment
+               
+                  (1)
+                  In general
+                  Not later than 90 days after the date of the enactment of this section, the Under Secretary shall convene a working group to develop, and periodically update, criteria, ratings, and other measures, including voluntary standards, for radio receivers operating in Federal systems in spectrum bands used only by Federal entities.
+               
+               
+                  (2)
+                  Purpose
+                  The purpose of the criteria, ratings, and other measures, including voluntary standards, developed, and periodically updated, by the working group shall be to provide guidance on the design, manufacture, and sale of radio receivers operating in Federal systems in spectrum bands used only by Federal entities with respect to the incorporation of appropriate measures to mitigate, or enhance resiliency to, potential harmful interference to ensure that the reasonable current and future use of cochannel and non-cochannel spectrum, including use by non-Federal systems of spectrum designated by the Commission for commercial operations, will not result in receiver operations being seriously degraded or obstructed, including operations being repeatedly interrupted.
+               
+               
+                  (3)
+                  Criteria
+                  In developing, and periodically updating, criteria, ratings, and other measures, the working group shall take into consideration the unique technical and operational characteristics of the different Federal systems.
+               
+               
+                  (4)
+                  Adoption
+                  In developing, and periodically updating, criteria, ratings, and other measures, the working group may not publish under this section a criteria, rating, or other measure unless the Under Secretary determines—
+                  
+                     (A)
+                     the criteria, rating, or other measure; and
+                  
+                  
+                     (B)
+                     the specific technical parameters of the criteria, rating, or other measure.
+                  
+               
+               
+                  (5)
+                  Federal Advisory Committee Act exemption
+                  
+                     Chapter 10 of title 5, United States Code, shall not apply to the working group.
+               
+            
+            
+               (b)
+               Chair; members; participation by Federal entities
+               
+                  (1)
+                  Chair and members
+                  The Chair of the working group shall be the Under Secretary and the working group shall include representatives from the following:
+                  
+                     (A)
+                     The Commission.
+                  
+                  
+                     (B)
+                     The communications industry.
+                  
+                  
+                     (C)
+                     Academia.
+                  
+                  
+                     (D)
+                     Entities that manufacture radio receivers.
+                  
+                  
+                     (E)
+                     Entities that establish technical specifications for radio receivers.
+                  
+               
+               
+                  (2)
+                  Participation by Federal entities
+                  The Under Secretary shall invite a representative from each Federal entity to participate in the working group. 
+               
+            
+            
+               (c)
+               Publication of criteria, ratings, and other measures
+               Not later than 18 months after the date on which the working group is convened, the Under Secretary shall publish, consistent with the protection of classified information and intelligence sources and methods, the criteria, ratings, and other measures developed pursuant to subsection (a) on a publicly accessible page on the website of the NTIA and in the Federal Register.
+            
+            
+               (d)
+               Periodic review and update
+               Not less frequently than every 4 years, the working group shall review and update, if appropriate, the criteria, ratings, and other measures published under subsection (c). Any such update shall be published as described in subsection (c) not later than 14 days after the date on which the update is completed. 
+            
+            
+               (e)
+               Savings clause
+               No action taken by the Under Secretary pursuant to this section shall be used to impose any obligation on manufacturers with respect to any radio receivers designed to operate exclusively in a system that is not a Federal system.
+            
+            
+               (f)
+               Definitions
+               In this section:
+               
+                  (1)
+                  Commission
+                  The term Commission means the Federal Communications Commission.
+               
+               
+                  (2)
+                  Federal entity
+                  The term Federal entity has the meaning given such term in section 113(l) of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 923(l)). 
+               
+               
+                  (3)
+                  Federal system
+                  The term Federal system means a system of radio stations belonging to and operated by the Federal Government that receives radio frequency signals on spectrum that is allocated exclusively for Federal Government use or allocated for both Federal and non-Federal operations.
+               
+               
+                  (4)
+                  Working group
+                  The term working group means the working group convened under subsection (a)(1).
+               
+            
+         
+      
+      
+         III
+         OFFICE OF INTERNET CONNECTIVITY AND GROWTH
+         
+            301.
+            NATIONAL STRATEGY TO CLOSE DIGITAL DIVIDE
+            
+               (a)
+               National Strategy
+               
+                  (1)
+                  In general
+                  Not later than 18 months after the date of the enactment of this Act, the Under Secretary, in consultation with the heads of the covered agencies, shall develop and submit to the appropriate committees of Congress a National Strategy to Close the Digital Divide to—
+                  
+                     (A)
+                     support better management of Federal broadband programs to deliver on the goal of providing high-speed, affordable broadband internet access service to all individuals in the United States;
+                  
+                  
+                     (B)
+                     synchronize interagency coordination among covered agencies for Federal broadband programs;
+                  
+                  
+                     (C)
+                     synchronize interagency coordination regarding the process for approving the grant of an easement, right of way, or lease to, in, over, or on a building or any other property owned by the Federal Government for the right to install, construct, modify, or maintain infrastructure with respect to broadband internet access service; and
+                  
+                  
+                     (D)
+                     reduce barriers, lower costs, and ease administrative burdens for State, local, and Tribal governments to participate in Federal broadband programs.
+                  
+               
+               
+                  (2)
+                  Required contents
+                  The Strategy shall—
+                  
+                     (A)
+                     list all— 
+                     
+                        (i)
+                        Federal broadband programs; and 
+                     
+                     
+                        (ii)
+                        programs known to the NTIA that exist at the State and local levels that are directly or indirectly intended to increase the deployment of, access to, the affordability of, or the adoption of broadband internet access service;
+                     
+                  
+                  
+                     (B)
+                     describe current, as of the date on which the Strategy is submitted, Federal efforts to coordinate Federal broadband programs;
+                  
+                  
+                     (C)
+                     identify gaps and limitations, including with respect to laws and data, that hinder, or may hinder, coordination across Federal broadband programs;
+                  
+                  
+                     (D)
+                     establish clear roles and responsibilities for the heads of the covered agencies, as well as clear goals, objectives, and performance measures, for— 
+                     
+                        (i)
+                        the management of all Federal broadband programs; and 
+                     
+                     
+                        (ii)
+                        interagency coordination efforts with respect to Federal broadband programs;
+                     
+                  
+                  
+                     (E)
+                     address the cost of the Strategy, the sources and types of resources and investments needed to carry out the Strategy, and where those resources and investments should be targeted based on balancing risk reductions with costs;
+                  
+                  
+                     (F)
+                     address factors that increase the costs and administrative burdens for State, local, and Tribal governments with respect to participation in Federal broadband programs;
+                  
+                  
+                     (G)
+                     recommend incentives, legislative solutions, and administrative actions to help State, local, and Tribal governments more efficiently—
+                     
+                        (i)
+                        distribute, and effectively administer, funding received from Federal broadband programs; and 
+                     
+                     
+                        (ii)
+                        resolve conflicts with respect to the funding described in clause (i);
+                     
+                  
+                  
+                     (H)
+                     recommend incentives, legislative solutions, and administrative actions to— 
+                     
+                        (i)
+                        improve the coordination and management of Federal broadband programs; and 
+                     
+                     
+                        (ii)
+                        eliminate duplication with respect to Federal broadband programs; 
+                     
+                  
+                  
+                     (I)
+                     describe current, as of the date on which the Strategy is submitted, efforts by covered agencies to streamline the process for granting access to an easement, right of way, or lease to, in, over, or on a building or any other property owned by the Federal Government for the right to install, construct, modify, or maintain infrastructure with respect to broadband internet access service; 
+                  
+                  
+                     (J)
+                     identify gaps and limitations with respect to allowing regional, interstate, or cross-border economic development organizations to participate in Federal broadband programs; and
+                  
+                  
+                     (K)
+                     address specific issues relating to closing the digital divide on Tribal lands. 
+                  
+               
+               
+                  (3)
+                  Public consultation
+                  In developing the Strategy, the Under Secretary shall consult with—
+                  
+                     (A)
+                     groups that represent consumers or the interests of the public, including economically or socially disadvantaged individuals;
+                  
+                  
+                     (B)
+                     subject matter experts;
+                  
+                  
+                     (C)
+                     providers of broadband internet access service;
+                  
+                  
+                     (D)
+                     Tribal entities; and
+                  
+                  
+                     (E)
+                     State and local agencies and entities.
+                  
+               
+            
+            
+               (b)
+               Implementation Plan
+               
+                  (1)
+                  In general
+                  Not later than 240 days after the date on which the Under Secretary submits the Strategy to the appropriate committees of Congress under subsection (a)(1), the Under Secretary shall develop and submit to the appropriate committees of Congress an implementation plan for the Strategy.
+               
+               
+                  (2)
+                  Required contents
+                  The Implementation Plan shall, at a minimum—
+                  
+                     (A)
+                     provide a plan for implementing the roles, responsibilities, goals, objectives, and performance measures for the management of Federal broadband programs and interagency coordination efforts identified in the Strategy;
+                  
+                  
+                     (B)
+                     provide a plan for holding the covered agencies accountable for the roles, responsibilities, goals, objectives, and performance measures identified in the Strategy;
+                  
+                  
+                     (C)
+                     describe the roles and responsibilities of the covered agencies, and the interagency mechanisms, to coordinate the implementation of the Strategy;
+                  
+                  
+                     (D)
+                     provide a plan for regular meetings among the heads of the covered agencies to coordinate the implementation of the Strategy and improve coordination among Federal broadband programs and for permitting processes for infrastructure with respect to broadband internet access service;
+                  
+                  
+                     (E)
+                     provide a plan for regular engagement with interested members of the public to evaluate Federal broadband programs, permitting processes for infrastructure with respect to broadband internet access service, and progress in implementing the Strategy;
+                  
+                  
+                     (F)
+                     with respect to the awarding of Federal funds or subsidies to support the deployment of broadband internet access service, provide a plan for the adoption of—
+                     
+                        (i)
+                        common data sets regarding those awards, including a requirement that covered agencies use the maps created under title VIII of the Communications Act of 1934 (47 U.S.C. 641 et seq.); and
+                     
+                     
+                        (ii)
+                        applications regarding those awards, as described in section 903(e) of the ACCESS BROADBAND Act (47 U.S.C. 1307(e));
+                     
+                  
+                  
+                     (G)
+                     provide a plan to monitor and reduce waste, fraud, and abuse in Federal broadband programs, including wasteful spending resulting from fragmented, overlapping, and unnecessarily duplicative programs; 
+                  
+                  
+                     (H)
+                     require consistent obligation and expenditure reporting by covered agencies for Federal broadband programs, which shall be consistent with section 903(c)(2) of the ACCESS BROADBAND Act (47 U.S.C. 1307(c)(2)); 
+                  
+                  
+                     (I)
+                     provide a plan to—
+                     
+                        (i)
+                        increase awareness of, and participation and enrollment in, Federal broadband programs relating to the affordability and adoption of broadband internet access service;
+                     
+                     
+                        (ii)
+                        adopt common data sets with respect to such Federal broadband programs and make such data sets available as open Government data assets; and
+                     
+                     
+                        (iii)
+                        address barriers to participation in such Federal broadband programs for eligible households;
+                     
+                  
+                  
+                     (J)
+                     provide a plan to monitor the consistency, affordability, and quality of broadband internet access service supported by Federal broadband programs; and 
+                  
+                  
+                     (K)
+                     describe the administrative and legislative action that is necessary to carry out the Strategy.
+                  
+               
+               
+                  (3)
+                  Public comment
+                  Not later than 30 days after the date on which the Under Secretary submits the Strategy to the appropriate committees of Congress under subsection (a)(1), the Under Secretary shall seek public comment regarding the development and implementation of the Implementation Plan. 
+               
+            
+            
+               (c)
+               Briefings and implementation
+               
+                  (1)
+                  Briefing
+                  Not later than 21 days after the date on which the Under Secretary submits the Implementation Plan to the appropriate committees of Congress under subsection (b)(1), the Under Secretary, and appropriate representatives from the covered agencies involved in the formulation of the Strategy, shall provide a briefing on the implementation of the Strategy to the appropriate committees of Congress.
+               
+               
+                  (2)
+                  Implementation
+                  
+                     (A)
+                     In general
+                     The Under Secretary shall—
+                     
+                        (i)
+                        implement the Strategy in accordance with the terms of the Implementation Plan; and
+                     
+                     
+                        (ii)
+                        not later than 90 days after the date on which the Under Secretary begins to implement the Strategy, and not less frequently than once every 90 days thereafter until the date on which the Implementation Plan is fully implemented, brief the appropriate committees of Congress on the progress in implementing the Implementation Plan.
+                     
+                  
+                  
+                     (B)
+                     Rule of construction
+                     Nothing in this paragraph may be construed to affect the authority or jurisdiction of the Commission or confer upon the Under Secretary or any executive agency the power to direct the actions of the Commission, either directly or indirectly. 
+                  
+               
+            
+            
+               (d)
+               Government Accountability Office study and report
+               
+                  (1)
+                  Study
+                  The Comptroller General of the United States shall conduct a study that shall— 
+                  
+                     (A)
+                     examine the efficacy of the Strategy and the Implementation Plan in closing the digital divide; and
+                  
+                  
+                     (B)
+                     make recommendations regarding how to improve the Strategy and the Implementation Plan.
+                  
+               
+               
+                  (2)
+                  Report
+                  Not later than 1 year after the date on which the Under Secretary submits the Implementation Plan to the appropriate committees of Congress under subsection (b)(1), the Comptroller General shall submit to the appropriate committees of Congress a report on the results of the study conducted under paragraph (1).
+               
+            
+            
+               (e)
+               Definitions
+               In this section:
+               
+                  (1)
+                  Appropriate committees of Congress
+                  The term appropriate committees of Congress means—
+                  
+                     (A)
+                     the Committee on Commerce, Science, and Transportation of the Senate; and
+                  
+                  
+                     (B)
+                     the Committee on Energy and Commerce of the House of Representatives. 
+                  
+               
+               
+                  (2)
+                  Covered agencies
+                  The term covered agencies means—
+                  
+                     (A)
+                     the Commission;
+                  
+                  
+                     (B)
+                     the Department of Agriculture;
+                  
+                  
+                     (C)
+                     the NTIA;
+                  
+                  
+                     (D)
+                     the Department of Health and Human Services;
+                  
+                  
+                     (E)
+                     the Appalachian Regional Commission;
+                  
+                  
+                     (F)
+                     the Delta Regional Authority;
+                  
+                  
+                     (G)
+                     the Economic Development Administration;
+                  
+                  
+                     (H)
+                     the Department of Education;
+                  
+                  
+                     (I)
+                     the Department of the Treasury;
+                  
+                  
+                     (J)
+                     the Department of Transportation;
+                  
+                  
+                     (K)
+                     the Institute of Museum and Library Services;
+                  
+                  
+                     (L)
+                     the Northern Border Regional Commission; 
+                  
+                  
+                     (M)
+                     the Department of Housing and Urban Development; and
+                  
+                  
+                     (N)
+                     the Department of the Interior. 
+                  
+               
+               
+                  (3)
+                  Federal broadband program
+                  The term Federal broadband program means any program administered by a covered agency that is directly or indirectly intended to increase the deployment of, access to, the affordability of, or the adoption of broadband internet access service.
+               
+               
+                  (4)
+                  Implementation plan
+                  The term Implementation Plan means the implementation plan developed under subsection (b)(1).
+               
+               
+                  (5)
+                  State
+                  The term State means each State of the United States, the District of Columbia, and each commonwealth, territory, or possession of the United States.
+               
+               
+                  (6)
+                  Strategy
+                  The term Strategy means the National Strategy to Close the Digital Divide developed under subsection (a)(1).
+               
+            
+         
+      
+      
+         IV
+         OFFICE OF POLICY DEVELOPMENT AND CYBERSECURITY
+         
+            401.
+            OFFICE OF POLICY DEVELOPMENT AND CYBERSECURITY
+            
+               (a)
+               In general
+               Part A of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 901 et seq.), as amended by the preceding provisions of this Act, is further amended by adding at the end the following:
+               
+                  
+                     110.
+                     OFFICE OF POLICY DEVELOPMENT AND CYBERSECURITY
+                     
+                        (a)
+                        Establishment
+                        There is established within the NTIA an Office of Policy Development and Cybersecurity (in this section referred to as the Office).
+                     
+                     
+                        (b)
+                        Head of Office
+                        
+                           (1)
+                           In general
+                           The head of the Office shall be an Associate Administrator for Policy Development and Cybersecurity (in this section referred to as the Associate Administrator).
+                        
+                        
+                           (2)
+                           Career position
+                           The position of Associate Administrator shall be a career position in the Senior Executive Service occupied by a career appointee (as that term is defined in section 3132(a)(4) of title 5, United States Code).
+                        
+                        
+                           (3)
+                           Requirement to report
+                           The Associate Administrator shall report to the Under Secretary.
+                        
+                     
+                     
+                        (c)
+                        Duties
+                        
+                           (1)
+                           In general
+                           The Associate Administrator shall, at the direction of the Under Secretary, oversee and conduct national communications and information policy analysis and development for the internet and communications technologies.
+                        
+                        
+                           (2)
+                           Particular duties
+                           In carrying out paragraph (1), the Associate Administrator shall, at the direction of the Under Secretary—
+                           
+                              (A)
+                              develop, analyze, and advocate for market-based policies that promote innovation, competition, consumer access, digital inclusion, workforce development, and economic growth in the communications, media, and technology markets;
+                           
+                           
+                              (B)
+                              conduct studies, as delegated by the Under Secretary or required by Congress, on how individuals in the United States access and use the internet, wireline and wireless telephony, mass media, other digital services, and video services;
+                           
+                           
+                              (C)
+                              coordinate transparent, consensus-based, multistakeholder processes to create guidance for and to support the development and implementation of cybersecurity and privacy policies with respect to the internet and other communications networks;
+                           
+                           
+                              (D)
+                              promote increased collaboration between security researchers and providers of communications services and software system developers;
+                           
+                           
+                              (E)
+                              perform such duties as the Under Secretary considers appropriate relating to the program for preventing future vulnerabilities established under section 8(a) of the Secure and Trusted Communications Networks Act of 2019 (47 U.S.C. 1607(a));
+                           
+                           
+                              (F)
+                              advocate for policies that promote the security and resilience to cybersecurity incidents of communications networks while fostering innovation, including policies that promote secure communications network supply chains;
+                           
+                           
+                              (G)
+                              present security of the digital economy and infrastructure and cybersecurity policy efforts before the Commission, Congress, and elsewhere;
+                           
+                           
+                              (H)
+                              provide advice and assistance to the Under Secretary in carrying out the policy responsibilities of the NTIA with respect to cybersecurity policy matters, including the evaluation of the impact of cybersecurity matters pending before the Commission, other Federal agencies, and Congress;
+                           
+                           
+                              (I)
+                              in addition to the duties described in subparagraph (H), perform such other duties regarding the policy responsibilities of the NTIA with respect to cybersecurity policy matters as the Under Secretary considers appropriate;
+                           
+                           
+                              (J)
+                              develop policies to accelerate innovation and commercialization with respect to advances in technological understanding of communications technologies;
+                           
+                           
+                              (K)
+                              identify barriers to trust, security, innovation, and commercialization with respect to communications technologies, including access to capital and other resources, and ways to overcome such barriers;
+                           
+                           
+                              (L)
+                              provide public access to relevant data, research, and technical assistance on innovation and commercialization with respect to communications technologies, consistent with the protection of classified information;
+                           
+                           
+                              (M)
+                              strengthen collaboration on and coordination of policies relating to innovation and commercialization with respect to communications technologies, including policies focused on the needs of small businesses and rural communities—
+                              
+                                 (i)
+                                 within the Department of Commerce; 
+                              
+                              
+                                 (ii)
+                                 between the Department of Commerce and State government agencies, as appropriate; and
+                              
+                              
+                                 (iii)
+                                 between the Department of Commerce and the Commission or any other Federal agency the Under Secretary determines to be necessary; and
+                              
+                           
+                           
+                              (N)
+                              solicit and consider feedback from small and rural communications service providers, as appropriate.
+                           
+                        
+                     
+                  
+                  .
+               
+            
+            
+               (b)
+               Redesignation of associate administrator; continuation of service
+               
+                  (1)
+                  Redesignation
+                  The position of Associate Administrator for Policy Analysis and Development at the NTIA is hereby redesignated as the position of Associate Administrator for Policy Development and Cybersecurity.
+               
+               
+                  (2)
+                  Continuation of service
+                  The individual serving as Associate Administrator for Policy Analysis and Development at the NTIA on the date of the enactment of this Act shall become, as of such date, the Associate Administrator for Policy Development and Cybersecurity.
+               
+            
+         
+         
+            402.
+            ECONOMIC COMPETITIVENESS OF INFORMATION AND COMMUNICATION TECHNOLOGY SUPPLY CHAIN
+            
+               (a)
+               Report
+               Not later than 1 year after the date of the enactment of this Act, the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the information and communication technology supply chain that—
+               
+                  (1)
+                  identifies—
+                  
+                     (A)
+                     information and communication technology critical to the economic competitiveness of the United States; and 
+                  
+                  
+                     (B)
+                     the industrial capacity of—
+                     
+                        (i)
+                        United States vendors that produce information and communication technology identified under subparagraph (A); and 
+                     
+                     
+                        (ii)
+                        trusted information and communication technology vendors that produce information and communication technology identified under subparagraph (A);
+                     
+                  
+               
+               
+                  (2)
+                  assesses the economic competitiveness of vendors described under paragraph (1)(B); 
+               
+               
+                  (3)
+                  assesses whether, and to what extent, there is a dependence by providers of advanced telecommunications capability in the United States on information and communication technology identified under paragraph (1)(A) that is not trusted;
+               
+               
+                  (4)
+                  identifies—
+                  
+                     (A)
+                     what actions by the Federal Government are needed to support, and bolster the economic competitiveness of, trusted information and communication technology vendors; and
+                  
+                  
+                     (B)
+                     what Federal resources are needed to reduce dependence by providers of advanced telecommunications capability in the United States on companies that—
+                     
+                        (i)
+                        produce information and communication technology; and
+                     
+                     
+                        (ii)
+                        are not trusted; and
+                     
+                  
+               
+               
+                  (5)
+                  defines lines of effort and assigns responsibilities for a whole-of-Government response to ensuring the competitiveness of the information and communication technology supply chain in the United States.
+               
+            
+            
+               (b)
+               Whole-of-Government strategy
+               
+                  (1)
+                  In general
+                  The Secretary shall develop, on the basis of the report required by subsection (a), a whole-of-Government strategy to ensure the economic competitiveness of trusted information and communication technology vendors that includes—
+                  
+                     (A)
+                     recommendations on how—
+                     
+                        (i)
+                        to strengthen the structure, resources, and authorities of the Federal Government to support the economic competitiveness of trusted information and communication technology vendors, including United States vendors that are trusted information and communication technology vendors; and
+                     
+                     
+                        (ii)
+                        the Federal Government can address any barriers to a market-based solution for increasing the economic competitiveness of such information and communication technology vendors; 
+                     
+                  
+                  
+                     (B)
+                     defined lines of effort and responsibilities for Federal agencies to implement the strategy; and 
+                  
+                  
+                     (C)
+                     a description of—
+                     
+                        (i)
+                        any change to a Federal program, Federal law, or structure of the Federal Government necessary to implement any recommendation under subparagraph (A); and
+                     
+                     
+                        (ii)
+                        any additional Federal resource necessary to implement any recommendation under subparagraph (A). 
+                     
+                  
+               
+               
+                  (2)
+                  Report
+                  Not later than 180 days after the submission of the report required by subsection (a), the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing the strategy developed under paragraph (1).
+               
+            
+            
+               (c)
+               Consultation required
+               In carrying out subsections (a) and (b), the Secretary shall consult with—
+               
+                  (1)
+                  a cross-section of trusted information and communication technology vendors; and
+               
+               
+                  (2)
+                  the Secretary of State, the Secretary of Homeland Security, the Attorney General, the Director of National Intelligence, the Chair of the Commission, and any other head of an agency the Secretary determines necessary. 
+               
+            
+            
+               (d)
+               Definitions
+               In this section:
+               
+                  (1)
+                  Advanced telecommunications capability
+                  The term advanced telecommunications capability has the meaning given that term in section 706(d) of the Telecommunications Act of 1996 (47 U.S.C. 1302(d)). 
+               
+               
+                  (2)
+                  Information and communication technology
+                  The term information and communication technology means a technology (including software), component, or material that enables communications by radio or wire.
+               
+               
+                  (3)
+                  Information and communication technology supply chain
+                  The term information and communication technology supply chain means all of the companies that produce information and communication technology. 
+               
+               
+                  (4)
+                  Not trusted
+                  The term not trusted means, with respect to a company or information and communication technology, that the company or information and communication technology is determined by the Secretary to pose an unacceptable risk to the national security of the United States or the security and safety of United States persons based solely on one or more determinations described under paragraphs (1) through (4) of section 2(c) of the Secure and Trusted Communications Networks Act of 2019 (47 U.S.C. 1601(c)). 
+               
+               
+                  (5)
+                  Secretary
+                  The term Secretary means the Secretary of Commerce, acting through the Under Secretary.
+               
+               
+                  (6)
+                  Trusted
+                  The term trusted means, with respect to a company, that the Secretary has not determined that the company is not trusted.
+               
+               
+                  (7)
+                  Trusted information and communication technology vendor
+                  The term trusted information and communication technology vendor means a company—
+                  
+                     (A)
+                     that produces information and communication technology; and 
+                  
+                  
+                     (B)
+                     that is trusted.
+                  
+               
+            
+         
+         
+            403.
+            DIGITAL ECONOMY AND CYBERSECURITY BOARD OF ADVISORS
+            Part A of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 901 et seq.), as amended by the preceding provisions of this Act, is further amended by adding at the end the following:
+            
+               
+                  110A.
+                  DIGITAL ECONOMY AND CYBERSECURITY BOARD OF ADVISORS
+                  
+                     (a)
+                     Establishment
+                     There is established within the NTIA a Digital Economy and Cybersecurity Board of Advisors (in this section referred to as the Board).
+                  
+                  
+                     (b)
+                     Duties
+                     The Board shall provide to the Under Secretary recommendations (for implementation by the Under Secretary or that the Under Secretary could recommend for implementation by other appropriate entities) with respect to the following:
+                     
+                        (1)
+                        Technical cybersecurity best practices that enable economic growth while securing information and communications networks, including practices that Federal and non-Federal entities can implement to secure internet routing protocols, including the Border Gateway Protocol used by Federal and non-Federal entities.
+                     
+                     
+                        (2)
+                        Cybersecurity policies to support the development and implementation of cybersecurity practices with respect to the internet and information and communications networks.
+                     
+                     
+                        (3)
+                        Policies that foster collaboration through public-private partnerships to promote the security and resilience to cybersecurity incidents of information and communications networks while fostering innovation, including policies that promote secure supply chains for information and communications networks.
+                     
+                     
+                        (4)
+                        Policies to remove barriers to trust, security, innovation, and commercialization with respect to information and communications networks.
+                     
+                  
+                  
+                     (c)
+                     Members
+                     
+                        (1)
+                        Composition
+                        
+                           (A)
+                           In general
+                           The Board shall be composed of not fewer than 5, and not more than 25, members appointed by the Under Secretary.
+                        
+                        
+                           (B)
+                           Expertise
+                           Each member of the Board shall have cybersecurity or supply chain security technical expertise, cybersecurity or supply chain security policy expertise, or expertise in managing or overseeing the cybersecurity or supply chain security functions of a business.
+                        
+                        
+                           (C)
+                           Representation
+                           In appointing members of the Board under subparagraph (A), the Under Secretary shall ensure that the members appointed provide a balanced representation of the following:
+                           
+                              (i)
+                              Chief cybersecurity officers or other qualified individuals employed in cybersecurity positions, representing both the public and private sectors.
+                           
+                           
+                              (ii)
+                              Persons who operate or maintain information and communications networks, including persons who operate or maintain small or rural information and communications networks.
+                           
+                           
+                              (iii)
+                              Vendors that produce or provide equipment used in information and communications networks.
+                           
+                           
+                              (iv)
+                              Vendors that produce or provide software used in information and communications networks.
+                           
+                           
+                              (v)
+                              Persons who operate or maintain internet applications.
+                           
+                        
+                     
+                     
+                        (2)
+                        Terms
+                        
+                           (A)
+                           In general
+                           Except as provided in subparagraphs (C) and (D), each member of the Board shall be appointed for a term of a length not to exceed 2 years, to be determined by the Under Secretary.
+                        
+                        
+                           (B)
+                           Reappointment
+                           A member of the Board, including a member appointed to fill a vacancy as provided in subparagraph (D), may be reappointed for 1 or more additional terms by the Under Secretary.
+                        
+                        
+                           (C)
+                           Removal
+                           The Under Secretary may remove a member of the Board at the discretion of the Under Secretary.
+                        
+                        
+                           (D)
+                           Vacancy
+                           Any member of the Board appointed to fill a vacancy occurring before the expiration of the term for which the predecessor of the member was appointed shall be appointed only for the remainder of such term. A vacancy in the Board shall be filled in the manner in which the original appointment was made.
+                        
+                     
+                     
+                        (3)
+                        Chair
+                        The Chair of the Board shall be the Associate Administrator of the NTIA for Policy Development and Cybersecurity.
+                     
+                     
+                        (4)
+                        Compensation
+                        The members of the Board shall serve without compensation.
+                     
+                  
+                  
+                     (d)
+                     Subcommittees
+                     
+                        (1)
+                        Authority
+                        Subject to the approval of the Under Secretary, as the Under Secretary determines necessary for the performance by the Board of the duties described in subsection (b), the Board may establish subcommittees, working groups, standing committees, ad hoc groups, task groups, or other subgroups of the Board.
+                     
+                     
+                        (2)
+                        Limitation
+                        Any subcommittee, working group, standing committee, ad hoc group, task group, or other subgroup of the Board established under paragraph (1)—
+                        
+                           (A)
+                           shall report to the Board; and
+                        
+                        
+                           (B)
+                           may not provide any advice, recommendation, or other work product directly to the Under Secretary.
+                        
+                     
+                  
+                  
+                     (e)
+                     Termination
+                     Notwithstanding section 1013 of title 5, United States Code, the Board shall terminate on the date that is 4 years after the date of the enactment of this section.
+                  
+                  
+                     (f)
+                     Definitions
+                     In this section:
+                     
+                        (1)
+                        Border Gateway Protocol
+                        The term Border Gateway Protocol means the routing protocol used to exchange network reachability information among independently managed networks on the internet.
+                     
+                     
+                        (2)
+                        Information and communications network
+                        The term information and communications network means a network that provides advanced telecommunications capability (as defined in section 706(d) of the Telecommunications Act of 1996 (47 U.S.C. 1302(d))). 
+                     
+                  
+               
+               .
+            
+         
+         
+            404.
+            CYBERSECURITY LITERACY
+            
+               (a)
+               Sense of Congress
+               It is the sense of Congress that the United States has a national security and economic interest in promoting cybersecurity literacy amongst the general public.
+            
+            
+               (b)
+               In general
+               The Under Secretary shall develop and conduct a cybersecurity literacy campaign (which shall be available in multiple languages and formats, if practicable) to increase the knowledge and awareness of individuals in the United States with respect to best practices to reduce cybersecurity risks.
+            
+            
+               (c)
+               Campaign requirements
+               In carrying out subsection (b), the Under Secretary shall—
+               
+                  (1)
+                  educate individuals in the United States on how to prevent and mitigate cyberattacks and cybersecurity risks, including by—
+                  
+                     (A)
+                     instructing such individuals on how to identify—
+                     
+                        (i)
+                        phishing emails and messages; and
+                     
+                     
+                        (ii)
+                        secure websites;
+                     
+                  
+                  
+                     (B)
+                     instructing such individuals about the benefits of changing default passwords on hardware and software technology;
+                  
+                  
+                     (C)
+                     encouraging the use of cybersecurity tools, including—
+                     
+                        (i)
+                        multi-factor authentication;
+                     
+                     
+                        (ii)
+                        complex passwords; 
+                     
+                     
+                        (iii)
+                        anti-virus software;
+                     
+                     
+                        (iv)
+                        patching and updating software and applications; and
+                     
+                     
+                        (v)
+                        virtual private networks;
+                     
+                  
+                  
+                     (D)
+                     identifying the devices that could pose possible cybersecurity risks, including—
+                     
+                        (i)
+                        personal computers;
+                     
+                     
+                        (ii)
+                        smartphones;
+                     
+                     
+                        (iii)
+                        tablets;
+                     
+                     
+                        (iv)
+                        Wi-Fi routers; 
+                     
+                     
+                        (v)
+                        smart home appliances;
+                     
+                     
+                        (vi)
+                        webcams; 
+                     
+                     
+                        (vii)
+                        internet-connected monitors; and
+                     
+                     
+                        (viii)
+                        any other device that can be connected to the internet, including mobile devices other than smartphones and tablets;
+                     
+                  
+                  
+                     (E)
+                     encouraging such individuals to—
+                     
+                        (i)
+                        regularly review mobile application permissions;
+                     
+                     
+                        (ii)
+                        decline privilege requests from mobile applications that are unnecessary;
+                     
+                     
+                        (iii)
+                        download applications only from trusted vendors or sources; and 
+                     
+                     
+                        (iv)
+                        consider a product’s life cycle and the developer or manufacturer’s commitment to providing security updates during a connected device’s expected period of use; and
+                     
+                  
+                  
+                     (F)
+                     identifying the potential cybersecurity risks of using publicly available Wi-Fi networks and the methods a user may utilize to limit such risks; and
+                  
+               
+               
+                  (2)
+                  encourage individuals in the United States to use resources to help mitigate the cybersecurity risks identified in this subsection.
+               
+            
+         
+         
+            405.
+            UNDERSTANDING CYBERSECURITY OF MOBILE NETWORKS
+            
+               (a)
+               In general
+               Not later than 1 year after the date of the enactment of this Act, the Under Secretary, in consultation with the Department of Homeland Security, shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report examining the cybersecurity of mobile service networks and the vulnerability of such networks and mobile devices to cyberattacks and surveillance conducted by adversaries.
+            
+            
+               (b)
+               Matters To be included
+               The report required by subsection (a) shall include the following:
+               
+                  (1)
+                  An assessment of the degree to which providers of mobile service have addressed, are addressing, or have not addressed cybersecurity vulnerabilities (including vulnerabilities the exploitation of which could lead to surveillance conducted by adversaries) identified by academic and independent researchers, multistakeholder standards and technical organizations, industry experts, and Federal agencies, including in relevant reports of—
+                  
+                     (A)
+                     the NTIA;
+                  
+                  
+                     (B)
+                     the National Institute of Standards and Technology; and
+                  
+                  
+                     (C)
+                     the Department of Homeland Security, including—
+                     
+                        (i)
+                        the Cybersecurity and Infrastructure Security Agency; and
+                     
+                     
+                        (ii)
+                        the Science and Technology Directorate.
+                     
+                  
+               
+               
+                  (2)
+                  A discussion of—
+                  
+                     (A)
+                     the degree to which customers (including consumers, companies, and government agencies) consider cybersecurity as a factor when considering the purchase of mobile service and mobile devices; and
+                  
+                  
+                     (B)
+                     the commercial availability of tools, frameworks, best practices, and other resources for enabling such customers to evaluate cybersecurity risk and price tradeoffs.
+                  
+               
+               
+                  (3)
+                  A discussion of the degree to which providers of mobile service have implemented cybersecurity best practices and risk assessment frameworks.
+               
+               
+                  (4)
+                  An estimate and discussion of the prevalence and efficacy of encryption and authentication algorithms and techniques used in each of the following:
+                  
+                     (A)
+                     Mobile service.
+                  
+                  
+                     (B)
+                     Mobile communications equipment or services.
+                  
+                  
+                     (C)
+                     Commonly used mobile phones and other mobile devices.
+                  
+                  
+                     (D)
+                     Commonly used mobile operating systems and communications software and applications.
+                  
+               
+               
+                  (5)
+                  A discussion of the barriers for providers of mobile service to adopt more efficacious encryption and authentication algorithms and techniques and to prohibit the use of older encryption and authentication algorithms and techniques with established vulnerabilities in mobile service, mobile communications equipment or services, and mobile phones and other mobile devices.
+               
+               
+                  (6)
+                  An estimate and discussion of the prevalence, usage, and availability of technologies that authenticate legitimate mobile service and mobile communications equipment or services to which mobile phones and other mobile devices are connected.
+               
+               
+                  (7)
+                  An estimate and discussion of the prevalence, costs, commercial availability, and usage by adversaries in the United States of cell site simulators (often known as international mobile subscriber identity catchers) and other mobile service surveillance and interception technologies.
+               
+            
+            
+               (c)
+               Consultation
+               In preparing the report required by subsection (a), the Under Secretary shall, to the degree practicable, consult with—
+               
+                  (1)
+                  the Commission;
+               
+               
+                  (2)
+                  the National Institute of Standards and Technology;
+               
+               
+                  (3)
+                  the intelligence community;
+               
+               
+                  (4)
+                  the Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security;
+               
+               
+                  (5)
+                  the Science and Technology Directorate of the Department of Homeland Security;
+               
+               
+                  (6)
+                  academic and independent researchers with expertise in privacy, encryption, cybersecurity, and network threats;
+               
+               
+                  (7)
+                  participants in multistakeholder standards and technical organizations (including the 3rd Generation Partnership Project and the Internet Engineering Task Force);
+               
+               
+                  (8)
+                  international stakeholders, in coordination with the Department of State as appropriate;
+               
+               
+                  (9)
+                  providers of mobile service, including small providers (or the representatives of such providers) and rural providers (or the representatives of such providers);
+               
+               
+                  (10)
+                  manufacturers, operators, and providers of mobile communications equipment or services and mobile phones and other mobile devices;
+               
+               
+                  (11)
+                  developers of mobile operating systems and communications software and applications; and
+               
+               
+                  (12)
+                  other experts that the Under Secretary considers appropriate.
+               
+            
+            
+               (d)
+               Scope of report
+               The Under Secretary shall—
+               
+                  (1)
+                  limit the report required by subsection (a) to mobile service networks;
+               
+               
+                  (2)
+                  exclude consideration of 5G protocols and networks in the report required by subsection (a);
+               
+               
+                  (3)
+                  limit the assessment required by subsection (b)(1) to vulnerabilities that have been shown to be—
+                  
+                     (A)
+                     exploited in non-laboratory settings; or
+                  
+                  
+                     (B)
+                     feasibly and practicably exploitable in real-world conditions; and
+                  
+               
+               
+                  (4)
+                  consider in the report required by subsection (a) vulnerabilities that have been effectively mitigated by manufacturers of mobile phones and other mobile devices.
+               
+            
+            
+               (e)
+               Form of report
+               
+                  (1)
+                  Classified information
+                  The report required by subsection (a) shall be produced in unclassified form but may contain a classified annex.
+               
+               
+                  (2)
+                  Potentially exploitable unclassified information
+                  The Under Secretary shall redact potentially exploitable unclassified information from the report required by subsection (a) but shall provide an unredacted form of the report to the committees described in such subsection.
+               
+            
+            
+               (f)
+               Definitions
+               In this section:
+               
+                  (1)
+                  Adversary
+                  The term adversary includes—
+                  
+                     (A)
+                     any unauthorized hacker or other intruder into a mobile service network; and
+                  
+                  
+                     (B)
+                     any foreign government or foreign nongovernment person engaged in a long-term pattern or serious instances of conduct significantly adverse to the national security of the United States or security and safety of United States persons.
+                  
+               
+               
+                  (2)
+                  Entity
+                  The term entity means a partnership, association, trust, joint venture, corporation, group, subgroup, or other organization.
+               
+               
+                  (3)
+                  Intelligence community
+                  The term intelligence community has the meaning given that term in section 3 of the National Security Act of 1947 (50 U.S.C. 3003).
+               
+               
+                  (4)
+                  Mobile communications equipment or service
+                  The term mobile communications equipment or service means any equipment or service that is essential to the provision of mobile service.
+               
+               
+                  (5)
+                  Mobile service
+                  The term mobile service means, to the extent provided to United States customers, either or both of the following services:
+                  
+                     (A)
+                     Commercial mobile service (as defined in section 332(d) of the Communications Act of 1934 (47 U.S.C. 332(d))).
+                  
+                  
+                     (B)
+                     Commercial mobile data service (as defined in section 6001 of the Middle Class Tax Relief and Job Creation Act of 2012 (47 U.S.C. 1401)).
+                  
+               
+               
+                  (6)
+                  Person
+                  The term person means an individual or entity.
+               
+               
+                  (7)
+                  United states person
+                  The term United States person means—
+                  
+                     (A)
+                     an individual who is a United States citizen or an alien lawfully admitted for permanent residence to the United States;
+                  
+                  
+                     (B)
+                     an entity organized under the laws of the United States or any jurisdiction within the United States, including a foreign branch of such an entity; or
+                  
+                  
+                     (C)
+                     any person in the United States.
+                  
+               
+            
+         
+         
+            406.
+            OPEN RAN OUTREACH
+            
+               (a)
+               In general
+               The Under Secretary shall conduct outreach and provide technical assistance to small communications network providers—
+               
+                  (1)
+                  to raise awareness regarding the uses, benefits, and challenges of Open RAN networks and other open network architectures; and
+               
+               
+                  (2)
+                  regarding participation in the grant program established under section 9202(a)(1) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (47 U.S.C. 906(a)(1)).
+               
+            
+            
+               (b)
+               Definitions
+               In this section:
+               
+                  (1)
+                  Under Secretary
+                  The term Under Secretary means the Under Secretary, acting through the head of the Office of Internet Connectivity and Growth.
+               
+               
+                  (2)
+                  Open network architecture
+                  The term open network architecture means Open RAN networks and other network elements that follow a set of published open standards for multi-vendor network equipment interoperability, including open core and open transport.
+               
+               
+                  (3)
+                  Open RAN network
+                  The term Open RAN network means a wireless network that follows the Open Radio Access Network approach to standardization adopted by the O–RAN Alliance, Telecom Infra Project, or Third Generation Partnership Project (3GPP), or any similar set of published open standards for multi-vendor network equipment interoperability.
+               
+            
+         
+      
+      
+         V
+         OFFICE OF PUBLIC SAFETY COMMUNICATIONS
+         
+            501.
+            ESTABLISHMENT OF THE OFFICE OF PUBLIC SAFETY COMMUNICATIONS
+            Part A of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 901 et seq.), as amended by the preceding provisions of this Act, is further amended by adding at the end the following:
+            
+               
+                  110B.
+                  ESTABLISHMENT OF THE OFFICE OF PUBLIC SAFETY COMMUNICATIONS
+                  
+                     (a)
+                     Establishment
+                     There is established within the NTIA an Office of Public Safety Communications (in this section referred to as the Office). 
+                  
+                  
+                     (b)
+                     Head of office
+                     
+                        (1)
+                        In general
+                        The head of the Office shall be an Associate Administrator for Public Safety Communications (in this section referred to as the Associate Administrator).
+                     
+                     
+                        (2)
+                        Career position
+                        The position of Associate Administrator shall be a career position in the Senior Executive Service occupied by a career appointee (as that term is defined in section 3132(a)(4) of title 5, United States Code).
+                     
+                     
+                        (3)
+                        Requirement to report
+                        The Associate Administrator shall report to the Under Secretary. 
+                     
+                  
+                  
+                     (c)
+                     Duties
+                     The Associate Administrator shall, at the direction of the Under Secretary—
+                     
+                        (1)
+                        administer any grant program of the Federal Government related to Next Generation 9–1–1 on behalf of the Under Secretary; 
+                     
+                     
+                        (2)
+                        analyze public safety policy communications issues, including by obtaining such analysis;
+                     
+                     
+                        (3)
+                        provide to the Under Secretary advice and assistance with respect to the Under Secretary—
+                        
+                           (A)
+                           carrying out the responsibilities of the NTIA related to public safety communications policy; and
+                        
+                        
+                           (B)
+                           evaluating the domestic impact of public safety communications matters pending before the Commission, Congress, or other entities of the executive branch of the Federal Government;
+                        
+                     
+                     
+                        (4)
+                        carry out any duties established under section 10 of Department Organizational Order 25–7 of the Department of Commerce titled National Telecommunications and Information Administration, effective September 17, 2012;
+                     
+                     
+                        (5)
+                        be responsible for the oversight of—
+                        
+                           (A)
+                           the studies carried out by the Federal Government relating to enhancing public safety communication; and 
+                        
+                        
+                           (B)
+                           the prototyping (including leading edge prototyping) and deployment by the Federal Government of advanced communications technologies that enhance public safety communications, including through test-protocol, model, or simulation tools for the testing and validation of such technologies;
+                        
+                     
+                     
+                        (6)
+                        communicate public safety communications policies to public entities, including the Commission and Congress, or private entities; and
+                     
+                     
+                        (7)
+                        carry out any duties regarding the responsibilities of the NTIA with respect to public safety communications policy as the Under Secretary may designate.
+                     
+                  
+               
+               .
+            
+         
+      
+      
+         VI
+         OFFICE OF INTERNATIONAL AFFAIRS
+         
+            601.
+            OFFICE OF INTERNATIONAL AFFAIRS
+            Part A of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 901 et seq.), as amended by the preceding provisions of this Act, is further amended by adding at the end the following:
+            
+               
+                  110C.
+                  OFFICE OF INTERNATIONAL AFFAIRS
+                  
+                     (a)
+                     Establishment
+                     There is established within the NTIA an Office of International Affairs (in this section referred to as the Office).
+                  
+                  
+                     (b)
+                     Head of Office
+                     
+                        (1)
+                        In general
+                        The head of the Office shall be an Associate Administrator for International Affairs (in this section referred to as the Associate Administrator).
+                     
+                     
+                        (2)
+                        Career position
+                        The position of Associate Administrator shall be a career position in the Senior Executive Service occupied by a career appointee (as that term is defined in section 3132(a)(4) of title 5, United States Code).
+                     
+                     
+                        (3)
+                        Requirement to report
+                        The Associate Administrator shall report to the Under Secretary.
+                     
+                  
+                  
+                     (c)
+                     Duties
+                     The Associate Administrator shall, at the direction of the Under Secretary—
+                     
+                        (1)
+                        conduct analysis of, review, and formulate international telecommunications and information policy;
+                     
+                     
+                        (2)
+                        present on international telecommunications and information policy before the Commission, Congress, international telecommunications bodies, including the International Telecommunication Union, and others;
+                     
+                     
+                        (3)
+                        conduct or obtain analysis on economic and other aspects of international telecommunications and information policy;
+                     
+                     
+                        (4)
+                        formulate, and recommend to the Under Secretary, polices and plans with respect to preparation for and participation in international telecommunications and information policy activities;
+                     
+                     
+                        (5)
+                        coordinate NTIA and interdepartmental economic, technical, operational, and other preparations related to participation by the United States in international telecommunications and information policy conferences and negotiations;
+                     
+                     
+                        (6)
+                        ensure NTIA representation with respect to international telecommunications and information policy meetings and the activities related to preparation for such meetings;
+                     
+                     
+                        (7)
+                        coordinate with Federal agencies and private organizations engaged in activities involving international telecommunications and information policy matters and maintain cognizance of the activities of United States signatories with respect to related treaties, agreements, and other instruments;
+                     
+                     
+                        (8)
+                        provide advice and assistance related to international telecommunications and information policy to other Federal agencies charged with responsibility for international negotiations, to strengthen the position and serve the best interests of the United States in the conduct of negotiations with foreign nations;
+                     
+                     
+                        (9)
+                        provide advice and assistance to the Under Secretary with respect to evaluating the international impact of matters pending before the Commission, other Federal agencies, and Congress;
+                     
+                     
+                        (10)
+                        carry out responsibilities under the Communications Satellite Act of 1962 (47 U.S.C. 701 et seq.) and other Federal laws related to international telecommunications and information policy; and
+                     
+                     
+                        (11)
+                        carry out any other duties of the NTIA with respect to international telecommunications and information policy that the Under Secretary may designate.
+                     
+                  
+               
+               .
+            
+         
+         
+            602.
+            ESTABLISHMENT OF INTERAGENCY NATIONAL SECURITY REVIEW PROCESS
+            
+               (a)
+               In general
+               Part A of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 901 et seq.), as amended by the preceding provisions of this Act, is further amended by adding at the end the following:
+               
+                  
+                     110D.
+                     ESTABLISHMENT OF INTERAGENCY NATIONAL SECURITY REVIEW PROCESS
+                     
+                        (a)
+                        Establishment
+                        Not later than 180 days after the date of the enactment of this section, the Under Secretary, in coordination with the head of each appropriate Federal entity, shall develop and issue procedures for, and establish, an interagency review process (which shall include each appropriate Federal entity) that considers the law enforcement and national security policy implications of the approval of a covered application that may arise from the foreign ownership interests held in the covered applicant that submitted the covered application.
+                     
+                     
+                        (b)
+                        Applicability
+                        Any covered application pending before the Commission that was submitted by a covered applicant with more than the threshold foreign ownership limit, after the covered applicant declines an opportunity to remedy the foreign ownership of the covered applicant, is subject to review under the review process established pursuant to subsection (a).
+                     
+                     
+                        (c)
+                        Process and procedural requirements
+                        
+                           (1)
+                           Referral for review
+                           
+                              (A)
+                              Requirement for FCC to refer complete application
+                              The Commission shall refer any covered application subject to the review process established pursuant to subsection (a) to the Under Secretary promptly after the Commission determines that the covered application, under the rules and regulations of the Commission, is complete.
+                           
+                           
+                              (B)
+                              Referral of other requests
+                              The Commission may refer for review under the review process established pursuant to subsection (a) any other request for action by the Commission for which the Commission determines review is necessary under such process.
+                           
+                        
+                        
+                           (2)
+                           Interagency review deadline; determination
+                           
+                              (A)
+                              In general
+                              Not later than 120 days after the date on which the Under Secretary receives a referral from the Commission pursuant to paragraph (1)—
+                              
+                                 (i)
+                                 the review of the covered application or other request under the review process established pursuant to subsection (a) shall be completed;
+                              
+                              
+                                 (ii)
+                                 the Under Secretary, in coordination with the head of each appropriate Federal entity, shall make a determination—
+                                 
+                                    (I)
+                                    to recommend to the Commission that the Commission grant, grant conditioned on mitigation, or deny the covered application or other request; or
+                                 
+                                 
+                                    (II)
+                                    that the Under Secretary cannot make a recommendation with respect to the covered application or other request; and
+                                 
+                              
+                              
+                                 (iii)
+                                 if the Under Secretary determines under clause (ii) that the Under Secretary cannot make a recommendation with respect to the covered application or other request, the President shall make a determination to recommend to the Commission that the Commission grant, grant conditioned on mitigation, or deny the covered application or other request.
+                              
+                           
+                           
+                              (B)
+                              Extension
+                              The Under Secretary, in coordination with the head of each appropriate Federal entity, may extend the deadline described in subparagraph (A) an additional 45 days.
+                           
+                           
+                              (C)
+                              Notification of extension
+                              If the Under Secretary, in coordination with the head of each appropriate Federal entity, extends the deadline pursuant to subparagraph (B), the Under Secretary shall notify the covered applicant or other requesting party of the extension.
+                           
+                        
+                        
+                           (3)
+                           Notification of determination
+                           Not later than 3 days (excepting Saturdays, Sundays, and legal holidays) after the Under Secretary or the President (as the case may be) makes a determination under paragraph (2)(A) to recommend that the Commission grant, grant conditioned on mitigation, or deny the application or other request, the Under Secretary shall notify, in writing, the Commission and the covered applicant or other requesting party of the determination.
+                        
+                        
+                           (4)
+                           Disclosure of status of review
+                           Not later than 5 days (excepting Saturdays, Sundays, and legal holidays) after receiving an inquiry from a covered applicant or other requesting party for an update with respect to the status of the review of the covered application or other request of the covered applicant or other requesting party that was referred by the Commission for review under the review process established pursuant to subsection (a), the Under Secretary, in coordination with the head of each appropriate Federal entity, shall provide, consistent with the protection of classified information and intelligence sources and methods, a complete and accurate written response to the covered applicant or other requesting party, the Commission, and the appropriate congressional committees.
+                        
+                        
+                           (5)
+                           Standardization of information required
+                           With respect to the review process established pursuant to subsection (a), the Under Secretary, in coordination with the head of each appropriate Federal entity, shall establish a list of questions requesting written information from a covered applicant or other requesting party that shall be made publicly available and posted on the internet website of the NTIA. Such questions shall, to the maximum extent possible, be standardized for any potential covered applicant or other requesting party.
+                        
+                        
+                           (6)
+                           Deadline for provision of information requested
+                           Not later than 10 days after the date on which the Under Secretary, in coordination with the head of each appropriate Federal entity, requests information from a covered applicant or other requesting party, the covered applicant or other requesting party shall submit, in writing, to the NTIA complete and accurate responses.
+                        
+                     
+                     
+                        (d)
+                        Confidentiality of information
+                        
+                           (1)
+                           In general
+                           Except as provided in paragraph (2), any information or documentary material provided to the Under Secretary under the review process established pursuant to subsection (a) shall be exempt from disclosure under section 552 of title 5, United States Code, and no such information or documentary material may be made public.
+                        
+                        
+                           (2)
+                           Exceptions
+                           Paragraph (1) does not prohibit disclosure of the following: 
+                           
+                              (A)
+                              Information disclosed for purposes of an administrative or judicial action or proceeding. 
+                           
+                           
+                              (B)
+                              Information disclosed to Congress or a duly authorized committee or subcommittee of Congress. 
+                           
+                           
+                              (C)
+                              Information disclosed to a domestic governmental entity, or to a foreign governmental entity of a United States ally or partner, under the exclusive direction and authorization of the Under Secretary, only to the extent necessary for national security purposes and subject to appropriate confidentiality and classification requirements. 
+                           
+                           
+                              (D)
+                              Information disclosed to a third party by mutual agreement of a covered applicant and the Under Secretary, in consultation with appropriate Federal entities.
+                           
+                        
+                     
+                     
+                        (e)
+                        Rule of construction
+                        Except as provided in subsection (d), nothing in this section may be construed as limiting, superseding, or preventing the invocation of any privileges or defenses that are otherwise available at law or in equity to protect against the disclosure of information.
+                     
+                     
+                        (f)
+                        Definitions
+                        In this section:
+                        
+                           (1)
+                           Appropriate congressional committees
+                           The term appropriate congressional committees means the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+                        
+                        
+                           (2)
+                           Appropriate Federal entities
+                           The term appropriate Federal entities means the following:
+                           
+                              (A)
+                              The Department of Commerce.
+                           
+                           
+                              (B)
+                              The Department of Defense.
+                           
+                           
+                              (C)
+                              The Department of Homeland Security.
+                           
+                           
+                              (D)
+                              The Department of Justice.
+                           
+                           
+                              (E)
+                              The Department of the Treasury.
+                           
+                           
+                              (F)
+                              The Department of State.
+                           
+                           
+                              (G)
+                              The United States Trade Representative.
+                           
+                           
+                              (H)
+                              The Federal Bureau of Investigation.
+                           
+                           
+                              (I)
+                              The Executive Office of the President.
+                           
+                           
+                              (J)
+                              The Office of the Director of National Intelligence.
+                           
+                        
+                        
+                           (3)
+                           Classified information
+                           The term classified information means any information or material that has been determined by the Federal Government pursuant to an Executive order, statute, or regulation, to require protection against unauthorized disclosure for reasons of national security.
+                        
+                        
+                           (4)
+                           Covered applicant
+                           The term covered applicant means an entity seeking approval of a covered application from the Commission.
+                        
+                        
+                           (5)
+                           Covered application
+                           
+                              (A)
+                              In general
+                              The term covered application means—
+                              
+                                 (i)
+                                 an application under section 214(a) of the Communications Act of 1934 (47 U.S.C. 214(a)) for authorization to undertake the construction of a new line or of an extension of any line, or to acquire or operate any line, or extension thereof, or to engage in transmission over or by means of such additional or extended line;
+                              
+                              
+                                 (ii)
+                                 an application under the Act titled An Act relating to the landing and operation of submarine cables in the United States, approved May 27, 1921 (47 U.S.C. 34 et seq.; 42 Stat. 8) for—
+                                 
+                                    (I)
+                                    a submarine cable landing license; or
+                                 
+                                 
+                                    (II)
+                                    an assignment or transfer of control of a submarine cable landing license; or
+                                 
+                              
+                              
+                                 (iii)
+                                 an application for a new license, or for the transfer, assignment, or disposal of an existing license under section 310(d) of the Communications Act of 1934 (47 U.S.C. 310(d)), that is—
+                                 
+                                    (I)
+                                    subject to approval by the Commission under section 310(b)(4) of such Act (47 U.S.C. 310(b)(4)); or
+                                 
+                                 
+                                    (II)
+                                    eligible, under the rules of the Commission, for forbearance under section 10 of such Act (47 U.S.C. 160) from the application of paragraph (1), (2), or (3) of section 310(b) of such Act (47 U.S.C. 310(b)).
+                                 
+                              
+                           
+                           
+                              (B)
+                              Limitation
+                              The term covered application does not include the following:
+                              
+                                 (i)
+                                 An application described in subparagraph (A) with respect to which the applicant seeks to transfer, assign, or otherwise dispose of an authorization or license to an entity that—
+                                 
+                                    (I)
+                                    is owned or controlled by such applicant;
+                                 
+                                 
+                                    (II)
+                                    owns or controls such applicant; or
+                                 
+                                 
+                                    (III)
+                                    is under common ownership or control with such applicant.
+                                 
+                              
+                              
+                                 (ii)
+                                 An application described in subparagraph (A) with respect to which the applicant—
+                                 
+                                    (I)
+                                    is an applicant that has been previously approved under the review process established pursuant to subsection (a); and
+                                 
+                                 
+                                    (II)
+                                    at the time of such application does not have a level of foreign ownership that is more than 5 percent greater than the level of foreign ownership of such applicant—
+                                    
+                                       (aa)
+                                       except as provided in item (bb), at any time such applicant was previously approved under the review process established pursuant to subsection (a); or
+                                    
+                                    
+                                       (bb)
+                                       if such applicant has been subjected to the review process established pursuant to subsection (a) as a result of exceeding a level of foreign ownership pursuant to this clause, at the time such applicant was most recently approved under such review process after having been subjected to such review process as a result of exceeding a level of foreign ownership pursuant to this clause.
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           (6)
+                           Threshold foreign ownership limit
+                           The term threshold foreign ownership limit means foreign ownership of, as applicable—
+                           
+                              (A)
+                              at least the amount determined by the Commission under section 214(a) of the Communications Act of 1934 (47 U.S.C. 214(a)), in the case of an application described in paragraph (5)(A) of this subsection;
+                           
+                           
+                              (B)
+                              any amount, in the case of an application described in paragraph (5)(B) of this subsection; or
+                           
+                           
+                              (C)
+                              at least an amount sufficient for section 310(b) of such Act (47 U.S.C. 310(b)) to apply, in the case of an application described in paragraph (5)(C) of this subsection.
+                           
+                        
+                     
+                  
+                  .
+               
+            
+            
+               (b)
+               Applicability
+               This section, and the amendment made by this section, shall apply to any covered application (as such term is defined in section 110B of the National Telecommunications and Information Administration Organization Act, as added by subsection (a)) filed on or after the date on which the review process is established pursuant to such section 110B.
+            
+         
+      
+   

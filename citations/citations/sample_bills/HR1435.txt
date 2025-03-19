@@ -1,0 +1,87 @@
+
+<!DOCTYPE bill
+  SYSTEM "blp-dscs-billres.dtd">
+
+   
+      
+         Preserving Choice in Vehicle Purchases Act
+      
+   
+   
+      IIB
+      118th CONGRESS
+      1st Session
+      H. R. 1435
+      IN THE SENATE OF THE UNITED STATES
+      
+         September 18, 2023
+         Received; read twice and referred to the Committee on Environment and Public Works
+      
+      AN ACT
+      To amend the Clean Air Act to prevent the elimination of the sale of internal combustion engines.
+   
+   
+      Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+      
+         1.
+         SHORT TITLE
+         This Act may be cited as the 
+               Preserving Choice in Vehicle Purchases Act
+            . 
+      
+      
+         2.
+         STATE STANDARDS
+         
+            (a)
+            Amendments
+            Section 209(b) of the Clean Air Act (42 U.S.C. 7543(b)) is amended—
+            
+               (1)
+               in paragraph (1)—
+               
+                  (A)
+                  in subparagraph (B), by striking the or at the end;
+               
+               
+                  (B)
+                  in subparagraph (C), by striking part. and inserting part, or; and 
+               
+               
+                  (C)
+                  by adding at the end the following:
+                  
+                     
+                        (D)
+                        such State standards directly or indirectly limit the sale or use of new motor vehicles with internal combustion engines, as such term is defined in section 63.9375 of title 40, Code of Federal Regulations, as in effect January 1, 2023.
+                     
+                     ; and
+                  
+               
+            
+            
+               (2)
+               by adding at the end the following:
+               
+                  
+                     (4)
+                     The Administrator may not determine that any State standards amended after the date of enactment of this paragraph are within the scope of a waiver granted under paragraph (1) before the date of enactment of this paragraph.
+                  
+                  .
+               
+            
+         
+         
+            (b)
+            Effect on certain existing waivers
+            The Administrator of the Environmental Protection Agency shall revoke a waiver granted under section 209(b) of the Clean Air Act (42 U.S.C. 7543(b)) during the period that begins on January 1, 2022, and ends on the date of enactment of this Act if the Administrator finds that such waiver does not comply with subparagraph (D) of section 209(b)(1) of the Clean Air Act (42 U.S.C. 7543(b)(1)), as added by this Act.
+         
+      
+   
+   
+      
+         Passed the House of Representatives September 14, 2023.
+         KEVIN F. MCCUMBER,
+         Clerk.
+      
+   
