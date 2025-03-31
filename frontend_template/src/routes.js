@@ -23,6 +23,7 @@ import Icons from "views/Icons.js";
 import Maps from "views/Maps.js";
 import Notifications from "views/Notifications.js";
 import Upgrade from "views/Upgrade.js";
+import VisTest from "views/VisTest.js";
 
 const dashboardRoutes = [
 
@@ -64,13 +65,13 @@ const dashboardRoutes = [
   //   component: Icons,
   //   layout: "/admin"
   // },
-  // {
-  //   path: "/maps",
-  //   name: "Maps",
-  //   icon: "nc-icon nc-pin-3",
-  //   component: Maps,
-  //   layout: "/admin"
-  // },
+  {
+    path: "/VisTest",
+    name: "Visualizations Testing",
+    icon: "nc-icon nc-pin-3",
+    component: VisTest,
+    layout: "/admin"
+  },
   // {
   //   path: "/notifications",
   //   name: "Notifications",
