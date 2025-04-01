@@ -23,7 +23,10 @@ import Icons from "views/Icons.js";
 import Maps from "views/Maps.js";
 import Notifications from "views/Notifications.js";
 import Upgrade from "views/Upgrade.js";
-import VisTest from "views/VisTest.js";
+import D3BarChart from "views/D3BarChart";
+import VegaLiteStreamgraph from "views/VegaLiteStreamgraph";
+import CustomVisualizations from "views/CustomVisualizations";
+
 
 const dashboardRoutes = [
 
@@ -43,11 +46,19 @@ const dashboardRoutes = [
     layout: "/admin"
   },
 
+  // {
+  //   path: "/visualizations",
+  //   name: "Visualizations",
+  //   icon: "nc-icon nc-chart-pie-36",
+  //   component: Dashboard,
+  //   layout: "/admin"
+  // },
+
   {
     path: "/visualizations",
     name: "Visualizations",
     icon: "nc-icon nc-chart-pie-36",
-    component: Dashboard,
+    component: CustomVisualizations,
     layout: "/admin"
   },
 
@@ -65,20 +76,6 @@ const dashboardRoutes = [
   //   component: Icons,
   //   layout: "/admin"
   // },
-  {
-    path: "/VisTest",
-    name: "Visualizations Testing",
-    icon: "nc-icon nc-pin-3",
-    component: VisTest,
-    layout: "/admin"
-  },
-  // {
-  //   path: "/notifications",
-  //   name: "Notifications",
-  //   icon: "nc-icon nc-bell-55",
-  //   component: Notifications,
-  //   layout: "/admin"
-  // }
 ];
 
 export default dashboardRoutes;
