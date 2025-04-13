@@ -19,6 +19,7 @@
     "react-scripts": "5.0.1",
     "react-vega": "^7.6.0",
     "reactstrap": "8.8.1",
+    "recharts": "^2.15.2",
     "sass": "1.53.0",
     "vega": "^6.1.2",
     "vega-embed": "^7.0.2",

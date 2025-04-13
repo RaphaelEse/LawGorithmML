@@ -1,5 +1,7 @@
 import React from "react";
 import ChartistGraph from "react-chartist";
+import D3BarChart from "./D3BarChart"
+import VegaLiteStreamgraph from "./VegaLiteStreamgraph"
 // react-bootstrap components
 import {
   Badge,
@@ -18,6 +20,7 @@ import {
 
 function Dashboard() {
   return (
+    
     <>
       <Container fluid>
         {/* <Row>
