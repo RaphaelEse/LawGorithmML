@@ -1,0 +1,1212 @@
+
+<!DOCTYPE bill
+  SYSTEM "blp-dscs-billres.dtd">
+
+   
+      
+         Providing Reliable, Objective, Verifiable Emissions Intensity and Transparency Act of 2023 PROVE IT Act of 2023
+         Providing Reliable, Objective, Verifiable Emissions Intensity and Transparency Act of 2024 PROVE IT Act of 2024
+      
+   
+   
+      II
+      Calendar No. 311
+      118th CONGRESS
+      2d Session
+      S. 1863
+      IN THE SENATE OF THE UNITED STATES
+      
+         June 7, 2023
+         
+            Mr. Coons (for himself, Mr. Cramer, Mr. King, Ms. Murkowski, Mr. Heinrich, Mr. Graham, Mr. Whitehouse, Mr. Cassidy, Mr. Hickenlooper, Mr. Durbin, Mr. Boozman, Mr. Padilla, and Mr. Kelly) introduced the following bill; which was read twice and referred to the Committee on Environment and Public Works
+      
+      
+         January 25, 2024
+         Reported by Mr. Carper, with an amendment
+         Strike out all after the enacting clause and insert the part printed in italic
+      
+      A BILL
+      To require the Secretary of Energy to conduct a study and submit a report on the greenhouse gas emissions intensity of certain products produced in the United States and in certain foreign countries, and for other purposes.
+   
+   
+      Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+      
+         1.
+         SHORT TITLE
+         This Act may be cited as the 
+               Providing Reliable, Objective, Verifiable Emissions Intensity and Transparency Act of 2023
+             or the 
+               PROVE IT Act of 2023
+            .
+      
+      
+         2.
+         STUDY ON GREENHOUSE GAS EMISSIONS INTENSITY OF CERTAIN PRODUCTS PRODUCED IN THE UNITED STATES AND IN CERTAIN FOREIGN COUNTRIES
+         
+            (a)
+            Definitions
+            In this section:
+            
+               (1)
+               Appropriate committees of Congress
+               The term appropriate committees of Congress means—
+               
+                  (A)
+                  the Committee on Energy and Natural Resources of the Senate; and
+               
+               
+                  (B)
+                  the Committee on Energy and Commerce of the House of Representatives.
+               
+            
+            
+               (2)
+               Average product emissions intensity
+               The term average product emissions intensity means the national average of the product emissions intensity of a category of covered products produced in, as applicable—
+               
+                  (A)
+                  the United States; or
+               
+               
+                  (B)
+                  a covered country.
+               
+            
+            
+               (3)
+               Carbon dioxide-equivalent; CO2-e
+               The term carbon dioxide-equivalent or CO2-e means the number of metric tons of carbon dioxide emissions with the same global warming potential as one metric ton of another greenhouse gas.
+            
+            
+               (4)
+               Category of covered products
+               
+                  (A)
+                  In general
+                  The term category of covered products means—
+                  
+                     (i)
+                     a category described in any of clauses (i) through (xxii) of subparagraph (B), each of which consists of products covered by the headings or subheadings of the Harmonized Tariff Schedule of the United States described parenthetically in that clause; and
+                  
+                  
+                     (ii)
+                     any other category of covered products, as determined by the Secretary, consisting of products covered by 1 or more headings or subheadings of the Harmonized Tariff Schedule of the United States.
+                  
+               
+               
+                  (B)
+                  Categories described
+                  The categories referred to in subparagraph (A)(i), consisting of products covered by the headings or subheadings of the Harmonized Tariff Schedule of the United States described parenthetically for each category, are the following:
+                  
+                     (i)
+                     Aluminum (any of 7601 through 7608).
+                  
+                  
+                     (ii)
+                     Articles of aluminum (any of 7609 through 7616).
+                  
+                  
+                     (iii)
+                     Articles of cement (6810 or 6811).
+                  
+                  
+                     (iv)
+                     Articles of iron and steel (any of 7307 through 7326).
+                  
+                  
+                     (v)
+                     Articles of plastic (any of 3916 through 3926).
+                  
+                  
+                     (vi)
+                     Biofuels (2207.10, 2207.20, or 3826).
+                  
+                  
+                     (vii)
+                     Cement (2523 or 3824.5).
+                  
+                  
+                     (viii)
+                     Crude oil (2709).
+                  
+                  
+                     (ix)
+                     Fertilizer (2808, 2814, 2834.21, or any of 3101 through 3105).
+                  
+                  
+                     (x)
+                     Glass (any of 7001 through 7020).
+                  
+                  
+                     (xi)
+                     Hydrogen (2804.10).
+                  
+                  
+                     (xii)
+                     Iron and steel (any of 7201 through 7306).
+                  
+                  
+                     (xiii)
+                     Lithium-ion batteries (8507.60).
+                  
+                  
+                     (xiv)
+                     Natural gas (2711.11 or 2711.21).
+                  
+                  
+                     (xv)
+                     Petrochemicals (2901 or 2711.14).
+                  
+                  
+                     (xvi)
+                     Plastics (any of 3901 through 3915).
+                  
+                  
+                     (xvii)
+                     Pulp and paper (any of 4701 through 4707 or 4801 through 4813).
+                  
+                  
+                     (xviii)
+                     Refined strategic and critical minerals, including copper, cobalt, graphite, lithium, manganese, and nickel (2825.50, 2827.41, any of 7401 through 7404, 7406, 2822.00, 8105.20, 8105.30, 2504, 3801.10, 2836.91, 2825.20, 2820.10, 8111, 2825.40, any of 7501 through 7504, or 2833.24). 
+                  
+                  
+                     (xix)
+                     Refined petroleum products (2710, 2712, 2713, 2714, 2715, 2902.20, 2902.30, or 2902.44).
+                  
+                  
+                     (xx)
+                     Solar cells and panels (any of 8541.42 through 8541.43 or 8501.71 through 8501.80).
+                  
+                  
+                     (xxi)
+                     Uranium (2612.10, 2844.10, 2844.20, or 2844.30).
+                  
+                  
+                     (xxii)
+                     Wind turbines (8502.31). 
+                  
+               
+            
+            
+               (5)
+               Covered country
+               The term covered country means each of the following:
+               
+                  (A)
+                  A country that is a member of the Group of Seven.
+               
+               
+                  (B)
+                  A country that is a signatory to a free trade agreement with the United States that is in effect as of the date on which the Secretary begins a study under subsection (b)(1).
+               
+               
+                  (C)
+                  A foreign country of concern (as defined in section 9901 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (15 U.S.C. 4651)).
+               
+               
+                  (D)
+                  A country that, in the determination of the Secretary, holds more than a de minimis share of the global market share, as measured by official trade statistics, of—
+                  
+                     (i)
+                     1 or more categories of covered products; or
+                  
+                  
+                     (ii)
+                     upstream inputs for 1 or more categories of covered products.
+                  
+               
+               
+                  (E)
+                  Any other country that the Secretary determines to be appropriate, including any country that the Secretary determines is a significant producer or exporter of at least 1 category of covered products.
+               
+            
+            
+               (6)
+               Covered product
+               
+                  (A)
+                  In general
+                  The term covered product means a product covered by—
+                  
+                     (i)
+                     any of the headings or subheadings of the Harmonized Tariff Schedule of the United States described parenthetically in paragraph (4)(B); or
+                  
+                  
+                     (ii)
+                     any other heading or subheading of the Harmonized Tariff Schedule of the United States included within a category of covered products determined by the Secretary in accordance with paragraph (4)(A)(ii).
+                  
+               
+               
+                  (B)
+                  List of covered products
+                  The Secretary shall maintain a list of covered products that identifies the category of covered products associated with each covered product on the list.
+               
+            
+            
+               (7)
+               Greenhouse gas
+               The term greenhouse gas has the meaning given the term in section 901 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17321). 
+            
+            
+               (8)
+               Product emissions intensity
+               
+                  (A)
+                  In general
+                  The term product emissions intensity means the quantity of greenhouse gases emitted to the atmosphere as a result of the extraction, production, processing, manufacture, and assembly, as applicable, of 1 unit of a covered product, including the greenhouse gas emissions of an upstream input that is incorporated into a downstream covered product.
+               
+               
+                  (B)
+                  Units of measurement
+                  The Secretary, as the Secretary determines to be appropriate, shall designate the units of measurement in which the product emissions intensity of a covered product shall be expressed, which may include—
+                  
+                     (i)
+                     metric tons of CO2-e per metric ton of a covered product;
+                  
+                  
+                     (ii)
+                     metric tons of CO2-e per dollar value of a covered product; or
+                  
+                  
+                     (iii)
+                     any other unit of measurement that the Secretary determines to be appropriate.
+                  
+               
+            
+            
+               (9)
+               Secretary
+               The term Secretary means the Secretary of Energy.
+            
+         
+         
+            (b)
+            Study
+            
+               (1)
+               In general
+               Not later than 2 years after the date of enactment of this Act, and not less frequently than once every 5 years thereafter, the Secretary, in coordination with the Secretary of Commerce (including appropriate officials of the Bureau of the Census and the International Trade Administration), the Administrator of the Environmental Protection Agency, the United States Trade Representative, the Secretary of Homeland Security, the Secretary of State, and such other Federal officials as the Secretary determines to be appropriate, shall conduct, and submit to the appropriate committees of Congress a report describing the results of, a study—
+               
+                  (A)
+                  to determine the average product emissions intensity of each category of covered products produced in the United States;
+               
+               
+                  (B)
+                  to identify gaps in product emissions intensity data for categories of covered products produced in the United States;
+               
+               
+                  (C)
+                  subject to paragraph (2)(B), to determine the average product emissions intensity of each category of covered products produced in covered countries, which may incorporate, as the Secretary determines to be appropriate, findings from—
+                  
+                     (i)
+                     the implementation of the measures described in section 40416(a) of the Infrastructure Investment and Jobs Act (42 U.S.C. 18776(a)); and
+                  
+                  
+                     (ii)
+                     the international energy data resources described in that section;
+                  
+               
+               
+                  (D)
+                  to identify any issues with verifying the average product emissions intensity data for covered products produced in covered countries; and
+               
+               
+                  (E)
+                  to determine the relative average product emissions intensity of each category of covered products produced in the United States compared to the average product emissions intensity of each category of covered products produced in covered countries.
+               
+            
+            
+               (2)
+               Requirements
+               
+                  (A)
+                  In general
+                  The report submitted under paragraph (1) shall include—
+                  
+                     (i)
+                     a detailed, specific, and transparent description of the methodology used to determine the average product emissions intensity of a category of covered products under subparagraphs (A) and (C) of that paragraph;
+                  
+                  
+                     (ii)
+                     a record of all sources of data used to determine the average product emissions intensity of a category of covered products under subparagraphs (A) and (C) of that paragraph; and
+                  
+                  
+                     (iii)
+                     the heading or subheading of the Harmonized Tariff Schedule of the United States associated with each covered product for which the average product emissions intensity of a category of covered products is determined under subparagraphs (A) and (C) of that paragraph.
+                  
+               
+               
+                  (B)
+                  Certain covered countries
+                  With respect to a covered country described in subparagraph (C) or (D) of subsection (a)(5), in carrying out subparagraph (C) of paragraph (1), the Secretary may limit the study under that paragraph to categories of covered products with respect to which the covered country holds more than a de minimis share of the global market share of that category of covered products.
+               
+               
+                  (C)
+                  Reuse of end-of-life materials
+                  In determining the average product emissions intensity of a category of covered products under subparagraphs (A) and (C) of paragraph (1), the Secretary shall favorably consider the reuse of end-of-life materials in place of virgin raw materials.
+               
+            
+            
+               (3)
+               Coordination among primary study participants
+               In carrying out paragraph (1), the Secretary, the Secretary of Commerce, the Administrator of the Environmental Protection Agency, the United States Trade Representative, the Secretary of Homeland Security, the Secretary of State, and such other Federal officials as the Secretary determines to be appropriate shall establish procedures to facilitate timely and efficient data sharing for purposes of carrying out that paragraph, including, if appropriate, by designating appropriate individuals with appropriate qualifications to review any data shared.
+            
+            
+               (4)
+               Consultation and coordination with others
+               In carrying out paragraph (1), the Secretary may consult and enter into agreements with institutions having relevant data or data collection or analysis capabilities, such as the National Laboratories, the National Institute of Standards and Technology, the National Academy of Sciences, the International Energy Agency, the Organisation for Economic Co-operation and Development, and relevant academic and think-tank partners.
+            
+            
+               (5)
+               Consultation and coordination with industry
+               In carrying out paragraph (1), the Secretary, in coordination with the Secretary of Commerce, shall establish—
+               
+                  (A)
+                  a process to receive data from industry partners; and
+               
+               
+                  (B)
+                  a process pursuant to which industry may request that a product be—
+                  
+                     (i)
+                     included on the list of covered products maintained under subsection (a)(6)(B); and
+                  
+                  
+                     (ii)
+                     analyzed as a covered product in subsequent studies and reports under that paragraph.
+                  
+               
+            
+            
+               (6)
+               International coordination
+               
+                  (A)
+                  In general
+                  In carrying out paragraph (1), the Secretary, the Secretary of State, and the United States Trade Representative shall make every effort to coordinate with the governments of covered countries—
+                  
+                     (i)
+                     to inform the determination of average emissions intensity values;
+                  
+                  
+                     (ii)
+                     to advance common emissions accounting methodologies and data formats; and
+                  
+                  
+                     (iii)
+                     to improve overall data availability and quality.
+                  
+               
+               
+                  (B)
+                  Consultation
+                  In any case in which a covered country is credibly collaborating with the Secretary by supporting the collection, analysis, or verification of data, the Secretary may give that covered country—
+                  
+                     (i)
+                     a right to consultation with respect to the determination of the average product emissions intensity of 1 or more categories of covered products produced in that covered country;
+                  
+                  
+                     (ii)
+                     an opportunity to discuss chosen data; and
+                  
+                  
+                     (iii)
+                     an opportunity to fill data gaps.
+                  
+               
+            
+            
+               (7)
+               Data availability
+               
+                  (A)
+                  In general
+                  In carrying out paragraph (1), the Secretary shall—
+                  
+                     (i)
+                     take note of any instances in which there is not sufficient data to precisely determine the average product emissions intensity of a category of covered products under subparagraph (A) or (C) of that paragraph;
+                  
+                  
+                     (ii)
+                     include in the report submitted under that paragraph—
+                     
+                        (I)
+                        a notation with respect to each instance noted under clause (i); and
+                     
+                     
+                        (II)
+                        an explanation for that notation;
+                     
+                  
+                  
+                     (iii)
+                     identify any issues with verifying the average product emissions intensity data for categories of covered products under subparagraph (A) or (C) of that paragraph; and
+                  
+                  
+                     (iv)
+                     identify any gaps in product emissions intensity data for covered products or categories of covered products produced in the United States.
+                  
+               
+               
+                  (B)
+                  Requirement
+                  For each instance noted under subparagraph (A)(i), the Secretary shall determine the average product emissions intensity of the next highest aggregation of categories of covered products for which data are available. 
+               
+               
+                  (C)
+                  Considerations
+                  In determining whether there are sufficient data to precisely determine the average product emissions intensity of a covered product or category of covered products under subparagraph (A)(i), the Secretary shall consider the following factors:
+                  
+                     (i)
+                     The public availability of statistics on greenhouse gas emissions for particular industries from government sources and international organizations.
+                  
+                  
+                     (ii)
+                     The public availability of data on the quantity and source of inputs, such as electricity, consumed by particular industries.
+                  
+                  
+                     (iii)
+                     The extent to which the data described in clauses (i) and (ii) cover a representative group of producers within an industry.
+                  
+                  
+                     (iv)
+                     The transparency in the method used to collect, analyze, summarize, and publish the data described in clauses (i) and (ii).
+                  
+                  
+                     (v)
+                     Whether there are other factors that may impact the precision of the data described in clauses (i) and (ii).
+                  
+                  
+                     (vi)
+                     The recency of the data described in clauses (i) and (ii).
+                  
+               
+            
+         
+         
+            (c)
+            Public database
+            The Secretary shall establish a public online database of—
+            
+               (1)
+               the average product emissions intensity data collected under subparagraphs (A) and (C) of subsection (b)(1); and
+            
+            
+               (2)
+               the relative average product emissions intensity of covered products determined under subparagraph (E) of that subsection.
+            
+         
+         
+            (d)
+            Updates
+            Not less frequently than once every 5 years, the Secretary shall update—
+            
+               (1)
+               the database established under subsection (c); and
+            
+            
+               (2)
+               the list of covered products maintained under subsection (a)(6)(B).
+            
+         
+      
+   
+   
+      Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+      
+         1.
+         SHORT TITLE
+         This Act may be cited as the 
+               Providing Reliable, Objective, Verifiable Emissions Intensity and Transparency Act of 2024
+             or the 
+               PROVE IT Act of 2024
+            .
+      
+      
+         2.
+         STUDY ON GREENHOUSE GAS EMISSIONS INTENSITY OF CERTAIN PRODUCTS PRODUCED IN THE UNITED STATES AND IN CERTAIN FOREIGN COUNTRIES
+         
+            (a)
+            Definitions
+            In this section:
+            
+               (1)
+               Appropriate committees of Congress
+               The term appropriate committees of Congress means—
+               
+                  (A)
+                  the Committee on Environment and Public Works of the Senate;
+               
+               
+                  (B)
+                  the Committee on Energy and Natural Resources of the Senate; and
+               
+               
+                  (C)
+                  the Committee on Energy and Commerce of the House of Representatives.
+               
+            
+            
+               (2)
+               Average product emissions intensity
+               The term average product emissions intensity means the national average of the product emissions intensity of a category of covered products produced in, as applicable—
+               
+                  (A)
+                  the United States; or
+               
+               
+                  (B)
+                  a covered country.
+               
+            
+            
+               (3)
+               Carbon dioxide-equivalent; CO2-e
+               The term carbon dioxide-equivalent or CO2-e means the number of metric tons of carbon dioxide emissions with the same global warming potential as one metric ton of another greenhouse gas.
+            
+            
+               (4)
+               Category of covered products
+               
+                  (A)
+                  In general
+                  The term category of covered products means—
+                  
+                     (i)
+                     a category described in any of clauses (i) through (xxii) of subparagraph (B), each of which consists of products covered by the headings or subheadings of the Harmonized Tariff Schedule of the United States described parenthetically in that clause; and
+                  
+                  
+                     (ii)
+                     any other category of covered products, as determined by the Secretary, consisting of products covered by 1 or more headings or subheadings of the Harmonized Tariff Schedule of the United States.
+                  
+               
+               
+                  (B)
+                  Categories described
+                  The categories referred to in subparagraph (A)(i), consisting of products covered by the headings or subheadings of the Harmonized Tariff Schedule of the United States described parenthetically for each category, are the following:
+                  
+                     (i)
+                     Aluminum (any of 7601 through 7608).
+                  
+                  
+                     (ii)
+                     Articles of aluminum (any of 7609 through 7616).
+                  
+                  
+                     (iii)
+                     Articles of cement (6810 or 6811).
+                  
+                  
+                     (iv)
+                     Articles of iron and steel (any of 7307 through 7326).
+                  
+                  
+                     (v)
+                     Articles of plastic (any of 3916 through 3926).
+                  
+                  
+                     (vi)
+                     Biofuels (2207.10, 2207.20, or 3826).
+                  
+                  
+                     (vii)
+                     Cement (2523 or 3824.5).
+                  
+                  
+                     (viii)
+                     Crude oil (2709).
+                  
+                  
+                     (ix)
+                     Fertilizer (2808, 2814, 2834.21, or any of 3101 through 3105).
+                  
+                  
+                     (x)
+                     Glass (any of 7001 through 7020).
+                  
+                  
+                     (xi)
+                     Hydrogen (2804.10).
+                  
+                  
+                     (xii)
+                     Iron and steel (any of 7201 through 7306).
+                  
+                  
+                     (xiii)
+                     Lithium-ion batteries (8507.60).
+                  
+                  
+                     (xiv)
+                     Natural gas (2711.11 or 2711.21).
+                  
+                  
+                     (xv)
+                     Petrochemicals (2901 or 2711.14).
+                  
+                  
+                     (xvi)
+                     Plastics (any of 3901 through 3915).
+                  
+                  
+                     (xvii)
+                     Pulp and paper (any of 4701 through 4707 or 4801 through 4813).
+                  
+                  
+                     (xviii)
+                     Refined strategic and critical minerals, including copper, cobalt, graphite, lithium, manganese, and nickel (2825.50, 2827.41, any of 7401 through 7404, 7406, 2822.00, 8105.20, 8105.30, 2504, 3801.10, 2836.91, 2825.20, 2820.10, 8111, 2825.40, any of 7501 through 7504, or 2833.24). 
+                  
+                  
+                     (xix)
+                     Refined petroleum products (2710, 2712, 2713, 2714, 2715, 2902.20, 2902.30, or 2902.44).
+                  
+                  
+                     (xx)
+                     Solar cells and panels (any of 8541.42 through 8541.43).
+                  
+                  
+                     (xxi)
+                     Uranium (2612.10, 2844.10, 2844.20, or 2844.30).
+                  
+                  
+                     (xxii)
+                     Wind turbines (8502.31).
+                  
+               
+               
+                  (C)
+                  Clarification
+                  If, after the Secretary begins the first study under subsection (b), the headings or subheadings of the Harmonized Tariff Schedule of the United States are changed, or any products are added to or removed from a heading or subheading, the Secretary may continue, in that or any subsequent study, to study the applicable products as if the applicable change had not occurred.
+               
+            
+            
+               (5)
+               Covered country
+               The term covered country means each of the following:
+               
+                  (A)
+                  A country that is a member of the Group of Seven.
+               
+               
+                  (B)
+                  A country that is a signatory to a free trade agreement with the United States that is in effect as of the date on which the Secretary begins a study under subsection (b)(1).
+               
+               
+                  (C)
+                  A foreign country of concern (as defined in section 9901 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (15 U.S.C. 4651)).
+               
+               
+                  (D)
+                  A country that, in the determination of the Secretary, holds more than a de minimis share of the global market share, as measured by official trade statistics, of—
+                  
+                     (i)
+                     1 or more categories of covered products; or
+                  
+                  
+                     (ii)
+                     upstream inputs for 1 or more categories of covered products.
+                  
+               
+               
+                  (E)
+                  Any other country that the Secretary determines to be appropriate, including any country that the Secretary determines is a significant producer or exporter of at least 1 category of covered products.
+               
+            
+            
+               (6)
+               Covered product
+               
+                  (A)
+                  In general
+                  The term covered product means a product covered by—
+                  
+                     (i)
+                     any of the headings or subheadings of the Harmonized Tariff Schedule of the United States described parenthetically in subparagraph (B) of paragraph (4), subject to subparagraph (C) of that paragraph; or
+                  
+                  
+                     (ii)
+                     any other heading or subheading of the Harmonized Tariff Schedule of the United States included within a category of covered products determined by the Secretary in accordance with paragraph (4)(A)(ii).
+                  
+               
+               
+                  (B)
+                  List of covered products
+                  The Secretary shall maintain a list of covered products that identifies the category of covered products associated with each covered product on the list.
+               
+            
+            
+               (7)
+               Greenhouse gas
+               The term greenhouse gas has the meaning given the term in section 901 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17321). 
+            
+            
+               (8)
+               Product emissions intensity
+               
+                  (A)
+                  In general
+                  The term product emissions intensity means the quantity of greenhouse gases emitted to the atmosphere as a result of the extraction, production, processing, manufacture, assembly, and transport, as applicable, of 1 unit of a covered product, including the greenhouse gas emissions of an upstream input that is incorporated into a downstream covered product.
+               
+               
+                  (B)
+                  Units of measurement
+                  The Secretary, in coordination with the Administrator of the Environmental Protection Agency, shall designate the units of measurement in which the product emissions intensity of a covered product shall be expressed, which may include—
+                  
+                     (i)
+                     metric tons of CO2-e per metric ton of a covered product;
+                  
+                  
+                     (ii)
+                     metric tons of CO2-e per dollar value of a covered product; or
+                  
+                  
+                     (iii)
+                     any other unit of measurement that the Secretary determines to be appropriate.
+                  
+               
+            
+            
+               (9)
+               Secretary
+               The term Secretary means the Secretary of Energy.
+            
+         
+         
+            (b)
+            Study
+            
+               (1)
+               In general
+               Not later than 2 years after the date of enactment of this Act, and not less frequently than once every 5 years thereafter, the Secretary, in coordination with the Secretary of Commerce (including appropriate officials of the Bureau of the Census and the International Trade Administration), the Administrator of the Environmental Protection Agency, the United States Trade Representative, the Secretary of Homeland Security, the Secretary of State, the Secretary of Agriculture, and such other Federal officials as the Secretary determines to be appropriate, shall conduct, and submit to the appropriate committees of Congress a report describing the results of, a study—
+               
+                  (A)
+                  to determine the average product emissions intensity of each category of covered products produced in the United States;
+               
+               
+                  (B)
+                  to identify gaps in product emissions intensity data for categories of covered products produced in the United States;
+               
+               
+                  (C)
+                  subject to paragraph (3)(B), to determine the average product emissions intensity of each category of covered products produced in each covered country, which may incorporate, as the Secretary determines to be appropriate, findings from—
+                  
+                     (i)
+                     the implementation of the measures described in section 40416(a) of the Infrastructure Investment and Jobs Act (42 U.S.C. 18776(a));
+                  
+                  
+                     (ii)
+                     the international energy data resources described in that section; and
+                  
+                  
+                     (iii)
+                     other existing data sources, including—
+                     
+                        (I)
+                        the Greenhouse Gas Reporting Program of the Environmental Protection Agency;
+                     
+                     
+                        (II)
+                        the Annual Integrated Economic Survey and the Economic Census of the Bureau of the Census;
+                     
+                     
+                        (III)
+                        official trade statistics of the United States International Trade Commission; and
+                     
+                     
+                        (IV)
+                        other relevant data sources, including those described in paragraphs (5) through (7); 
+                     
+                  
+               
+               
+                  (D)
+                  to identify any issues with verifying the average product emissions intensity data for covered products produced in each covered country; and
+               
+               
+                  (E)
+                  to determine the relative average product emissions intensity of each category of covered products produced in the United States compared to the average product emissions intensity of each category of covered products produced in each covered country.
+               
+            
+            
+               (2)
+               Prioritization
+               
+                  (A)
+                  In general
+                  Subject to subparagraph (B), in conducting the study under paragraph (1), the Secretary shall complete all elements of the study described in subparagraphs (A) through (E) of that paragraph within the applicable 2- or 5-year timeframe.
+               
+               
+                  (B)
+                  Prioritization due to data or time constraints
+                  If completion of all elements described in subparagraphs (A) through (E) of paragraph (1) with respect to a study under that paragraph is precluded by data or time constraints, the Secretary shall adhere to the applicable 2- or 5-year timeframe by prioritizing the study of—
+                  
+                     (i)
+                     higher priority categories of covered products, as described in subparagraph (C); and
+                  
+                  
+                     (ii)
+                     higher priority covered countries, starting with those that are among the 5 largest global exporters or the 5 largest sources of imports into the United States.
+                  
+               
+               
+                  (C)
+                  Order of priority described
+                  The order of priority described in subparagraph (B)(i) is as follows:
+                  
+                     (i)
+                     First, categories of covered products subject to international border carbon adjustment mechanisms, such as the Carbon Border Adjustment Mechanism of the European Union, including the categories of covered products described in each of—
+                     
+                        (I)
+                        clause (i) of subsection (a)(4)(B) (aluminum);
+                     
+                     
+                        (II)
+                        clause (ii) of that subsection (articles of aluminum);
+                     
+                     
+                        (III)
+                        clause (iii) of that subsection (articles of cement);
+                     
+                     
+                        (IV)
+                        clause (iv) of that subsection (articles of iron and steel);
+                     
+                     
+                        (V)
+                        clause (vii) of that subsection (cement);
+                     
+                     
+                        (VI)
+                        clause (ix) of that subsection (fertilizer);
+                     
+                     
+                        (VII)
+                        clause (xi) of that subsection (hydrogen); and
+                     
+                     
+                        (VIII)
+                        clause (xii) of that subsection (iron and steel).
+                     
+                  
+                  
+                     (ii)
+                     Second, categories of covered products relating to other emissions-intensive, trade-exposed industries, including the categories of covered products described in each of—
+                     
+                        (I)
+                        clause (v) of subsection (a)(4)(B) (articles of plastic);
+                     
+                     
+                        (II)
+                        clause (x) of that subsection (glass);
+                     
+                     
+                        (III)
+                        clause (xvi) of that subsection (plastics); and
+                     
+                     
+                        (IV)
+                        clause (xvii) of that subsection (pulp and paper).
+                     
+                  
+                  
+                     (iii)
+                     Third, categories of covered products relating to fuels, including biofuels and uranium, or other energy materials, including the categories of covered products described in each of—
+                     
+                        (I)
+                        clause (vi) of subsection (a)(4)(B) (biofuels);
+                     
+                     
+                        (II)
+                        clause (viii) of that subsection (crude oil);
+                     
+                     
+                        (III)
+                        clause (xiii) of that subsection (lithium-ion batteries); 
+                     
+                     
+                        (IV)
+                        clause (xiv) of that subsection (natural gas);
+                     
+                     
+                        (V)
+                        clause (xv) of that subsection (petrochemicals);
+                     
+                     
+                        (VI)
+                        clause (xviii) of that subsection (refined strategic and critical minerals); 
+                     
+                     
+                        (VII)
+                        clause (xix) of that subsection (refined petroleum products);
+                     
+                     
+                        (VIII)
+                        clause (xx) of that subsection (solar cells and panels);
+                     
+                     
+                        (IX)
+                        clause (xxi) of that subsection (uranium); and
+                     
+                     
+                        (X)
+                        clause (xxii) of that subsection (wind turbines).
+                     
+                  
+               
+               
+                  (D)
+                  Flexibility
+                  The Secretary may accelerate the timeline for the collection and analysis of data relating to any category of covered products or any covered country if there is a reasonable justification for the utility of accelerating the collection and analysis of that data, such as a new trade negotiation, a new market opportunity for the export of covered products from the United States, or another justification. 
+               
+            
+            
+               (3)
+               Requirements
+               
+                  (A)
+                  In general
+                  In the report submitted under paragraph (1), the Secretary shall include—
+                  
+                     (i)
+                     a detailed, specific, and transparent description of the methodology, developed in coordination with the Administrator of the Environmental Protection Agency, used to determine the average product emissions intensity of a category of covered products under subparagraphs (A) and (C) of that paragraph;
+                  
+                  
+                     (ii)
+                     a record of all sources of data used to determine the average product emissions intensity of a category of covered products under subparagraphs (A) and (C) of that paragraph; and
+                  
+                  
+                     (iii)
+                     the heading or subheading of the Harmonized Tariff Schedule of the United States associated with each covered product for which the average product emissions intensity of a category of covered products is determined under subparagraphs (A) and (C) of that paragraph.
+                  
+               
+               
+                  (B)
+                  Certain covered countries
+                  In carrying out subparagraph (C) of paragraph (1), the Secretary may limit the study under that paragraph to categories of covered products with respect to which the applicable covered country holds more than a de minimis share of the global market share of that category of covered products.
+               
+               
+                  (C)
+                  Reuse of end-of-life materials
+                  In determining the average product emissions intensity of a category of covered products under subparagraphs (A) and (C) of paragraph (1), the Secretary shall favorably consider the reuse of end-of-life materials in place of virgin raw materials.
+               
+            
+            
+               (4)
+               Coordination among primary study participants
+               In carrying out paragraph (1), the Secretary, the Secretary of Commerce, the Administrator of the Environmental Protection Agency, the United States Trade Representative, the Secretary of Homeland Security, the Secretary of State, and such other Federal officials as the Secretary determines to be appropriate shall establish procedures to facilitate timely and efficient sharing of methodologies, data, or other information and expertise for purposes of carrying out that paragraph, including, if appropriate, by designating appropriate individuals with appropriate qualifications to review any data shared.
+            
+            
+               (5)
+               Consultation and coordination with others
+               In carrying out paragraph (1), the Secretary may consult and enter into agreements with institutions having relevant data or data collection or analysis capabilities, such as the National Laboratories, the National Institute of Standards and Technology, the National Academy of Sciences, the International Energy Agency, the Organisation for Economic Co-operation and Development, and relevant academic and non-governmental partners.
+            
+            
+               (6)
+               Consultation and coordination with industry partners
+               
+                  (A)
+                  In general
+                  In carrying out paragraph (1), the Secretary, in coordination with the Secretary of Commerce, shall—
+                  
+                     (i)
+                     establish a process to receive data from industry partners on a voluntary basis, which the Secretary may incorporate at the discretion of the Secretary; 
+                  
+                  
+                     (ii)
+                     coordinate with existing industry emissions reporting mechanisms, to the extent that the Secretary determines appropriate; and
+                  
+                  
+                     (iii)
+                     establish a process pursuant to which industry partners may request that—
+                     
+                        (I)
+                        a product be included on the list of covered products maintained under subsection (a)(6)(B);
+                     
+                     
+                        (II)
+                        a product be analyzed as a covered product in subsequent studies and reports under that paragraph; and
+                     
+                     
+                        (III)
+                        certain data be treated as confidential business information, the disclosure of which may be limited with respect to—
+                        
+                           (aa)
+                           the public database described in subsection (c); and
+                        
+                        
+                           (bb)
+                           the report submitted under paragraph (1).
+                        
+                     
+                  
+               
+               
+                  (B)
+                  Limitation
+                  Nothing in this paragraph affects how data may be treated pursuant to any other law or authority with respect to—
+                  
+                     (i)
+                     the proprietary status of the data; or
+                  
+                  
+                     (ii)
+                     any other protection from public disclosure.
+                  
+               
+            
+            
+               (7)
+               International coordination
+               
+                  (A)
+                  In general
+                  In carrying out paragraph (1), the Secretary, the Secretary of Commerce, the Administrator of the Environmental Protection Agency, the United States Trade Representative, and the Secretary of State shall make every effort to coordinate with the governments of covered countries— 
+                  
+                     (i)
+                     to inform the determination of average emissions intensity values;
+                  
+                  
+                     (ii)
+                     to advance common emissions accounting methodologies and data formats; and
+                  
+                  
+                     (iii)
+                     to improve overall data availability and quality.
+                  
+               
+               
+                  (B)
+                  Consultation
+                  In any case in which a covered country is credibly collaborating with the Secretary by supporting the collection, analysis, or verification of data, the Secretary may give that covered country—
+                  
+                     (i)
+                     a right to consultation with respect to the determination of the average product emissions intensity of 1 or more categories of covered products produced in that covered country;
+                  
+                  
+                     (ii)
+                     an opportunity to discuss chosen data; and
+                  
+                  
+                     (iii)
+                     an opportunity to fill data gaps.
+                  
+               
+            
+            
+               (8)
+               Data availability
+               
+                  (A)
+                  In general
+                  In carrying out paragraph (1), the Secretary shall—
+                  
+                     (i)
+                     take note of any instances in which there is not sufficient data to estimate with reasonable accuracy the average product emissions intensity of a category of covered products under subparagraph (A) or (C) of that paragraph;
+                  
+                  
+                     (ii)
+                     include in the report submitted under that paragraph—
+                     
+                        (I)
+                        a notation with respect to each instance noted under clause (i); and
+                     
+                     
+                        (II)
+                        an explanation for that notation;
+                     
+                  
+                  
+                     (iii)
+                     identify any gaps in product emissions intensity data for covered products or categories of covered products produced in the United States; and
+                  
+                  
+                     (iv)
+                     coordinate with the United States Trade Representative to assess the feasibility of implementing, within existing authority, a requirement for importers to provide data to fill any gaps in product emissions intensity data for covered products or categories of covered products imported into the United States.
+                  
+               
+               
+                  (B)
+                  Requirement
+                  For each instance noted under subparagraph (A)(i), the Secretary shall estimate with reasonable accuracy the average product emissions intensity of the next highest aggregation of categories of covered products for which data are available. 
+               
+               
+                  (C)
+                  Considerations
+                  In determining whether there are sufficient data to estimate with reasonable accuracy the average product emissions intensity of a covered product or category of covered products under subparagraph (A)(i), the Secretary shall consider the following factors:
+                  
+                     (i)
+                     The public availability of statistics on greenhouse gas emissions for particular industries from government sources and international organizations.
+                  
+                  
+                     (ii)
+                     The public availability of data on the quantity and source of inputs, such as electricity, consumed by particular industries.
+                  
+                  
+                     (iii)
+                     The extent to which the data described in clauses (i) and (ii) cover a representative group of producers within an industry.
+                  
+                  
+                     (iv)
+                     The transparency in the method used to collect, analyze, summarize, and publish the data described in clauses (i) and (ii).
+                  
+                  
+                     (v)
+                     Whether there are other factors that may impact the accuracy of the data used.
+                  
+                  
+                     (vi)
+                     The recency of the data used.
+                  
+               
+            
+         
+         
+            (c)
+            Public database
+            The Secretary shall establish a public online database, or leverage an existing public online database, for—
+            
+               (1)
+               the average product emissions intensity data collected under subparagraphs (A) and (C) of subsection (b)(1); and
+            
+            
+               (2)
+               the relative average product emissions intensity of covered products determined under subparagraph (E) of that subsection.
+            
+         
+         
+            (d)
+            Updates
+            Not less frequently than once every 5 years, the Secretary shall update—
+            
+               (1)
+               the database established under subsection (c); and
+            
+            
+               (2)
+               the list of covered products maintained under subsection (a)(6)(B).
+            
+         
+         
+            (e)
+            Prioritization of updates
+            The Secretary shall prioritize updating data for categories of covered products for which data already exists in the database established under subsection (c), with the goal of adding data for additional categories of covered products and additional covered countries as available.
+         
+         
+            (f)
+            Clarification
+            Nothing in this Act provides any new authority to any Federal agency—
+            
+               (1)
+               to impose, collect, or enforce a greenhouse gas emissions tax, fee, duty, price, or charge; or
+            
+            
+               (2)
+               to establish a new mandatory reporting requirement (including by regulation) with respect to the domestic production of any category of covered products.
+            
+         
+      
+   
+   
+      January 25, 2024
+      Reported with an amendment
+   

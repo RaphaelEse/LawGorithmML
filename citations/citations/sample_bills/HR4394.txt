@@ -1,0 +1,1919 @@
+
+<!DOCTYPE bill
+  SYSTEM "blp-dscs-billres.dtd">
+
+   
+      II
+      Calendar No. 233
+      118th CONGRESS
+      1st Session
+      H. R. 4394
+      IN THE SENATE OF THE UNITED STATES
+      
+         November 1, 2023
+         Received; read twice and placed on the calendar
+      
+      AN ACT
+      Making appropriations for energy and water development and related agencies for the fiscal year ending September 30, 2024, and for other purposes.
+   
+   
+      Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+      
+          That
+      
+      
+         I
+         CORPS OF ENGINEERS—CIVIL
+         
+            
+               
+               DEPARTMENT OF THE ARMY
+            
+            
+               
+               Corps of Engineers—Civil
+               The following appropriations shall be expended under the direction of the Secretary of the Army and the supervision of the Chief of Engineers for authorized civil functions of the Department of the Army pertaining to river and harbor, flood and storm damage reduction, shore protection, aquatic ecosystem restoration, and related efforts.
+            
+            
+               
+               INVESTIGATIONS
+               For expenses necessary where authorized by law for the collection and study of basic information pertaining to river and harbor, flood and storm damage reduction, shore protection, aquatic ecosystem restoration, and related needs; for surveys and detailed studies, and plans and specifications of proposed river and harbor, flood and storm damage reduction, shore protection, and aquatic ecosystem restoration projects, and related efforts prior to construction; for restudy of authorized projects; and for miscellaneous investigations, and, when authorized by law, surveys and detailed studies, and plans and specifications of projects prior to construction, $136,087,000 (reduced by $1,000,000) (increased by $1,000,000) (increased by $10,000,000) (reduced by $10,000,000), to remain available until expended: Provided, That the Secretary shall not deviate from the work plan, once the plan has been submitted to the Committees on Appropriations of both Houses of Congress.
+            
+            
+               
+               CONSTRUCTION
+               For expenses necessary for the construction of river and harbor, flood and storm damage reduction, shore protection, aquatic ecosystem restoration, and related projects authorized by law; for conducting detailed studies, and plans and specifications, of such projects (including those involving participation by States, local governments, or private groups) authorized or made eligible for selection by law (but such detailed studies, and plans and specifications, shall not constitute a commitment of the Government to construction); $2,889,942,000 (increased by $1,746,000,000) (reduced by $1,746,000,000) (increased by $10,000,000) (reduced by $10,000,000), to remain available until expended; of which $74,152,000, to be derived from the Harbor Maintenance Trust Fund, shall be to cover the Federal share of construction costs for facilities under the Dredged Material Disposal Facilities program; and of which such sums as are necessary to cover 35 percent of the costs of construction, replacement, rehabilitation, and expansion of inland waterways projects shall be derived from the Inland Waterways Trust Fund, except as otherwise specifically provided for in law: Provided, That the Secretary shall not deviate from the work plan, once the plan has been submitted to the Committees on Appropriations of both Houses of Congress. 
+            
+            
+               
+               MISSISSIPPI RIVER AND TRIBUTARIES
+               For expenses necessary for flood damage reduction projects and related efforts in the Mississippi River alluvial valley below Cape Girardeau, Missouri, as authorized by law, $364,349,000, to remain available until expended, of which $5,457,000, to be derived from the Harbor Maintenance Trust Fund, shall be to cover the Federal share of eligible operation and maintenance costs for inland harbors: Provided, That the Secretary shall not deviate from the work plan, once the plan has been submitted to the Committees on Appropriations of both Houses of Congress.
+            
+            
+               
+               OPERATION AND MAINTENANCE
+               For expenses necessary for the operation, maintenance, and care of existing river and harbor, flood and storm damage reduction, aquatic ecosystem restoration, and related projects authorized by law; providing security for infrastructure owned or operated by the Corps, including administrative buildings and laboratories; maintaining harbor channels provided by a State, municipality, or other public agency that serve essential navigation needs of general commerce, where authorized by law; surveying and charting northern and northwestern lakes and connecting waters; clearing and straightening channels; and removing obstructions to navigation, $5,496,622,000 (increased by $3,000,000) (reduced by $3,000,000), to remain available until expended, of which $2,691,391,000, to be derived from the Harbor Maintenance Trust Fund, shall be to cover the Federal share of eligible operations and maintenance costs for coastal harbors and channels, and for inland harbors; of which such sums as become available from the special account for the Corps of Engineers established by the Land and Water Conservation Fund Act of 1965 shall be derived from that account for resource protection, research, interpretation, and maintenance activities related to resource protection in the areas at which outdoor recreation is available; of which such sums as become available from fees collected under section 217 of Public Law 104–303 shall be used to cover the cost of operation and maintenance of the dredged material disposal facilities for which such fees have been collected; and of which $58,000,000, to be derived from the general fund of the Treasury, shall be to carry out subsection (c) of section 2106 of the Water Resources Reform and Development Act of 2014 (33 U.S.C. 2238c) and shall be designated as being for such purpose pursuant to paragraph (2) of section 14003 of division B of the Coronavirus Aid, Relief, and Economic Security Act (Public Law 116–136): Provided, That 1 percent of the total amount of funds provided for each of the programs, projects, or activities funded under this heading shall not be allocated to a field operating activity prior to the beginning of the fourth quarter of the fiscal year and shall be available for use by the Chief of Engineers to fund such emergency activities as the Chief of Engineers determines to be necessary and appropriate, and that the Chief of Engineers shall allocate during the fourth quarter any remaining funds which have not been used for emergency activities proportionally in accordance with the amounts provided for the programs, projects, or activities: Provided further, That the Secretary shall not deviate from the work plan, once the plan has been submitted to the Committees on Appropriations of both Houses of Congress.
+            
+            
+               
+               REGULATORY PROGRAM
+               For expenses necessary for administration of laws pertaining to regulation of navigable waters and wetlands, $218,000,000, to remain available until September 30, 2025.
+            
+            
+               
+               FORMERLY UTILIZED SITES REMEDIAL ACTION PROGRAM
+               For expenses necessary to clean up contamination from sites in the United States resulting from work performed as part of the Nation's early atomic energy program, $200,000,000, to remain available until expended.
+            
+            
+               
+               FLOOD CONTROL AND COASTAL EMERGENCIES
+               For expenses necessary to prepare for flood, hurricane, typhoon, and other natural disasters and support emergency operations, repairs, and other activities in response to such disasters as authorized by law, $40,000,000 (reduced by $1,000,000) (increased by $1,000,000) (increased by $1,500,000), to remain available until expended.
+            
+            
+               
+               EXPENSES
+               For expenses necessary for the supervision and general administration of the civil works program in the headquarters of the Corps of Engineers and the offices of the Division Engineers; and for costs of management and operation of the Humphreys Engineer Center Support Activity, the Institute for Water Resources, the United States Army Engineer Research and Development Center, and the United States Army Corps of Engineers Finance Center allocable to the civil works program, $215,000,000 (increased by $1,500,000), to remain available until September 30, 2025, of which not to exceed $5,000 may be used for official reception and representation purposes and only during the current fiscal year: Provided, That no part of any other appropriation provided in this title shall be available to fund the civil works activities of the Office of the Chief of Engineers or the civil works executive direction and management activities of the division offices: Provided further, That any Flood Control and Coastal Emergencies appropriation may be used to fund the supervision and general administration of emergency operations, repairs, and other activities in response to any flood, hurricane, typhoon, or other natural disaster.
+            
+            
+               
+               OFFICE OF THE ASSISTANT SECRETARY OF THE ARMY FOR CIVIL WORKS
+               For the Office of the Assistant Secretary of the Army for Civil Works as authorized by 10 U.S.C. 3016(b)(3), $5,000,000, to remain available until September 30, 2025: Provided, That not more than 25 percent of such amount may be obligated or expended until the Assistant Secretary submits to the Committees on Appropriations of both Houses of Congress the report required under section 101(d) of this Act and a work plan that allocates at least 95 percent of the additional funding provided under each heading in the report accompanying this Act to specific programs, projects, or activities.
+            
+            
+               
+               WATER INFRASTRUCTURE FINANCE AND INNOVATION PROGRAM ACCOUNT
+               For administrative expenses to carry out the direct and guaranteed loan programs authorized by the Water Infrastructure Finance and Innovation Act of 2014, $5,000,000, to remain available until September 30, 2025.
+            
+            
+               
+               GENERAL PROVISIONS—CORPS OF ENGINEERS—CIVIL
+            
+            
+               
+               (INCLUDING TRANSFER OF FUNDS)
+            
+         
+         
+            101.
+            
+               (a)
+               None of the funds provided in title I of this Act, or provided by previous appropriations Acts to the agencies or entities funded in title I of this Act that remain available for obligation or expenditure in fiscal year 2024, shall be available for obligation or expenditure through a reprogramming of funds that:
+               
+                  (1)
+                  creates or initiates a new program, project, or activity;
+               
+               
+                  (2)
+                  eliminates a program, project, or activity;
+               
+               
+                  (3)
+                  increases funds or personnel for any program, project, or activity for which funds have been denied or restricted by this Act, unless prior approval is received from the Committees on Appropriations of both Houses of Congress;
+               
+               
+                  (4)
+                  proposes to use funds directed for a specific activity for a different purpose, unless prior approval is received from the Committees on Appropriations of both Houses of Congress;
+               
+               
+                  (5)
+                  augments or reduces existing programs, projects, or activities in excess of the amounts contained in paragraphs (6) through (10), unless prior approval is received from the Committees on Appropriations of both Houses of Congress;
+               
+               
+                  (6)
+                  Investigations
+                  For a base level over $100,000, reprogramming of 25 percent of the base amount up to a limit of $150,000 per project, study or activity is allowed: Provided, That for a base level less than $100,000, the reprogramming limit is $25,000: Provided further, That up to $25,000 may be reprogrammed into any continuing study or activity that did not receive an appropriation for existing obligations and concomitant administrative expenses;
+               
+               
+                  (7)
+                  Construction
+                  For a base level over $2,000,000, reprogramming of 15 percent of the base amount up to a limit of $3,000,000 per project, study or activity is allowed: Provided, That for a base level less than $2,000,000, the reprogramming limit is $300,000: Provided further, That up to $3,000,000 may be reprogrammed for settled contractor claims, changed conditions, or real estate deficiency judgments: Provided further, That up to $300,000 may be reprogrammed into any continuing study or activity that did not receive an appropriation for existing obligations and concomitant administrative expenses;
+               
+               
+                  (8)
+                  Operation and maintenance
+                  Unlimited reprogramming authority is granted for the Corps to be able to respond to emergencies: Provided, That the Chief of Engineers shall notify the Committees on Appropriations of both Houses of Congress of these emergency actions as soon thereafter as practicable: Provided further, That for a base level over $1,000,000, reprogramming of 15 percent of the base amount up to a limit of $5,000,000 per project, study, or activity is allowed: Provided further, That for a base level less than $1,000,000, the reprogramming limit is $150,000: Provided further, That $150,000 may be reprogrammed into any continuing study or activity that did not receive an appropriation;
+               
+               
+                  (9)
+                  Mississippi river and tributaries
+                  The reprogramming guidelines in paragraphs (6), (7), and (8) shall apply to the Investigations, Construction, and Operation and Maintenance portions of the Mississippi River and Tributaries Account, respectively; and
+               
+               
+                  (10)
+                  Formerly utilized sites remedial action program
+                  Reprogramming of up to 15 percent of the base of the receiving project is permitted.
+               
+            
+            
+               (b)
+               De minimus reprogrammings
+               In no case should a reprogramming for less than $50,000 be submitted to the Committees on Appropriations of both Houses of Congress.
+            
+            
+               (c)
+               Continuing authorities program
+               Subsection (a)(1) shall not apply to any project or activity funded under the continuing authorities program.
+            
+            
+               (d)
+               Not later than 60 days after the date of enactment of this Act, the Secretary shall submit a report to the Committees on Appropriations of both Houses of Congress to establish the baseline for application of reprogramming and transfer authorities for the current fiscal year which shall include:
+               
+                  (1)
+                  A table for each appropriation with a separate column to display the President's budget request, adjustments made by Congress, adjustments due to enacted rescissions, if applicable, and the fiscal year enacted level;
+               
+               
+                  (2)
+                  A delineation in the table for each appropriation both by object class and program, project and activity as detailed in the budget appendix for the respective appropriations; and
+               
+               
+                  (3)
+                  An identification of items of special congressional interest.
+               
+            
+         
+         
+            102.
+            The Secretary shall allocate funds made available in this Act solely in accordance with the provisions of this Act and in the report accompanying this Act.
+         
+         
+            103.
+            None of the funds made available in this title may be used to award or modify any contract that commits funds beyond the amounts appropriated for that program, project, or activity that remain unobligated, except that such amounts may include any funds that have been made available through reprogramming pursuant to section 101.
+         
+         
+            104.
+            The Secretary of the Army may transfer to the Fish and Wildlife Service, and the Fish and Wildlife Service may accept and expend, up to $8,200,000 of funds provided in this title under the heading Operation and Maintenance to mitigate for fisheries lost due to Corps of Engineers projects.
+         
+         
+            105.
+            None of the funds in this Act shall be used for an open lake placement alternative for dredged material, after evaluating the least costly, environmentally acceptable manner for the disposal or management of dredged material originating from Lake Erie or tributaries thereto, unless it is approved under a State water quality certification pursuant to section 401 of the Federal Water Pollution Control Act (33 U.S.C. 1341): Provided, That until an open lake placement alternative for dredged material is approved under a State water quality certification, the Corps of Engineers shall continue upland placement of such dredged material consistent with the requirements of section 101 of the Water Resources Development Act of 1986 (33 U.S.C. 2211).
+         
+         
+            106.
+            None of the funds made available by this Act may be used to carry out any water supply reallocation study under the Wolf Creek Dam, Lake Cumberland, Kentucky, project authorized under the Act of July 24, 1946 (60 Stat. 636, ch. 595).
+         
+         
+            107.
+            None of the funds made available by this Act or any other Act may be used to reorganize or to transfer the Civil Works functions or authority of the Corps of Engineers or the Secretary of the Army to another department or agency.
+         
+         
+            108.
+            Additional funding provided in this Act shall be allocated only to projects determined to be eligible by the Chief of Engineers.
+         
+         
+            109.
+            The rule submitted by the Department of the Army, Corps of Engineers, Department of Defense, and the Environmental Protection Agency relating to Revised Definition of ‘Waters of the United States’ (88 Fed. Reg. 3004 (January 18, 2023)) shall have no force or effect.
+         
+         
+            110.
+            As of the date of enactment of this Act and each fiscal year thereafter, the Secretary of the Army shall not promulgate or enforce any regulation that prohibits an individual from possessing a firearm, including an assembled or functional firearm, at a water resources development project covered under section 327.0 of title 36, Code of Federal Regulations (as in effect on the date of enactment of this Act) if:
+            
+               (1)
+               the individual is not otherwise prohibited by law from possessing a firearm; and
+            
+            
+               (2)
+               the possession of the firearm is in compliance with the law of the State in which the water resources development project is located.
+            
+         
+         
+            111.
+            None of the funds made available by this Act or any other Act in any fiscal year may be used to alter the eligibility requirements for assistance under section 5 of the Act of August 18, 1941 (33 U.S.C. 701n) in effect on November 14, 2022, without express authorization by Congress.
+         
+         
+            112.
+            Notwithstanding any other requirement, unobligated balances from amounts made available under the heading Corps of Engineers—Civil—Construction in division J of the Infrastructure Investment and Jobs Act (Public Law 117–58) for which spend plan allocations have not been announced as of the date of enactment of this Act may be made available for projects, regardless of project purpose, that have previously received funds under the heading Corps of Engineers—Civil—Construction in the Bipartisan Budget Act of 2018 (Public Law 115–123) and for which non-Federal interests have entered into binding agreements with the Secretary as of the date of enactment of this Act: Provided, That projects receiving Infrastructure Investment and Jobs Act (Public Law 117–58) funding pursuant to this section shall be subject only to the terms and conditions of the Bipartisan Budget Act of 2018 (Public Law 115–123): Provided further, That amounts repurposed pursuant to this section that were previously designated by the Congress as an emergency requirement pursuant to the Balanced Budget and Emergency Deficit Control Act of 1985 or a concurrent resolution on the budget are designated by the Congress as an emergency requirement pursuant to section 251(b)(2)(A)(i) of the Balanced Budget and Emergency Deficit Control Act of 1985.
+         
+      
+      
+         II
+         DEPARTMENT OF THE INTERIOR
+         
+            
+               
+               Central Utah Project
+            
+            
+               
+               CENTRAL UTAH PROJECT COMPLETION ACCOUNT
+               For carrying out activities authorized by the Central Utah Project Completion Act, $23,000,000, to remain available until expended, of which $4,650,000 shall be deposited into the Utah Reclamation Mitigation and Conservation Account for use by the Utah Reclamation Mitigation and Conservation Commission: Provided, That of the amount provided under this heading, $1,750,000 shall be available until September 30, 2025, for expenses necessary in carrying out related responsibilities of the Secretary of the Interior: Provided further, That for fiscal year 2024, of the amount made available to the Commission under this Act or any other Act, the Commission may use an amount not to exceed $1,990,000 for administrative expenses.
+            
+            
+               
+               Bureau of Reclamation
+               The following appropriations shall be expended to execute authorized functions of the Bureau of Reclamation:
+            
+            
+               
+               WATER AND RELATED RESOURCES
+            
+            
+               
+               (INCLUDING TRANSFERS OF FUNDS)
+               For management, development, and restoration of water and related natural resources and for related activities, including the operation, maintenance, and rehabilitation of reclamation and other facilities, participation in fulfilling related Federal responsibilities to Native Americans, and related grants to, and cooperative and other agreements with, State and local governments, federally recognized Indian Tribes, and others, $1,693,366,000 (increased by $2,000,000) (increased by $4,000,000) (increased by $500,000) (increased by $1,000,000), to remain available until expended, of which $1,051,000 (increased by $2,000,000) shall be available for transfer to the Upper Colorado River Basin Fund and $7,584,000 shall be available for transfer to the Lower Colorado River Basin Development Fund; of which such amounts as may be necessary may be advanced to the Colorado River Dam Fund: Provided, That $500,000 shall be available for transfer into the Aging Infrastructure Account established by section 9603(d)(1) of the Omnibus Public Land Management Act of 2009, as amended (43 U.S.C. 510b(d)(1)): Provided further, That such transfers, except for the transfer authorized by the preceding proviso, may be increased or decreased within the overall appropriation under this heading: Provided further, That of the total appropriated, the amount for program activities that can be financed by the Reclamation Fund, the Water Storage Enhancement Receipts account established by section 4011(e) of Public Law 114–322, or the Bureau of Reclamation special fee account established by 16 U.S.C. 6806 shall be derived from that Fund or account: Provided further, That funds contributed under 43 U.S.C. 395 are available until expended for the purposes for which the funds were contributed: Provided further, That funds advanced under 43 U.S.C. 397a shall be credited to this account and are available until expended for the same purposes as the sums appropriated under this heading: Provided further, That of the amounts made available under this heading, $5,500,000 shall be deposited in the San Gabriel Basin Restoration Fund established by section 110 of title I of division B of appendix D of Public Law 106–554: Provided further, That of the amounts provided herein, funds may be used for high-priority projects which shall be carried out by the Youth Conservation Corps, as authorized by 16 U.S.C. 1706: Provided further, That within available funds, $250,000 shall be for grants and financial assistance for educational activities: Provided further, That in accordance with section 4007 of Public Law 114–322 and as recommended by the Secretary in letters dated February 13, 2019, June 22, 2020, and December 3, 2020, funding provided for such purpose in this and prior fiscal years shall be made available to the Shasta Dam and Reservoir Enlargement Project.
+            
+            
+               
+               CENTRAL VALLEY PROJECT RESTORATION FUND
+               For carrying out the programs, projects, plans, habitat restoration, improvement, and acquisition provisions of the Central Valley Project Improvement Act, such sums as may be collected in fiscal year 2024 in the Central Valley Project Restoration Fund pursuant to sections 3407(d), 3404(c)(3), and 3405(f) of Public Law 102–575, to remain available until expended: Provided, That the Bureau of Reclamation is directed to assess and collect the full amount of the additional mitigation and restoration payments authorized by section 3407(d) of Public Law 102–575: Provided further, That none of the funds made available under this heading may be used for the acquisition or leasing of water for in-stream purposes if the water is already committed to in-stream purposes by a court adopted decree or order.
+            
+            
+               
+               CALIFORNIA BAY-DELTA RESTORATION
+            
+            
+               
+               (INCLUDING TRANSFERS OF FUNDS)
+               For carrying out activities authorized by the Water Supply, Reliability, and Environmental Improvement Act, consistent with plans to be approved by the Secretary of the Interior, $33,000,000, to remain available until expended, of which such amounts as may be necessary to carry out such activities may be transferred to appropriate accounts of other participating Federal agencies to carry out authorized purposes: Provided, That funds appropriated herein may be used for the Federal share of the costs of Calfed Program management: Provided further, That Calfed implementation shall be carried out in a balanced manner with clear performance measures demonstrating concurrent progress in achieving the goals and objectives of the Program.
+            
+            
+               
+               POLICY AND ADMINISTRATION
+               For expenses necessary for policy, administration, and related functions in the Office of the Commissioner, the Denver office, and offices in the six regions of the Bureau of Reclamation, to remain available until September 30, 2025, $65,079,000, to be derived from the Reclamation Fund and be nonreimbursable as provided in 43 U.S.C. 377, of which not to exceed $5,000 may be used for official reception and representation expenses: Provided, That no part of any other appropriation in this Act shall be available for activities or functions budgeted as policy and administration expenses.
+            
+            
+               
+               ADMINISTRATIVE PROVISION
+               Appropriations for the Bureau of Reclamation shall be available for purchase and replacement of not to exceed 30 motor vehicles, which are for replacement only.
+            
+            
+               
+               GENERAL PROVISIONS—DEPARTMENT OF THE INTERIOR
+            
+         
+         
+            201.
+            
+               (a)
+               None of the funds provided in title II of this Act for Water and Related Resources, or provided by previous or subsequent appropriations Acts to the agencies or entities funded in title II of this Act for Water and Related Resources that remain available for obligation or expenditure in fiscal year 2024, shall be available for obligation or expenditure through a reprogramming of funds that—
+               
+                  (1)
+                  initiates or creates a new program, project, or activity;
+               
+               
+                  (2)
+                  eliminates a program, project, or activity;
+               
+               
+                  (3)
+                  increases funds for any program, project, or activity for which funds have been denied or restricted by this Act, unless prior approval is received from the Committees on Appropriations of both Houses of Congress;
+               
+               
+                  (4)
+                  restarts or resumes any program, project or activity for which funds are not provided in this Act, unless prior approval is received from the Committees on Appropriations of both Houses of Congress;
+               
+               
+                  (5)
+                  transfers funds in excess of the following limits, unless prior approval is received from the Committees on Appropriations of both Houses of Congress:
+                  
+                     (A)
+                     15 percent for any program, project or activity for which $2,000,000 or more is available at the beginning of the fiscal year; or
+                  
+                  
+                     (B)
+                     $400,000 for any program, project or activity for which less than $2,000,000 is available at the beginning of the fiscal year;
+                  
+               
+               
+                  (6)
+                  transfers more than $500,000 from either the Facilities Operation, Maintenance, and Rehabilitation category or the Resources Management and Development category to any program, project, or activity in the other category, unless prior approval is received from the Committees on Appropriations of both Houses of Congress; or
+               
+               
+                  (7)
+                  transfers, where necessary to discharge legal obligations of the Bureau of Reclamation, more than $5,000,000 to provide adequate funds for settled contractor claims, increased contractor earnings due to accelerated rates of operations, and real estate deficiency judgments, unless prior approval is received from the Committees on Appropriations of both Houses of Congress.
+               
+            
+            
+               (b)
+               Subsection (a)(5) shall not apply to any transfer of funds within the Facilities Operation, Maintenance, and Rehabilitation category.
+            
+            
+               (c)
+               For purposes of this section, the term transfer means any movement of funds into or out of a program, project, or activity.
+            
+            
+               (d)
+               Except as provided in subsections (a) and (b), the amounts made available in this title under the heading Bureau of Reclamation—Water and Related Resources shall be expended for the programs, projects, and activities specified in the House Recommended columns in the Water and Related Resources table included under the heading Title II—Department of the Interior in the report accompanying this Act.
+            
+            
+               (e)
+               The Bureau of Reclamation shall submit reports on a quarterly basis to the Committees on Appropriations of both Houses of Congress detailing all the funds reprogrammed between programs, projects, activities, or categories of funding. The first quarterly report shall be submitted not later than 60 days after the date of enactment of this Act.
+            
+         
+         
+            202.
+            
+               (a)
+               None of the funds appropriated or otherwise made available by this Act may be used to determine the final point of discharge for the interceptor drain for the San Luis Unit until development by the Secretary of the Interior and the State of California of a plan, which shall conform to the water quality standards of the State of California as approved by the Administrator of the Environmental Protection Agency, to minimize any detrimental effect of the San Luis drainage waters.
+            
+            
+               (b)
+               The costs of the Kesterson Reservoir Cleanup Program and the costs of the San Joaquin Valley Drainage Program shall be classified by the Secretary of the Interior as reimbursable or nonreimbursable and collected until fully repaid pursuant to the Cleanup Program—Alternative Repayment Plan and the SJVDP—Alternative Repayment Plan described in the report entitled Repayment Report, Kesterson Reservoir Cleanup Program and San Joaquin Valley Drainage Program, February 1995, prepared by the Department of the Interior, Bureau of Reclamation. Any future obligations of funds by the United States relating to, or providing for, drainage service or drainage studies for the San Luis Unit shall be fully reimbursable by San Luis Unit beneficiaries of such service or studies pursuant to Federal reclamation law.
+            
+         
+      
+      
+         III
+         DEPARTMENT OF ENERGY
+         
+            
+               
+               ENERGY PROGRAMS
+            
+            
+               
+               Energy Efficiency and Renewable Energy
+               For Department of Energy expenses including the purchase, construction, and acquisition of plant and capital equipment, and other expenses necessary for energy efficiency and renewable energy activities in carrying out the purposes of the Department of Energy Organization Act (42 U.S.C. 7101 et seq.), including the acquisition or condemnation of any real property or any facility or for plant or facility acquisition, construction, or expansion, $2,994,000,000 (reduced by $1,000,000,000), to remain available until expended: Provided, That of such amount, $223,000,000 shall be available until September 30, 2025, for program direction.
+            
+            
+               
+               Cybersecurity, Energy Security, and Emergency Response
+               For Department of Energy expenses including the purchase, construction, and acquisition of plant and capital equipment, and other expenses necessary for energy sector cybersecurity, energy security, and emergency response activities in carrying out the purposes of the Department of Energy Organization Act (42 U.S.C. 7101 et seq.), including the acquisition or condemnation of any real property or any facility or for plant or facility acquisition, construction, or expansion, $200,000,000 (increased by $5,000,000) (reduced by $5,000,000) (reduced by $7,000,000) (increased by $7,000,000), to remain available until expended: Provided, That of such amount, $25,143,000 shall be available until September 30, 2025, for program direction.
+            
+            
+               
+               Electricity
+               For Department of Energy expenses including the purchase, construction, and acquisition of plant and capital equipment, and other expenses necessary for electricity activities in carrying out the purposes of the Department of Energy Organization Act (42 U.S.C. 7101 et seq.), including the acquisition or condemnation of any real property or any facility or for plant or facility acquisition, construction, or expansion, $315,600,000, to remain available until expended: Provided, That of such amount, $23,000,000 shall be available until September 30, 2025, for program direction.
+            
+            
+               
+               Nuclear Energy
+            
+            
+               
+               For Department of Energy expenses including the purchase, construction, and acquisition of plant and capital equipment, and other expenses necessary for nuclear energy activities in carrying out the purposes of the Department of Energy Organization Act (42 U.S.C. 7101 et seq.), including the acquisition or condemnation of any real property or any facility or for plant or facility acquisition, construction, or expansion, $1,783,000,000, to remain available until expended. Provided, That of such amount, $85,500,000 shall be available until September 30, 2025, for program direction: Provided further, That for the purpose of section 954(a)(6) of the Energy Policy Act of 2005, as amended, the only amount available shall be from the amount specified as including that purpose in the House Recommended column in the Department of Energy table included under the heading Title III—Department of Energy in the report accompanying this Act.
+            
+            
+               
+               Fossil Energy and Carbon Management
+               For Department of Energy expenses necessary in carrying out fossil energy and carbon management research and development activities, under the authority of the Department of Energy Organization Act (42 U.S.C. 7101 et seq.), including the acquisition of interest, including defeasible and equitable interests in any real property or any facility or for plant or facility acquisition or expansion, and for conducting inquiries, technological investigations and research concerning the extraction, processing, use, and disposal of mineral substances without objectionable social and environmental costs (30 U.S.C. 3, 1602, and 1603), $857,904,000, to remain available until expended: Provided, That of such amount $70,000,000 shall be available until September 30, 2025, for program direction.
+            
+            
+               
+               Naval Petroleum and Oil Shale Reserves
+               For Department of Energy expenses necessary to carry out naval petroleum and oil shale reserve activities, $13,010,000, to remain available until expended: Provided, That notwithstanding any other provision of law, unobligated funds remaining from prior years shall be available for all naval petroleum and oil shale reserve activities.
+            
+            
+               
+               Strategic Petroleum Reserve
+               For Department of Energy expenses necessary for Strategic Petroleum Reserve facility development and operations and program management activities pursuant to the Energy Policy and Conservation Act (42 U.S.C. 6201 et seq.), $280,969,000, to remain available until expended. 
+            
+            
+               
+               Northeast Home Heating Oil Reserve
+               For Department of Energy expenses necessary for Northeast Home Heating Oil Reserve storage, operation, and management activities pursuant to the Energy Policy and Conservation Act (42 U.S.C. 6201 et seq.), $7,150,000, to remain available until expended.
+            
+            
+               
+               Energy Information Administration
+               For Department of Energy expenses necessary in carrying out the activities of the Energy Information Administration, $135,000,000, to remain available until expended.
+            
+            
+               
+               Non-Defense Environmental Cleanup
+               For Department of Energy expenses, including the purchase, construction, and acquisition of plant and capital equipment and other expenses necessary for non-defense environmental cleanup activities in carrying out the purposes of the Department of Energy Organization Act (42 U.S.C. 7101 et seq.), including the acquisition or condemnation of any real property or any facility or for plant or facility acquisition, construction, or expansion, $341,700,000, to remain available until expended: Provided, That in addition, fees collected pursuant to subsection (b)(1) of section 6939f of title 42, United States Code, and deposited under this heading in fiscal year 2024 pursuant to section 309 of title III of division C of Public Law 116–94 are appropriated, to remain available until expended, for mercury storage costs.
+            
+            
+               
+               Uranium Enrichment Decontamination and Decommissioning Fund
+               For Department of Energy expenses necessary in carrying out uranium enrichment facility decontamination and decommissioning, remedial actions, and other activities of title II of the Atomic Energy Act of 1954, and title X, subtitle A, of the Energy Policy Act of 1992, $865,208,000, to be derived from the Uranium Enrichment Decontamination and Decommissioning Fund, to remain available until expended, of which $10,000,000 shall be available in accordance with title X, subtitle A, of the Energy Policy Act of 1992. 
+            
+            
+               
+               Science
+               For Department of Energy expenses including the purchase, construction, and acquisition of plant and capital equipment, and other expenses necessary for science activities in carrying out the purposes of the Department of Energy Organization Act (42 U.S.C. 7101 et seq.), including the acquisition or condemnation of any real property or any facility or for plant or facility acquisition, construction, or expansion, and purchase of not more than 35 passenger motor vehicles, $8,100,000,000, to remain available until expended: Provided, That of such amount, $211,211,000 shall be available until September 30, 2025, for program direction.
+            
+            
+               
+               Nuclear Waste Disposal
+               For Department of Energy expenses necessary for nuclear waste disposal activities to carry out the purposes of the Nuclear Waste Policy Act of 1982, Public Law 97–425, as amended, $12,040,000, to remain available until expended, which shall be derived from the Nuclear Waste Fund.
+            
+            
+               
+               Technology Transitions
+               For Department of Energy expenses necessary for carrying out the activities of technology transitions, $22,098,000, to remain available until expended: Provided, That of such amount, $13,183,000 shall be available until September 30, 2025, for program direction.
+            
+            
+               
+               Clean Energy Demonstrations
+               For Department of Energy expenses necessary to carry out program direction of the Office of Clean Energy Demonstrations, $35,000,000, to remain available until September 30, 2025.
+            
+            
+               
+               Advanced Research Projects Agency—Energy
+               For Department of Energy expenses necessary in carrying out the activities authorized by section 5012 of the America COMPETES Act (Public Law 110–69), $470,000,000, to remain available until expended: Provided, That of such amount, $37,000,000 shall be available until September 30, 2025, for program direction.
+            
+            
+               
+               Title 17 Innovative Technology Loan Guarantee Program
+            
+            
+               
+               Such sums as are derived from amounts received from borrowers pursuant to section 1702(b) of the Energy Policy Act of 2005 under this heading in prior Acts, shall be collected in accordance with section 502(7) of the Congressional Budget Act of 1974: Provided, That for necessary administrative expenses of the Title 17 Innovative Technology Loan Guarantee Program, as authorized, $70,000,000 (reduced by $3,000,000) (increased by $3,000,000) is appropriated, to remain available until September 30, 2025: Provided further, That up to $70,000,000 of fees collected in fiscal year 2024 pursuant to section 1702(h) of the Energy Policy Act of 2005 shall be credited as offsetting collections under this heading and used for necessary administrative expenses in this appropriation and shall remain available until September 30, 2025: Provided further, That to the extent that fees collected in fiscal year 2024 exceed $70,000,000, those excess amounts shall be credited as offsetting collections under this heading and available in future fiscal years only to the extent provided in advance in appropriations Acts: Provided further, That the sum herein appropriated from the general fund shall be reduced (1) as such fees are received during fiscal year 2024 (estimated at $70,000,000) and (2) to the extent that any remaining general fund appropriations can be derived from fees collected in previous fiscal years that are not otherwise appropriated, so as to result in a final fiscal year 2024 appropriation from the general fund estimated at $0: Provided further, That the Department of Energy shall not subordinate any loan obligation to other financing in violation of section 1702 of the Energy Policy Act of 2005 or subordinate any Guaranteed Obligation to any loan or other debt obligations in violation of section 609.10 of title 10, Code of Federal Regulations.
+            
+            
+               
+               Advanced Technology Vehicles Manufacturing Loan Program
+               For Department of Energy administrative expenses necessary in carrying out the Advanced Technology Vehicles Manufacturing Loan Program, $13,000,000, to remain available until September 30, 2025.
+            
+            
+               
+               Tribal Energy Loan Guarantee Program
+               For Department of Energy administrative expenses necessary in carrying out the Tribal Energy Loan Guarantee Program, $6,300,000, to remain available until September 30, 2025.
+            
+            
+               
+               Indian Energy Policy and Programs
+               For necessary expenses for Indian Energy activities in carrying out the purposes of the Department of Energy Organization Act (42 U.S.C. 7101 et seq.), $75,000,000, to remain available until expended: Provided, That of the amount appropriated under this heading, $14,000,000 shall be available until September 30, 2025, for program direction.
+            
+            
+               
+               Departmental Administration
+               For salaries and expenses of the Department of Energy necessary for departmental administration in carrying out the purposes of the Department of Energy Organization Act (42 U.S.C. 7101 et seq.), $383,578,000 (reduced by $2,000,000) (reduced by $4,000,000) (reduced by $500,000) (reduced by $1,000,000), to remain available until September 30, 2025, including the hire of passenger motor vehicles and official reception and representation expenses not to exceed $30,000, plus such additional amounts as necessary to cover increases in the estimated amount of cost of work for others notwithstanding the provisions of the Anti-Deficiency Act (31 U.S.C. 1511 et seq.): Provided, That such increases in cost of work are offset by revenue increases of the same or greater amount: Provided further, That moneys received by the Department for miscellaneous revenues estimated to total $100,578,000 in fiscal year 2024 may be retained and used for operating expenses within this account, as authorized by section 201 of Public Law 95–238, notwithstanding the provisions of 31 U.S.C. 3302: Provided further, That the sum herein appropriated shall be reduced as collections are received during the fiscal year so as to result in a final fiscal year 2024 appropriation from the general fund estimated at not more than $283,000,000.
+            
+            
+               
+               Office of the Inspector General
+               For expenses necessary for the Office of the Inspector General in carrying out the provisions of the Inspector General Act of 1978, $92,000,000, to remain available until September 30, 2025.
+            
+            
+               
+               ATOMIC ENERGY DEFENSE ACTIVITIES
+            
+            
+               
+               NATIONAL NUCLEAR SECURITY ADMINISTRATION 
+            
+            
+               
+               Weapons Activities
+               For Department of Energy expenses, including the purchase, construction, and acquisition of plant and capital equipment and other incidental expenses necessary for atomic energy defense weapons activities in carrying out the purposes of the Department of Energy Organization Act (42 U.S.C. 7101 et seq.), including the acquisition or condemnation of any real property or any facility or for plant or facility acquisition, construction, or expansion, $19,114,167,000 (increased by $3,000,000), to remain available until expended: Provided, That of such amount, $118,056,000 shall be available until September 30, 2025, for program direction.
+            
+            
+               
+               Defense Nuclear Nonproliferation
+               For Department of Energy expenses, including the purchase, construction, and acquisition of plant and capital equipment and other incidental expenses necessary for defense nuclear nonproliferation activities, in carrying out the purposes of the Department of Energy Organization Act (42 U.S.C. 7101 et seq.), including the acquisition or condemnation of any real property or any facility or for plant or facility acquisition, construction, or expansion, $2,380,037,000, to remain available until expended.
+            
+            
+               
+               Naval Reactors
+            
+            
+               
+               (INCLUDING TRANSFER OF FUNDS)
+               For Department of Energy expenses necessary for naval reactors activities to carry out the Department of Energy Organization Act (42 U.S.C. 7101 et seq.), including the acquisition (by purchase, condemnation, construction, or otherwise) of real property, plant, and capital equipment, facilities, and facility expansion, $1,946,049,000, to remain available until expended, of which $99,747,000 shall be transferred to Department of Energy—Energy Programs—Nuclear Energy, for the Advanced Test Reactor: Provided, That of such amount, $61,540,000 shall be available until September 30, 2025, for program direction.
+            
+            
+               
+               Federal Salaries and Expenses
+               For expenses necessary for Federal Salaries and Expenses in the National Nuclear Security Administration, $518,994,000 (reduced by $3,000,000), to remain available until September 30, 2025, including official reception and representation expenses not to exceed $17,000.
+            
+            
+               
+               ENVIRONMENTAL AND OTHER DEFENSE ACTIVITIES
+            
+            
+               
+               Defense Environmental Cleanup
+               For Department of Energy expenses, including the purchase, construction, and acquisition of plant and capital equipment and other expenses necessary for atomic energy defense environmental cleanup activities in carrying out the purposes of the Department of Energy Organization Act (42 U.S.C. 7101 et seq.), including the acquisition or condemnation of any real property or any facility or for plant or facility acquisition, construction, or expansion, $7,073,556,000, to remain available until expended: Provided, That of such amount, $326,893,000 shall be available until September 30, 2025, for program direction.
+            
+            
+               
+               Other Defense Activities
+               For Department of Energy expenses, including the purchase, construction, and acquisition of plant and capital equipment and other expenses, necessary for atomic energy defense, other defense activities, and classified activities, in carrying out the purposes of the Department of Energy Organization Act (42 U.S.C. 7101 et seq.), including the acquisition or condemnation of any real property or any facility or for plant or facility acquisition, construction, or expansion, $1,075,197,000, to remain available until expended: Provided, That of such amount, $381,460,000 shall be available until September 30, 2025, for program direction.
+            
+            
+               
+               POWER MARKETING ADMINISTRATIONS
+            
+            
+               
+               Bonneville Power Administration Fund
+               Expenditures from the Bonneville Power Administration Fund, established pursuant to Public Law 93–454, are approved for official reception and representation expenses in an amount not to exceed $5,000: Provided, That during fiscal year 2024, no new direct loan obligations may be made.
+            
+            
+               
+               Operation and Maintenance, Southeastern Power Administration
+               For expenses necessary for operation and maintenance of power transmission facilities and for marketing electric power and energy, including transmission wheeling and ancillary services, pursuant to section 5 of the Flood Control Act of 1944 (16 U.S.C. 825s), as applied to the southeastern power area, $8,449,000, including official reception and representation expenses in an amount not to exceed $1,500, to remain available until expended: Provided, That notwithstanding 31 U.S.C. 3302 and section 5 of the Flood Control Act of 1944, up to $8,449,000 collected by the Southeastern Power Administration from the sale of power and related services shall be credited to this account as discretionary offsetting collections, to remain available until expended for the sole purpose of funding the annual expenses of the Southeastern Power Administration: Provided further, That the sum herein appropriated for annual expenses shall be reduced as collections are received during the fiscal year so as to result in a final fiscal year 2024 appropriation estimated at not more than $0: Provided further, That notwithstanding 31 U.S.C. 3302, up to $71,850,000 collected by the Southeastern Power Administration pursuant to the Flood Control Act of 1944 to recover purchase power and wheeling expenses shall be credited to this account as offsetting collections, to remain available until expended for the sole purpose of making purchase power and wheeling expenditures: Provided further, That for purposes of this appropriation, annual expenses means expenditures that are generally recovered in the same year that they are incurred (excluding purchase power and wheeling expenses).
+            
+            
+               
+               Operation and Maintenance, Southwestern Power Administration
+               For expenses necessary for operation and maintenance of power transmission facilities and for marketing electric power and energy, for construction and acquisition of transmission lines, substations and appurtenant facilities, and for administrative expenses, including official reception and representation expenses in an amount not to exceed $1,500 in carrying out section 5 of the Flood Control Act of 1944 (16 U.S.C. 825s), as applied to the Southwestern Power Administration, $52,326,000, to remain available until expended: Provided, That notwithstanding 31 U.S.C. 3302 and section 5 of the Flood Control Act of 1944 (16 U.S.C. 825s), up to $40,886,000 collected by the Southwestern Power Administration from the sale of power and related services shall be credited to this account as discretionary offsetting collections, to remain available until expended, for the sole purpose of funding the annual expenses of the Southwestern Power Administration: Provided further, That the sum herein appropriated for annual expenses shall be reduced as collections are received during the fiscal year so as to result in a final fiscal year 2024 appropriation estimated at not more than $11,440,000: Provided further, That notwithstanding 31 U.S.C. 3302, up to $80,000,000 collected by the Southwestern Power Administration pursuant to the Flood Control Act of 1944 to recover purchase power and wheeling expenses shall be credited to this account as offsetting collections, to remain available until expended for the sole purpose of making purchase power and wheeling expenditures: Provided further, That for purposes of this appropriation, annual expenses means expenditures that are generally recovered in the same year that they are incurred (excluding purchase power and wheeling expenses).
+            
+            
+               
+               Construction, Rehabilitation, Operation and Maintenance, Western Area Power Administration
+               For carrying out the functions authorized by title III, section 302(a)(1)(E) of the Act of August 4, 1977 (42 U.S.C. 7152), and other related activities including conservation and renewable resources programs as authorized, $313,289,000, including official reception and representation expenses in an amount not to exceed $1,500, to remain available until expended, of which $313,289,000 shall be derived from the Department of the Interior Reclamation Fund: Provided, That notwithstanding 31 U.S.C. 3302, section 5 of the Flood Control Act of 1944 (16 U.S.C. 825s), and section 1 of the Interior Department Appropriation Act, 1939 (43 U.S.C. 392a), up to $213,417,000 collected by the Western Area Power Administration from the sale of power and related services shall be credited to this account as discretionary offsetting collections, to remain available until expended, for the sole purpose of funding the annual expenses of the Western Area Power Administration: Provided further, That the sum herein appropriated for annual expenses shall be reduced as collections are received during the fiscal year so as to result in a final fiscal year 2024 appropriation estimated at not more than $99,872,000, of which $99,872,000 is derived from the Reclamation Fund: Provided further, That notwithstanding 31 U.S.C. 3302, up to $475,000,000 collected by the Western Area Power Administration pursuant to the Flood Control Act of 1944 and the Reclamation Project Act of 1939 to recover purchase power and wheeling expenses shall be credited to this account as offsetting collections, to remain available until expended for the sole purpose of making purchase power and wheeling expenditures: Provided further, That for purposes of this appropriation, annual expenses means expenditures that are generally recovered in the same year that they are incurred (excluding purchase power and wheeling expenses).
+            
+            
+               
+               Falcon and Amistad Operating and Maintenance Fund
+               For operation, maintenance, and emergency costs for the hydroelectric facilities at the Falcon and Amistad Dams, $3,425,000, to remain available until expended, and to be derived from the Falcon and Amistad Operating and Maintenance Fund of the Western Area Power Administration, as provided in section 2 of the Act of June 18, 1954 (68 Stat. 255): Provided, That notwithstanding the provisions of that Act and of 31 U.S.C. 3302, up to $3,197,000 collected by the Western Area Power Administration from the sale of power and related services from the Falcon and Amistad Dams shall be credited to this account as discretionary offsetting collections, to remain available until expended for the sole purpose of funding the annual expenses of the hydroelectric facilities of these Dams and associated Western Area Power Administration activities: Provided further, That the sum herein appropriated for annual expenses shall be reduced as collections are received during the fiscal year so as to result in a final fiscal year 2024 appropriation estimated at not more than $228,000: Provided further, That for purposes of this appropriation, annual expenses means expenditures that are generally recovered in the same year that they are incurred: Provided further, That for fiscal year 2024, the Administrator of the Western Area Power Administration may accept up to $1,872,000 in funds contributed by United States power customers of the Falcon and Amistad Dams for deposit into the Falcon and Amistad Operating and Maintenance Fund, and such funds shall be available for the purpose for which contributed in like manner as if said sums had been specifically appropriated for such purpose: Provided further, That any such funds shall be available without further appropriation and without fiscal year limitation for use by the Commissioner of the United States Section of the International Boundary and Water Commission for the sole purpose of operating, maintaining, repairing, rehabilitating, replacing, or upgrading the hydroelectric facilities at these Dams in accordance with agreements reached between the Administrator, Commissioner, and the power customers.
+            
+            
+               
+               Federal Energy Regulatory Commission
+            
+            
+               
+               SALARIES AND EXPENSES
+               For expenses necessary for the Federal Energy Regulatory Commission to carry out the provisions of the Department of Energy Organization Act (42 U.S.C. 7101 et seq.), including services as authorized by 5 U.S.C. 3109, official reception and representation expenses not to exceed $3,000, and the hire of passenger motor vehicles, $520,000,000, to remain available until expended: Provided, That notwithstanding any other provision of law, not to exceed $520,000,000 of revenues from fees and annual charges, and other services and collections in fiscal year 2024 shall be retained and used for expenses necessary in this account, and shall remain available until expended: Provided further, That the sum herein appropriated from the general fund shall be reduced as revenues are received during fiscal year 2024 so as to result in a final fiscal year 2024 appropriation from the general fund estimated at not more than $0.
+            
+            
+               
+               GENERAL PROVISIONS—DEPARTMENT OF ENERGY
+            
+            
+               
+               (INCLUDING RESCISSIONS AND TRANSFERS OF FUNDS)
+            
+         
+         
+            301.
+            
+               (a)
+               No appropriation, funds, or authority made available by this title for the Department of Energy shall be used to initiate or resume any program, project, or activity or to prepare or initiate Requests For Proposals or similar arrangements (including Requests for Quotations, Requests for Information, and Funding Opportunity Announcements) for a program, project, or activity if the program, project, or activity has not been funded by Congress.
+            
+            
+               (b)
+               
+                  (1)
+                  Unless the Secretary of Energy notifies the Committees on Appropriations of both Houses of Congress at least 3 full business days in advance, none of the funds made available in this title may be used to—
+                  
+                     (A)
+                     make a grant allocation or discretionary grant award totaling $1,000,000 or more;
+                  
+                  
+                     (B)
+                     make a discretionary contract award or Other Transaction Agreement totaling $1,000,000 or more, including a contract covered by the Federal Acquisition Regulation;
+                  
+                  
+                     (C)
+                     issue a letter of intent to make an allocation, award, or Agreement in excess of the limits in subparagraph (A) or (B); or
+                  
+                  
+                     (D)
+                     announce publicly the intention to make an allocation, award, or Agreement in excess of the limits in subparagraph (A) or (B).
+                  
+               
+               
+                  (2)
+                  The Secretary of Energy shall submit to the Committees on Appropriations of both Houses of Congress within 15 days of the conclusion of each quarter a report detailing each grant allocation or discretionary grant award totaling less than $1,000,000 provided during the previous quarter.
+               
+               
+                  (3)
+                  The notification required by paragraph (1) and the report required by paragraph (2) shall include the recipient of the award, the amount of the award, the fiscal year for which the funds for the award were appropriated, the account and program, project, or activity from which the funds are being drawn, the title of the award, and a brief description of the activity for which the award is made.
+               
+            
+            
+               (c)
+               The Department of Energy may not, with respect to any program, project, or activity that uses budget authority made available in this title under the heading Department of Energy—Energy Programs, enter into a multiyear contract, award a multiyear grant, or enter into a multiyear cooperative agreement unless—
+               
+                  (1)
+                  the contract, grant, or cooperative agreement is funded for the full period of performance as anticipated at the time of award; or
+               
+               
+                  (2)
+                  the contract, grant, or cooperative agreement includes a clause conditioning the Federal Government's obligation on the availability of future year budget authority and the Secretary notifies the Committees on Appropriations of both Houses of Congress at least 3 days in advance.
+               
+            
+            
+               (d)
+               Except as provided in subsections (e), (f), and (g), the amounts made available by this title shall be expended as authorized by law for the programs, projects, and activities specified in the House Recommended column in the Department of Energy table included under the heading Title III—Department of Energy in the report accompanying this Act.
+            
+            
+               (e)
+               The amounts made available by this title may be reprogrammed for any program, project, or activity, and the Department shall notify, and obtain the prior approval of, the Committees on Appropriations of both Houses of Congress at least 30 days prior to the use of any proposed reprogramming that would cause any program, project, or activity funding level to increase or decrease by more than $5,000,000 or 10 percent, whichever is less, during the time period covered by this Act.
+            
+            
+               (f)
+               None of the funds provided in this title shall be available for obligation or expenditure through a reprogramming of funds that—
+               
+                  (1)
+                  creates, initiates, or eliminates a program, project, or activity;
+               
+               
+                  (2)
+                  increases funds or personnel for any program, project, or activity for which funds are denied or restricted by this Act; or
+               
+               
+                  (3)
+                  reduces funds that are directed to be used for a specific program, project, or activity by this Act.
+               
+            
+            
+               (g)
+               
+                  (1)
+                  The Secretary of Energy may waive any requirement or restriction in this section that applies to the use of funds made available for the Department of Energy if compliance with such requirement or restriction would pose a substantial risk to human health, the environment, welfare, or national security.
+               
+               
+                  (2)
+                  The Secretary of Energy shall notify the Committees on Appropriations of both Houses of Congress of any waiver under paragraph (1) as soon as practicable, but not later than 3 days after the date of the activity to which a requirement or restriction would otherwise have applied. Such notice shall include an explanation of the substantial risk under paragraph (1) that permitted such waiver.
+               
+            
+            
+               (h)
+               The unexpended balances of prior appropriations provided for activities in this Act may be available to the same appropriation accounts for such activities established pursuant to this title. Available balances may be merged with funds in the applicable established accounts and thereafter may be accounted for as one fund for the same time period as originally enacted.
+            
+         
+         
+            302.
+            Funds appropriated by this or any other Act, or made available by the transfer of funds in this Act, for intelligence activities are deemed to be specifically authorized by the Congress for purposes of section 504 of the National Security Act of 1947 (50 U.S.C. 3094) during fiscal year 2024 until the enactment of the Intelligence Authorization Act for fiscal year 2024.
+         
+         
+            303.
+            None of the funds made available in this title shall be used for the construction of facilities classified as high-hazard nuclear facilities under 10 CFR Part 830 unless independent oversight is conducted by the Office of Enterprise Assessments to ensure the project is in compliance with nuclear safety requirements.
+         
+         
+            304.
+            None of the funds made available in this title may be used to approve critical decision-2 or critical decision-3 under Department of Energy Order 413.3B, or any successive departmental guidance, for construction projects where the total project cost exceeds $100,000,000, until a separate independent cost estimate has been developed for the project for that critical decision.
+         
+         
+            305.
+            None of the funds made available in this title may be used to support a grant allocation award, discretionary grant award, or cooperative agreement that exceeds $100,000,000 in Federal funding unless the project is carried out through internal independent project management procedures.
+         
+         
+            306.
+            No funds shall be transferred directly from Department of Energy—Power Marketing Administration—Colorado River Basins Power Marketing Fund, Western Area Power Administration to the general fund of the Treasury in the current fiscal year.
+         
+         
+            307.
+            None of the funds made available by this Act may be used to finalize, implement, administer, or enforce an energy efficiency standard that increases efficiency standards on distribution transformers, including the proposed rule entitled Energy Conservation Program: Energy Conservation Standards for Distribution Transformers published by the Department of Energy in the Federal Register on January 11, 2023 (88 Fed. Reg. 1722) or any substantially similar rule.
+         
+         
+            308.
+            Notwithstanding section 301(c) of this Act, none of the funds made available under the heading Department of Energy—Energy Programs—Science may be used for a multiyear contract, grant, cooperative agreement, or Other Transaction Agreement of $5,000,000 or less unless the contract, grant, cooperative agreement, or Other Transaction Agreement is funded for the full period of performance as anticipated at the time of award.
+         
+         
+            309.
+            
+               (a)
+               Of the unobligated balances of amounts made available to the Department of Energy under each heading in title III of division J of Public Law 117–58, an amount equal to the amount transferred from each such heading as of the date of enactment of this Act pursuant to section 303 of Public Law 117–58 shall be transferred on October 1, 2023, to the Office of the Inspector General of the Department of Energy to oversee the funds made available to the Department of Energy in Public Law 117–58: Provided, That any amounts so transferred that were previously designated by the Congress as an emergency requirement pursuant to the Balanced Budget and Emergency Deficit Control Act of 1985 or a concurrent resolution on the budget are designated by the Congress as an emergency requirement pursuant to section 251(b)(2)(A)(i) of the Balanced Budget and Emergency Deficit Control Act of 1985.
+            
+            
+               (b)
+               Beginning on October 1, 2023, of the amounts made available to the Department of Energy under each of sections 50121, 50141, 50142, 50143, 50144, 50145, 50151, 50152, 50153, and 50161 of Public Law 117–169, two-tenths of one percent of such amounts shall be transferred to the Office of the Inspector General of the Department of Energy to oversee the funds made available to the Department of Energy in Public Law 117–169: Provided, That amounts so transferred shall be derived from the unobligated balances of amounts under each such section.
+            
+            
+               (c)
+               Section 303 of Public Law 117–58 is amended by—
+               
+                  (1)
+                  striking “One-tenth” and inserting “(a) Except as provided in subsection (b), one-tenth”; and
+               
+               
+                  (2)
+                  adding at the end the following new provision:
+                  
+                     
+                        (b)
+                        Beginning on October 1, 2023, of the amounts made available to the Department of Energy under each heading in this title in this Act, two-tenths of one percent of such amounts in each of fiscal years 2024 through 2026 shall be transferred to the Office of the Inspector General of the Department of Energy to oversee the funds made available to the Department of Energy in this title in this Act: Provided, That any amounts so transferred that were previously designated by the Congress as an emergency requirement pursuant to the Balanced Budget and Emergency Deficit Control Act of 1985 or a concurrent resolution on the budget are designated by the Congress as an emergency requirement pursuant to section 251(b)(2)(A)(i) of the Balanced Budget and Emergency Deficit Control Act of 1985.
+                     
+                     
+                  
+               
+            
+         
+         
+            310.
+            
+               (a)
+               Notwithstanding sections 161 and 167 of the Energy Policy and Conservation Act (42 U.S.C. 6241, 6247), the Secretary of Energy shall draw down and sell one million barrels of refined petroleum product from the Strategic Petroleum Reserve during fiscal year 2024.
+            
+            
+               (b)
+               All proceeds from such sale shall be deposited into the general fund of the Treasury during fiscal year 2024.
+            
+            
+               (c)
+               Upon the completion of such sale, the Secretary shall carry out the closure of the Northeast Gasoline Supply Reserve.
+            
+            
+               (d)
+               
+                  (1)
+                  The Secretary of Energy may not establish any new regional petroleum product reserve unless funding for the proposed regional petroleum product reserve is explicitly requested in advance in an annual budget submission and approved by the Congress in an appropriations Act.
+               
+               
+                  (2)
+                  The budget request or notification shall include—
+                  
+                     (A)
+                     the justification for the new reserve;
+                  
+                  
+                     (B)
+                     a cost estimate for the establishment, operation, and maintenance of the reserve, including funding sources;
+                  
+                  
+                     (C)
+                     a detailed plan for operation of the reserve, including the conditions upon which the products may be released;
+                  
+                  
+                     (D)
+                     the location of the reserve; and
+                  
+                  
+                     (E)
+                     the estimate of the total inventory of the reserve.
+                  
+               
+            
+         
+         
+            311.
+            Of the authority made available in Public Law 117–328 for the Title 17 Innovative Technology Loan Guarantee Program for commitments to guarantee loans for eligible projects under title XVII of the Energy Policy Act of 2005, a total principal of $15,000,000,000 is hereby permanently rescinded.
+         
+         
+            312.
+            
+               (a)
+               Of the unobligated balances from amounts made available in section 50131 of Public Law 117–169, $1,000,000,000 are hereby permanently rescinded.
+            
+            
+               (b)
+               Of the unobligated balances from amounts made available in section 50122 of Public Law 117–169, $4,500,000,000 are hereby permanently rescinded.
+            
+            
+               (c)
+               Of the unobligated balances from amounts made available in section 50123 of Public Law 117–169, $200,000,000 are hereby permanently rescinded.
+            
+         
+         
+            313.
+            None of the funds appropriated or otherwise made available by this Act may be expended to support the Department of Energy Justice40 initiative as defined by or required by Executive Order 14008.
+         
+         
+            314.
+            None of the funds made available by this Act may be used to draw down and sell petroleum products from the Strategic Petroleum Reserve (1) to any entity that is under the ownership, control, or influence of the Chinese Communist Party; or (2) except on condition that such petroleum products will not be exported to the People’s Republic of China.
+         
+         
+            315.
+            The funds made available to the Department of Energy in this Act shall be applied in a manner consistent with subtitle D of title VI of the Research and Development, Competition, and Innovation Act (enacted as division B of the CHIPS Act of 2022 (Public Law 117–167; 42 U.S.C. 19231 et seq.)).
+         
+         
+            316.
+            
+               (a)
+               Of the unobligated amounts available under the heading Department of Energy—Energy Programs—Nuclear Energy in division J of the Infrastructure Investment and Jobs Act (Public Law 117–58) for fiscal years 2024, 2025, and 2026, the following are available, in addition to amounts otherwise made available for these purposes:
+               
+                  (1) (A)
+                  $2,400,000,000 for Advanced Nuclear Fuel Availability, of which $800,000,000, to remain available until expended, shall be available in each of fiscal years 2024, 2025, 2026.
+                  
+                     (B)
+                     Funds available under subparagraph (A) shall only be available if a law is enacted after May 1, 2023, that specifically authorizes a program for the Secretary of Energy to support the availability of low-enriched uranium, including high-assay low-enriched uranium, for civilian domestic research, development, demonstration, and commercial use.
+                  
+               
+               
+                  (2)
+                  $1,197,000,000 to carry out the ongoing demonstration project under the Advanced Small Modular Reactor RD&amp;amp;D program, of which $399,000,000, to remain available until expended, shall be available in each of fiscal years 2024, 2025, and 2026.
+               
+            
+            
+               (b)
+               Amounts repurposed pursuant to this paragraph that were previously designated by the Congress as an emergency requirement pursuant to the Balanced Budget and Emergency Deficit Control Act of 1985 or a concurrent resolution on the budget are designated by the Congress as an emergency requirement pursuant to section 251(b)(2)(A)(i) of the Balanced Budget and Emergency Deficit Control Act of 1985.
+            
+         
+         
+            317.
+            None of the funds made available in this title may be used to finalize, implement, administer, or enforce the proposed rule titled Energy Conservation Program: Energy Conservation Standards for Consumer Conventional Cooking Products; Supplemental Notice of Proposed Rulemaking and announcement of public meeting (88 Fed. Reg. 6818; published February 1, 2023) with respect to energy conservation standards for gas kitchen ranges and ovens, or any substantially similar rule, including any rule that would directly or indirectly limit consumer access to gas kitchen ranges or ovens. 
+         
+      
+      
+         IV
+         INDEPENDENT AGENCIES
+         
+            
+               
+               Appalachian Regional Commission
+               For expenses necessary to carry out the programs authorized by the Appalachian Regional Development Act of 1965, as amended, and for expenses necessary for the Federal Co-Chairman and the Alternate on the Appalachian Regional Commission, for payment of the Federal share of the administrative expenses of the Commission, including services as authorized by 5 U.S.C. 3109, and hire of passenger motor vehicles, $200,000,000, to remain available until expended.
+            
+            
+               
+               Defense Nuclear Facilities Safety Board
+            
+            
+               
+               SALARIES AND EXPENSES
+               For expenses necessary for the Defense Nuclear Facilities Safety Board in carrying out activities authorized by the Atomic Energy Act of 1954, as amended by Public Law 100–456, section 1441, $45,000,000, to remain available until September 30, 2025, of which not to exceed $1,000 shall be available for official reception and representation expenses.
+            
+            
+               
+               Delta Regional Authority
+            
+            
+               
+               SALARIES AND EXPENSES
+               For expenses necessary for the Delta Regional Authority and to carry out its activities, as authorized by the Delta Regional Authority Act of 2000, notwithstanding sections 382F(d), 382M, and 382N of said Act, $31,100,000, to remain available until expended.
+            
+            
+               
+               Denali Commission
+               For expenses necessary for the Denali Commission including the purchase, construction, and acquisition of plant and capital equipment as necessary and other expenses, $17,000,000, to remain available until expended, notwithstanding the limitations contained in section 306(g) of the Denali Commission Act of 1998: Provided, That funds shall be available for construction projects for which the Denali Commission is the sole or primary funding source in an amount not to exceed 80 percent of total project cost for distressed communities, as defined by section 307 of the Denali Commission Act of 1998 (division C, title III, Public Law 105–277), as amended by section 701 of appendix D, title VII, Public Law 106–113 (113 Stat. 1501A–280), and an amount not to exceed 50 percent for non-distressed communities: Provided further, That notwithstanding any other provision of law regarding payment of a non-Federal share in connection with a grant-in-aid program, amounts under this heading shall be available for the payment of such a non-Federal share for any project for which the Denali Commission is not the sole or primary funding source, provided that such project is consistent with the purposes of the Commission.
+            
+            
+               
+               Northern Border Regional Commission
+               For expenses necessary for the Northern Border Regional Commission in carrying out activities authorized by subtitle V of title 40, United States Code, $40,000,000, to remain available until expended: Provided, That such amounts shall be available for administrative expenses, notwithstanding section 15751(b) of title 40, United States Code.
+            
+            
+               
+               Southeast Crescent Regional Commission
+               For expenses necessary for the Southeast Crescent Regional Commission in carrying out activities authorized by subtitle V of title 40, United States Code, $20,000,000, to remain available until expended.
+            
+            
+               
+               Southwest Border Regional Commission
+               For expenses necessary for the Southwest Border Regional Commission in carrying out activities authorized by subtitle V of title 40, United States Code, $5,000,000, to remain available until expended.
+            
+            
+               
+               Great Lakes Authority
+               For expenses necessary for the Great Lakes Authority in carrying out activities authorized by subtitle V of title 40, United States Code, $5,000,000, to remain available until expended.
+            
+            
+               
+               Nuclear Regulatory Commission
+            
+            
+               
+               SALARIES AND EXPENSES
+               For expenses necessary for the Commission in carrying out the purposes of the Energy Reorganization Act of 1974 and the Atomic Energy Act of 1954, $960,560,450 (reduced by $1,000,000) (increased by $1,000,000), including official representation expenses not to exceed $30,000, to remain available until expended: Provided, That of the amount appropriated herein, not more than $10,350,720 may be made available for salaries, travel, and other support costs for the Office of the Commission, to remain available until September 30, 2025: Provided further, That revenues from licensing fees, inspection services, and other services and collections estimated at $807,727,130 in fiscal year 2024 shall be retained and used for necessary salaries and expenses in this account, notwithstanding 31 U.S.C. 3302, and shall remain available until expended: Provided further, That the sum herein appropriated shall be reduced by the amount of revenues received during fiscal year 2024 so as to result in a final fiscal year 2024 appropriation estimated at not more than $152,833,320.
+            
+            
+               
+               OFFICE OF INSPECTOR GENERAL
+               For expenses necessary for the Office of Inspector General in carrying out the provisions of the Inspector General Act of 1978, $18,648,340, to remain available until September 30, 2025: Provided, That revenues from licensing fees, inspection services, and other services and collections estimated at $15,481,566 in fiscal year 2024 shall be retained and be available until September 30, 2025, for necessary salaries and expenses in this account, notwithstanding section 3302 of title 31, United States Code: Provided further, That the sum herein appropriated shall be reduced by the amount of revenues received during fiscal year 2024 so as to result in a final fiscal year 2024 appropriation estimated at not more than $3,166,774: Provided further, That of the amounts appropriated under this heading, $1,534,900 shall be for Inspector General services for the Defense Nuclear Facilities Safety Board.
+            
+            
+               
+               Nuclear Waste Technical Review Board
+            
+            
+               
+               SALARIES AND EXPENSES
+               For expenses necessary for the Nuclear Waste Technical Review Board, as authorized by Public Law 100–203, section 5051, $4,064,000, to be derived from the Nuclear Waste Fund, to remain available until September 30, 2025.
+            
+            
+               
+               GENERAL PROVISIONS—INDEPENDENT AGENCIES
+            
+         
+         
+            401.
+            The Nuclear Regulatory Commission shall comply with the July 5, 2011, version of Chapter VI of its Internal Commission Procedures when responding to Congressional requests for information, consistent with Department of Justice guidance for all Federal agencies.
+         
+         
+            402.
+            
+               (a)
+               The amounts made available by this title for the Nuclear Regulatory Commission may be reprogrammed for any program, project, or activity, and the Commission shall notify the Committees on Appropriations of both Houses of Congress at least 30 days prior to the use of any proposed reprogramming that would cause any program funding level to increase or decrease by more than $500,000 or 10 percent, whichever is less, during the time period covered by this Act.
+            
+            
+               (b)
+               
+                  (1)
+                  The Nuclear Regulatory Commission may waive the notification requirement in subsection (a) if compliance with such requirement would pose a substantial risk to human health, the environment, welfare, or national security.
+               
+               
+                  (2)
+                  The Nuclear Regulatory Commission shall notify the Committees on Appropriations of both Houses of Congress of any waiver under paragraph (1) as soon as practicable, but not later than 3 days after the date of the activity to which a requirement or restriction would otherwise have applied. Such notice shall include an explanation of the substantial risk under paragraph (1) that permitted such waiver and shall provide a detailed report to the Committees of such waiver and changes to funding levels to programs, projects, or activities.
+               
+            
+            
+               (c)
+               Except as provided in subsections (a), (b), and (d), the amounts made available by this title for Nuclear Regulatory Commission—Salaries and Expenses shall be expended as directed in the report accompanying this Act.
+            
+            
+               (d)
+               None of the funds provided for the Nuclear Regulatory Commission shall be available for obligation or expenditure through a reprogramming of funds that increases funds or personnel for any program, project, or activity for which funds are denied or restricted by this Act.
+            
+            
+               (e)
+               The Commission shall provide a monthly report to the Committees on Appropriations of both Houses of Congress, which includes the following for each program, project, or activity, including any prior year appropriations—
+               
+                  (1)
+                  total budget authority;
+               
+               
+                  (2)
+                  total unobligated balances; and
+               
+               
+                  (3)
+                  total unliquidated obligations.
+               
+            
+         
+      
+      
+         V
+         WATER FOR CALIFORNIA
+         
+            501. Definitions.
+             In Subtitle A through Subtitle D, the following definitions apply:
+            
+               (1)
+               Cvp
+               The term CVP means the Central Valley Project.
+            
+            
+               (2)
+               Cvp contractor
+               The term CVP contractor means any public water agency, water user organization, or person that has entered into a contract with the United States for water service from the CVP, whether in the form of a water service contract, repayment contract, water rights settlement contract, exchange contract, or refuge contract.
+            
+            
+               (3)
+               Fws biological opinion
+               The term FWS Biological Opinion means the United States Fish and Wildlife Service Biological Opinion for the Reinitiation of Consultation on the Coordinated Operations of the Central Valley Project and State Water Project (Service File No. 08FBTD00–2019–F–0164) signed on October 21, 2019.
+            
+            
+               (4)
+               Noaa biological opinion
+               The term NOAA Biological Opinion means the National Oceanic and Atmospheric Administration Fisheries Biological Opinion on the Long-term Operation of the Central Valley Project and the State Water Project (Consultation Tracking Number: WCRO–2016–00069) signed on October 21, 2019.
+            
+            
+               (5)
+               Preferred alternative
+               The term Preferred Alternative means the Alternative 1 (Preferred Alternative), as described in the Final Environmental Impact Statement on the Reinitiation of Consultation on the Coordinated Long-Term Operation of the Central Valley Project and the State Water Project, issued by the Bureau of Reclamation, and dated December 2019.
+            
+            
+               (6)
+               Swp
+               The term SWP means the California State Water Project.
+            
+            
+               (7)
+               Swp contractor
+               The term SWP contractor means a public agency that has entered into a long-term water supply contract with the California Department of Water Resources for water service from the SWP.
+            
+         
+         
+            502. Treatment of Funds.
+             Amounts repurposed pursuant to this title that were previously designated by the Congress as an emergency requirement pursuant to the Balanced Budget and Emergency Deficit Control Act of 1985 or a concurrent resolution on the budget are designated by the Congress as an emergency requirement pursuant to section 251(b)(2)(A)(i) of the Balanced Budget and Emergency Deficit Control Act of 1985.
+         
+         
+            A
+            CVP and SWP Operations
+            
+            
+               511. Operation of the CVP and SWP.
+               
+                  (a)
+                  Congressional direction regarding cvp and swp operations
+                  The CVP and the SWP shall be operated, and reporting shall be done, in accordance with the Preferred Alternative and FWS Biological Opinion and NOAA Biological Opinion.
+               
+               
+                  (b)
+                  Exceptions
+                  Operation of the CVP and SWP shall proceed pursuant to subsection (a) of this section, except:
+                  
+                     (1)
+                     to the extent changes to operations are undertaken pursuant to one or more agreements, which are voluntarily entered into, approved, and implemented by CVP contractors, for operations of the CVP, and SWP contractors, for operations of the SWP, with all applicable Federal departments and the State of California, including any agency or board of the State of California; or
+                  
+                  
+                     (2)
+                     to the extent changes in operations of the CVP, SWP, or both can be made while improving the supply of water available to CVP contractors, SWP contractors, or both.
+                  
+               
+               
+                  (c)
+                  Costs
+                  No cost, including water supply, financial, mintigation-related, or otherwise, associated with the implementation of any agreement under subsection (b)(1) or the implementation of any reoperation under subsection (b)(2) shall be imposed by any Federal department or agency or the State of California, including any agency or board of the State of California, directly or indirectly on any CVP contractor, SWP contractor, or any other person or entity, unless such costs are incurred on a voluntary basis.
+               
+               
+                  (d)
+                  No redirected adverse impacts
+                  The Secretary of the Interior and Secretary of Commerce shall not carry out any specific action authorized under the applicable provisions of this subtitle that would directly or through State agency action indirectly result in the involuntary reduction of water supply to an individual, district, or agency that has in effect a contract for water with the SWP or the CVP, including settlement, exchange, and refuge contracts, and Friant Division contracts.
+               
+               
+                  (e)
+                  Endangered species act
+                  Notwithstanding subsection (b), implementation of subsection (a) shall not conflict with the FWS Biological Opinion and the NOAA Biological Opinion.
+               
+               
+                  (f)
+                  Native species protection
+                  The State of California shall not impose any bag, catch, or size restriction or limit on the take or harvest of striped bass or any species of black bass, including largemouth bass, smallmouth bass, and spotted bass, that occupy the Sacramento-San Joaquin Rivers Delta or its tributaries.
+               
+            
+            
+               512. Operations and Reviews.
+               In carrying out section 511(a), the Secretary of the Interior and the Secretary of Commerce shall implement their statutory authorities in a manner that improves water supply reliability and enables the CVP and SWP to provide the maximum quantity of water supplies practicable to CVP agricultural, municipal, and industrial contractors, water service or repayment contractors, water rights settlement contractors, exchange contractors, refuge contractors, and SWP contractors, in accordance with the Preferred Alternative, NOAA Biological Opinion, and FWS Biological Opinion.
+            
+            
+               513. Application of State Laws.
+               
+                  (a)
+                  Reduced water supply
+                  If, as a result of the application of applicable State law or regulation, the State of California (including any agency or board of the State of California) alters operation of the SWP in a manner that directly or indirectly results in reduced water supply to the SWP as compared with the water supply available under the Preferred Alternative, and as a result, CVP yield is greater than it otherwise would have been under the Preferred Alternative, then that additional yield shall be made available to the SWP for delivery to SWP Contractors to offset that reduced water supply. If it is necessary to reduce water supplies for any authorized uses of the CVP or CVP Contractors to make available to the SWP that additional yield, such reductions shall be applied proportionately to those authorized uses or CVP contractors that benefit from that increased yield.
+               
+               
+                  (b)
+                  No restriction of certain water rights
+                  The State of California (including any agency or board of the State of California) shall not restrict the exercise of any water right obtained pursuant to State law, including but not limited to a pre-1914 appropriative right or riparian right in order to offset any impact resulting from the implementation of this subtitle on any species affected by operations of the CVP or the SWP.
+               
+               
+                  (c)
+                  No involuntary water reduction
+                  The State of California (including any agency or board of the State of California), the Secretary of the Interior and Secretary of Commerce shall not take any action related to operation of the CVP or SWP that would directly or indirectly result in the involuntary reduction of water supply to any CVP agricultural, municipal and industrial contractor, water service or repayment contractor, water rights settlement contractor, exchange contractor, refuge contractor or any SWP contractor, as compared to the water supply available under the Preferred Alternative; and nothing in this section is intended to modify, amend, or affect any of the rights and obligations of the parties to such contracts.
+               
+            
+            
+               514. Reconsultation of NOAA biological opinion and FWS biological opinion.
+               
+                  (a)
+                  Requirement for reconsultation
+                  
+                     (1)
+                     Requirement
+                     Unless action is taken pursuant to section 101(b), neither the Secretary of the Interior, acting through the Commissioner of the Bureau of Reclamation, nor the Secretary of Commerce, or their designees shall commence, complete, or request reinitiation of consultation on the coordinated long-term operation of the Central Valley Project and the State Water Project that will result in changes to or the replacement of the documents listed in paragraph (2) unless—
+                     
+                        (A)
+                        more than 75 percent of California has experienced 4 consecutive years of D3 or D4 level drought, as defined by the U.S. Drought Monitor;
+                     
+                     
+                        (B)
+                        the Commissioner of the Bureau of Reclamation identifies one specific factor or combination of factors under section 402.16 of title 50, Code of Federal Regulations; and
+                     
+                     
+                        (C)
+                        not fewer than 120 days before officially commencing or requesting reinitiation, the Secretary of the Interior notifies the Committee on Natural Resources of the House of Representatives, and the Committee on Energy and Natural Resources of the Senate, in writing, of—
+                        
+                           (i)
+                           the intent to commence or request reinitiation under this section; and
+                        
+                        
+                           (ii)
+                           the detailed justification for the identification of the specific factor or combination of factors under section 402.16 of title 50, Code of Federal Regulations, that was identified to satisfy the requirement in subparagraph (B).
+                        
+                     
+                  
+                  
+                     (2)
+                     Documents
+                     The documents referred to in paragraph (1) are the following:
+                     
+                        (A)
+                        The FWS Biological Opinion.
+                     
+                     
+                        (B)
+                        The NOAA Biological Opinion.
+                     
+                     
+                        (C)
+                        The Record of Decision for the Reinitiation of Consultation on the Coordinated Long-Term Modified Operations of the Central Valley Project and State Water Project, signed on February 18, 2020.
+                     
+                  
+               
+               
+                  (b)
+                  Applicable procedures and review
+                  For the purposes of this Act, before reinitiating consultation on the Long-Term Operation of the CVP and SWP, a request by the Secretary of the Interior, the Secretary of the Commerce, or any other Federal employee, to reinitiate consultation shall be made in writing and considered a rule under section 551 of title 5, United States Code, and subject to the requirements of sections 801 through 808 of that title.
+               
+               
+                  (c)
+                  Cooperation
+                  In implementing this section, the Secretary of the Interior and the Secretary of Commerce shall comply with requirements included in section 4004 of the Water Infrastructure Improvements for the Nation Act (Public Law 114–322).
+               
+               
+                  (d)
+                  Exclusion
+                  Notwithstanding subsection (b), in implementing this section, section 801(b)(2) of title 5, United States Code, shall not apply.
+               
+            
+            
+               515. Sunset.
+               Sections 511 through 514 shall have no force or effect on and after the date that is 7 years after the date of the enactment of this Act.
+            
+            
+               516. Consultation on coordinated operations.
+               The Water Infrastructure Improvements for the Nation Act (Public Law 114–322) is amended—
+               
+                  (1)
+                  in section 4004(a)—
+                  
+                     (A)
+                     in the matter preceding paragraph (1), strike public water agency that contracts and insert contractor; 
+                  
+                  
+                     (B)
+                     in paragraph (1), by inserting or proposed action after biological assessment,;
+                  
+                  
+                     (C)
+                     in paragraph (2), by inserting or proposed action after biological assessment,;
+                  
+                  
+                     (D)
+                     by redesignating paragraphs (3) through (6) as paragraphs (4) through (7), respectively;
+                  
+                  
+                     (E)
+                     after paragraph (2), by inserting the following new paragraph:
+                     
+                        
+                           (3)
+                           receive a copy of the draft proposed action and have the opportunity to review that document and provide comment to the action agency, which comments shall be afforded due consideration during development;
+                        
+                        ; and
+                     
+                  
+                  
+                     (F)
+                     in paragraph (7), as redesignated by subparagraph (C) of this paragraph—
+                     
+                        (i)
+                        in the matter preceding subparagraph (A), by inserting action agency proposes a proposed action or before the consulting agency;
+                     
+                     
+                        (ii)
+                        in subparagraph (A), by inserting proposed action or before alternative will; and
+                     
+                     
+                        (iii)
+                        in subparagraph (B), by striking alternative actions and insert actions or alternatives; and
+                     
+                  
+               
+               
+                  (2)
+                  in section 4013, by deleting section 4004, which shall expire 10 years after the date of its enactment; and inserting section 4004, which shall expire on December 16, 2033;.
+               
+            
+         
+         
+            B
+            Allocations for Sacramento Valley Contractors
+            
+               521. Definitions.
+               In this subtitle, the following definitions apply:
+               
+                  (1)
+                  The term existing CVP agricultural water service or repayment contractor within the Sacramento River Watershed means any water service or repayment contractor within the Shasta, Trinity, or Sacramento River division of the CVP that has in effect a water service or repayment contract on the date of enactment of this title that provides water for irrigation.
+               
+               
+                  (2)
+                  The terms Above Normal, Below Normal, Dry, and Wet, with respect to a year, have the meanings given those terms in the Sacramento Valley Water Year Type (40–30–30) Index.
+               
+            
+            
+               522. Allocations of water.
+               Subject to section 523, the Secretary of the Interior shall make every reasonable effort in the operation of the CVP to allocate water provided for irrigation purposes to each existing CVP agricultural water service contractor within the Sacramento River Watershed in accordance with the following:
+               
+                  (1)
+                  Not less than 100 percent of the contract quantity of the existing CVP agricultural water service contractor within the Sacramento River Watershed in a Wet year.
+               
+               
+                  (2)
+                  Not less than 100 percent of the contract quantity of the existing CVP agricultural water service contractor within the Sacramento River Watershed in an Above Normal year.
+               
+               
+                  (3)
+                  Not less than 100 percent of the contract quantity of the existing CVP agricultural water service contractor within the Sacramento River Watershed in a Below Normal year that is preceded by an Above Normal or Wet year.
+               
+               
+                  (4)
+                  Not less than 50 percent of the contract quantity of the existing CVP agricultural water service contractor within the Sacramento River Watershed in a Dry year that is preceded by a Below Normal, Above Normal, or Wet year.
+               
+               
+                  (5)
+                  In any other year not identified in paragraphs (1) through (4), not less than twice the allocation percentage to south-of-Delta CVP agricultural water service contractors, up to 100 percent.
+               
+            
+            
+               523. Protection of refuge, municipal and industrial, and other contractors.
+               Nothing in section 522 shall—
+               
+                  (1)
+                  adversely affect any protections for the environment, including the obligation of the Secretary of the Interior to make water available to managed wetlands pursuant to section 3406(d) of the Central Valley Project Improvement Act (title XXXIV of Public Law 102–575; 106 Stat. 4722);
+               
+               
+                  (2)
+                  adversely affect any obligation of the Secretary of the Interior or the Secretary of Commerce under the FWS Biological Opinion or the NOAA Biological Opinion;
+               
+               
+                  (3)
+                  modify any provision of a water service contract that addresses municipal or industrial water shortage policies of the Secretary of the Interior;
+               
+               
+                  (4)
+                  affect or limit the authority of the Secretary of the Interior to adopt or modify municipal and industrial water shortage policies;
+               
+               
+                  (5)
+                  constrain, govern, or affect, directly or indirectly, the operations of the American River division of the CVP or any deliveries from that division or a unit or facility of that division; or
+               
+               
+                  (6)
+                  affect any allocation to a CVP municipal or industrial water service contractor by increasing or decreasing allocations to the contractor, as compared to the allocation the contractor would have received absent section 522.
+               
+            
+            
+               524. Other contractors.
+               Nothing in section 522 shall—
+               
+                  (1)
+                  affect the priority of any individual or entity with a Sacramento River settlement contract over water service or repayment contractors;
+               
+               
+                  (2)
+                  affect the United States ability to deliver water to the San Joaquin River exchange contractors from the Sacramento River and the Delta via the Delta-Mendota Canal or modify or amend the rights and obligations under the Purchase Contract between Miller and Lux and the United States and the Second Amended Exchange Contract between the United States, Department of the Interior, Bureau of Reclamation and Central California Irrigation District, San Luis Canal Company, Firebaugh Canal Water District and Columbia Canal Company;
+               
+               
+                  (3)
+                  affect the allocation of water to Friant division contractors of the CVP;
+               
+               
+                  (4)
+                  result in the involuntary reduction in contract water allocations to individuals or entities with contracts to receive water from the Friant division;
+               
+               
+                  (5)
+                  result in the involuntary reduction in water allocations to refuge contractors; or
+               
+               
+                  (6)
+                  authorize any actions inconsistent with State water rights law.
+               
+            
+         
+         
+            C
+            Infrastructure
+            
+               531. Shasta reservoir enlargement project.
+               Section 40902(a)(2) of the Infrastructure Investment and Jobs Act (Public Law 117–58) is amended—
+               
+                  (1)
+                  in subparagraph (B)—
+                  
+                     (A)
+                     in the matter preceding clause (i), by striking this Act, except for any project for which— and inserting this Act; or; and
+                  
+                  
+                     (B)
+                     by striking clauses (i) and (ii); and
+                  
+               
+               
+                  (2)
+                  in subparagraph (C), by striking (except that projects described in clauses (i) and (ii) of subparagraph (B) shall not be eligible).
+               
+            
+            
+               532. Water supply plan; projects.
+               
+                  (a)
+                  Plan
+                  Not later than 180 days after the date of the enactment of this Act, the Commissioner of the Bureau of Reclamation shall develop a water deficit report, which shall identify—
+                  
+                     (1)
+                     projected water supply shortages in the State of California for irrigation water service, municipal and industrial water service, water supply for wildlife refuges supplied by the CVP or the SWP; and
+                  
+                  
+                     (2)
+                     infrastructure projects or actions which, if taken, would—
+                     
+                        (A)
+                        significantly reduce or eliminate the projected water supply shortage; or
+                     
+                     
+                        (B)
+                        fulfill water allocations consistent with agricultural, municipal and industrial contractors, water service or repayment contractors, water rights settlement contractors, exchange contractors, and SWP contractors with water delivery contractors on the CVP and SWP.
+                     
+                  
+               
+               
+                  (b)
+                  Report to congress
+                  The Commissioner of the Bureau of Reclamation shall provide a report described in subsection (a) to the House Committee on Appropriations, the Senate Committee on Appropriations, the House Committee on Natural Resources, the Senate Committee on Energy, and the Senate Committee on Natural Resources upon its completion.
+               
+            
+            
+               533. Conservation fish hatcheries.
+               Section 4010(b)(5) of the Water Infrastructure Improvements for the Nation Act (Public Law 114–322) is amended by adding at the end the following:
+               
+                  
+                     (D)
+                     Semi-annual report
+                     The Secretary of the Interior and the Secretary of Commerce shall submit to the Committee on Natural Resources of the House of Representatives, and the Committee on Energy and Natural Resources of the Senate semi-annual reports that detail activities carried out under this paragraph.
+                  
+                  .
+               
+            
+            
+               534. Storage; duration.
+               
+                  (a)
+                  Storage
+                  Section 4007 of the Water Infrastructure Improvements for the Nation Act (Public Law 114–322) is amended—
+                  
+                     (1)
+                     in subsection (b)(1), by striking or any public agency organized pursuant to State law and inserting any public agency organized pursuant to State law, or any stakeholder; and
+                  
+                  
+                     (2)
+                     in subsection (i), by striking January 1, 2021 and inserting January 1, 2028.
+                  
+               
+               
+                  (b)
+                  Duration
+                  Section 4013 of the Water Infrastructure Improvements for the Nation Act (Public Law 114–322) is amended—
+                  
+                     (1)
+                     in paragraph (1), by striking and;
+                  
+                  
+                     (2)
+                     by redesignating paragraph (2) as paragraph (3); and
+                  
+                  
+                     (3)
+                     by inserting after paragraph (1) the following:
+                     
+                        
+                           (2)
+                           section 4007, which (except as provided in paragraph (3)), shall expire on December 31, 2028; and
+                        
+                        .
+                     
+                  
+               
+            
+            
+               535. Shasta dam enlargement
+               No provision of State law shall preclude or otherwise prevent any public water agency, including a public agency of the State, that contracts for the delivery of CVP water from assisting or cooperating with, whether by loan, grant, license, or otherwise, the planning and construction of any project undertaken by the Bureau of Reclamation to enlarge Shasta Dam.
+            
+         
+         
+            D
+            CVPIA Actions
+            
+               541. CVPIA restoration actions.
+               
+                  (a)
+                  Refuge water supply program
+                  Not later than 2 years after the date of enactment of this Act, the Secretary of the Interior shall complete the refuge water supply program under section 3406(d) of the Central Valley Project Improvement Act (title XXXIV of Public Law 102–575; 106 Stat. 4722) and shall, within that 2-year period, give priority to completing the refuge water supply program when making funding decisions from the Central Valley Project Restoration Fund established under section 3407 of the Central Valley Project Improvement Act (106 Stat. 4726), the Infrastructure Investment and Jobs Act (Public Law 117–25), the Land and Water Conservation Fund Act (Public Law 88–578), and other sources of funding.
+               
+               
+                  (b)
+                  Restoration actions deemed complete
+                  Upon completion of the refuge water supply program pursuant to subsection (a), or September 30, 2025, whichever occurs first, the Secretary of the Interior shall deem complete the fish, wildlife, and habitat mitigation and restoration actions mandated under section 3406 of the Central Valley Project Improvement Act (title XXXIV of Public Law 102–575; 106 Stat. 4714).
+               
+            
+         
+         
+            E
+            Water Supply Permitting Coordination Act
+            
+               551. Definitions.
+               In this subtitle:
+               
+                  (1)
+                  Bureau
+                  The term Bureau means the Bureau of Reclamation.
+               
+               
+                  (2)
+                  Cooperating agencies
+                  The term cooperating agency means a Federal agency with jurisdiction over a review, analysis, opinion, statement, permit, license, or other approval or decision required for a qualifying project under applicable Federal laws and regulations, or a State agency subject to section 503(c).
+               
+               
+                  (3)
+                  Qualifying projects
+                  The term qualifying projects means new surface water storage projects in the States covered under the Act of June 17, 1902 (32 Stat. 388, chapter 1093), and Acts supplemental to and amendatory of that Act (43 U.S.C. 371 et seq.) constructed on lands administered by the Department of the Interior or the Department of Agriculture, exclusive of any easement, right-of-way, lease, or any private holding, if the project applicant or sponsor elects to participate in the process authorized by this title. Such term shall also include State-led projects (as defined in section 4007(a)(2) of the WIIN Act) for new surface water storage projects in the States covered under the Act of June 17, 1902 (32 Stat. 388, chapter 1093), and Acts supplemental to and amendatory of that Act (43 U.S.C. 371 et seq.) constructed on lands administered by the Department of the Interior or the Department of Agriculture, exclusive of any easement, right-of-way, lease, or any private holding, unless the project applicant elects not to participate in the process authorized by this title.
+               
+               
+                  (4)
+                  Secretary
+                  The term Secretary means the Secretary of the Interior.
+               
+            
+            
+               552. Establishment of lead agency and cooperating agencies.
+               
+                  (a)
+                  Establishment of lead agency
+                  The Bureau is established as the lead agency for purposes of coordinating all reviews, analyses, opinions, statements, permits, licenses, or other approvals or decisions required under Federal law to construct qualifying projects.
+               
+               
+                  (b)
+                  Identification and establishment of cooperating agencies
+                  The Commissioner of the Bureau shall—
+                  
+                     (1)
+                     identify, as early as practicable upon receipt of an application for a qualifying project, any Federal agency that may have jurisdiction over a review, analysis, opinion, statement, permit, license, approval, or decision required for a qualifying project under applicable Federal laws and regulations; and
+                  
+                  
+                     (2)
+                     notify any such agency, within a reasonable timeframe, that the agency has been designated as a cooperating agency in regards to the qualifying project unless that agency responds to the Bureau in writing, within a timeframe set forth by the Bureau, notifying the Bureau that the agency—
+                     
+                        (A)
+                        has no jurisdiction or authority with respect to the qualifying project;
+                     
+                     
+                        (B)
+                        has no expertise or information relevant to the qualifying project or any review, analysis, opinion, statement, permit, license, or other approval or decision associated therewith; or
+                     
+                     
+                        (C)
+                        does not intend to submit comments on the qualifying project or conduct any review of such a project or make any decision with respect to such project in a manner other than in cooperation with the Bureau.
+                     
+                  
+               
+               
+                  (c)
+                  State authority
+                  A State in which a qualifying project is being considered may choose, consistent with State law—
+                  
+                     (1)
+                     to participate as a cooperating agency; and
+                  
+                  
+                     (2)
+                     to make subject to the processes of this subtitle all State agencies that—
+                     
+                        (A)
+                        have jurisdiction over the qualifying project;
+                     
+                     
+                        (B)
+                        are required to conduct or issue a review, analysis, or opinion for the qualifying project; or
+                     
+                     
+                        (C)
+                        are required to make a determination on issuing a permit, license, or approval for the qualifying project.
+                     
+                  
+               
+            
+            
+               553. Bureau responsibilities.
+               
+                  (a)
+                  In general
+                  The principal responsibilities of the Bureau under this subtitle are—
+                  
+                     (1)
+                     to serve as the point of contact for applicants, State agencies, Indian Tribes, and others regarding proposed qualifying projects;
+                  
+                  
+                     (2)
+                     to coordinate preparation of unified environmental documentation that will serve as the basis for all Federal decisions necessary to authorize the use of Federal lands for qualifying projects; and
+                  
+                  
+                     (3)
+                     to coordinate all Federal agency reviews necessary for project development and construction of qualifying projects.
+                  
+               
+               
+                  (b)
+                  Coordination process
+                  The Bureau shall have the following coordination responsibilities:
+                  
+                     (1)
+                     Preapplication coordination
+                     Notify cooperating agencies of proposed qualifying projects not later than 30 days after receipt of a proposal and facilitate a preapplication meeting for prospective applicants, relevant Federal and State agencies, and Indian Tribes—
+                     
+                        (A)
+                        to explain applicable processes, data requirements, and applicant submissions necessary to complete the required Federal agency reviews within the timeframe established; and
+                     
+                     
+                        (B)
+                        to establish the schedule for the qualifying project.
+                     
+                  
+                  
+                     (2)
+                     Consultation with cooperating agencies
+                     Consult with the cooperating agencies throughout the Federal agency review process, identify and obtain relevant data in a timely manner, and set necessary deadlines for cooperating agencies.
+                  
+                  
+                     (3)
+                     Schedule
+                     Work with the qualifying project applicant and cooperating agencies to establish a project schedule. In establishing the schedule, the Bureau shall consider, among other factors—
+                     
+                        (A)
+                        the responsibilities of cooperating agencies under applicable laws and regulations;
+                     
+                     
+                        (B)
+                        the resources available to the cooperating agencies and the non-Federal qualifying project sponsor, as applicable;
+                     
+                     
+                        (C)
+                        the overall size and complexity of the qualifying project;
+                     
+                     
+                        (D)
+                        the overall schedule for and cost of the qualifying project; and
+                     
+                     
+                        (E)
+                        the sensitivity of the natural and historic resources that may be affected by the qualifying project.
+                     
+                  
+                  
+                     (4)
+                     Environmental compliance
+                     Prepare a unified environmental review document for each qualifying project application, incorporating a single environmental record on which all cooperating agencies with authority to issue approvals for a given qualifying project shall base project approval decisions. Help ensure that cooperating agencies make necessary decisions, within their respective authorities, regarding Federal approvals in accordance with the following timelines:
+                     
+                        (A)
+                        Not later than 1 year after acceptance of a completed project application when an environmental assessment and finding of no significant impact is determined to be the appropriate level of review under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+                     
+                     
+                        (B)
+                        Not later than 1 year and 30 days after the close of the public comment period for a draft environmental impact statement under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), when an environmental impact statement is required under the same.
+                     
+                  
+                  
+                     (5)
+                     Consolidated administrative record
+                     Maintain a consolidated administrative record of the information assembled and used by the cooperating agencies as the basis for agency decisions.
+                  
+                  
+                     (6)
+                     Project data records
+                     To the extent practicable and consistent with Federal law, ensure that all project data is submitted and maintained in generally accessible electronic format, compile, and where authorized under existing law, make available such project data to cooperating agencies, the qualifying project applicant, and to the public.
+                  
+                  
+                     (7)
+                     Project manager
+                     Appoint a project manager for each qualifying project. The project manager shall have authority to oversee the project and to facilitate the issuance of the relevant final authorizing documents, and shall be responsible for ensuring fulfillment of all Bureau responsibilities set forth in this section and all cooperating agency responsibilities under section 554.
+                  
+               
+            
+            
+               554. Cooperating agency responsibilities.
+               
+                  (a)
+                  Adherence to bureau schedule
+                  
+                     (1)
+                     Timeframes
+                     On notification of an application for a qualifying project, the head of each cooperating agency shall submit to the Bureau a timeframe under which the cooperating agency reasonably will be able to complete the authorizing responsibilities of the cooperating agency.
+                  
+                  
+                     (2)
+                     Schedule
+                     
+                        (A)
+                        Use of timeframes
+                        The Bureau shall use the timeframes submitted under this subsection to establish the project schedule under section 504.
+                     
+                     
+                        (B)
+                        Adherence
+                        Each cooperating agency shall adhere to the project schedule established by the Bureau under subparagraph (A).
+                     
+                  
+               
+               
+                  (b)
+                  Environmental record
+                  The head of each cooperating agency shall submit to the Bureau all environmental review material produced or compiled in the course of carrying out activities required under Federal law, consistent with the project schedule established by the Bureau under subsection (a)(2).
+               
+               
+                  (c)
+                  Data submission
+                  To the extent practicable and consistent with Federal law, the head of each cooperating agency shall submit all relevant project data to the Bureau in a generally accessible electronic format, subject to the project schedule established by the Bureau under subsection (a)(2).
+               
+            
+            
+               555. Funding to process permits.
+               
+                  (a)
+                  In general
+                  The Secretary, after public notice in accordance with subchapter II of chapter 5, and chapter 7, of title 5, United States Code (commonly known as the Administrative Procedure Act), may accept and expend funds, to the extent provided in advance in appropriations Acts, contributed by a non-Federal public entity to expedite the evaluation of a permit of that entity related to a qualifying project.
+               
+               
+                  (b)
+                  Effect on permitting
+                  
+                     (1)
+                     Evaluation of permits
+                     In carrying out this section, the Secretary shall ensure that the evaluation of permits carried out using funds accepted under this section shall—
+                     
+                        (A)
+                        be reviewed by the Regional Director of the Bureau of the region in which the qualifying project or activity is located (or a designee); and
+                     
+                     
+                        (B)
+                        use the same procedures for decisions that would otherwise be required for the evaluation of permits for similar projects or activities not carried out using funds authorized under this section.
+                     
+                  
+                  
+                     (2)
+                     Impartial decision making
+                     In carrying out this section, the Secretary shall ensure that the use of the funds accepted under this section for a qualifying project shall not—
+                     
+                        (A)
+                        substantively or procedurally impact impartial decision making with respect to the issuance of permits; or
+                     
+                     
+                        (B)
+                        diminish, modify, or otherwise affect the statutory or regulatory authorities of the cooperating agency.
+                     
+                  
+               
+               
+                  (c)
+                  Limitation on use of funds
+                  None of the funds accepted under this section shall be used to carry out a review of the evaluation of permits required under subsection (b)(1)(A).
+               
+               
+                  (d)
+                  Public availability
+                  The Secretary shall ensure that all final permit decisions carried out using funds authorized under this section are made available to the public, including on the internet.
+               
+            
+         
+      
+      
+         VI
+         GENERAL PROVISIONS
+         
+            
+               
+               (INCLUDING TRANSFER OF FUNDS)
+            
+         
+         
+            601.
+            None of the funds appropriated by this Act may be used in any way, directly or indirectly, to influence congressional action on any legislation or appropriation matters pending before Congress, other than to communicate to Members of Congress as described in 18 U.S.C. 1913.
+         
+         
+            602.
+            
+               (a)
+               None of the funds made available in title III of this Act may be transferred to any department, agency, or instrumentality of the United States Government, except pursuant to a transfer made by or transfer authority provided in this Act or any other appropriations Act for any fiscal year, transfer authority referenced in the report accompanying this Act, or any authority whereby a department, agency, or instrumentality of the United States Government may provide goods or services to another department, agency, or instrumentality.
+            
+            
+               (b)
+               None of the funds made available for any department, agency, or instrumentality of the United States Government may be transferred to accounts funded in title III of this Act, except pursuant to a transfer made by or transfer authority provided in this Act or any other appropriations Act for any fiscal year, transfer authority referenced in the report accompanying this Act, or any authority whereby a department, agency, or instrumentality of the United States Government may provide goods or services to another department, agency, or instrumentality.
+            
+            
+               (c)
+               The head of any relevant department or agency funded in this Act utilizing any transfer authority shall submit to the Committees on Appropriations of both Houses of Congress a semiannual report detailing the transfer authorities, except for any authority whereby a department, agency, or instrumentality of the United States Government may provide goods or services to another department, agency, or instrumentality, used in the previous 6 months and in the year-to-date. This report shall include the amounts transferred and the purposes for which they were transferred, and shall not replace or modify existing notification requirements for each authority.
+            
+         
+         
+            603.
+            
+               (a)
+               None of the funds made available in this Act may be used to maintain or establish a computer network unless such network blocks the viewing, downloading, and exchanging of pornography.
+            
+            
+               (b)
+               Nothing in subsection (a) shall limit the use of funds necessary for any Federal, State, Tribal, or local law enforcement agency or any other entity carrying out criminal investigations, prosecution, or adjudication activities.
+            
+         
+         
+            604.
+            
+               (a)
+               No federal monies shall be expended in furtherance of any agreement among private entities for consolidated interim storage of spent nuclear fuel that is not specifically authorized under federal law until such time that host state and local governments and any affected Indian tribes have formalized their consent. 
+            
+            
+               (b)
+               Provided that the prohibition provided for in this section shall not apply to facilities presently storing commercial spent nuclear fuel, pursuant to an NRC license, as of the date of enactment of this Act.
+            
+            
+               (c)
+               For purposes of this section, spent nuclear fuel shall have the same meaning as provided in section 2 of the Nuclear Waste Policy Act of 1982.
+            
+         
+         
+            605.
+            None of the funds made available by this Act may be used to carry out any program, project, or activity that promotes or advances Critical Race Theory or any concept associated with Critical Race Theory.
+         
+         
+            606.
+            None of the funds appropriated or otherwise made available by this Act may be made available to implement, administer, apply, enforce, or carry out the Equity Action Plan of the Department of Energy, or Executive Order 13985 of January 20, 2021 (86 Fed. Reg. 7009, relating to advancing racial equity and support for underserved communities through the Federal Government), Executive Order 14035 of June 25, 2021 (86 Fed. Reg. 34593, relating to diversity, equity, inclusion, and accessibility in the Federal workforce), or Executive Order 14091 of February 16, 2023 (88 Fed. Reg. 10825, relating to further advancing racial equity and support for underserved communities through the Federal Government).
+         
+         
+            607.
+            
+               (a)
+               In general.—Notwithstanding section 7 of title 1, United States Code, section 1738C of title 28, United States Code, or any other provision of law, none of the funds provided by this Act, or previous appropriations Acts, shall be used in whole or in part to take any discriminatory action against a person, wholly or partially, on the basis that such person speaks, or acts, in accordance with a sincerely held religious belief, or moral conviction, that marriage is, or should be recognized as, a union of one man and one woman.
+            
+            
+               (b)
+               Discriminatory action defined.—As used in subsection (a), a discriminatory action means any action taken by the Federal Government to—
+               
+                  (1)
+                  alter in any way the Federal tax treatment of, or cause any tax, penalty, or payment to be assessed against, or deny, delay, or revoke an exemption from taxation under section 501(a) of the Internal Revenue Code of 1986 of, any person referred to in subsection (a);
+               
+               
+                  (2)
+                  disallow a deduction for Federal tax purposes of any charitable contribution made to or by such person; 
+               
+               
+                  (3)
+                  withhold, reduce the amount or funding for, exclude, terminate, or otherwise make unavailable or deny, any Federal grant, contract, subcontract, cooperative agreement, guarantee, loan, scholarship, license, certification, accreditation, employment, or other similar position or status from or to such person;
+               
+               
+                  (4)
+                  withhold, reduce, exclude, terminate, or otherwise make unavailable or deny, any entitlement or benefit under a Federal benefit program, including admission to, equal treatment in, or eligibility for a degree from an educational program, from or to such person; or 
+               
+               
+                  (5)
+                  withhold, reduce, exclude, terminate, or otherwise make unavailable or deny access or an entitlement to Federal property, facilities, educational institutions, speech fora (including traditional, limited, and nonpublic fora), or charitable fundraising campaigns from or to such person.
+               
+            
+            
+               (c)
+               Accreditation; Licensure; Certification.—The Federal Government shall consider accredited, licensed, or certified for purposes of Federal law any person that would be accredited, licensed, or certified, respectively, for such purposes but for a determination against such person wholly or partially on the basis that the person speaks, or acts, in accordance with a sincerely held religious belief or moral conviction described in subsection (a).
+            
+         
+         
+            608.
+            None of the funds made available by this Act may be used to finalize, implement, administer, apply, or enforce the proposed rule entitled Energy Conservation Program: Energy Conservation Standards for Residential Clothes Washers published by the Department of Energy in the Federal Register on March 3, 2023 (88 Fed. Reg. 13520), or any substantively similar rule.
+         
+         
+            609.
+            None of the funds made available by this Act may be used to implement, administer, apply, enforce, or carry out any diversity, equity, and inclusion office, program, or training.
+         
+         
+            610.
+            None of the funds made available by this Act may be used to implement or enforce section 370 of Public Law 116–283 with respect to civil works projects.
+         
+         
+            611.
+            None of the funds made available by this Act may be used by the Department of Energy to award any grant, contract, subcontract, award, loan, program, support, or other activity, to any entity who enters into, or maintains, partnerships or licensing agreements with any entity of concern, as defined in section 10114 of title I of division B of Public Law 117–167.
+         
+         
+            
+               
+               state-owned enterprises prohibition
+            
+         
+         
+            612.
+            
+               (a)
+               Innovate in America
+               None of the funds made available by this Act may be used by the Secretary of Energy to award a contract, subcontract, grant, or loan to an entity that—
+               
+                  (1)
+                  is owned or controlled by, is a subsidiary of, or is otherwise related legally or financially to a corporation based in a country that—
+                  
+                     (A)
+                     is identified as a nonmarket economy country (as defined in section 771(18) of the Tariff Act of 1930 (19 U.S.C. 1677(18))) as of the date of enactment of this Act;
+                  
+                  
+                     (B)
+                     was identified by the United States Trade Representative in the most recent report required by section 182 of the Trade Act of 1974 (19 U.S.C. 2242) as a priority foreign country under subsection (a)(2) of that section; and
+                  
+                  
+                     (C)
+                     is subject to monitoring by the Trade Representative under section 306 of the Trade Act of 1974 (19 U.S.C. 2416); or
+                  
+               
+               
+                  (2)
+                  is listed pursuant to section 9(b)(3) of the Uyghur Human Rights Policy Act of 2020 (Public Law 116–145).
+               
+            
+            
+               (b)
+               Exception
+               For purposes of subsection (a), the Secretary of Energy may issue a waiver, to be made publicly available, to an entity in which the legal or financial connection to a corporation is a minority relationship or investment.
+            
+            
+               (c)
+               International Agreements
+               This section shall be applied in a manner consistent with the obligations of the United States under applicable international agreements.
+            
+         
+         
+            
+               
+               Spending Reduction Account
+            
+         
+         
+            613.
+            $0.
+         
+         
+            614.
+            None of the funds appropriated or otherwise made available by this Act may be made available to finalize any rule or regulation that meets the definition of section 804(2)(A) of title 5, United States Code.
+         
+         
+            615.
+            None of the funds made available by this Act may be used to implement, administer, or enforce the final rule of the Department of Energy entitled Energy Conservation Program: Energy Conservation Standards for Consumer Furnaces signed on September 28, 2023 (Docket ID: EERE–2014–BT–STD–0031; RIN 1904–AD20).
+         
+         
+            616.
+            None of the funds made available by this Act may be used to implement the Industrial Decarbonization Roadmap published by the Department of Energy and dated September 2022 (DOE/EE–2635).
+         
+         
+            617.
+            None of the funds made available by this Act may be used to finalize, implement, administer, or enforce the proposed rule entitled Energy Conservation Program: Energy Conservation Standards for Consumer Water Heaters published by the Department of Energy in the Federal Register on July 28, 2023 (88 Fed. Reg. 49058).
+         
+         
+            618.
+            None of the funds made available by this Act may be used by the National Nuclear Security Administration to halt the construction of a High Explosive Synthesis, Formulation, and Production facility at the Pantex Plant near Amarillo, Texas.
+         
+         
+            619.
+            None of the funds appropriated or otherwise made available by this Act may be used to admit any individual who is a citizen of any country on the current list of sensitive countries to any facility of a national security laboratory, as such term is defined in section 4002 of the Atomic Energy Defense Act, other than areas accessible to the general public.
+         
+         
+            620.
+            None of the funds made available by this Act may be used to implement or enforce Corps of Engineers memorandum CERE-AP, issued by the South Atlantic division on July 9, 1996, relating to Approval of Perpetual Beach Storm Damage Reduction Easement as a Standard Estate.
+         
+         
+            621.
+            None of the funds made available by this Act may be used to close the Toto Creek, Bolding Mill, Duckett Mill, Old Federal, Van Pugh South Campground, Sawnee, or Bald Ridge Creek campgrounds located at Lake Sidney Lanier, Georgia.
+         
+         
+            622.
+            None of the funds made available by this Act may be used to carry out the final rule titled Energy Conservation Program: Energy Conservation Standards for Manufactured Housing (88 Fed. Reg. 32728 (May 31, 2022)).
+         
+         
+            623.
+            None of the funds made available by this Act may be used for the Interagency Working Group on the Social Cost of Greenhouse Gases. 
+         
+         
+            624.
+            None of the funds made available by this Act may be used to consider the social cost of greenhouse gases in the development and implementation of a budget for a Federal agency, in any Federal procurement processes, or when preparing an environmental review pursuant to the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+         
+         
+            625.
+            None of the funds made available by this Act may be used to enforce any COVID–19 mask mandates.
+         
+         
+            626.
+            None of the funds made available by this Act may be used to finalize the rule entitled Energy Conservation Program: Energy Conservation Standards for Automatic Commercial Ice Makers published by the Department of Energy in the Federal Register on September 25, 2023 (88 Fed. Reg. 65628).
+         
+         
+            627.
+            None of the funds made available by this Act may be used to implement, administer, or enforce the rule entitled Energy Conservation Program: Energy Conservation Standards for Room Air Conditioners published by the Department of Energy in the Federal Register on May 26, 2023 (88 Fed. Reg. 34298).
+         
+         
+            628.
+            None of the funds made available by this Act may be used for the Department of Energy Office of Science’s Office of Scientific Workforce Diversity, Equity, and Inclusion.
+         
+         
+            629.
+            None of the funds made available by this Act may be used for the American Climate Corps.
+         
+      
+   
+   
+      
+         Passed the House of Representatives October 26, 2023.
+         KEVIN F. MCCUMBER,
+         Clerk.
+      
+   
+   
+      November 1, 2023
+      Received; read twice and placed on the calendar
+   

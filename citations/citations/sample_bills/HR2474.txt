@@ -1,0 +1,79 @@
+
+<!DOCTYPE bill
+  SYSTEM "blp-dscs-billres.dtd">
+
+   
+      
+         Strengthening Medicare for Patients and Providers Act
+      
+   
+   
+      I
+      118th CONGRESS
+      1st Session
+      H. R. 2474
+      IN THE HOUSE OF REPRESENTATIVES
+      
+         April 3, 2023
+         
+            Mr. Ruiz (for himself, Mr. Bucshon, Mr. Bera, and Mrs. Miller-Meeks) introduced the following bill; which was referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned
+      
+      A BILL
+      To amend title XVIII of the Social Security Act to provide for an update to a single conversion factor under the Medicare physician fee schedule that is based on the Medicare economic index.
+   
+   
+      Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+      
+         1.
+         SHORT TITLE
+         This Act may be cited as the 
+               Strengthening Medicare for Patients and Providers Act
+            . 
+      
+      
+         2.
+         TRANSITION TO AN UPDATE TO A SINGLE CONVERSION FACTOR UNDER THE MEDICARE PHYSICIAN FEE SCHEDULE BASED ON THE MEDICARE ECONOMIC INDEX
+         
+            (a)
+            In general
+            Section 1848(d) of the Social Security Act (42 U.S.C. 1395w–4(d)) is amended—
+            
+               (1)
+               in paragraph (19)—
+               
+                  (A)
+                  in the header, by striking 2025 and inserting 2023; and
+               
+               
+                  (B)
+                  by striking 2025 and inserting 2023; and 
+               
+            
+            
+               (2)
+               by amending paragraph (20) to read as follows:
+               
+                  
+                     (20)
+                     Update for 2024 and subsequent years
+                     The update to the single conversion factor established in paragraph (1)(C) for 2024 and each subsequent year shall be equal to the Secretary’s estimate of the percentage increase in the MEI (as defined in section 1842(i)(3)) for the year.
+                  
+                  .
+               
+            
+         
+         
+            (b)
+            Conforming amendment To provide for a single conversion factor after 2025
+            Section 1848(d)(1)(A) of the Social Security Act (42 U.S.C. 1395w–4(d)(1)(A)) is amended—
+            
+               (1)
+               by striking and ending with 2025; and
+            
+            
+               (2)
+               by striking There shall be two separate conversion factors and all that follows through the end of the subparagraph.
+            
+         
+      
+   

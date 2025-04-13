@@ -1,0 +1,90 @@
+{
+  "bill_id": "H.R. 9012",
+  "title": "Comprehensive Example Bill",
+  "summary": "This bill demonstrates a comprehensive range of citation relationships for testing purposes.",
+  "date": "2025-04-15",
+  "status": "Pending",
+  "citations": [
+    {
+      "citation_id": "legal_basis_1",
+      "text": "42 U.S.C. § 1983",
+      "normCite": "42 USC 1983",
+      "citeType": "USC",
+      "section": "1983",
+      "isShortCite": false,
+      "relationshipType": "Legal Basis/Precedent"
+    },
+    {
+      "citation_id": "authority_1",
+      "text": "5 U.S.C. § 301",
+      "normCite": "5 USC 301",
+      "citeType": "USC",
+      "section": "301",
+      "isShortCite": false,
+      "relationshipType": "Authority"
+    },
+    {
+      "citation_id": "definition_1",
+      "text": "Definition of 'agency' per regulatory standards.",
+      "normCite": "Agency Definition",
+      "citeType": "Regulatory",
+      "section": "N/A",
+      "isShortCite": true,
+      "relationshipType": "Definition"
+    },
+    {
+      "citation_id": "supporting_example_1",
+      "text": "29 C.F.R. 1601.1 provides a typical case for analysis.",
+      "normCite": "29 CFR 1601.1",
+      "citeType": "CFR",
+      "section": "1601.1",
+      "isShortCite": false,
+      "relationshipType": "Supporting/Example"
+    },
+    {
+      "citation_id": "exception_limitation_1",
+      "text": "Exception provided under 15 U.S.C. § 77a for special circumstances.",
+      "normCite": "15 USC 77a",
+      "citeType": "USC",
+      "section": "77a",
+      "isShortCite": false,
+      "relationshipType": "Exception/Limitation"
+    },
+    {
+      "citation_id": "amended_by_1",
+      "text": "Amendment details as provided in 22 C.F.R. Part 100.",
+      "normCite": "22 CFR Part 100",
+      "citeType": "CFR",
+      "section": "100",
+      "isShortCite": false,
+      "relationshipType": "Amended by/Amendment to"
+    },
+    {
+      "citation_id": "rescinding_1",
+      "text": "Rescinding clause detailed in 7 U.S.C. § 2008.",
+      "normCite": "7 USC 2008",
+      "citeType": "USC",
+      "section": "2008",
+      "isShortCite": false,
+      "relationshipType": "Rescinding"
+    },
+    {
+      "citation_id": "adjusting_1",
+      "text": "Adjustment provisions as outlined in 12 U.S.C. § 3301.",
+      "normCite": "12 USC 3301",
+      "citeType": "USC",
+      "section": "3301",
+      "isShortCite": false,
+      "relationshipType": "Adjusting"
+    },
+    {
+      "citation_id": "legal_basis_2",
+      "text": "Another legal foundation as per 28 U.S.C. § 1332.",
+      "normCite": "28 USC 1332",
+      "citeType": "USC",
+      "section": "1332",
+      "isShortCite": false,
+      "relationshipType": "Legal Basis/Precedent"
+    }
+  ]
+}

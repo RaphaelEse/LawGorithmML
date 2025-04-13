@@ -1,0 +1,1906 @@
+
+<!DOCTYPE bill
+  SYSTEM "blp-dscs-billres.dtd">
+
+   
+      
+         Expanding Access to Capital Act of 2023
+         Helping Startups Continue To Grow Act
+         Unlocking Capital for Small Businesses Act of 2023
+         Small Business Investor Capital Access Act
+         Improving Capital Allocation for Newcomers Act of 2023
+         Small Entrepreneurs’ Empowerment and Development Act of 2023 SEED Act of 2023
+         Regulation A+ Improvement Act of 2023
+         Developing and Empowering our Aspiring Leaders Act of 2023 DEAL Act of 2023
+         Improving Crowdfunding Opportunities Act
+         Restoring the Secondary Trading Market Act
+         Gig Worker Equity Compensation Act
+         Investment Opportunity Expansion Act
+         Risk Disclosure and Investor Attestation Act
+      
+   
+   
+      IIB
+      118th CONGRESS
+      2d Session
+      H. R. 2799
+      IN THE SENATE OF THE UNITED STATES
+      
+         March 11, 2024
+         Received; read twice and referred to the Committee on Banking, Housing, and Urban Affairs
+      
+      AN ACT
+      To make reforms to the capital markets of the United States, and for other purposes.
+   
+   
+      Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+      
+         1.
+         SHORT TITLE; TABLE OF CONTENTS
+         
+            (a)
+            Short title
+            This Act may be cited as the 
+                  Expanding Access to Capital Act of 2023
+               .
+         
+         
+            (b)
+            Table of contents
+            The table of contents for this Act is as follows:
+            
+               Sec. 1. Short title; table of contents.
+               Division A—Strengthening Public Markets
+               TITLE I—REMOVE ABERRATIONS IN THE MARKET CAP TEST FOR TARGET COMPANY FINANCIAL STATEMENTS
+               Sec. 1101. Avoiding aberrational results in requirements for acquisition and disposition financial statements.
+               TITLE II—HELPING STARTUPS CONTINUE TO GROW
+               Sec. 1201. Short title.
+               Sec. 1202. Emerging growth company criteria.
+               TITLE III—SEC AND PCAOB AUDITOR REQUIREMENTS FOR NEWLY PUBLIC COMPANIES
+               Sec. 1301. Auditor independence for certain past audits occurring before an issuer is a public company.
+               TITLE IV—EXPAND THE PROTECTION FOR RESEARCH REPORTS TO COVER ALL SECURITIES OF ALL ISSUERS
+               Sec. 1401. Provision of research.
+               TITLE V—EXCLUDE QIBS AND IAAS FROM THE RECORD HOLDER COUNT FOR MANDATORY REGISTRATION
+               Sec. 1501. Exclusions from mandatory registration threshold.
+               TITLE VI—EXPAND WKSI ELIGIBILITY
+               Sec. 1601. Definition of well-known seasoned issuer.
+               Division B—Helping Small Businesses and Entrepreneurs
+               TITLE I—UNLOCKING CAPITAL FOR SMALL BUSINESSES
+               Sec. 2101. Short title.
+               Sec. 2102. Safe harbors for private placement brokers and finders.
+               Sec. 2103. Limitations on State law.
+               TITLE II—SMALL BUSINESS INVESTOR CAPITAL ACCESS
+               Sec. 2201. Short title.
+               Sec. 2202. Inflation adjustment for the exemption threshold for certain investment advisers of private funds.
+               TITLE III—IMPROVING CAPITAL ALLOCATION FOR NEWCOMERS
+               Sec. 2301. Short title.
+               Sec. 2302. Qualifying venture capital funds.
+               TITLE IV—SMALL ENTREPRENEURS’ EMPOWERMENT AND DEVELOPMENT
+               Sec. 2401. Short title.
+               Sec. 2402. Micro-offering exemption.
+               TITLE V—REGULATION A+ IMPROVEMENT
+               Sec. 2501. Short title.
+               Sec. 2502. JOBS Act-related exemption.
+               TITLE VI—DEVELOPING AND EMPOWERING OUR ASPIRING LEADERS
+               Sec. 2601. Short title.
+               Sec. 2602. Definitions.
+               Sec. 2603. Reports.
+               TITLE VII—IMPROVING CROWDFUNDING OPPORTUNITIES
+               Sec. 2701. Short title.
+               Sec. 2702. Crowdfunding revisions.
+               TITLE VIII—RESTORING THE SECONDARY TRADING MARKET
+               Sec. 2801. Short title.
+               Sec. 2802. Exemption from State regulation.
+               Division C—Increasing Access to Private Markets
+               TITLE I—GIG WORKER EQUITY COMPENSATION
+               Sec. 3101. Short title.
+               Sec. 3102. Extension of Rule 701.
+               Sec. 3103. GAO study.
+               TITLE II—INVESTMENT OPPORTUNITY EXPANSION
+               Sec. 3201. Short title.
+               Sec. 3202. Investment thresholds to qualify as an accredited investor.
+               TITLE III—RISK DISCLOSURE AND INVESTOR ATTESTATION
+               Sec. 3301. Short title.
+               Sec. 3302. Investor attestation.
+               TITLE IV—ACCREDITED INVESTORS INCLUDE INDIVIDUALS RECEIVING ADVICE FROM CERTAIN PROFESSIONALS
+               Sec. 3401. Accredited investors include individuals receiving advice from certain professionals.
+               Division D—Helping Angels Lead Our Startups
+               Sec. 4001. Clarification of general solicitation.
+               Division E—Improving Disclosure for Investors
+               Sec. 5001. Short title.
+               Sec. 5002. Electronic delivery.
+               Division F—Enhancement of 403(b) plans
+               Sec. 6101. Short title.
+               Sec. 6102. Enhancement of 403(b) plans.
+               Division G—Increasing Investor Opportunities
+               Sec. 7001. Closed-end company authority to invest in private funds.
+            
+         
+      
+      
+         A
+         Strengthening Public Markets
+         
+            I
+            REMOVE ABERRATIONS IN THE MARKET CAP TEST FOR TARGET COMPANY FINANCIAL STATEMENTS
+            
+               1101.
+               AVOIDING ABERRATIONAL RESULTS IN REQUIREMENTS FOR ACQUISITION AND DISPOSITION FINANCIAL STATEMENTS
+               The Securities and Exchange Commission shall revise section 210.1–02(w)(1)(i)(A) of title 17, Code of Federal Regulations, to permit a registrant, in determining the significance of an acquisition or disposition described in such section 210.1–02(w)(1)(i)(A), to calculate the registrant’s aggregate worldwide market value based on the applicable trading value, conversion value, or exchange value of all of the registrant’s outstanding classes of stock (including preferred stock and non-traded common shares that are convertible into or exchangeable for traded common shares) and not just the voting and non-voting common equity of the registrant.
+            
+         
+         
+            II
+            HELPING STARTUPS CONTINUE TO GROW
+            
+               1201.
+               SHORT TITLE
+               This title may be cited as the 
+                     Helping Startups Continue To Grow Act
+                  .
+            
+            
+               1202.
+               EMERGING GROWTH COMPANY CRITERIA
+               
+                  (a)
+                  Securities Act of 1933
+                  Section 2(a)(19) of the Securities Act of 1933 (15 U.S.C. 77b(a)(19)) is amended—
+                  
+                     (1)
+                     by striking $1,000,000,000 each place such term appears and inserting $1,500,000,000;
+                  
+                  
+                     (2)
+                     in subparagraph (B)—
+                     
+                        (A)
+                        by striking fifth and inserting 7-year; and
+                     
+                     
+                        (B)
+                        by adding or at the end; 
+                     
+                  
+                  
+                     (3)
+                     in subparagraph (C), by striking ; or and inserting a period; and
+                  
+                  
+                     (4)
+                     by striking subparagraph (D).
+                  
+               
+               
+                  (b)
+                  Securities Exchange Act of 1934
+                  Section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)) is amended, in the first paragraph (80) (related to emerging growth companies)—
+                  
+                     (1)
+                     by striking $1,000,000,000 each place such term appears and inserting $1,500,000,000;
+                  
+                  
+                     (2)
+                     in subparagraph (B)—
+                     
+                        (A)
+                        by striking fifth and inserting 7-year; and
+                     
+                     
+                        (B)
+                        by adding or at the end; 
+                     
+                  
+                  
+                     (3)
+                     in subparagraph (C), by striking ; or and inserting a period; and
+                  
+                  
+                     (4)
+                     by striking subparagraph (D).
+                  
+               
+            
+         
+         
+            III
+            SEC AND PCAOB AUDITOR REQUIREMENTS FOR NEWLY PUBLIC COMPANIES
+            
+               1301.
+               AUDITOR INDEPENDENCE FOR CERTAIN PAST AUDITS OCCURRING BEFORE AN ISSUER IS A PUBLIC COMPANY
+               
+                  (a)
+                  Auditor independence standards of the Public Company Accounting Oversight Board
+                  Section 103 of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7213) is amended by adding at the end the following:
+                  
+                     
+                        (e)
+                        Auditor independence for certain past audits occurring before an issuer is a public company
+                        With respect to an issuer that is a public company or an issuer that has filed a registration statement to become a public company, the auditor independence rules established by the Board with respect to audits occurring before the last fiscal year of the issuer completed before the issuer filed a registration statement to become a public company shall treat an auditor as independent if—
+                        
+                           (1)
+                           the auditor is independent under standards established by the American Institute of Certified Public Accountants applicable to certified public accountants in United States; or
+                        
+                        
+                           (2)
+                           with respect to a foreign issuer, the auditor is independent under comparable standards applicable to certified public accountants in the issuer’s home country.
+                        
+                     
+                     .
+                  
+               
+               
+                  (b)
+                  Auditor independence standards of the Securities and Exchange Commission
+                  Section 10A of the Securities Exchange Act of 1934 (15 U.S.C. 78j–1) is amended by adding at the end the following:
+                  
+                     
+                        (n)
+                        Auditor independence for certain past audits occurring before an issuer is a public company
+                        With respect to an issuer that is a public company or an issuer that has filed a registration statement to become a public company, the auditor independence rules established by the Commission under the securities laws with respect to audits occurring before the last fiscal year of the issuer completed before the issuer filed a registration statement to become a public company shall treat an auditor as independent if—
+                        
+                           (1)
+                           the auditor is independent under standards established by the American Institute of Certified Public Accountants applicable to certified public accountants in United States; or
+                        
+                        
+                           (2)
+                           with respect to a foreign issuer, the auditor is independent under comparable standards applicable to certified public accountants in the issuer’s home country.
+                        
+                     
+                     .
+                  
+               
+            
+         
+         
+            IV
+            EXPAND THE PROTECTION FOR RESEARCH REPORTS TO COVER ALL SECURITIES OF ALL ISSUERS
+            
+               1401.
+               PROVISION OF RESEARCH
+               Section 2(a)(3) of the Securities Act of 1933 (15 U.S.C. 77b(a)(3)) is amended—
+               
+                  (a)
+                  by striking an emerging growth company and inserting an issuer;
+               
+               
+                  (b)
+                  by striking the common equity and inserting any; and
+               
+               
+                  (c)
+                  by striking such emerging growth company and inserting such issuer.
+               
+            
+         
+         
+            V
+            EXCLUDE QIBS AND IAAS FROM THE RECORD HOLDER COUNT FOR MANDATORY REGISTRATION
+            
+               1501.
+               EXCLUSIONS FROM MANDATORY REGISTRATION THRESHOLD
+               
+                  (a)
+                  In general
+                  Section 12(g)(1) of the Securities Exchange Act of 1934 (15 U.S.C. 78l(g)(1)) is amended—
+                  
+                     (1)
+                     in subparagraph (A)(i), by inserting after persons the following: (that are not a qualified institutional buyer or an institutional accredited investor); and
+                  
+                  
+                     (2)
+                     in subparagraph (B), by inserting after persons the following: (that are not a qualified institutional buyer or an institutional accredited investor).
+                  
+               
+               
+                  (b)
+                  Nonapplicability of general exemptive authority
+                  Section 36 of the Securities Exchange Act of 1934 (15 U.S.C. 78mm) shall not apply to the matter inserted by the amendments made by subsection (a).
+               
+            
+         
+         
+            VI
+            EXPAND WKSI ELIGIBILITY
+            
+               1601.
+               DEFINITION OF WELL-KNOWN SEASONED ISSUER
+               For purposes of the Federal securities laws, and regulations issued thereunder, an issuer shall be a well-known seasoned issuer if—
+               
+                  (1)
+                  the aggregate market value of the voting and non-voting common equity held by non-affiliates of the issuer is $250,000,000 or more (as determined under Form S–3 general instruction I.B.1. as in effect on the date of enactment of this Act); and
+               
+               
+                  (2)
+                  the issuer otherwise satisfies the requirements of the definition of well-known seasoned issuer contained in section 230.405 of title 17, Code of Federal Regulations without reference to any requirement in such definition relating to minimum worldwide market value of outstanding voting and non-voting common equity held by non-affiliates.
+               
+            
+         
+      
+      
+         B
+         Helping Small Businesses and Entrepreneurs
+         
+            I
+            UNLOCKING CAPITAL FOR SMALL BUSINESSES
+            
+               2101.
+               SHORT TITLE
+               This title may be cited as the 
+                     Unlocking Capital for Small Businesses Act of 2023
+                  .
+            
+            
+               2102.
+               SAFE HARBORS FOR PRIVATE PLACEMENT BROKERS AND FINDERS
+               
+                  (a)
+                  In general
+                  Section 15 of the Securities Exchange Act of 1934 (15 U.S.C. 78o) is amended by adding at the end the following:
+                  
+                     
+                        (p)
+                        Private placement broker safe harbor
+                        
+                           (1)
+                           Registration requirements
+                           Not later than 180 days after the date of the enactment of this subsection the Commission shall promulgate regulations with respect to private placement brokers that are no more stringent than those imposed on funding portals.
+                        
+                        
+                           (2)
+                           National securities associations
+                           Not later than 180 days after the date of the enactment of this subsection the Commission shall promulgate regulations that require the rules of any national securities association to allow a private placement broker to become a member of such national securities association subject to reduced membership requirements consistent with this subsection.
+                        
+                        
+                           (3)
+                           Disclosures required
+                           Before effecting a transaction, a private placement broker shall disclose clearly and conspicuously, in writing, to all parties to the transaction as a result of the broker’s activities—
+                           
+                              (A)
+                              that the broker is acting as a private placement broker;
+                           
+                           
+                              (B)
+                              the amount of any payment or anticipated payment for services rendered as a private placement broker in connection with such transaction;
+                           
+                           
+                              (C)
+                              the person to whom any such payment is made; and
+                           
+                           
+                              (D)
+                              any beneficial interest in the issuer, direct or indirect, of the private placement broker, of a member of the immediate family of the private placement broker, of an associated person of the private placement broker, or of a member of the immediate family of such associated person.
+                           
+                        
+                        
+                           (4)
+                           Private placement broker defined
+                           In this subsection, the term private placement broker means a person that—
+                           
+                              (A)
+                              receives transaction-based compensation—
+                              
+                                 (i)
+                                 for effecting a transaction by—
+                                 
+                                    (I)
+                                    introducing an issuer of securities and a buyer of such securities in connection with the sale of a business effected as the sale of securities; or
+                                 
+                                 
+                                    (II)
+                                    introducing an issuer of securities and a buyer of such securities in connection with the placement of securities in transactions that are exempt from registration requirements under the Securities Act of 1933; and
+                                 
+                              
+                              
+                                 (ii)
+                                 that is not with respect to—
+                                 
+                                    (I)
+                                    a class of publicly traded securities;
+                                 
+                                 
+                                    (II)
+                                    the securities of an investment company (as defined in section 3 of the Investment Company Act of 1940); or
+                                 
+                                 
+                                    (III)
+                                    a variable or equity-indexed annuity or other variable or equity-indexed life insurance product;
+                                 
+                              
+                           
+                           
+                              (B)
+                              with respect to a transaction for which such transaction-based compensation is received—
+                              
+                                 (i)
+                                 does not handle or take possession of the funds or securities; and
+                              
+                              
+                                 (ii)
+                                 does not engage in an activity that requires registration as an investment adviser under State or Federal law; and
+                              
+                           
+                           
+                              (C)
+                              is not a finder as defined under subsection (q).
+                           
+                        
+                     
+                     
+                        (q)
+                        Finder safe harbor
+                        
+                           (1)
+                           Nonregistration
+                           A finder is exempt from the registration requirements of this Act.
+                        
+                        
+                           (2)
+                           National securities associations
+                           A finder shall not be required to become a member of any national securities association.
+                        
+                        
+                           (3)
+                           Finder defined
+                           In this subsection, the term finder means a person described in paragraphs (A) and (B) of subsection (p)(4) that—
+                           
+                              (A)
+                              receives transaction-based compensation of equal to or less than $500,000 in any calendar year;
+                           
+                           
+                              (B)
+                              receives transaction-based compensation in connection with transactions that result in a single issuer selling securities valued at equal to or less than $15,000,000 in any calendar year;
+                           
+                           
+                              (C)
+                              receives transaction-based compensation in connection with transactions that result in any combination of issuers selling securities valued at equal to or less than $30,000,000 in any calendar year; or
+                           
+                           
+                              (D)
+                              receives transaction-based compensation in connection with fewer than 16 transactions that are not part of the same offering or are otherwise unrelated in any calendar year.
+                           
+                        
+                     
+                     .
+                  
+               
+               
+                  (b)
+                  Validity of contracts with registered private placement brokers and finders
+                  Section 29 of the Securities Exchange Act of 1934 (15 U.S.C. 78cc) is amended by adding at the end the following:
+                  
+                     
+                        (d)
+                        Subsection (b) shall not apply to a contract made for a transaction if—
+                        
+                           (1)
+                           the transaction is one in which the issuer engaged the services of a broker or dealer that is not registered under this Act with respect to such transaction;
+                        
+                        
+                           (2)
+                           such issuer received a self-certification from such broker or dealer certifying that such broker or dealer is a registered private placement broker under section 15(p) or a finder under section 15(q); and
+                        
+                        
+                           (3)
+                           the issuer either did not know that such self-certification was false or did not have a reasonable basis to believe that such self-certification was false.
+                        
+                     
+                     .
+                  
+               
+               
+                  (c)
+                  Removal of private placement brokers from definitions of broker
+                  
+                     (1)
+                     Records and reports on monetary instruments transactions
+                     Section 5312 of title 31, United States Code, is amended in subsection (a)(2)(G) by inserting with the exception of a private placement broker as defined in section 15(p)(4) of the Securities Exchange Act of 1934 (15 U.S.C. 78o(p)(4)) before the semicolon at the end.
+                  
+                  
+                     (2)
+                     Securities Exchange Act of 1934
+                     Section 3(a)(4) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(4)) is amended by adding at the end the following:
+                     
+                        
+                           (G)
+                           Private placement brokers
+                           A private placement broker as defined in section 15(p)(4) is not a broker for the purposes of this Act.
+                        
+                        .
+                     
+                  
+               
+            
+            
+               2103.
+               LIMITATIONS ON STATE LAW
+               Section 15(i) of the Securities Exchange Act of 1934 (15 U.S.C. 78o(i)) is amended—
+               
+                  (1)
+                  by redesignating paragraphs (3) and (4) as paragraphs (4) and (5), respectively;
+               
+               
+                  (2)
+                  by inserting after paragraph (2) the following:
+                  
+                     
+                        (3)
+                        Private placement brokers and finders
+                        
+                           (A)
+                           In general
+                           No State or political subdivision thereof may enforce any law, rule, regulation, or other administrative action that imposes greater registration, audit, financial recordkeeping, or reporting requirements on a private placement broker or finder than those that are required under subsections (p) and (q), respectively.
+                        
+                        
+                           (B)
+                           Definition of State
+                           For purposes of this paragraph, the term State includes the District of Columbia and each territory of the United States.
+                        
+                     
+                     ; and
+                  
+               
+               
+                  (3)
+                  in paragraph (4), as so redesignated, by striking paragraph (3) and inserting paragraph (5).
+               
+            
+         
+         
+            II
+            SMALL BUSINESS INVESTOR CAPITAL ACCESS
+            
+               2201.
+               SHORT TITLE
+               This title may be cited as the 
+                     Small Business Investor Capital Access Act
+                  . 
+            
+            
+               2202.
+               INFLATION ADJUSTMENT FOR THE EXEMPTION THRESHOLD FOR CERTAIN INVESTMENT ADVISERS OF PRIVATE FUNDS
+               Section 203(m) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–3(m)) is amended by adding at the end the following:
+               
+                  
+                     (5)
+                     Inflation adjustment
+                     The Commission shall adjust the dollar amount described under paragraph (1)—
+                     
+                        (A)
+                        upon enactment of this paragraph, to reflect the change in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor between the date of enactment of the Private Fund Investment Advisers Registration Act of 2010 and the date of enactment of this paragraph; and
+                     
+                     
+                        (B)
+                        annually thereafter, to reflect the change in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.
+                     
+                  
+                  .
+               
+            
+         
+         
+            III
+            IMPROVING CAPITAL ALLOCATION FOR NEWCOMERS
+            
+               2301.
+               SHORT TITLE
+               This title may be cited as the 
+                     Improving Capital Allocation for Newcomers Act of 2023
+                  .
+            
+            
+               2302.
+               QUALIFYING VENTURE CAPITAL FUNDS
+               Section 3(c)(1) of the Investment Company Act of 1940 (15 U.S.C. 80a–3(c)(1)) is amended—
+               
+                  (1)
+                  in the matter preceding subparagraph (A), by striking 250 persons and inserting 600 persons; and
+               
+               
+                  (2)
+                  in subparagraph (C)(i), by striking $10,000,000 and inserting $150,000,000.
+               
+            
+         
+         
+            IV
+            SMALL ENTREPRENEURS’ EMPOWERMENT AND DEVELOPMENT
+            
+               2401.
+               SHORT TITLE
+               This title may be cited as the 
+                     Small Entrepreneurs’ Empowerment and Development Act of 2023
+                   or the 
+                     SEED Act of 2023
+                  . 
+            
+            
+               2402.
+               MICRO-OFFERING EXEMPTION
+               
+                  (a)
+                  In general
+                  Section 4 of the Securities Act of 1933 (15 U.S.C. 77d) is amended—
+                  
+                     (1)
+                     in subsection (a), by adding at the end the following:
+                     
+                        
+                           (8)
+                           transactions meeting the requirements of subsection (f).
+                        
+                        ; and
+                     
+                  
+                  
+                     (2)
+                     by adding at the end the following:
+                     
+                        
+                           (f)
+                           Micro-Offerings
+                           The transactions referred to in subsection (a)(8) are transactions involving the sale of securities by an issuer (including all entities controlled by or under common control with the issuer) where the aggregate amount of all securities sold by the issuer, including any amount sold in reliance on the exemption provided under subsection (a)(8), during the 12-month period preceding such transaction, does not exceed $250,000.
+                        
+                        .
+                     
+                  
+               
+               
+                  (b)
+                  Disqualification
+                  
+                     (1)
+                     In general
+                     Not later than 270 days after the date of enactment of this Act, the Securities and Exchange Commission shall, by rule, establish disqualification provisions under which an issuer shall not be eligible to offer securities pursuant to section 4(a)(8) of the Securities Act of 1933, as added by this section.
+                  
+                  
+                     (2)
+                     Inclusions
+                     Disqualification provisions required by this subsection shall—
+                     
+                        (A)
+                         be substantially similar to the provisions of section 230.506(d) of title 17, Code of Federal Regulations (or any successor thereto); and
+                     
+                     
+                        (B)
+                        disqualify any offering or sale of securities by a person that—
+                        
+                           (i)
+                            is subject to a final order of a covered regulator that—
+                           
+                              (I)
+                              bars the person from—
+                              
+                                 (aa)
+                                 association with an entity regulated by the covered regulator;
+                              
+                              
+                                 (bb)
+                                 engaging in the business of securities, insurance, or banking; or
+                              
+                              
+                                 (cc)
+                                 engaging in savings association or credit union activities; or
+                              
+                           
+                           
+                              (II)
+                              constitutes a final order based on a violation of any law or regulation that prohibits fraudulent, manipulative, or deceptive conduct, if such final order was issued within the previous 10-year period; or
+                           
+                        
+                        
+                           (ii)
+                           has been convicted of any felony or misdemeanor in connection with the purchase or sale of any security or involving the making of any false filing with the Commission.
+                        
+                     
+                  
+                  
+                     (3)
+                     Covered regulator defined
+                     In this subsection, the term covered regulator means—
+                     
+                        (A)
+                        a State securities commission (or an agency or officer of a State performing like functions);
+                     
+                     
+                        (B)
+                        a State authority that supervises or examines banks, savings associations, or credit unions;
+                     
+                     
+                        (C)
+                        a State insurance commission (or an agency or officer of a State performing like functions);
+                     
+                     
+                        (D)
+                        a Federal banking agency (as defined under section 3 of the Federal Deposit Insurance Act); and
+                     
+                     
+                        (E)
+                        the National Credit Union Administration.
+                     
+                  
+               
+               
+                  (c)
+                  Exemption under State regulations
+                  Section 18(b)(4) of the Securities Act of 1933 (15 U.S.C. 77r(b)(4)) is amended—
+                  
+                     (1)
+                     in subparagraph (F), by striking or at the end;
+                  
+                  
+                     (2)
+                     in subparagraph (G), by striking the period and inserting ; or; and
+                  
+                  
+                     (3)
+                     by adding at the end the following:
+                     
+                        
+                           (H)
+                           section 4(a)(8).
+                        
+                        .
+                     
+                  
+               
+            
+         
+         
+            V
+            REGULATION A+ IMPROVEMENT
+            
+               2501.
+               SHORT TITLE
+               This title may be cited as the 
+                     Regulation A+ Improvement Act of 2023
+                  . 
+            
+            
+               2502.
+               JOBS ACT-RELATED EXEMPTION
+               Section 3(b) of the Securities Act of 1933 (15 U.S.C. 77c(b)) is amended—
+               
+                  (1)
+                  in paragraph (2)(A), by striking $50,000,000 and inserting $150,000,000, adjusted for inflation by the Commission every 2 years to the nearest $10,000 to reflect the change in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics; and
+               
+               
+                  (2)
+                  in paragraph (5)—
+                  
+                     (A)
+                     by striking such amount as and inserting: such amount, in addition to the adjustment for inflation provided for under such paragraph (2)(A), as; and
+                  
+                  
+                     (B)
+                     by striking such amount, it and inserting such amount, in addition to the adjustment for inflation provided for under such paragraph (2)(A), it.
+                  
+               
+            
+         
+         
+            VI
+            DEVELOPING AND EMPOWERING OUR ASPIRING LEADERS
+            
+               2601.
+               SHORT TITLE
+               This title may be cited as the 
+                     Developing and Empowering our Aspiring Leaders Act of 2023
+                   or the 
+                     DEAL Act of 2023
+                  .
+            
+            
+               2602.
+               DEFINITIONS
+               Not later than the end of the 180-day period beginning on the date of the enactment of this Act, the Securities and Exchange Commission shall, in a manner that facilitates capital formation without compromising investor protection—
+               
+                  (1)
+                  revise the definition of a qualifying investment under paragraph (c) of section 275.203(l)–1 of title 17, Code of Federal Regulations—
+                  
+                     (A)
+                     to include an equity security issued by a qualifying portfolio company, whether acquired directly from the company or in a secondary acquisition; and
+                  
+                  
+                     (B)
+                     to specify that an investment in another venture capital fund is a qualifying investment under such definition; and
+                  
+               
+               
+                  (2)
+                  revise paragraph (a) of such section to require, as a condition of a private fund qualifying as a venture capital fund under such paragraph, that the qualifying investments of the private fund are either—
+                  
+                     (A)
+                     predominantly qualifying investments that were acquired directly from a qualifying portfolio company; or
+                  
+                  
+                     (B)
+                     predominantly qualifying investments in another venture capital fund or other venture capital funds.
+                  
+               
+            
+            
+               2603.
+               REPORTS
+               
+                  (a)
+                  GAO report
+                  The Comptroller General of the United States shall issue a report to Congress on the risks and impacts of concentrated sectoral counterparty risk in the banking sector, in light of the failure of Silicon Valley Bank.
+               
+               
+                  (b)
+                  Advocate for Small Business Capital Formation report
+                  The Advocate for Small Business Capital Formation shall issue a report to Congress and the Securities and Exchange Commission—
+                  
+                     (1)
+                     examining the access to banking services for venture funds and companies funded by venture capital, in light of the failure of Silicon Valley Bank, especially those funds and companies located outside of the established technology and venture capital hubs of California, Massachusetts, and New York; and
+                  
+                  
+                     (2)
+                     containing any policy recommendations of the Advocate.
+                  
+               
+            
+         
+         
+            VII
+            IMPROVING CROWDFUNDING OPPORTUNITIES
+            
+               2701.
+               SHORT TITLE
+               This title may be cited as the 
+                     Improving Crowdfunding Opportunities Act
+                  .
+            
+            
+               2702.
+               CROWDFUNDING REVISIONS
+               
+                  (a)
+                  Exemption from State regulation
+                  Section 18(b)(4)(A) of the Securities Act of 1933 (15 U.S.C. 77r(b)(4)(A)) is amended by striking pursuant to section and all that follows through the semicolon at the end and inserting the following: “pursuant to—
+                  
+                     
+                        (i)
+                        section 13 or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m, 78o(d)); or
+                     
+                     
+                        (ii)
+                        section 4A(b) or any regulation issued under that section;
+                     
+                     .
+                  
+               
+               
+                  (b)
+                  Liability for material misstatements and omissions
+                  Section 4A(c) of the Securities Act of 1933 (15 U.S.C. 77d–1(c)) is amended—
+                  
+                     (1)
+                     by redesignating paragraph (3) as paragraph (4); and
+                  
+                  
+                     (2)
+                     by inserting after paragraph (2) the following:
+                     
+                        
+                           (3)
+                           Liability of funding portals
+                           For the purposes of this subsection, a funding portal, as that term is defined in section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)), shall not be considered to be an issuer unless, in connection with the offer or sale of a security, the funding portal knowingly—
+                           
+                              (A)
+                              makes any untrue statement of a material fact or omits to state a material fact in order to make the statements made, in light of the circumstances under which they are made, not misleading; or
+                           
+                           
+                              (B)
+                              engages in any act, practice, or course of business which operates or would operate as a fraud or deceit upon any person.
+                           
+                        
+                        .
+                     
+                  
+               
+               
+                  (c)
+                  Applicability of Bank Secrecy Act requirements
+                  
+                     (1)
+                     Securities Act of 1933
+                     Section 4A(a) of the Securities Act of 1933 (15 U.S.C. 77d–1(a)) is amended—
+                     
+                        (A)
+                        in paragraph (11), by striking and at the end;
+                     
+                     
+                        (B)
+                        in paragraph (12), by striking the period at the end and inserting ; and; and
+                     
+                     
+                        (C)
+                        by adding at the end the following:
+                        
+                           
+                              (13)
+                              not be subject to the recordkeeping and reporting requirements relating to monetary instruments under subchapter II of chapter 53 of title 31, United States Code.
+                           
+                           .
+                        
+                     
+                  
+                  
+                     (2)
+                     Title 31, United States Code
+                     Section 5312 of title 31, United States Code, is amended by striking subsection (c) and inserting the following:
+                     
+                        
+                           (c)
+                           Additional clarification
+                           The term financial institution (as defined in subsection (a))—
+                           
+                              (1)
+                              includes any futures commission merchant, commodity trading advisor, or commodity pool operator registered, or required to register, under the Commodity Exchange Act (7 U.S.C. 1 et seq.); and
+                           
+                           
+                              (2)
+                              does not include a funding portal, as that term is defined in section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)).
+                           
+                        
+                        .
+                     
+                  
+               
+               
+                  (d)
+                  Provision of impersonal investment advice and recommendations
+                  Section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)) is amended—
+                  
+                     (1)
+                     by redesignating the second paragraph (80) (relating to funding portals) as paragraph (81); and
+                  
+                  
+                     (2)
+                     in paragraph (81)(A), as so redesignated, by inserting after recommendations the following: (other than by providing impersonal investment advice by means of written material, or an oral statement, that does not purport to meet the objectives or needs of a specific individual or account).
+                  
+               
+               
+                  (e)
+                  Target amounts of certain exempted offerings
+                  The Securities and Exchange Commission shall amend paragraph (t)(1) of section 227.201 of title 17, Code of Federal Regulations so that such paragraph applies with respect to an issuer offering or selling securities in reliance on section 4(a)(6) of the Securities Act of 1933 (15 U.S.C. 77d(a)(6)) if—
+                  
+                     (1)
+                     the offerings of such issuer, together with all other amounts sold under such section 4(a)(6) within the preceding 12-month period, have, in the aggregate, a target amount of more than $124,000 but not more than $250,000; 
+                  
+                  
+                     (2)
+                     the financial statements of such issuer that have either been reviewed or audited by a public accountant that is independent of the issuer are unavailable at the time of filing; and
+                  
+                  
+                     (3)
+                     such issuer provides a statement that financial information certified by the principal executive officer of the issuer has been provided instead of financial statements reviewed by a public accountant that is independent of the issuer.
+                  
+               
+               
+                  (f)
+                  Exemption available to investment companies
+                  Section 4A(f) of the Securities Act of 1933 (15 U.S.C. 77d–1(f)) is amended—
+                  
+                     (1)
+                     in paragraph (2), by inserting or after the semicolon;
+                  
+                  
+                     (2)
+                     by striking paragraph (3); and
+                  
+                  
+                     (3)
+                     by redesignating paragraph (4) as paragraph (3).
+                  
+               
+               
+                  (g)
+                  Non-accredited investor requirements
+                  Section 4(a)(6) of the Securities Act of 1933 (15 U.S.C. 77d(a)(6))) is amended—
+                  
+                     (1)
+                     in subparagraph (A), by striking $1,000,000 and inserting $10,000,000; and
+                  
+                  
+                     (2)
+                     in subparagraph (B), by striking does not exceed and all that follows through more than $100,000 and inserting does not exceed 10 percent of the annual income or net worth of such investor.
+                  
+               
+               
+                  (h)
+                  Technical correction
+                  The Securities Act of 1933 (15 U.S.C. 77a et seq.) is amended—
+                  
+                     (1)
+                     by striking the term section 4(6) each place such term appears and inserting section 4(a)(6);
+                  
+                  
+                     (2)
+                     by striking the term section 4(6)(B) each place such term appears and inserting section 4(a)(6)(B); 
+                  
+                  
+                     (3)
+                     in section 4A(f), by striking Section 4(6) and inserting Section 4(a)(6); and 
+                  
+                  
+                     (4)
+                     in section 18(b)(4)(A), by striking section 4 and inserting section 4(a).
+                  
+               
+            
+         
+         
+            VIII
+            RESTORING THE SECONDARY TRADING MARKET
+            
+               2801.
+               SHORT TITLE
+               This title may be cited as the 
+                     Restoring the Secondary Trading Market Act
+                  .
+            
+            
+               2802.
+               EXEMPTION FROM STATE REGULATION
+               Section 18(a) of the Securities Act of 1933 (15 U.S.C. 77r(a)) is amended—
+               
+                  (1)
+                  in paragraph (2), by striking or at the end;
+               
+               
+                  (2)
+                  in paragraph (3), by striking the period at the end and inserting ; or; and 
+               
+               
+                  (3)
+                  by adding at the end the following:
+                  
+                     
+                        (4)
+                        shall directly or indirectly prohibit, limit, or impose any conditions upon the off-exchange secondary trading (as such term is defined by the Commission) in securities of an issuer that makes current information publicly available, including—
+                        
+                           (A)
+                           the information required in the periodic and current reports described under paragraph (b) of section 230.257 of title 17, Code of Federal Regulations; or
+                        
+                        
+                           (B)
+                           the documents and information required with respect to Tier 2 offerings, as defined in section 230.251(a) of title 17, Code of Federal Regulations.
+                        
+                     
+                     .
+                  
+               
+            
+         
+      
+      
+         C
+         Increasing Access to Private Markets
+         
+            I
+            GIG WORKER EQUITY COMPENSATION
+            
+               3101.
+               SHORT TITLE
+               This title may be cited as the 
+                     Gig Worker Equity Compensation Act
+                  .
+            
+            
+               3102.
+               EXTENSION OF RULE 701
+               
+                  (a)
+                  In general
+                  The exemption provided under section 230.701 of title 17, Code of Federal Regulations, shall apply to individuals (other than employees) providing goods for sale, labor, or services for remuneration to either an issuer or to customers of an issuer to the same extent as such exemptions apply to employees of the issuer. For purposes of the previous sentence, the term customers may, at the election of an issuer, include users of the issuer’s platform.
+               
+               
+                  (b)
+                  Adjustment for inflation
+                  The Securities and Exchange Commission shall annually adjust the dollar figure under section 230.701(e) of title 17, Code of Federal Regulations, to reflect the percentage change in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.
+               
+               
+                  (c)
+                  Rulemaking
+                  The Securities and Exchange Commission—
+                  
+                     (1)
+                     shall revise section 230.701 of title 17, Code of Federal Regulations, to reflect the requirements of this section; and
+                  
+                  
+                     (2)
+                     may not revise such section 230.701 in any manner that would have the effect of restricting access to equity compensation for employees or individuals described under subsection (a).
+                  
+               
+            
+            
+               3103.
+               GAO STUDY
+               Not later than the end of the 3-year period beginning on the date of enactment of this Act, the Comptroller General of the United States shall carry out a study on the effects of this title and submit a report on such study to the Congress.
+            
+         
+         
+            II
+            INVESTMENT OPPORTUNITY EXPANSION
+            
+               3201.
+               SHORT TITLE
+               This title may be cited as the 
+                     Investment Opportunity Expansion Act
+                  . 
+            
+            
+               3202.
+               INVESTMENT THRESHOLDS TO QUALIFY AS AN ACCREDITED INVESTOR
+               Section 2(a)(15) of the Securities Act of 1933 (15 U.S.C. 77b(a)(15)) is amended—
+               
+                  (1)
+                  by striking (15) The term accredited investor shall mean— and inserting the following: 
+                  
+                     
+                        (15)
+                        Accredited investor
+                        
+                           (A)
+                           In general
+                           The term accredited investor means—
+                        
+                     
+                     ;
+                  
+               
+               
+                  (2)
+                  in clause (i), by striking or at the end;
+               
+               
+                  (3)
+                  in clause (ii), by striking the period at the end and inserting a semicolon; and
+               
+               
+                  (4)
+                  by adding at the end the following:
+                  
+                     
+                        (iii)
+                        with respect to a proposed transaction, any individual whose aggregate investment, at the completion of such transaction, in securities with respect to which there has not been a public offering is not more than 10 percent of the greater of—
+                        
+                           (I)
+                           the net assets of the individual; or
+                        
+                        
+                           (II)
+                           the annual income of the individual;
+                        
+                     
+                     .
+                  
+               
+            
+         
+         
+            III
+            RISK DISCLOSURE AND INVESTOR ATTESTATION
+            
+               3301.
+               SHORT TITLE
+               This title may be cited as the 
+                     Risk Disclosure and Investor Attestation Act
+                  . 
+            
+            
+               3302.
+               INVESTOR ATTESTATION
+               
+                  (a)
+                  In general
+                  Section 2(a)(15) of the Securities Act of 1933 (15 U.S.C. 77b(a)(15)), as amended by section 3202, is further amended by adding at the end the following:
+                  
+                     
+                        (iv)
+                        with respect to an issuer, any individual that has attested to the issuer that the individual understands the risks of investment in private issuers, using such form as the Commission shall establish, by rule, but which form may not be longer than 2 pages in length; or
+                     
+                     .
+                  
+               
+               
+                  (b)
+                  Rulemaking
+                  Not later than the end of the 1-year period beginning on the date of enactment of this Act, the Securities and Exchange Commission shall issue rules to carry out the amendments made by subsection (a), including establishing the form required under such amendments.
+               
+            
+         
+         
+            IV
+            ACCREDITED INVESTORS INCLUDE INDIVIDUALS RECEIVING ADVICE FROM CERTAIN PROFESSIONALS
+            
+               3401.
+               ACCREDITED INVESTORS INCLUDE INDIVIDUALS RECEIVING ADVICE FROM CERTAIN PROFESSIONALS
+               
+                  (a)
+                  Securities Act of 1933
+                  Section 2(a)(15) of the Securities Act of 1933 (15 U.S.C. 77b(a)(15)), as amended by sections 3202 and 3302, is further amended by adding at the end the following:
+                  
+                     
+                        (v)
+                        any individual receiving individualized investment advice or individualized investment recommendations with respect to the applicable transaction from an individual described under section 203.501(a)(10) of title 17, Code of Federal Regulations.
+                     
+                     
+                        (B)
+                        Definitions
+                        In subparagraph (A)(v):
+                        
+                           (i)
+                           Investment advice
+                           The term investment advice shall be interpreted consistently with the interpretation of the phrase engages in the business of advising others, either directly or through publications or writings, as to the value of securities or as to the advisability of investing in, purchasing, or selling securities under section 202(a)(11) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2(a)(11)).
+                        
+                        
+                           (ii)
+                           Investment recommendation
+                           The term investment recommendation shall be interpreted consistently with the interpretation of the term recommendation under section 240.15l-1 of title 17, Code of Federal Regulations.
+                        
+                     
+                     .
+                  
+               
+               
+                  (b)
+                  Conforming changes to regulations
+                  The Securities and Exchange Commission shall revise section 203.501(a) of title 17, Code of Federal Regulations, and any other definition of accredited investor in a rule of the Commission in the same manner as such definition is revised under subsection (a).
+               
+            
+         
+      
+      
+         D
+         Helping Angels Lead Our Startups
+         
+            4001.
+            CLARIFICATION OF GENERAL SOLICITATION
+            
+               (a)
+               Definitions
+               For purposes of this section and the revision of rules required under this section:
+               
+                  (1)
+                  Angel investor group
+                  The term angel investor group means any group that—
+                  
+                     (A)
+                     is composed of accredited investors interested in investing personal capital in early-stage companies;
+                  
+                  
+                     (B)
+                     holds regular meetings and has defined processes and procedures for making investment decisions, either individually or among the membership of the group as a whole; and
+                  
+                  
+                     (C)
+                     is neither associated nor affiliated with brokers, dealers, or investment advisers.
+                  
+               
+               
+                  (2)
+                  Issuer
+                  The term issuer means an issuer that is a business, is not in bankruptcy or receivership, is not an investment company, and is not a blank check, blind pool, or shell company.
+               
+            
+            
+               (b)
+               In general
+               Not later than 6 months after the date of enactment of this Act, the Securities and Exchange Commission shall revise Regulation D (17 CFR 230.500 et seq.) to require that in carrying out the prohibition against general solicitation or general advertising contained in section 230.502(c) of title 17, Code of Federal Regulations, the prohibition shall not apply to a presentation or other communication made by or on behalf of an issuer which is made at an event—
+               
+                  (1)
+                  sponsored by—
+                  
+                     (A)
+                     the United States or any territory thereof, the District of Columbia, any State, a political subdivision of any State or territory, or any agency or public instrumentality of any of the foregoing;
+                  
+                  
+                     (B)
+                     a college, university, or other institution of higher education;
+                  
+                  
+                     (C)
+                     a nonprofit organization;
+                  
+                  
+                     (D)
+                     an angel investor group;
+                  
+                  
+                     (E)
+                     a venture forum, venture capital association, or trade association; or
+                  
+                  
+                     (F)
+                     any other group, person, or entity as the Securities and Exchange Commission may determine by rule;
+                  
+               
+               
+                  (2)
+                  where any advertising for the event does not reference any specific offering of securities by the issuer;
+               
+               
+                  (3)
+                  the sponsor of which—
+                  
+                     (A)
+                     does not make investment recommendations or provide investment advice to event attendees;
+                  
+                  
+                     (B)
+                     does not engage in an active role in any investment negotiations between the issuer and investors attending the event;
+                  
+                  
+                     (C)
+                     does not charge event attendees any fees other than reasonable administrative fees;
+                  
+                  
+                     (D)
+                     does not receive any compensation for making introductions between investors attending the event and issuers, or for investment negotiations between such parties;
+                  
+                  
+                     (E)
+                     makes readily available to attendees a disclosure not longer than one page in length, as prescribed by the Securities and Exchange Commission, describing the nature of the event and the risks of investing in the issuers presenting at the event; and
+                  
+                  
+                     (F)
+                     does not receive any compensation with respect to such event that would require registration of the sponsor as a broker or a dealer under the Securities Exchange Act of 1934, or as an investment advisor under the Investment Advisers Act of 1940; and
+                  
+               
+               
+                  (4)
+                  where no specific information regarding an offering of securities by the issuer is communicated or distributed by or on behalf of the issuer, other than—
+                  
+                     (A)
+                     that the issuer is in the process of offering securities or planning to offer securities;
+                  
+                  
+                     (B)
+                     the type and amount of securities being offered;
+                  
+                  
+                     (C)
+                     the amount of securities being offered that have already been subscribed for; and
+                  
+                  
+                     (D)
+                     the intended use of proceeds of the offering.
+                  
+               
+            
+            
+               (c)
+               Rule of construction
+               Subsection (b) may only be construed as requiring the Securities and Exchange Commission to amend the requirements of Regulation D with respect to presentations and communications, and not with respect to purchases or sales.
+            
+            
+               (d)
+               No pre-existing substantive relationship by reason of event
+               Attendance at an event described under subsection (b) shall not qualify, by itself, as establishing a pre-existing substantive relationship between an issuer and a purchaser, for purposes of Rule 506(b).
+            
+         
+      
+      
+         E
+         Improving Disclosure for Investors
+         
+            5001.
+            SHORT TITLE
+            This division may be cited as the 
+                  Improving Disclosure for Investors Act of 2024
+               .
+         
+         
+            5002.
+            ELECTRONIC DELIVERY
+            
+               (a)
+               Promulgation of rules
+               Not later than 180 days after the date of the enactment of this section, the Securities and Exchange Commission shall propose and, not later than 1 year after the date of the enactment of this section, the Commission shall finalize, rules, regulations, amendments, or interpretations, as appropriate, to allow a covered entity to satisfy the entity’s obligation to deliver regulatory documents required under the securities laws to investors using electronic delivery.
+            
+            
+               (b)
+               Required provisions
+               Rules, regulations, amendments, or interpretations the Commission promulgates pursuant to subsection (a) shall:
+               
+                  (1)
+                  With respect to investors that do not receive all regulatory documents by electronic delivery, provide for—
+                  
+                     (A)
+                     delivery of an initial communication in paper form regarding electronic delivery;
+                  
+                  
+                     (B)
+                     a transition period not to exceed 180 days until such regulatory documents are delivered to such investors by electronic delivery; and
+                  
+                  
+                     (C)
+                     during a period not to exceed 2 years following the transition period set forth in subparagraph (B), delivery of an annual notice in paper form solely reminding such investors of the ability to opt out of electronic delivery at any time and receive paper versions of regulatory documents.
+                  
+               
+               
+                  (2)
+                  Set forth requirements for the content of the initial communication described in paragraph (1)(A).
+               
+               
+                  (3)
+                  Set forth requirements for the timing of delivery of a notice of website availability of regulatory documents and the content of the appropriate notice described in subsection (h)(3)(B).
+               
+               
+                  (4)
+                  Provide a mechanism for investors to opt out of electronic delivery at any time and receive paper versions of regulatory documents.
+               
+               
+                  (5)
+                  Require measures reasonably designed to identify and remediate failed electronic deliveries of regulatory documents.
+               
+               
+                  (6)
+                  Set forth minimum requirements regarding readability and retainability for regulatory documents that are delivered electronically.
+               
+               
+                  (7)
+                  For covered entities other than brokers, dealers, investment advisers registered with the Commission, and investment companies, require measures reasonably designed to ensure the confidentiality of personal information in regulatory documents that are delivered to investors electronically.
+               
+            
+            
+               (c)
+               Rule of construction
+               Nothing in this section shall be construed as altering the substance or timing of any regulatory document obligation under the securities laws or regulations of a self-regulatory organization.
+            
+            
+               (d)
+               Treatment of revisions not completed in a timely manner
+               If the Commission fails to finalize the rules, regulations, amendments, or interpretations required under subsection (a) before the date specified in such subsection—
+               
+                  (1)
+                  a covered entity may deliver regulatory documents using electronic delivery in accordance with subsections (b) and (c); and
+               
+               
+                  (2)
+                  such electronic delivery shall be deemed to satisfy the obligation of the covered entity to deliver regulatory documents required under the securities laws.
+               
+            
+            
+               (e)
+               Other required actions
+               
+                  (1)
+                  Review of rules
+                  The Commission shall—
+                  
+                     (A)
+                     within 180 days of the date of enactment of this Act, conduct a review of the rules and regulations of the Commission to determine whether any such rules or regulations require delivery of written documents to investors; and
+                  
+                  
+                     (B)
+                     within 1 year of the date of enactment of this Act, promulgate amendments to such rules or regulations to provide that any requirement to deliver a regulatory document in writing may be satisfied by electronic delivery.
+                  
+               
+               
+                  (2)
+                  Actions by self-regulatory organizations
+                  Each self-regulatory organization shall adopt rules and regulations, or amend the rules and regulations of the self-regulatory organization, consistent with this Act and consistent with rules, regulations, amendments, or interpretations finalized by the Commission pursuant to subsection (a).
+               
+               
+                  (3)
+                  Rule of application
+                  This subsection shall not apply to a rule or regulation issued pursuant to a Federal statute if that Federal statute specifically requires delivery of written documents to investors.
+               
+            
+            
+               (f)
+               Definitions
+               In this section:
+               
+                  (1)
+                  Commission
+                  The term Commission means the Securities and Exchange Commission.
+               
+               
+                  (2)
+                  Covered entity
+                  The term covered entity means—
+                  
+                     (A)
+                     an investment company (as defined in section 3(a)(1) of the Investment Company Act of 1940 (15 U.S.C. 80a–3(a)(1))) that is registered under such Act;
+                  
+                  
+                     (B)
+                     a business development company (as defined in section 2(a) the Investment Company Act of 1940 (15 U.S.C. 80a–2(a))) that has elected to be regulated as such under such Act;
+                  
+                  
+                     (C)
+                     a registered broker or dealer (as defined in section 3(a)(4) and section 3(a)(5) of the Securities Exchange Act of 1934) (15 U.S.C. 78c(a)(4) &amp;amp; 78c(a)(5));
+                  
+                  
+                     (D)
+                     a registered municipal securities dealer (as defined in section 3(a)(30) of the Securities Exchange Act of 1934) (15 U.S.C. 78c(a)(30));
+                  
+                  
+                     (E)
+                     a registered government securities broker or government securities dealer (as defined in section 3(a)(43) and section 3(a)(44) of the Securities Exchange Act of 1934) (15 U.S.C. 78c(a)(43) &amp;amp; 78c(a)(44));
+                  
+                  
+                     (F)
+                     a registered investment adviser (as defined in section 202(a)(11) of the Investment Advisers Act of 1940) (15 U.S.C. 80b–1(a)(11));
+                  
+                  
+                     (G)
+                     a registered transfer agent (as defined in section 3(a)(25) of the Securities Exchange Act of 1934) (15 U.S.C. 78c(a)(25)); or
+                  
+                  
+                     (H)
+                     a registered funding portal (as defined in the second paragraph (80) of section 3(a) of the Securities Exchange Act of 1934) (15 U.S.C. 78c(a)(80)).
+                  
+               
+               
+                  (3)
+                  Electronic delivery
+                  The term electronic delivery, with respect to regulatory documents, includes—
+                  
+                     (A)
+                     the direct delivery of such regulatory document to an electronic address of an investor;
+                  
+                  
+                     (B)
+                     the posting of such regulatory document to a website and direct electronic delivery of an appropriate notice of the availability of the regulatory document to the investor; and
+                  
+                  
+                     (C)
+                     an electronic method reasonably designed to ensure receipt of such regulatory document by the investor.
+                  
+               
+               
+                  (4)
+                  Regulatory documents
+                  The term regulatory documents includes—
+                  
+                     (A)
+                     prospectuses meeting the requirements of section 10(a) of the Securities Act of 1933 (15 U.S.C. 77j(a));
+                  
+                  
+                     (B)
+                     summary prospectuses meeting the requirements of—
+                     
+                        (i)
+                        section 230.498 of title 17, Code of Federal Regulations; or
+                     
+                     
+                        (ii)
+                        section 230.498A of title 17, Code of Federal Regulations;
+                     
+                  
+                  
+                     (C)
+                     statements of additional information, as described under section 270.30e–3(h)(3) of title 17, Code of Federal Regulations;
+                  
+                  
+                     (D)
+                     annual and semi-annual reports to investors meeting the requirements of section 30(e) of the Investment Company Act of 1940 (15 U.S.C. 80a–29(e));
+                  
+                  
+                     (E)
+                     notices meeting the requirements under section 270.19a–1 of title 17, Code of Federal Regulations;
+                  
+                  
+                     (F)
+                     confirmations and account statements meeting the requirements under section 240.10b–10 of title 17, Code of Federal Regulations;
+                  
+                  
+                     (G)
+                     proxy statements meeting the requirements under section 240.14a–3 of title 17, Code of Federal Regulations;
+                  
+                  
+                     (H)
+                     privacy notices meeting the requirements of Regulation S–P under subpart A of part 248 of title 17, Code of Federal Regulations;
+                  
+                  
+                     (I)
+                     affiliate marketing notices meeting the requirements of Regulation S–AM under subpart B of part 248 of title 17, Code of Federal Regulations; and
+                  
+                  
+                     (J)
+                     all other regulatory documents required to be delivered by covered entities to investors under the securities laws and the rules and regulations of the Commission and the self-regulatory organizations.
+                  
+               
+               
+                  (5)
+                  Securities laws
+                  The term securities laws has the meaning given the term in section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)).
+               
+               
+                  (6)
+                  Self-regulatory organization
+                  The term self-regulatory organization means—
+                  
+                     (A)
+                     a self-regulatory organization, as defined in section 2(a)(26) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(26)); and
+                  
+                  
+                     (B)
+                     the Municipal Securities Rulemaking Board.
+                  
+               
+               
+                  (7)
+                  Website
+                  The term website means an internet website or other digital, internet, or electronic-based information repository, such as a mobile application, to which an investor of a covered entity has been provided reasonable access.
+               
+            
+         
+      
+      
+         F
+         Enhancement of 403(b) plans
+         
+            6101.
+            SHORT TITLE
+            This division may be cited as the 
+                  Retirement Fairness for Charities and Educational Institutions Act of 2024
+               .
+         
+         
+            6102.
+            ENHANCEMENT OF 403(b) PLANS
+            
+               (a)
+               Amendments to the Investment Company Act of 1940
+               Section 3(c)(11) of the Investment Company Act of 1940 (15 U.S.C. 80a–3(c)(11)) is amended to read as follows:
+               
+                  
+                     (11)
+                     Any—
+                     
+                        (A)
+                        employee’s stock bonus, pension, or profit-sharing trust which meets the requirements for qualification under section 401 of the Internal Revenue Code of 1986;
+                     
+                     
+                        (B)
+                        custodial account meeting the requirements of section 403(b)(7) of such Code;
+                     
+                     
+                        (C)
+                        governmental plan described in section 3(a)(2)(C) of the Securities Act of 1933;
+                     
+                     
+                        (D)
+                        collective trust fund maintained by a bank consisting solely of assets of one or more—
+                        
+                           (i)
+                           trusts described in subparagraph (A); 
+                        
+                        
+                           (ii)
+                           government plans described in subparagraph (C); 
+                        
+                        
+                           (iii)
+                           church plans, companies, or accounts that are excluded from the definition of an investment company under paragraph (14) of this subsection; or
+                        
+                        
+                           (iv)
+                           plans which meet the requirements of section 403(b) of the Internal Revenue Code of 1986—
+                           
+                              (I)
+                              if—
+                              
+                                 (aa)
+                                 such plan is subject to title I of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1001 et seq.); 
+                              
+                              
+                                 (bb)
+                                 any employer making such plan available agrees to serve as a fiduciary for the plan with respect to the selection of the plan’s investments among which participants can choose; or 
+                              
+                              
+                                 (cc)
+                                 such plan is a governmental plan (as defined in section 414(d) of such Code); and
+                              
+                           
+                           
+                              (II)
+                              if the employer, a fiduciary of the plan, or another person acting on behalf of the employer reviews and approves each investment alternative offered under such plan described under subclause (I)(cc) prior to the investment being offered to participants in the plan; or
+                           
+                        
+                     
+                     
+                        (E)
+                        separate account the assets of which are derived solely from—
+                        
+                           (i)
+                           contributions under pension or profit-sharing plans which meet the requirements of section 401 of the Internal Revenue Code of 1986 or the requirements for deduction of the employer’s contribution under section 404(a)(2) of such Code;
+                        
+                        
+                           (ii)
+                           contributions under governmental plans in connection with which interests, participations, or securities are exempted from the registration provisions of section 5 of the Securities Act of 1933 by section 3(a)(2)(C) of such Act;
+                        
+                        
+                           (iii)
+                           advances made by an insurance company in connection with the operation of such separate account; and
+                        
+                        
+                           (iv)
+                           contributions to a plan described in clause (iii) or (iv) of subparagraph (D).
+                        
+                     
+                  
+                  .
+               
+            
+            
+               (b)
+               Amendments to the Securities Act of 1933
+               Section 3(a)(2) of the Securities Act of 1933 (15 U.S.C. 77c(a)(2)) is amended—
+               
+                  (1)
+                  by striking beneficiaries, or (D) and inserting beneficiaries, (D) a plan which meets the requirements of section 403(b) of such Code (i) if (I) such plan is subject to title I of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1001 et seq.), (II) any employer making such plan available agrees to serve as a fiduciary for the plan with respect to the selection of the plan’s investments among which participants can choose, or (III) such plan is a governmental plan (as defined in section 414(d) of such Code), and (ii) if the employer, a fiduciary of the plan, or another person acting on behalf of the employer reviews and approves each investment alternative offered under any plan described under clause (i)(III) prior to the investment being offered to participants in the plan, or (E);
+               
+               
+                  (2)
+                  by striking (C), or (D) and inserting (C), (D), or (E); and
+               
+               
+                  (3)
+                  by striking (iii) which is a plan funded and all that follows through retirement income account). and inserting (iii) in the case of a plan not described in subparagraph (D) or (E), which is a plan funded by an annuity contract described in section 403(b) of such Code.
+               
+            
+            
+               (c)
+               Amendments to the Securities Exchange Act of 1934
+               Section 3(a)(12)(C) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(12)(C)) is amended—
+               
+                  (1)
+                  by striking or (iv) and inserting (iv) a plan which meets the requirements of section 403(b) of such Code (I) if (aa) such plan is subject to title I of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1001 et seq.), (bb) any employer making such plan available agrees to serve as a fiduciary for the plan with respect to the selection of the plan’s investments among which participants can choose, or (cc) such plan is a governmental plan (as defined in section 414(d) of such Code), and (II) if the employer, a fiduciary of the plan, or another person acting on behalf of the employer reviews and approves each investment alternative offered under any plan described under subclause (I)(cc) prior to the investment being offered to participants in the plan, or (v);
+               
+               
+                  (2)
+                  by striking (ii), or (iii) and inserting (ii), (iii), or (iv); and
+               
+               
+                  (3)
+                  by striking (II) is a plan funded and inserting (II) in the case of a plan not described in clause (iv), is a plan funded.
+               
+            
+            
+               (d)
+               Conforming Amendment to the Securities Exchange Act of 1934
+               Section 12(g)(2)(H) of the Securities Exchange Act of 1934 (15 U.S.C. 78l(g)(2)(H)) is amended by striking or (iii) and inserting (iii) a plan described in section 3(a)(12)(C)(iv) of this Act, or (iv).
+            
+         
+      
+      
+         G
+         Increasing Investor Opportunities
+         
+            7001.
+            CLOSED-END COMPANY AUTHORITY TO INVEST IN PRIVATE FUNDS
+            
+               (a)
+               In general
+               Section 5 of the Investment Company Act of 1940 (15 U.S.C. 80a–5) is amended by adding at the end the following:
+               
+                  
+                     (d)
+                     Closed-End company authority to invest in private funds
+                     
+                        (1)
+                        In general
+                        Except as otherwise prohibited or restricted by this Act (or any rule issued under this Act), the Commission may not prohibit or otherwise limit a closed-end company from investing any or all of the assets of the closed-end company in securities issued by private funds.
+                     
+                     
+                        (2)
+                        Other restrictions on Commission authority
+                        
+                           (A)
+                           In general
+                           Except as otherwise prohibited or restricted by this Act (or any rule issued under this Act) or to the extent permitted by subparagraph (B), the Commission may not impose any condition on, restrict, or otherwise limit—
+                           
+                              (i)
+                              the offer to sell, or the sale of, securities issued by a closed-end company that invests, or proposes to invest, in securities issued by private funds; or
+                           
+                           
+                              (ii)
+                              the listing of the securities of a closed-end company described in clause (i) on a national securities exchange.
+                           
+                        
+                        
+                           (B)
+                           Unrelated restrictions
+                           The Commission may impose a condition on, restrict, or otherwise limit an activity described in clause (i) or (ii) of subparagraph (A) if that condition, restriction or limitation is unrelated to the underlying characteristics of a private fund or the status of a private fund as a private fund.
+                        
+                     
+                     
+                        (3)
+                        Application
+                        Notwithstanding section 6(f), this subsection shall also apply to a closed-end company that elects to be treated as a business development company pursuant to section 54.
+                     
+                  
+                  .
+               
+            
+            
+               (b)
+               Definition of private fund
+               Section 2(a) of the Investment Company Act of 1940 (15 U.S.C. 80a–2(a)) is amended by adding at the end the following:
+               
+                  
+                     (55)
+                     The term private fund has the meaning given in section 202(a) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2(a)).
+                  
+                  .
+               
+            
+            
+               (c)
+               Treatment by national securities exchanges
+               Section 6 of the Securities Exchange Act of 1934 (15 U.S.C. 78f) is amended by adding at the end the following:
+               
+                  
+                     (m)
+                     
+                        (1)
+                        Except as otherwise prohibited or restricted by rules of the exchange that are consistent with section 5(d) of the Investment Company Act of 1940 (15 U.S.C. 80a–5(d)), an exchange may not prohibit, condition, restrict, or impose any other limitation on the listing or trading of the securities of a closed-end company when the closed-end company invests, or may invest, some or all of the assets of the closed-end company in securities issued by private funds.
+                     
+                     
+                        (2)
+                        In this subsection—
+                        
+                           (A)
+                           the term closed-end company—
+                           
+                              (i)
+                              has the meaning given the term in section 5(a) of the Investment Company Act of 1940 (15 U.S.C. 80a–5(a)); and
+                           
+                           
+                              (ii)
+                              includes a closed-end company that elects to be treated as a business development company pursuant to section 54 of the Investment Company Act of 1940 (15 U.S.C. 80a–53); and
+                           
+                        
+                        
+                           (B)
+                           the term private fund has the meaning given the term in section 2(a) of the Investment Company Act of 1940 (15 U.S.C. 80a–2(a))).
+                        
+                     
+                  
+                  .
+               
+            
+            
+               (d)
+               Investment limitation
+               Section 3(c) of the Investment Company Act of 1940 (15 U.S.C. 80a–3(c)) is amended—
+               
+                  (1)
+                  in paragraph (1), in the matter preceding subparagraph (A), in the second sentence, by striking subparagraphs (A)(i) and (B)(i) and inserting subparagraphs (A)(i), (B)(i), and (C); and
+               
+               
+                  (2)
+                  in paragraph (7)(D), by striking subparagraphs (A)(i) and (B)(i) and inserting subparagraphs (A)(i), (B)(i), and (C).
+               
+            
+            
+               (e)
+               Rules of construction
+               
+                  (1)
+                  Nothing in this section or the amendments made by this section may be construed to limit or amend any fiduciary duty owed to a closed-end company (as defined in section 5(a)(2) of the Investment Company Act of 1940 (15 U.S.C. 80a-5(a)(2))) or by an investment adviser (as defined under section 2(a) of the Investment Company Act of 1940 (15 U.S.C. 80a–2(a))) to a closed-end company.
+               
+               
+                  (2)
+                  Nothing in this section or the amendments made by this section may be construed to limit or amend the valuation, liquidity, or redemption requirements or obligations of a closed-end company (as defined in section 5(a)(2) of the Investment Company Act of 1940 (15 U.S.C. 80a-5(a)(2))) as required by the Investment Company Act of 1940.
+               
+            
+         
+      
+   
+   
+      
+         Passed the House of Representatives March 8, 2024.
+         KEVIN F. MCCUMBER,
+         Clerk.
+      
+   

@@ -1,0 +1,197 @@
+
+<!DOCTYPE publaw
+  SYSTEM "cq-dscs-exchange-publaw.dtd">
+<publaw bill-num="hr5863"
+         congress="118"
+         corrected-print="no"
+         document-type="enr"
+         pl-num="118-148"
+         public-private="public"
+         session="2"
+         stat-page="1675"
+         stat-vol="138"
+         version-date="20241212">
+   
+      
+         Federal Disaster Tax Relief Act of 2023
+      
+   
+   
+      Public Law 118-148
+      138 STAT. 1675
+      118th Congress
+      December 12, 2024
+      [H. R. 5863]
+      AN ACT
+      To provide tax relief with respect to certain Federal disasters.
+   
+   
+      Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+      <section display-inline="no-display-inline"
+                id="H60EB658EB8504EBBAC52256CF4807BC6"
+                qb-display-quote="yes"
+                section-type="section-one">
+         1.
+         SHORT TITLE
+         This Act may be cited as the <quote quote-display-end="auto"
+                    quote-display-start="auto"
+                    quote-type="text">
+               Federal Disaster Tax Relief Act of 2023
+            . 
+      
+      <section display-inline="no-display-inline"
+                id="H29BF34F6171747D3BDA671B986064056"
+                qb-display-quote="yes"
+                section-type="subsequent-section">
+         2.
+         EXTENSION OF RULES FOR TREATMENT OF CERTAIN DISASTER-RELATED PERSONAL CASUALTY LOSSES
+         For purposes of applying section 304(b) of the Taxpayer Certainty and Disaster Tax Relief Act of 2020, section 301 of such Act shall be applied by substituting <quote quote-display-end="auto"
+                    quote-display-start="auto"
+                    quote-type="text">the Federal Disaster Tax Relief Act of 2023 for <quote quote-display-end="auto"
+                    quote-display-start="auto"
+                    quote-type="text">this Act each place it appears. 
+      
+      <section display-inline="no-display-inline"
+                id="H65BF7DD0CD4648989E458C796353FFAA"
+                qb-display-quote="yes"
+                section-type="subsequent-section">
+         3.
+         EXCLUSION FROM GROSS INCOME FOR COMPENSATION FOR LOSSES OR DAMAGES RESULTING FROM CERTAIN WILDFIRES
+         <subsection display-inline="no-display-inline"
+                      id="H930C14A23FC14BCBB2ECE7B10C57341B"
+                      qb-display-quote="yes">
+            (a)
+            In general
+            For purposes of the Internal Revenue Code of 1986, gross income shall not include any amount received by an individual as a qualified wildfire relief payment.
+         
+         <subsection display-inline="no-display-inline"
+                      id="H68935AC21BA4433F93B2C9DBB642F067"
+                      qb-display-quote="yes">
+            (b)
+            Qualified wildfire relief payment
+            For purposes of this section—
+            <paragraph display-inline="no-display-inline"
+                        id="HA2A56CDE6000410588E070477F6541F5"
+                        qb-display-quote="yes">
+               (1)
+               In general
+               The term <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">qualified wildfire relief payment means any amount received by or on behalf of an individual as compensation for losses, expenses, or damages (including compensation for additional living expenses, lost wages (other than compensation for lost wages paid by the employer which would have otherwise paid such wages), personal injury, death, or emotional distress) incurred as a result of a qualified wildfire disaster, but only to the extent the losses, expenses, or damages compensated by such payment are not compensated for by insurance or otherwise.
+            
+            <paragraph display-inline="no-display-inline"
+                        id="H130DA3CA994E47B0B24AEB791DF83E0D"
+                        qb-display-quote="yes">
+               (2)
+               Qualified wildfire disaster
+               The term <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">qualified wildfire disaster means any federally declared disaster (as defined in section 165(i)(5)(A) of the Internal Revenue Code of 1986) declared, after December 31, 2014, as a result of any forest or range fire.
+            
+         
+         <subsection display-inline="no-display-inline"
+                      id="H639BFFE65A9E442E9D71AE0FDA95EE6C"
+                      qb-display-quote="yes">
+            (c)
+            Denial of double benefit
+            Notwithstanding any other provision of the Internal Revenue Code of 1986—
+            <paragraph display-inline="no-display-inline"
+                        id="HEE6F2F9E75BA4867A027E114FA4D3BC7"
+                        qb-display-quote="yes">
+               (1)
+               no deduction or credit shall be allowed (to the person for whose benefit a qualified wildfire relief payment is made) for, or by reason of, any expenditure to the extent of the amount excluded under this section with respect to such expenditure, and
+            
+            <paragraph display-inline="no-display-inline"
+                        id="HB63376CC64D643578E7F35FA59791FE9"
+                        qb-display-quote="yes">
+               (2)
+               no increase in the basis or adjusted basis of any property shall result from any amount excluded under this subsection with respect to such property.
+            
+         
+         <subsection display-inline="no-display-inline"
+                      id="H162130224C6E463B9EEFDE8D5B165EF0"
+                      qb-display-quote="yes">
+            (d)
+            Limitation on application
+            This section shall only apply to qualified wildfire relief payments received by the individual during taxable years beginning after December 31, 2019, and before January 1, 2026.
+         
+         <subsection display-inline="no-display-inline"
+                      id="H872D720C300B46359B6BAC8A539B65F7"
+                      qb-display-quote="yes">
+            (e)
+            Extension of period of limitation
+            In the case of a claim for credit or refund which is properly allocable to the exclusion which is described in subsection (a)—
+            <paragraph display-inline="no-display-inline"
+                        id="HF6B0DCDA500B45019DA7A04BD232048B"
+                        qb-display-quote="yes">
+               (1)
+               the period of limitation prescribed in section 6511(a) of the Internal Revenue Code of 1986 for the filing of such claim shall be treated as not expiring earlier than the date that is 1 year after the date of the enactment of this Act, and
+            
+            <paragraph display-inline="no-display-inline"
+                        id="H05AE72119FA74F75810FB6F61A87ED0D"
+                        qb-display-quote="yes">
+               (2)
+               any limitation described in section 6511(b)(2) of such Code shall not apply.
+            
+         
+      
+      <section display-inline="no-display-inline"
+                id="H2F35BD210CEC453ABB92F51A5D09C4C9"
+                qb-display-quote="yes"
+                section-type="subsequent-section">
+         4.
+         EAST PALESTINE DISASTER RELIEF PAYMENTS
+         <subsection display-inline="no-display-inline"
+                      id="HFD96860B84ED44E7B176FDFA3CE87A09"
+                      qb-display-quote="yes">
+            (a)
+            Disaster relief payments to victims of East Palestine train derailment
+            East Palestine train derailment payments shall be treated as qualified disaster relief payments for purposes of section 139(b) of the Internal Revenue Code of 1986.
+         
+         <subsection display-inline="no-display-inline"
+                      id="HAE4F7CE5B51C416B8BDB1108219D6A17"
+                      qb-display-quote="yes">
+            (b)
+            East Palestine train derailment payments
+            For purposes of this section, the term <quote quote-display-end="auto"
+                       quote-display-start="auto"
+                       quote-type="text">East Palestine train derailment payment means any amount received by or on behalf of an individual as compensation for loss, damages, expenses, loss in real property value, closing costs with respect to real property (including realtor commissions), or inconvenience (including access to real property) resulting from the East Palestine train derailment if such amount was provided by—
+            <paragraph display-inline="no-display-inline"
+                        id="H02A888803D1445EAABC953A467DE1CBF"
+                        qb-display-quote="yes">
+               (1)
+               a Federal, State, or local government agency,
+            
+            <paragraph display-inline="no-display-inline"
+                        id="HB14A4970638B41998218B7C5674D8782"
+                        qb-display-quote="yes">
+               (2)
+               Norfolk Southern Railway, or
+            
+            <paragraph display-inline="no-display-inline"
+                        id="HE12467B8982640AE83232EF204190ABD"
+                        qb-display-quote="yes">
+               (3)
+               any subsidiary, insurer, or agent of Norfolk Southern Railway or any related person.
+            
+         
+         <subsection display-inline="no-display-inline"
+                      id="H016A8DFC383D4AFE95212DDD51C970B1"
+                      qb-display-quote="yes">
+            (c)
+            Train derailment
+            For purposes of this section, the term <quote quote-display-end="auto"
+                       quote-display-start="auto"
+                       quote-type="text">East Palestine train derailment means the derailment of a train in East Palestine, Ohio, on February 3, 2023.
+         
+         <subsection display-inline="no-display-inline"
+                      id="H64B7BFB2DECE44179FB6D98CD406A167"
+                      qb-display-quote="yes">
+            (d)
+            Effective date
+            This section shall apply to amounts received on or after February 3, 2023.
+         
+      
+   
+   Approved December 12, 2024.
+

@@ -1,0 +1,366 @@
+
+<!DOCTYPE bill
+  SYSTEM "blp-dscs-billres.dtd">
+
+   
+      
+         Stop Harboring Iranian Petroleum Act SHIP Act
+      
+   
+   
+      II
+      Calendar No. 240
+      118th CONGRESS
+      1st Session
+      H. R. 3774
+      IN THE SENATE OF THE UNITED STATES
+      
+         November 6, 2023
+         Received; read the first time
+      
+      
+         November 7, 2023
+         Read the second time and placed on the calendar
+      
+      AN ACT
+      To impose additional sanctions with respect to the importation or facilitation of the importation of petroleum products from Iran, and for other purposes.
+   
+   
+      Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+      
+         1.
+         SHORT TITLE
+         This Act may be cited as the 
+               Stop Harboring Iranian Petroleum Act
+             or the 
+               SHIP Act
+            .
+      
+      
+         2.
+         STATEMENT OF POLICY
+         It is the policy of the United States—
+         
+            (1)
+            to deny Iran the ability, by limiting Iran’s export of petroleum and petroleum products, to—
+            
+               (A)
+               engage in destabilizing activities;
+            
+            
+               (B)
+               support international terrorism; or
+            
+            
+               (C)
+               fund the development and acquisition of weapons of mass destruction and weapons delivery systems;
+            
+         
+         
+            (2)
+            to deny Iran funds to oppress and commit human rights violations against the Iranian people assembling to peacefully redress the Iranian regime;
+         
+         
+            (3)
+            to fully enforce sanctions against those entities which provide support to the Iranian energy sector; and
+         
+         
+            (4)
+            to counter Iran’s actions to finance and facilitate the participation of foreign terrorist organizations in ongoing conflicts and illicit activities due to the threat such actions pose to the vital national interests of the United States.
+         
+      
+      
+         3.
+         IMPOSITION OF SANCTIONS WITH RESPECT TO IRANIAN PETROLEUM
+         
+            (a)
+            In general
+            On and after the date that is 90 days after the date of the enactment of this Act, and except as provided in subsection (e)(2), the President shall impose the sanctions described in subsection (c) with respect to each foreign person that the President determines, on or after such date of enactment, engages in an activity described in subsection (b).
+         
+         
+            (b)
+            Activities described
+            A foreign person engages in an activity described in this subsection if the foreign person—
+            
+               (1)
+               owns or operates a foreign port and has knowingly facilitated or accommodated at least 1 designated vessel in landing at such port on or after the date of enactment of this Act for the purpose of transporting Iranian crude oil;
+            
+            
+               (2)
+               knowingly transports, offloads, or otherwise engages in transactions involving petroleum or petroleum products, including petrochemicals, originating from Iran;
+            
+            
+               (3)
+               knowingly owns or operates a vessel used to conduct ship-to-ship transfers of petroleum or petroleum products, including petrochemicals, originating from Iran;
+            
+            
+               (4)
+               owns or operates a refinery that knowingly processes, refines, or otherwise engages in transactions involving petroleum or petroleum products, including petrochemicals, originating from Iran; 
+            
+            
+               (5)
+               is an adult family member of a foreign person described in any of paragraphs (1) through (4), unless the President determines there is clear and convincing evidence that such adult family member has disassociated themselves from the foreign person described in such paragraph and has not assisted such foreign person in concealing assets; or
+            
+            
+               (6)
+               is owned, as such term is defined by section 510.411 of title 31, Code of Federal Regulations, by a foreign person described in any of paragraphs (1) through (5) that has been designated for such conduct.
+            
+         
+         
+            (c)
+            Sanctions described
+            The sanctions described in this subsection with respect to a foreign person described in subsection (a) are the following:
+            
+               (1)
+               Blocking of property
+               The President shall exercise all of the powers granted to the President under the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to the extent necessary to block and prohibit all transactions in property and interests in property of the foreign person if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
+            
+            
+               (2)
+               Ineligibility for visas, admission, or parole
+               
+                  (A)
+                  Visas, admission, or parole
+                  An alien described in subsection (a) is—
+                  
+                     (i)
+                     inadmissible to the United States;
+                  
+                  
+                     (ii)
+                     ineligible to receive a visa or other documentation to enter the United States; and
+                  
+                  
+                     (iii)
+                     otherwise ineligible to be admitted or paroled into the United States or to receive any other benefit under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.).
+                  
+               
+               
+                  (B)
+                  Current visas revoked
+                  
+                     (i)
+                     In general
+                     An alien described in subsection (a) is subject to revocation of any visa or other entry documentation regardless of when the visa or other entry documentation is or was issued.
+                  
+                  
+                     (ii)
+                     Immediate effect
+                     A revocation under clause (i) shall take effect immediately and automatically cancel any other valid visa or entry documentation that is in the alien’s possession.
+                  
+               
+               
+                  (C)
+                  Exceptions
+                  Sanctions under this paragraph shall not apply with respect to an alien if admitting or paroling the alien into the United States is necessary—
+                  
+                     (i)
+                     to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, between the United Nations and the United States, or other applicable international obligations; or
+                  
+                  
+                     (ii)
+                     to carry out or assist law enforcement activity in the United States.
+                  
+               
+            
+            
+               (3)
+               Penalties
+               The penalties provided for in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) shall apply to a person that violates, attempts to violate, conspires to violate, or causes a violation of this section or any regulations promulgated to carry out this section to the same extent that such penalties apply to a person that commits an unlawful act described in section 206(a) of that Act.
+            
+         
+         
+            (d)
+            Rule of construction
+            For purposes of determinations under subsection (a) that a foreign person engaged in activities described in subsection (b), a foreign person shall not be determined to know that petroleum or petroleum products originated from Iran if such person relied on a certificate of origin or other documentation confirming that the origin of the petroleum or petroleum products was a country other than Iran, unless such person knew or had reason to know that such documentation was falsified.
+         
+         
+            (e)
+            Implementation; regulations
+            
+               (1)
+               In general
+               The President may exercise all authorities under sections 203 and 205 of the International Emergency Economic Powers Act (50 U.S.C. 1702 and 1704) for purposes of carrying out this section.
+            
+            
+               (2)
+               Deadline for regulations
+               Not later than 180 days after the date of the enactment of this Act, the President shall prescribe such regulations as may be necessary for the implementation of this Act.
+            
+            
+               (3)
+               Notification to congress
+               Not later than 10 days before the prescription of regulations under paragraph (2), the President shall brief and provide written notification to the appropriate congressional committees regarding—
+               
+                  (A)
+                  the proposed regulations; and
+               
+               
+                  (B)
+                  the specific provisions of this Act that the regulations are implementing.
+               
+            
+         
+         
+            (f)
+            Waiver
+            
+               (1)
+               In general
+               The President may, on a case-by-case basis and for periods not to exceed 180 days each, waive the application of sanctions imposed with respect to a foreign person under this section if the President certifies to the appropriate congressional committees, not later than 15 days before such waiver is to take effect, that the waiver is vital to the national interests of the United States.
+            
+            
+               (2)
+               Special rule
+               The President shall not be required to impose sanctions under this section with respect to a foreign person described in subsection (a) if the President certifies in writing to the appropriate congressional committees that the foreign person—
+               
+                  (A)
+                  is no longer engaging in activities described in subsection (b); or
+               
+               
+                  (B)
+                  has taken and is continuing to take significant, verifiable steps toward permanently terminating such activities.
+               
+            
+         
+         
+            (f)
+            Termination
+            The authorities provided by this section shall cease to have effect on and after the date that is 30 days after the date on which the President certifies to the appropriate congressional committees that—
+            
+               (1)
+               the Government of Iran no longer repeatedly provides support for international terrorism as determined by the Secretary of State pursuant to—
+               
+                  (A)
+                  section 1754(c)(1)(A) of the Export Control Reform Act of 2018 (50 U.S.C. 4318(c)(1)(A));
+               
+               
+                  (B)
+                  section 620A of the Foreign Assistance Act of 1961 (22 U.S.C. 2371);
+               
+               
+                  (C)
+                  section 40 of the Arms Export Control Act (22 U.S.C. 2780); or
+               
+               
+                  (D)
+                  any other provision of law; and
+               
+            
+            
+               (2)
+               Iran has ceased the pursuit, acquisition, and development of, and verifiably dismantled, its nuclear, biological, and chemical weapons, ballistic missiles, and ballistic missile launch technology.
+            
+         
+      
+      
+         4.
+         REPORT ON IRANIAN PETROLEUM AND PETROLEUM PRODUCTS EXPORTS
+         
+            (a)
+            In general
+            Not later than 120 days after the date of enactment of this Act, and annually thereafter until the date described in subsection (d), the Administrator of the Energy Information Administration shall submit to the appropriate congressional committees a report describing Iran’s growing exports of petroleum and petroleum products, that includes the following:
+            
+               (1)
+               An analysis of Iran’s exports and sale of petroleum and petroleum products, including—
+               
+                  (A)
+                  an estimate of Iran’s petroleum export and sale revenue per year since 2018;
+               
+               
+                  (B)
+                  an estimate of Iran’s petroleum export and sale revenue to China per year since 2018;
+               
+               
+                  (C)
+                  the amount of petroleum and crude oil barrels exported per year since 2018;
+               
+               
+                  (D)
+                  the amount of petroleum and crude oil barrels exported to China per year since 2018;
+               
+               
+                  (E)
+                  the amount of petroleum and crude oil barrels exported to countries other than China per year since 2018;
+               
+               
+                  (F)
+                  the average price per petroleum and crude oil barrel exported per year since 2018; and
+               
+               
+                  (G)
+                  the average price per petroleum and crude oil barrel exported to China per year since 2018.
+               
+            
+            
+               (2)
+               An analysis of Iran’s labeling practices of exported petroleum and petroleum products.
+            
+            
+               (3)
+               A description of companies involved in the exporting and sale of Iranian petroleum and petroleum products.
+            
+            
+               (4)
+               A description of ships involved in the exporting and sale of Iranian petroleum and petroleum products.
+            
+            
+               (5)
+               A description of ports involved in the exporting and sale of Iranian petroleum and petroleum products.
+            
+         
+         
+            (b)
+            Form
+            The report required by subsection (a) shall be submitted in unclassified form but may include a classified annex.
+         
+         
+            (c)
+            Publication
+            The unclassified portion of the report required by subsection (a) shall be posted on a publicly available website of the Energy Information Administration.
+         
+         
+            (d)
+            Termination
+            The requirement to submit reports under this section shall be terminated on the date on which the President makes the certification described in section 3(f).
+         
+      
+      
+         5.
+         EXCEPTION RELATING TO IMPORTATION OF GOODS
+         
+            (a)
+            In general
+            The authorities and requirements to impose sanctions authorized under this Act shall not include the authority or requirement to impose sanctions on the importation of goods.
+         
+         
+            (b)
+            Good defined
+            In this section, the term good means any article, natural or man-made substance, material, supply or manufactured product, including inspection and test equipment, and excluding technical data.
+         
+      
+      
+         6.
+         APPROPRIATE CONGRESSIONAL COMMITTEES DEFINED
+         In this Act, the term appropriate congressional committees means—
+         
+            (1)
+            the Committee on Foreign Affairs, the Committee on the Judiciary, and the Committee on Financial Services of the House of Representatives; and
+         
+         
+            (2)
+            the Committee on Foreign Relations, the Committee on the Judiciary, and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+         
+      
+   
+   
+      
+         Passed the House of Representatives November 3, 2023.
+         KEVIN F. MCCUMBER,
+         Clerk.
+      
+   
+   
+      November 7, 2023
+      Read the second time and placed on the calendar
+   

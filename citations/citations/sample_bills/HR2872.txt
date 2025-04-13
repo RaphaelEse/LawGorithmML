@@ -1,0 +1,736 @@
+
+<!DOCTYPE publaw
+  SYSTEM "cq-dscs-exchange-publaw.dtd">
+<publaw bill-num="hr2872"
+         congress="118"
+         corrected-print="no"
+         document-type="pl"
+         pl-num="118-35"
+         public-private="public"
+         session="2"
+         stat-page="3"
+         stat-vol="138"
+         version-date="20240119">
+   
+      
+         Further Additional Continuing Appropriations and Other Extensions Act, 2024
+      
+   
+   
+      Public Law 118-35
+      138 STAT. 3
+      118th Congress
+      January 19, 2024
+      [H. R. 2872]
+      AN ACT
+      Making further continuing appropriations for the fiscal year ending September 30, 2024, and for other purposes.
+   
+   
+      Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+      
+         Further Additional Continuing Appropriations and Other Extensions Act, 2024.
+      
+      <section display-inline="no-display-inline"
+                id="H67A7C44722634256B8A701DA8F8F5342"
+                qb-display-quote="yes"
+                section-type="section-one">
+         1.
+         SHORT TITLE
+         This Act may be cited as the <quote quote-display-end="auto"
+                    quote-display-start="auto"
+                    quote-type="text">
+               Further Additional Continuing Appropriations and Other Extensions Act, 2024
+            .
+      
+      <section display-inline="no-display-inline"
+                id="H6633A8F4B0BD4554837A1606CB176ED3"
+                qb-display-quote="yes"
+                section-type="subsequent-section">
+         2.
+         TABLE OF CONTENTS
+         The table of contents of this Act is as follows: 
+         
+            Sec. 1. Short Title.
+            Sec. 2. Table of Contents.
+            Sec. 3. References.
+            Division A—Further Additional Continuing Appropriations Act, 2024
+            Division B—Other Matters
+            Title I—Health and Human Services
+            Title lI—Compacts
+            Title lII—Counter-UAS Authorities
+            Title IV—Budgetary Effects
+         
+      
+      <section display-inline="no-display-inline"
+                id="HCBE6E495B677439384DB2236AE482007"
+                qb-display-quote="yes"
+                section-type="subsequent-section">
+         3.
+         REFERENCES
+         Except as expressly provided otherwise, any reference to <quote quote-display-end="auto"
+                    quote-display-start="auto"
+                    quote-type="text">this Act contained in any division of this Act shall be treated as referring only to the provisions of that division.
+         
+            Further Additional Continuing Appropriations Act, 2024. Apportionment.
+         
+      
+      
+         A
+         FURTHER ADDITIONAL CONTINUING APPROPRIATIONS ACT, 2024
+         <section display-inline="no-display-inline"
+                   id="HDE122D0613104E12B32D4A37E18D85BF"
+                   qb-display-quote="yes"
+                   section-type="subsequent-section">
+            101.
+            The Continuing Appropriations Act, 2024 (division A of Public Law 118–15) is further amended—
+            <paragraph display-inline="no-display-inline"
+                        id="HC7E211F3A0694D7A923D977A62831405"
+                        qb-display-quote="yes">
+               (1)
+               by striking the date specified in section 106(3) and inserting <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">March 8, 2024;
+               
+                  137 Stat. 112.
+               
+            
+            <paragraph display-inline="no-display-inline"
+                        id="H155F03919A0C458CBFDEB76568BAF539"
+                        qb-display-quote="yes">
+               (2)
+               by striking the date specified in section 106(4) and inserting <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">March 1, 2024;
+               
+                  137 Stat. 112.
+               
+            
+            <paragraph display-inline="no-display-inline"
+                        id="HC2517BE1983B4B2D86EA6BCA44572E02"
+                        qb-display-quote="yes">
+               (3)
+               in section 123, by striking <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">94 days and inserting <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">129 days and by striking <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">94-day and inserting <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">129-day;
+               
+                  18 USC 3551 note.
+               
+            
+            <paragraph display-inline="no-display-inline"
+                        id="H53798D4703D94045BC67222F5983A299"
+                        qb-display-quote="yes">
+               (4)
+               in section 124, by striking <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">$663,070,000 and inserting <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">$2,199,260,000; and
+               
+                  137 Stat. 113.
+               
+            
+            <paragraph display-inline="no-display-inline"
+                        id="H775A0B6363494312B6514694C998A69E"
+                        qb-display-quote="yes">
+               (5)
+               by adding after section 146 the following new sections: 
+               
+                  137 Stat. 114.
+               
+               <quoted-block display-end-quotes="yes"
+                              display-inline="no-display-inline"
+                              display-quotes="yes"
+                              id="H76B1FB00358E43D4AB4161512AA94206"
+                              style="OLC">
+                  <section display-inline="no-display-inline"
+                            id="H3E660D72B87A4C2AB58152C029F64A17"
+                            qb-display-quote="yes"
+                            section-type="subsequent-section">
+                     147.
+                     <subsection display-inline="no-display-inline"
+                                  id="H94A96D58DCB24518982AEF40E3A44BF1"
+                                  qb-display-quote="yes">
+                        (a)
+                        Amounts made available by section 101 for <quote quote-display-end="auto"
+                                   quote-display-start="auto"
+                                   quote-type="text">Department of Energy—Atomic Energy Defense Activities—National Nuclear Security Administration—Weapons Activities may be apportioned up to the rate for operations necessary to 
+                              138 STAT. 4
+                            mitigate issuing WARN notices for <quote quote-display-end="auto"
+                                   quote-display-start="auto"
+                                   quote-type="text">06–D–141 Uranium Processing Facility, Y–12 in an amount not to exceed $760,000,000.
+                     
+                     <subsection display-inline="no-display-inline"
+                                  id="H3264EDC294C444229C1A6E54E6DBC272"
+                                  qb-display-quote="yes">
+                        (b)
+                        The Director of the Office of Management and Budget shall notify the Committees on Appropriations of the House of Representatives and the Senate not later than 3 days after each use of the authority provided in this section, and the Secretary of Energy shall provide a weekly report to the Committees specifying the obligations incurred for the purposes specified in subsection (a) with amounts made available in this Act. 
+                        
+                           Notification. Reports.
+                        
+                     
+                  
+                  <section display-inline="no-display-inline"
+                            id="H7C39286FE11548B88086045A1A0B655C"
+                            qb-display-quote="yes"
+                            section-type="subsequent-section">
+                      148.
+                     Amounts made available by section 101 for <quote quote-display-end="auto"
+                                quote-display-start="auto"
+                                quote-type="text">Department of Transportation—Federal Aviation Administration—Operations may be apportioned up to the rate for operations necessary to fund mandatory pay increases and other inflationary adjustments, to maintain and improve air traffic services, to hire and train air traffic controllers, and to continue aviation safety oversight, while avoiding service reductions.
+                  
+                  .
+               
+            
+         
+         <section display-inline="no-display-inline"
+                   id="HEFD47A520C7A470A8A5ADB6B94CF3362"
+                   qb-display-quote="yes"
+                   section-type="undesignated-section">
+            This division may be cited as the <quote quote-display-end="auto"
+                       quote-display-start="auto"
+                       quote-type="text">Further Additional Continuing Appropriations Act, 2024.
+         
+      
+      
+         B
+         Other Matters
+         <title id="HE1E0A8BBAF4F4A368D92D488DB3AFD5D"
+                 qb-display-quote="yes"
+                 style="OLC">
+            I
+            HEALTH AND HUMAN SERVICES
+            <subtitle id="HC9B464DEB5CA4FD8A9B127017185B437"
+                       qb-display-quote="yes"
+                       style="OLC">
+               A
+               Public Health Extenders
+               <section display-inline="no-display-inline"
+                         id="H690CE9DE4F534AB9B3D19D17A47667C7"
+                         qb-display-quote="yes"
+                         section-type="subsequent-section">
+                  101.
+                  EXTENSION FOR COMMUNITY HEALTH CENTERS, NATIONAL HEALTH SERVICE CORPS, AND TEACHING HEALTH CENTERS THAT OPERATE GME PROGRAMS
+                  
+                     Time periods.
+                  
+                  <subsection display-inline="no-display-inline"
+                               id="HF482F415512C4FC3987DBA60F09A5B43"
+                               qb-display-quote="yes">
+                     (a)
+                     Teaching health centers that operate graduate medical education programs
+                     Section 340H(g)(1) of the Public Health Service Act (42 U.S.C. 256h(g)) is amended by striking <quote quote-display-end="auto"
+                                quote-display-start="auto"
+                                quote-type="text">and $21,834,247 for the period beginning on November 18, 2023, and ending on January 19, 2024 and inserting <quote quote-display-end="auto"
+                                quote-display-start="auto"
+                                quote-type="text">$21,834,247 for the period beginning on November 18, 2023, and ending on January 19, 2024, and $16,982,192 for the period beginning on January 20, 2024, and ending on March 8, 2024.
+                  
+                  <subsection display-inline="no-display-inline"
+                               id="HECC874B611644ECAB286C69EA9245A6A"
+                               qb-display-quote="yes">
+                     (b)
+                     Extension for community health centers
+                     Section 10503(b)(1)(F) of the Patient Protection and Affordable Care Act (42 U.S.C. 254b–2(b)(1)(F)) is amended by striking <quote quote-display-end="auto"
+                                quote-display-start="auto"
+                                quote-type="text">and $690,410,959 for the period beginning on November 18, 2023, and ending on January 19, 2024 and inserting <quote quote-display-end="auto"
+                                quote-display-start="auto"
+                                quote-type="text">$690,410,959 for the period beginning on November 18, 2023, and ending on January 19, 2024, and $536,986,301 for the period beginning on January 20, 2024, and ending on March 8, 2024. 
+                  
+                  <subsection display-inline="no-display-inline"
+                               id="HDBA0BE607B0E4A1AAFBFED3DF2B10CE3"
+                               qb-display-quote="yes">
+                     (c)
+                     Extension for the National Health Service Corps
+                     Section 10503(b)(2)(I) of the Patient Protection and Affordable Care Act (42 U.S.C. 254b–2(b)(2)(I)) is amended by striking <quote quote-display-end="auto"
+                                quote-display-start="auto"
+                                quote-type="text">and $53,506,849 for the period beginning on November 18, 2023, and ending on January 19, 2024 and inserting <quote quote-display-end="auto"
+                                quote-display-start="auto"
+                                quote-type="text">$53,506,849 for the period beginning on November 18, 2023, and ending on January 19, 2024, and $41,616,438 for the period beginning on January 20, 2024, and ending on March 8, 2024.
+                  
+                  <subsection display-inline="no-display-inline"
+                               id="H5769D2C05A5246259A0F0995C2685461"
+                               qb-display-quote="yes">
+                     (d)
+                     Application of provisions
+                     
+                        Requirements.
+                     
+                     Amounts appropriated pursuant to the amendments made by this section shall be subject to 
+                           138 STAT. 5
+                         the requirements contained in Public Law 117–328 for funds for programs authorized under sections 330 through 340 of the Public Health Service Act (42 U.S.C. 254b et seq.).
+                  
+                  <subsection display-inline="no-display-inline"
+                               id="H1D42D956C2CC4B0EBFB7FB3123550700"
+                               qb-display-quote="yes">
+                     (e)
+                     Conforming amendment
+                     Section 3014(h)(4) of title 18, United States Code, is amended by striking <quote quote-display-end="auto"
+                                quote-display-start="auto"
+                                quote-type="text">and section 201(d) of the Further Continuing Appropriations and Other Extensions Act, 2024 and inserting <quote quote-display-end="auto"
+                                quote-display-start="auto"
+                                quote-type="text">section 201(d) of the Further Continuing Appropriations and Other Extensions Act, 2024, and section 101(d) of the Further Additional Continuing Appropriations and Other Extensions Act, 2024.
+                  
+               
+               <section display-inline="no-display-inline"
+                         id="HA863411C538740C29E7D9F665498A075"
+                         qb-display-quote="yes"
+                         section-type="subsequent-section">
+                  102.
+                  EXTENSION OF SPECIAL DIABETES PROGRAMS
+                  <subsection display-inline="no-display-inline"
+                               id="H8BABE6EEC4EC4F36BDA9CBBD546E3865"
+                               qb-display-quote="yes">
+                     (a)
+                     Extension of special diabetes programs for Type I diabetes
+                     Section 330B(b)(2)(E) of the Public Health Service Act (42 U.S.C. 254c–2(b)(2)(E)) is amended by striking <quote quote-display-end="auto"
+                                quote-display-start="auto"
+                                quote-type="text">and $25,890,411 for the period beginning on November 18, 2023, and ending on January 19, 2024 and inserting <quote quote-display-end="auto"
+                                quote-display-start="auto"
+                                quote-type="text">$25,890,411 for the period beginning on November 18, 2023, and ending on January 19, 2024, and $20,136,986 for the period beginning on January 20, 2024, and ending on March 8, 2024.
+                  
+                  <subsection display-inline="no-display-inline"
+                               id="HC201844210374B90B62C07F2628B83DE"
+                               qb-display-quote="yes">
+                     (b)
+                     Extending funding for special diabetes programs for Indians
+                     Section 330C(c)(2)(E) of the Public Health Service Act (42 U.S.C. 254c–3(c)(2)(E)) is amended by striking <quote quote-display-end="auto"
+                                quote-display-start="auto"
+                                quote-type="text">and $25,890,411 for the period beginning on November 18, 2023, and ending on January 19, 2024 and inserting <quote quote-display-end="auto"
+                                quote-display-start="auto"
+                                quote-type="text">$25,890,411 for the period beginning on November 18, 2023, and ending on January 19, 2024, and $20,136,986 for the period beginning on January 20, 2024, and ending on March 8, 2024.
+                  
+               
+               <section display-inline="no-display-inline"
+                         id="HFEC68DCA5C4848308DF22812B442D6E8"
+                         qb-display-quote="yes"
+                         section-type="subsequent-section">
+                  103.
+                  NATIONAL HEALTH SECURITY EXTENSIONS
+                  <subsection display-inline="no-display-inline"
+                               id="H06BAF22DECEB4A7A8638BB46EE9B613A"
+                               qb-display-quote="yes">
+                     (a)
+                     Section 319(e)(8) of the Public Health Service Act (42 U.S.C. 247d(e)(8)) is amended by striking <quote quote-display-end="auto"
+                                quote-display-start="auto"
+                                quote-type="text">January 19, 2024 and inserting <quote quote-display-end="auto"
+                                quote-display-start="auto"
+                                quote-type="text">March 8, 2024.
+                  
+                  <subsection display-inline="no-display-inline"
+                               id="H562D0AC4E63A4533898C10714D0265CC"
+                               qb-display-quote="yes">
+                     (b)
+                     Section 319L(e)(1)(D) of the Public Health Service Act (42 U.S.C. 247d–7e(e)(1)(D)) is amended by striking <quote quote-display-end="auto"
+                                quote-display-start="auto"
+                                quote-type="text">January 19, 2024 and inserting <quote quote-display-end="auto"
+                                quote-display-start="auto"
+                                quote-type="text">March 8, 2024.
+                  
+                  <subsection display-inline="no-display-inline"
+                               id="H9BD9451110F243B18640F1BA0FD9733A"
+                               qb-display-quote="yes">
+                     (c)
+                     Section 319L–1(b) of the Public Health Service Act (42 U.S.C. 247d–7f(b)) is amended by striking <quote quote-display-end="auto"
+                                quote-display-start="auto"
+                                quote-type="text">January 19, 2024 and inserting <quote quote-display-end="auto"
+                                quote-display-start="auto"
+                                quote-type="text">March 8, 2024.
+                  
+                  <subsection display-inline="no-display-inline"
+                               id="H4866828050B64A39B1A02CD0A7981ECE"
+                               qb-display-quote="yes">
+                     (d)
+                     <paragraph display-inline="no-display-inline"
+                                 id="H9918367D81354061873B8B1F70081F17"
+                                 qb-display-quote="yes">
+                        (1)
+                        Section 2811A(g) of the Public Health Service Act (42 U.S.C. 300hh–10b(g)) is amended by striking <quote quote-display-end="auto"
+                                   quote-display-start="auto"
+                                   quote-type="text">January 19, 2024 and inserting <quote quote-display-end="auto"
+                                   quote-display-start="auto"
+                                   quote-type="text">March 8, 2024.
+                     
+                     <paragraph display-inline="no-display-inline"
+                                 id="H8335837F52C04A9D9C2359D2E82A21DF"
+                                 indent="subsection"
+                                 qb-display-quote="yes">
+                        (2)
+                        Section 2811B(g)(1) of the Public Health Service Act (42 U.S.C. 300hh–10c(g)(1)) is amended by striking <quote quote-display-end="auto"
+                                   quote-display-start="auto"
+                                   quote-type="text">January 19, 2024 and inserting <quote quote-display-end="auto"
+                                   quote-display-start="auto"
+                                   quote-type="text">March 8, 2024.
+                     
+                     <paragraph display-inline="no-display-inline"
+                                 id="H5E93DBED69D54D8080A0EC01CDC1DBE3"
+                                 indent="subsection"
+                                 qb-display-quote="yes">
+                        (3)
+                        Section 2811C(g)(1) of the Public Health Service Act (42 U.S.C. 300hh–10d(g)(1)) is amended by striking <quote quote-display-end="auto"
+                                   quote-display-start="auto"
+                                   quote-type="text">January 19, 2024 and inserting <quote quote-display-end="auto"
+                                   quote-display-start="auto"
+                                   quote-type="text">March 8, 2024.
+                     
+                  
+                  <subsection display-inline="no-display-inline"
+                               id="H250E44EB6CFE4811980ACF0370746C99"
+                               qb-display-quote="yes">
+                     (e)
+                     Section 2812(c)(4)(B) of the Public Health Service Act (42 U.S.C. 300hh–11(c)(4)(B)) is amended by striking <quote quote-display-end="auto"
+                                quote-display-start="auto"
+                                quote-type="text">January 19, 2024 and inserting <quote quote-display-end="auto"
+                                quote-display-start="auto"
+                                quote-type="text">March 8, 2024.
+                     
+                        138 STAT. 6
+                     
+                  
+               
+            
+            <subtitle id="H9A5F4466AD6647F4BEA27B06A17951CC"
+                       qb-display-quote="yes"
+                       style="OLC">
+               B
+               Medicaid
+               <section display-inline="no-display-inline"
+                         id="H8EA159D2A7984F9C98C0032DD884890C"
+                         qb-display-quote="yes"
+                         section-type="subsequent-section">
+                  121.
+                  DELAYING CERTAIN DISPROPORTIONATE SHARE PAYMENT CUTS
+                  Section 1923(f)(7)(A) of the Social Security Act (42 U.S.C. 1396r–4(f)(7)(A)) is amended by striking <quote quote-display-end="auto"
+                             quote-display-start="auto"
+                             quote-type="text">January 20, 2024 each place it appears and inserting <quote quote-display-end="auto"
+                             quote-display-start="auto"
+                             quote-type="text">March 9, 2024. 
+               
+               <section display-inline="no-display-inline"
+                         id="H8CF25520F14948739C0D116408F11709"
+                         qb-display-quote="yes"
+                         section-type="subsequent-section">
+                  122.
+                  MEDICAID IMPROVEMENT FUND REDUCTION
+                  Section 1941(b)(3)(A) of the Social Security Act (42 U.S.C. 1396w–1(b)(3)(A)) is amended by striking <quote quote-display-end="auto"
+                             quote-display-start="auto"
+                             quote-type="text">$5,796,117,810 and inserting <quote quote-display-end="auto"
+                             quote-display-start="auto"
+                             quote-type="text">$5,140,428,729. 
+               
+            
+            <subtitle id="H967B468E42484E1BAA7BD42FCD1B3B6B"
+                       qb-display-quote="yes"
+                       style="OLC">
+               C
+               Medicare
+               <section display-inline="no-display-inline"
+                         id="H9262AB5D95A7443194980BD7164F762C"
+                         qb-display-quote="yes"
+                         section-type="subsequent-section">
+                  131.
+                  EXTENSION OF THE WORK GEOGRAPHIC INDEX FLOOR UNDER THE MEDICARE PROGRAM
+                  Section 1848(e)(1)(E) of the Social Security Act (42 U.S.C. 1395w–4(e)(1)(E)) is amended by striking <quote quote-display-end="auto"
+                             quote-display-start="auto"
+                             quote-type="text">January 20, 2024 and inserting <quote quote-display-end="auto"
+                             quote-display-start="auto"
+                             quote-type="text">March 9, 2024.
+               
+               <section display-inline="no-display-inline"
+                         id="HDA3ED61E2598479F9247F8891B9BA5B6"
+                         qb-display-quote="yes"
+                         section-type="subsequent-section">
+                  132.
+                  MEDICARE IMPROVEMENT FUND
+                  Section 1898(b)(1) of the Social Security Act (42 U.S.C. 1395iii(b)(1)) is amended by striking <quote quote-display-end="auto"
+                             quote-display-start="auto"
+                             quote-type="text">$2,250,795,056 and inserting <quote quote-display-end="auto"
+                             quote-display-start="auto"
+                             quote-type="text">$2,197,795,056. 
+               
+            
+            <subtitle id="H40D8CDDE60CA4570A34E2B952561B892"
+                       qb-display-quote="yes"
+                       style="OLC">
+               D
+               Human Services
+               <section display-inline="no-display-inline"
+                         id="HDD55A1596F8F443287B0E6004509CD75"
+                         qb-display-quote="yes"
+                         section-type="subsequent-section">
+                  141.
+                  EXTENSION OF CHILD AND FAMILY SERVICES PROGRAMS
+                  Activities authorized by part B of title IV of the Social Security Act shall continue through March 8, 2024, in the manner authorized for fiscal year 2023, and out of any money in the Treasury of the United States not otherwise appropriated, there are hereby appropriated such sums as may be necessary for such purpose.
+                  
+                     Time periods.
+                  
+               
+               <section display-inline="no-display-inline"
+                         id="H86F6E7EA6EAD4893A68CBAD76CE475A0"
+                         qb-display-quote="yes"
+                         section-type="subsequent-section">
+                  142.
+                  SEXUAL RISK AVOIDANCE EDUCATION EXTENSION
+                  Section 510 of the Social Security Act (42 U.S.C. 710) is amended— 
+                  <paragraph display-inline="no-display-inline"
+                              id="HB9A4DD759E7A4ECCA0FD9CDA2EE404BA"
+                              qb-display-quote="yes">
+                     (1)
+                     in subsection (a)(1)—
+                     <subparagraph display-inline="no-display-inline"
+                                    id="H90A683C8C35A4B5286E6C13A81FF8163"
+                                    qb-display-quote="yes">
+                        (A)
+                        by striking <quote quote-display-end="auto"
+                                   quote-display-start="auto"
+                                   quote-type="text">and after <quote quote-display-end="auto"
+                                   quote-display-start="auto"
+                                   quote-type="text">November 17, 2023,; and
+                     
+                     <subparagraph display-inline="no-display-inline"
+                                    id="H8B132629E06F4C42BDEFD029D5FB5AD6"
+                                    qb-display-quote="yes">
+                        (B)
+                        by inserting <quote quote-display-end="auto"
+                                   quote-display-start="auto"
+                                   quote-type="text">and for the period beginning on January 20, 2024, and ending on March 8, 2024, after <quote quote-display-end="auto"
+                                   quote-display-start="auto"
+                                   quote-type="text">January 19, 2024,; and
+                     
+                  
+                  <paragraph display-inline="no-display-inline"
+                              id="H0470F9F69EAD40F3B94BDCAEBAB6AACC"
+                              qb-display-quote="yes">
+                     (2)
+                     in subsection (f)(1)—
+                     <subparagraph display-inline="no-display-inline"
+                                    id="H74AFCFB598A1466C8EAD5E67595BBDC5"
+                                    qb-display-quote="yes">
+                        (A)
+                        by striking <quote quote-display-end="auto"
+                                   quote-display-start="auto"
+                                   quote-type="text">and before <quote quote-display-end="auto"
+                                   quote-display-start="auto"
+                                   quote-type="text">for the period beginning on November 18, 2023,; and
+                     
+                     <subparagraph display-inline="no-display-inline"
+                                    id="H1F4A17DCC2334656B313A797F1B4A0A8"
+                                    qb-display-quote="yes">
+                        (B)
+                        by striking the period at the end and inserting <quote quote-display-end="auto"
+                                   quote-display-start="auto"
+                                   quote-type="text">, and for the period beginning on January 20, 2024, and ending on March 8, 2024, an amount equal to the pro rata portion of the amount appropriated for the corresponding period for fiscal year 2023..
+                     
+                  
+               
+               <section display-inline="no-display-inline"
+                         id="HC7B8E075321C4B6E851D3C7DD05A08E2"
+                         qb-display-quote="yes"
+                         section-type="subsequent-section">
+                  143.
+                  PERSONAL RESPONSIBILITY EDUCATION EXTENSION
+                  Section 513 of the Social Security Act (42 U.S.C. 713) 
+                        138 STAT. 7
+                      is amended—
+                  <paragraph display-inline="no-display-inline"
+                              id="HEF7E5C075A064049B7EDF5E3A591AC31"
+                              qb-display-quote="yes">
+                     (1)
+                     in subsection (a)(1)—
+                     <subparagraph display-inline="no-display-inline"
+                                    id="H2376AE17941C4EC1B7D360C7ABC225A1"
+                                    qb-display-quote="yes">
+                        (A)
+                        in subparagraph (A), in the matter preceding clause (i)—
+                        <clause display-inline="no-display-inline"
+                                 id="H2AA33A0453D04779B53EAF39FC0E3FCF"
+                                 qb-display-quote="yes">
+                           (i)
+                           by striking <quote quote-display-end="auto"
+                                      quote-display-start="auto"
+                                      quote-type="text">and after <quote quote-display-end="auto"
+                                      quote-display-start="auto"
+                                      quote-type="text">November 17, 2023,; and
+                        
+                        <clause display-inline="no-display-inline"
+                                 id="HF464463AA8424149AD4C8A0DA999D43A"
+                                 qb-display-quote="yes">
+                           (ii)
+                           by inserting <quote quote-display-end="auto"
+                                      quote-display-start="auto"
+                                      quote-type="text">and for the period beginning on January 20, 2024, and ending on March 8, 2024, after <quote quote-display-end="auto"
+                                      quote-display-start="auto"
+                                      quote-type="text">January 19, 2024,; and 
+                        
+                     
+                     <subparagraph display-inline="no-display-inline"
+                                    id="H2EB3CB8AF6C24E419D869F92BCAFF14C"
+                                    qb-display-quote="yes">
+                        (B)
+                        in subparagraph (B)(i)—
+                        <clause display-inline="no-display-inline"
+                                 id="H2FC78935308F49D9AD0CFFC5C2F399AC"
+                                 qb-display-quote="yes">
+                           (i)
+                           by striking <quote quote-display-end="auto"
+                                      quote-display-start="auto"
+                                      quote-type="text">and after <quote quote-display-end="auto"
+                                      quote-display-start="auto"
+                                      quote-type="text">November 17, 2023,; and
+                        
+                        <clause display-inline="no-display-inline"
+                                 id="H5A2C3286E5AF4CCA9D76B438EC8896D4"
+                                 qb-display-quote="yes">
+                           (ii)
+                           by inserting <quote quote-display-end="auto"
+                                      quote-display-start="auto"
+                                      quote-type="text">, and for the period beginning on January 20, 2024, and ending on March 8, 2024 after <quote quote-display-end="auto"
+                                      quote-display-start="auto"
+                                      quote-type="text">January 19, 2024; and 
+                        
+                     
+                  
+                  <paragraph display-inline="no-display-inline"
+                              id="H14094743AEA04A8694DF409D204B48D1"
+                              qb-display-quote="yes">
+                     (2)
+                     in subsection (f)—
+                     <subparagraph display-inline="no-display-inline"
+                                    id="HC21AF503C2D94367ACFDC22204EE3CC8"
+                                    qb-display-quote="yes">
+                        (A)
+                        by striking <quote quote-display-end="auto"
+                                   quote-display-start="auto"
+                                   quote-type="text">and before <quote quote-display-end="auto"
+                                   quote-display-start="auto"
+                                   quote-type="text">for the period beginning on November 18, 2023,; and
+                     
+                     <subparagraph display-inline="no-display-inline"
+                                    id="H4625C50799634DF18EEE1C22C72BC6A2"
+                                    qb-display-quote="yes">
+                        (B)
+                        by striking <quote quote-display-end="auto"
+                                   quote-display-start="auto"
+                                   quote-type="text">fiscal year 2023. and inserting <quote quote-display-end="auto"
+                                   quote-display-start="auto"
+                                   quote-type="text">fiscal year 2023, and for the period beginning on January 20, 2024, and ending on March 8, 2024, an amount equal to the pro rata portion of the amount appropriated for the corresponding period for fiscal year 2023.. 
+                     
+                  
+               
+            
+         
+         <title id="H8744C4AEE19B4011BC7518F9EF627591"
+                 qb-display-quote="yes"
+                 style="OLC">
+            II
+            COMPACTS
+            <section display-inline="no-display-inline"
+                      id="H1FCF84363F68434F962A87C11B0BE494"
+                      qb-display-quote="yes"
+                      section-type="subsequent-section">
+               201.
+               EXTENSION OF CERTAIN PROVISIONS OF THE COMPACTS OF FREE ASSOCIATION WITH THE FEDERATED STATES OF MICRONESIA AND THE REPUBLIC OF THE MARSHALL ISLANDS
+               Section 2101(a)(1) of the Continuing Appropriations Act, 2024 and Other Extensions Act (Public Law 118–15; 137 Stat. 81; 137 Stat. 114) is amended by striking <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">February 2, 2024 and inserting <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">March 8, 2024.
+            
+         
+         <title id="HA66B12A9E452488DBAC80E1410D295C0"
+                 qb-display-quote="yes"
+                 style="OLC">
+            III
+            COUNTER-UAS AUTHORITIES
+            <section display-inline="no-display-inline"
+                      id="H45118EE035C94002AEC52510697F4E26"
+                      qb-display-quote="yes"
+                      section-type="subsequent-section">
+               301.
+               COUNTER-UAS AUTHORITIES
+               Section 210G(i) of the Homeland Security Act of 2002 (6 U.S.C. 124n(i)) is amended by striking <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">February 3, 2024 and inserting <quote quote-display-end="auto"
+                          quote-display-start="auto"
+                          quote-type="text">March 9, 2024. 
+            
+         
+         <title id="HF9BD250B44E84D01AE45F0F7FFE1D436"
+                 qb-display-quote="yes"
+                 style="OLC">
+            IV
+            BUDGETARY EFFECTS
+            <section display-inline="no-display-inline"
+                      id="H399D5D7835DA4B2E848197A6AE6E1B07"
+                      qb-display-quote="yes"
+                      section-type="subsequent-section">
+               401.
+               BUDGETARY EFFECTS
+               <subsection display-inline="no-display-inline"
+                            id="H8565366634C34302AE7EA57C3C103DD0"
+                            qb-display-quote="yes">
+                  (a)
+                  Statutory PAYGO Scorecards
+                  The budgetary effects of this division shall not be entered on either PAYGO scorecard maintained pursuant to section 4(d) of the Statutory Pay-As-You-Go Act of 2010.
+               
+               <subsection display-inline="no-display-inline"
+                            id="H85C816683AA1485DB349EB546B5DE162"
+                            qb-display-quote="yes">
+                  (b)
+                  Senate PAYGO scorecards
+                  The budgetary effects of this division shall not be entered on any PAYGO scorecard maintained for purposes of section 4106 of H. Con. Res. 71 (115th Congress).
+               
+               <subsection display-inline="no-display-inline"
+                            id="HCC33A2588E4645BD873EFBE02801BC1D"
+                            qb-display-quote="yes">
+                  (c)
+                  Classification of budgetary effects
+                  Notwithstanding Rule 3 of the Budget Scorekeeping Guidelines set forth in the 
+                        138 STAT. 8
+                       joint explanatory statement of the committee of conference accompanying Conference Report 105–217 and section 250(c)(8) of the Balanced Budget and Emergency Deficit Control Act of 1985, the budgetary effects of this division shall not be estimated—
+                  <paragraph display-inline="no-display-inline"
+                              id="H3DE9584931DA442FB5D0F51ECB263670"
+                              qb-display-quote="yes">
+                     (1)
+                     for purposes of section 251 of such Act;
+                  
+                  <paragraph display-inline="no-display-inline"
+                              id="H9BCDDDD267B247819FF8B09E0D1235C9"
+                              qb-display-quote="yes">
+                     (2)
+                     for purposes of an allocation to the Committee on Appropriations pursuant to section 302(a) of the Congressional Budget Act of 1974; and
+                  
+                  <paragraph display-inline="no-display-inline"
+                              id="H3DC75FD95C974766BBE8161455813EDA"
+                              qb-display-quote="yes">
+                     (3)
+                     for purposes of paragraph (4)(C) of section 3 of the Statutory Pay-As-You-Go Act of 2010 as being included in an appropriation Act.
+                  
+               
+            
+         
+      
+   
+   Approved January 19, 2024.
+   
+      
+         
+            H.R. 2872
+         
+      
+      
+         118-198 (Comm. on Natural Resources).
+      
+      
+         Sept. 18, 20, considered and passed House.
+      
+      
+         Jan. 17, 18, considered and passed Senate, amended.
+         Jan. 18, House concurred in Senate amendment.
+      
+   
+
