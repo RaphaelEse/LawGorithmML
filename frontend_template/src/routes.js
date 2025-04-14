@@ -26,6 +26,7 @@ import Upgrade from "views/Upgrade.js";
 import D3BarChart from "views/D3BarChart";
 import VegaLiteStreamgraph from "views/VegaLiteStreamgraph";
 import CustomVisualizations from "views/CustomVisualizations";
+import BillDetails from "views/BillDetails";
 
 
 const dashboardRoutes = [
@@ -55,6 +56,14 @@ const dashboardRoutes = [
   // },
 
   {
+    path: "/bill_details",
+    name: "Bill Details",
+    icon: "nc-icon nc-vector",
+    component: BillDetails,
+    layout: "/admin"
+  },
+
+  {
     path: "/visualizations",
     name: "Visualizations",
     icon: "nc-icon nc-chart-pie-36",
@@ -62,13 +71,6 @@ const dashboardRoutes = [
     layout: "/admin"
   },
 
-  // {
-  //   path: "/typography",
-  //   name: "Typography",
-  //   icon: "nc-icon nc-paper-2",
-  //   component: Typography,
-  //   layout: "/admin"
-  // },
   // {
   //   path: "/icons",
   //   name: "Icons",
