@@ -29,7 +29,7 @@ const BillGraph = ({ billId }) => {
   // Map nodes to include a "name" property using bill_id or citation-specific property.
   const nodes = graphData.nodes.map(node => ({
     ...node,
-    name: node.properties.bill_id || node.properties.citation_id || node.properties.text || "Node"
+    name: node.properties.bill_id || node.properties.text || "Node"
   }));
 
   // Map relationships (edges)
