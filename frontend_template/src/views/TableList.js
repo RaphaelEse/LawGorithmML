@@ -40,7 +40,7 @@ function TableList() {
                   </thead>
                   <tbody>
                     <tr>
-                      <td>Custom NLP Model</td>
+                      <td>Custom Zero-Shot Classification Model</td>
                       <td>91.4%</td>
                       <td>91.4%</td>
                       <td>91.4%</td>
@@ -56,7 +56,7 @@ function TableList() {
                       <td>73.3%</td>
                     </tr>
                     <tr>
-                      <td>Legal-RoBERTa</td>
+                      <td>Longformer</td>
                       <td>81.6%</td>
                       <td>81.6%</td>
                       <td>81.6%</td>
@@ -64,28 +64,12 @@ function TableList() {
                       <td>81.6%</td>
                     </tr>
                     <tr>
-                      <td>Custom-LegalBERT</td>
-                      <td>57.9%</td>
-                      <td>57.9%</td>
-                      <td>57.9%</td>
-                      <td>57.9%</td>
-                      <td>57.9%</td>
-                    </tr>
-                    <tr>
-                      <td>Graph Convolutional Networks</td>
+                      <td>Graph Convolutional Networks (GCN)</td>
                       <td>86.5%</td>
                       <td>86.5%</td>
                       <td>86.5%</td>
                       <td>86.5%</td>
                       <td>86.5%</td>
-                    </tr>
-                    <tr>
-                      <td>Long-Short Term Memory Network</td>
-                      <td>90.1%</td>
-                      <td>90.1%</td>
-                      <td>90.1%</td>
-                      <td>90.1%</td>
-                      <td>90.1%</td>
                     </tr>
                   </tbody>
                 </Table>

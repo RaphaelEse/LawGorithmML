@@ -27,6 +27,7 @@ import D3BarChart from "views/D3BarChart";
 import VegaLiteStreamgraph from "views/VegaLiteStreamgraph";
 import CustomVisualizations from "views/CustomVisualizations";
 import BillDetails from "views/BillDetails";
+import ComparativeAnalysis from "views/ComparativeAnalysis";
 
 
 const dashboardRoutes = [
@@ -43,7 +44,7 @@ const dashboardRoutes = [
     path: "/comparative-analysis",
     name: "Comparative Analysis",
     icon: "nc-icon nc-preferences-circle-rotate",
-    component: TableList,
+    component: ComparativeAnalysis,
     layout: "/admin"
   },
 

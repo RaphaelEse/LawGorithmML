@@ -1,0 +1,6 @@
+Metric,Custom Zero-Shot Classification Model,LegalBERT,Longformer,Graph Convolutional Network (GCN)
+Accuracy,0.65,0.59,0.45,0.71
+Precision,0.61,0.51,0.40,0.66
+Recall,0.54,0.42,0.37,0.66
+F1-Score,0.54,0.42,0.37,0.66
+Weighted F1-Score,0.55,0.43,0.38,0.67

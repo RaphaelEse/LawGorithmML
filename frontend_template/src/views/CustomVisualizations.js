@@ -6,7 +6,8 @@ import Recharts from "./RechartsStackedBarChart"
 import RechartsStackedBarChart from "./RechartsStackedBarChart";
 import RechartsStackedBarChartNoCSV from "./RechartsStackedBarChartNoCSV";
 import RechartsStackedAreaChart from "./RechartsStackedAreaChart";
-// react-bootstrap components
+import RechartsRadarChart from "./RechartsRadarChart";
+import RechartsPieChart from "./RechartsPieChart";
 import {
   Badge,
   Button,
@@ -36,18 +37,23 @@ function CustomVisualizations() {
 
     <div style={{ margin: "80px 0" }}></div>
 
-    {/* <div className="chart-container">
-      <h3>Recharts Stacked/Grouped Bar Chart (No CSV)</h3>
-      <RechartsStackedBarChartNoCSV />
-    </div>
-
-    <h1>.</h1> */}
-
-
     <div className="chart-container">
       <h3>Citation Context Types Over Time: Stacked Area Chart</h3>
       <RechartsStackedAreaChart />
     </div>
+    <div style={{ margin: "80px 0" }}></div>
+    
+    <div className="chart-container">
+      <h3>Citation Context Types By Model: Stacked Line Chart</h3>
+      <RechartsRadarChart />
+    </div>
+    <div style={{ margin: "80px 0" }}></div>
+
+    <div className="chart-container">
+      <h3>Total Citation Types: Pie Chart</h3>
+      <RechartsPieChart />
+    </div>
+    <div style={{ margin: "80px 0" }}></div>
 
     {/* <div className="chart-container">
       <h3>D3 Bar Chart</h3>
