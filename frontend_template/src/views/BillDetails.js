@@ -30,7 +30,7 @@ function Dashboard() {
           <Col md="12">
             <Card>
               <Card.Header>
-                <Card.Title as="h4">Citation Context Type Over Time</Card.Title>
+                <Card.Title as="h4">Bill Details</Card.Title>
               </Card.Header>
               <Card.Body>
                 <BillSearch />
