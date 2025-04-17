@@ -1,0 +1,45 @@
+{
+  "bill_id": "HR812",
+  "citations": [
+    {
+      "text": "OF 2022 (a) In general Public Law 117\u2013169",
+      "startPosition": 1182,
+      "endPosition": 1223,
+      "normCite": "",
+      "citeType": "",
+      "altCite": "",
+      "pinCiteStr": "",
+      "pageRangeStr": "",
+      "nodeId": 0,
+      "section": "",
+      "sectionAndSubSection": "",
+      "isShortCite": false,
+      "high_confidence": "Precedent",
+      "context": "Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, 1. SHORT TITLE This Act may be cited as the Inflation Reduction Act of 2023 . 2.",
+      "low_confidence": "Authority",
+      "predicted_label": "Precedent",
+      "predicted_score": 0.9739543199539185,
+      "citation_id": "precedent_1"
+    },
+    {
+      "text": "Public Law 117\u2013169",
+      "startPosition": 1376,
+      "endPosition": 1394,
+      "normCite": "",
+      "citeType": "",
+      "altCite": "",
+      "pinCiteStr": "",
+      "pageRangeStr": "",
+      "nodeId": 0,
+      "section": "",
+      "sectionAndSubSection": "",
+      "isShortCite": false,
+      "high_confidence": "Precedent",
+      "context": "REPEAL OF INFLATION REDUCTION ACT OF 2022 (a) In general Public Law 117\u2013169 (commonly referred to as the Inflation Reduction Act of 2022) is repealed. (b) Rescissions The unobligated balances of any amounts made available under Public Law 117\u2013169 are rescinded.",
+      "low_confidence": "Amendment",
+      "predicted_label": "Precedent",
+      "predicted_score": 0.5818958878517151,
+      "citation_id": "precedent_2"
+    }
+  ]
+}
