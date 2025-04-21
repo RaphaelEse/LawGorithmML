@@ -36,60 +36,63 @@ def test_db_connection():
 def save_bill_with_citations(bill_data):
     with get_db_session() as session:
         def tx_func(tx, bill_data):
-            # Create the Bill node
+            # 1) Create the Bill node (only bill_id)
             create_bill_query = """
-            CREATE (b:Bill {
-                bill_id: $bill_id,
-                title: $title,
-                summary: $summary,
-                date: $date,
-                status: $status
-            })
+            CREATE (b:Bill { bill_id: $bill_id })
             RETURN b
             """
-            tx.run(create_bill_query,
-                   bill_id=bill_data["bill_id"],
-                   title=bill_data["title"],
-                   summary=bill_data["summary"],
-                   date=bill_data["date"],
-                   status=bill_data["status"])
+            tx.run(create_bill_query, bill_id=bill_data["bill_id"])
             
-            # Process each citation
-            for citation in bill_data.get("citations", []):
-                # Create the Citation node
-                create_citation_query = """
-                CREATE (c:Citation {
-                    citation_id: $citation_id,
-                    text: $text,
-                    normCite: $normCite,
-                    citeType: $citeType,
-                    section: $section,
-                    isShortCite: $isShortCite
-                })
-                RETURN c
+            # 2) Prepare and batch create Citation nodes using UNWIND.
+            citations = bill_data.get("citations", [])
+            # Add a composite key so that each citation is unique per bill
+            for citation in citations:
+                citation["uniqueCitationId"] = f"{bill_data['bill_id']}_{citation['citation_id']}"
+            
+            create_citations_query = """
+            UNWIND $citations AS citation
+            CREATE (c:Citation {
+                uniqueCitationId: citation.uniqueCitationId,
+                citation_id: citation.citation_id,
+                text: citation.text,
+                startPosition: coalesce(citation.startPosition, 0),
+                endPosition: coalesce(citation.endPosition, 0),
+                normCite: coalesce(citation.normCite, ""),
+                citeType: coalesce(citation.citeType, ""),
+                altCite: coalesce(citation.altCite, ""),
+                pinCiteStr: coalesce(citation.pinCiteStr, ""),
+                pageRangeStr: coalesce(citation.pageRangeStr, ""),
+                nodeId: coalesce(citation.nodeId, 0),
+                section: coalesce(citation.section, ""),
+                sectionAndSubSection: coalesce(citation.sectionAndSubSection, ""),
+                isShortCite: coalesce(citation.isShortCite, false),
+                chunk_id: coalesce(citation.chunk_id, 0),
+                context: coalesce(citation.context, ""),
+                low_confidence: coalesce(citation.low_confidence, "")
+            })
+            """
+            tx.run(create_citations_query, citations=citations)
+            
+            # 3) Group citations by their dynamic relationship type (from high_confidence)
+            relationship_groups = {}
+            for citation in citations:
+                rel_type = citation.get("high_confidence", "DEFAULT")
+                if rel_type not in relationship_groups:
+                    relationship_groups[rel_type] = []
+                relationship_groups[rel_type].append(citation)
+            
+            # 4) Create relationships for each group using the composite key
+            for rel_type, group in relationship_groups.items():
+                create_relationships_query = f"""
+                UNWIND $group AS citation
+                MATCH (b:Bill {{ bill_id: $bill_id }})
+                MATCH (c:Citation {{ uniqueCitationId: citation.uniqueCitationId }})
+                CREATE (b)-[:`{rel_type}`]->(c)
                 """
-                tx.run(create_citation_query,
-                       citation_id=citation["citation_id"],
-                       text=citation["text"],
-                       normCite=citation["normCite"],
-                       citeType=citation["citeType"],
-                       section=citation["section"],
-                       isShortCite=citation["isShortCite"])
-                
-                # Use the relationshipType from the citation for the edge label.
-                # Dynamic relationship type requires interpolation since it cannot be parameterized.
-                relationship_type = citation["relationshipType"]
-                create_relationship_query = f"""
-                MATCH (b:Bill {{bill_id: $bill_id}})
-                MATCH (c:Citation {{citation_id: $citation_id}})
-                CREATE (b)-[r:`{relationship_type}`]->(c)
-                RETURN r
-                """
-                tx.run(create_relationship_query,
-                    bill_id=bill_data["bill_id"],
-                    citation_id=citation["citation_id"])
-                        
+                tx.run(create_relationships_query, bill_id=bill_data["bill_id"], group=group)
+
         session.execute_write(tx_func, bill_data)
+
 
 def get_all_bills():
     """
@@ -116,20 +119,112 @@ def get_all_citations():
             result = tx.run("MATCH (c:Citation) RETURN c")
             return [record["c"] for record in result]
         return session.execute_read(tx_func)
+    
+def get_full_graph():
+    """
+    Retrieves all nodes and relationships from the Neo4j database and returns them
+    in a format suitable for graph visualization (e.g., in React).
+
+    Returns:
+        A dictionary with two keys:
+          - "nodes": A list of node dictionaries, each containing its internal ID, labels, and properties.
+          - "relationships": A list of relationship dictionaries, each with an ID, type, source node ID,
+                             target node ID, and properties.
+    """
+    with get_db_session() as session:
+        def tx_func(tx):
+            # Retrieve all nodes with their internal id, labels, and properties.
+            nodes_result = tx.run(
+                "MATCH (n) RETURN id(n) as id, labels(n) as labels, properties(n) as properties"
+            )
+            nodes = [
+                {"id": record["id"], "labels": record["labels"], "properties": record["properties"]}
+                for record in nodes_result
+            ]
+
+            # Retrieve all relationships with their internal id, type, start and end node ids, and properties.
+            rels_result = tx.run(
+                "MATCH ()-[r]->() RETURN id(r) as id, type(r) as type, id(startNode(r)) as source, id(endNode(r)) as target, properties(r) as properties"
+            )
+            relationships = [
+                {
+                    "id": record["id"],
+                    "type": record["type"],
+                    "source": record["source"],
+                    "target": record["target"],
+                    "properties": record["properties"]
+                }
+                for record in rels_result
+            ]
+            return {"nodes": nodes, "relationships": relationships}
+        
+        return session.execute_read(tx_func)
+
+def search_bills(search_term):
+    """
+    Searches for Bill nodes where bill_id contains the search_term (case-insensitive).
+    Returns:
+        A list of matching bill_id strings.
+    """
+    with get_db_session() as session:
+        def tx_func(tx, search_term):
+            result = tx.run(
+                """
+                MATCH (b:Bill)
+                WHERE toLower(b.bill_id) CONTAINS toLower($search_term)
+                RETURN b.bill_id AS bill_id
+                """,
+                {"search_term": search_term}
+            )
+            return [record["bill_id"] for record in result]
+        return session.execute_read(tx_func, search_term)
+
+def get_bill_graph(bill_id):
+    """
+    Retrieves the subgraph for the given bill_id. It returns the Bill node
+    and all nodes connected to it plus the relationships connecting them.
+    
+    Returns:
+        A dictionary with:
+          - "nodes": a list of dicts for each node (internal id, labels, properties)
+          - "relationships": a list of dicts for each relationship (id, type, source, target, properties)
+    """
+    with get_db_session() as session:
+        def tx_func(tx, bill_id):
+            cypher = """
+            MATCH (b:Bill {bill_id: $bill_id})
+            OPTIONAL MATCH (b)-[r]-(n)
+            WITH collect(distinct b) + collect(distinct n) AS nodes, collect(distinct r) AS rels
+            RETURN
+              [node IN nodes | { id: id(node), labels: labels(node), properties: properties(node) }] AS nodes,
+              [rel IN rels | { id: id(rel), type: type(rel), source: id(startNode(rel)), target: id(endNode(rel)), properties: properties(rel) }] AS relationships
+            """
+            result = tx.run(cypher, bill_id=bill_id)
+            record = result.single()
+            if record:
+                return {"nodes": record["nodes"], "relationships": record["relationships"]}
+            else:
+                return {"nodes": [], "relationships": []}
+        return session.execute_read(tx_func, bill_id)
 
 
-
-
-# Optional: if you run db.py directly, load sample.json and save the bill data.
 if __name__ == "__main__":
-    # Retrieve and print all Bill nodes
-    bills = get_all_bills()
-    print("Bills:")
-    for bill in bills:
-        print(dict(bill))
+    import os
+    import json
+    import glob
 
-    # Retrieve and print all Citation nodes
-    citations = get_all_citations()
-    print("Citations:")
-    for citation in citations:
-        print(dict(citation))
+    # Determine the absolute path to the 'fin_labeled' folder at the same level as this file.
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    json_dir = os.path.join(current_dir, "fin_labeled")
+    
+    # Find all JSON files in the folder
+    json_files = glob.glob(os.path.join(json_dir, "*.json"))
+    print(json_files)
+    # Process each JSON file in the folder
+    for json_file in json_files:
+        print(f"Processing file: {json_file}")
+        with open(json_file, "r") as f:
+            bill_data = json.load(f)
+        # Save the bill and its citations
+        save_bill_with_citations(bill_data)
+

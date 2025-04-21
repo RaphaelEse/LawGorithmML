@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import {VegaLite} from "react-vega";
 import * as d3 from "d3";
 import ChartistGraph from "react-chartist";
 // react-bootstrap components
@@ -16,131 +17,58 @@ import {
   OverlayTrigger,
   Tooltip,
 } from "react-bootstrap";
-const BarChart = () => {
-  const [data, setData] = useState([
-    // {
-    //   name: "A",
-    //   value: 50,
-    // },
-    // {
-    //   name: "B",
-    //   value: 20,
-    // },
-    // {
-    //   name: "C",
-    //   value: 40,
-    // },
-    // {
-    //   name: "D",
-    //   value: 70,
-    // },
-  ]);
-
+const StreamGraph = () => {
+  const [data, setData] = useState([]);
 
   useEffect(() => {
-    d3.csv("/typesNumbers.csv").then((csvData) => {
+    d3.csv("/citations_date.csv").then((csvData) => {
       const parsedData = csvData.map((d) => ({
-        Type: d["Type"],
-        Number: +d["Number"], // Ensure 'Number' is converted to a number
+        Date: d["Date"],
+        Count: +d["Count"], 
+        Type: d["Type"]
       }));
       
-      console.log("Loaded Data:", parsedData); // Debugging output
+      console.log("Loaded Data:", parsedData);
       setData(parsedData);
     });
   }, []);
 
-  useEffect(() => {
-    if (data.length == 0) return;
+  const spec = {
+    width: 700,
+    height: 500,
+    title: "Citation Context Type Over Time Streamgraph",
+    mark: { type: "area", interpolate: "basis" },
+    encoding: {
+      x: {
+        field: "Date",
+        timeUnit: "yearmonth",
+        type: "temporal",
+        axis: { format: "%b %Y", tickCount: 6, title: "Date" }
+      },
+      y: {
+        field: "Count",
+        type: "quantitative",
+        aggregate: "sum",
+        stack: "center",
+        axis: { title: "Citation Type Count" }
+      },
+      color: {
+        field: "Type",
+        type: "nominal",
+        scale: { scheme: "spectral" }
+      }
+    },
+    data: { values: data }
+  };
 
-    const margin = { top: 50, right: 20, bottom: 120, left: 60 };
-    const width = 960 - margin.left - margin.right;
-    const height = 400 - margin.top - margin.bottom;
+  return (
+    <div>
+      <VegaLite spec={spec} />
+    </div>
+  );
+};
 
-    d3.select(".bar-chart").selectAll("*").remove()
-
-    const svg = d3
-      .select(".bar-chart")
-      .append("svg")
-      .attr("width", width + margin.left + margin.right)
-      .attr("height", height + margin.top + margin.bottom)
-      .append("g")
-      .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-      
-    const x = d3.scaleBand()
-      .domain(data.map(d => d.Type))
-      .range([0, width])
-      .padding(0.2);
-
-
-    const y = d3.scaleLinear()
-      .domain([0, d3.max(data, d => d.Number)])
-      .nice()
-      .range([height, 0]);
-
-    // x.domain(
-    //   data.map(function (d) {
-    //     return d.name;
-    //   })
-    // );
-    // y.domain([
-    //   0,
-    //   d3.max(data, function (d) {
-    //     return d.value;
-    //   }),
-    // ]);
-
-    svg
-      .selectAll(".bar")
-      .data(data)
-      .enter()
-      .append("rect")
-      .attr("class", "bar")
-      .attr("x", d => x(d.Type))
-      .attr("y", d => y(d.Number))
-      .attr("width", x.bandwidth())
-      .attr("height", d => height - y((d.Number)))
-      .attr("fill", "steelblue");
-
-    svg
-      .append("g")
-      .attr("transform", `translate(0,${height})`)
-      .call(d3.axisBottom(x))
-      .selectAll("text")
-      .attr("transform", "rotate(-45)")
-      .style("text-anchor", "end");
-
-    svg
-      .append("g").call(d3.axisLeft(y));
-
-    svg
-      .append("text")
-      .attr("x", width / 2)
-      .attr("y", height + margin.bottom - 5)
-      .attr("text-anchor", "middle")
-      .text("Citation Context Types");
-
-    svg
-      .append("text")
-      .attr("transform", "rotate(-90)")
-      .attr("y", -margin.left + 15)
-      .attr("x", -height / 2)
-      .attr("text-anchor", "middle")
-      .text("Number");
-
-
-  }, [data]);
-
-  return <div className="bar-chart"></div>;
-
-; }; export default BarChart;
-
-
-
-
-
-
-
-
+export default StreamGraph;
 
 
 // function Dashboard() {
