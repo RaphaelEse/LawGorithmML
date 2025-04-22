@@ -44,7 +44,7 @@ function CustomVisualizations() {
     <div style={{ margin: "80px 0" }}></div>
     
     <div className="chart-container">
-      <h3>Citation Context Types By Model: Stacked Line Chart</h3>
+      <h3>Citation Context Types By Model: Radar Chart</h3>
       <RechartsRadarChart />
     </div>
     <div style={{ margin: "80px 0" }}></div>

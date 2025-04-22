@@ -16,6 +16,13 @@ const modelNames = {
   model4: "Graph Convolutional Network (GCN)"
 }
 
+const timeDivisions = {
+  model1: "By Date",
+  model2: "By Month",
+  model3: "By Quarter",
+  model4: "By Year"
+}
+
 const StackedAreaChart = () => {
 
   const [data, setData] = useState([]);
@@ -74,6 +81,26 @@ const StackedAreaChart = () => {
           <Area type="natural" dataKey="Amending" stackId="1" stroke="#ff33aa" fill="#ff33aa" />
         </AreaChart>
       </ResponsiveContainer>
+
+      {/* <div style={{ marginBottom: "10px" }}>
+        {Object.keys(modelNames).map((model) => (
+          <button
+            key={model}
+            onClick={() => setSelectedModel(model)}
+            style={{
+              margin: "0 5px",
+              padding: "5px 10px",
+              backgroundColor: selectedModel === model ? "#007bff" : "#f0f0f0",
+              color: selectedModel === model ? "#fff" : "#000",
+              border: "none",
+              borderRadius: "4px",
+              cursor: "pointer",
+            }}
+          >
+            {modelNames[model]}
+          </button>
+        ))}
+      </div> */}
     </div>
   );
 };
