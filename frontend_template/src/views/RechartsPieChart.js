@@ -3,11 +3,10 @@ import { PieChart, Pie, Sector, ResponsiveContainer } from 'recharts';
 
 const data = [
   { name: 'Authority', value: 130 },
-  { name: 'Definition', value: 127 },
-  { name: 'Exception', value: 60 },
+  { name: 'Amending', value: 127 },
+  { name: 'Definition', value: 60 },
   { name: 'Precedent', value: 113 },
-  { name: 'Rescinding', value: 38 },
-  { name: 'Amending', value: 77 },
+  { name: 'Exception', value: 38 },
 
 ];
 

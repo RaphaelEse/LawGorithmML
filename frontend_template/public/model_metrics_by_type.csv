@@ -1,0 +1,5 @@
+id,Authority,Amending,Definition,Precedent,Exception
+Custom Zero-Shot Classification Model,0.747,0.939,0.45,0.8862,0.983
+LegalBERT,0.7479,0.941,0.40,0.889,0.983
+Longformer,0.7470,0.9395,0.37,0.886,0.983
+Graph Convolutional Network (GCN),0.7471,0.9396,0.37,0.886,0.983

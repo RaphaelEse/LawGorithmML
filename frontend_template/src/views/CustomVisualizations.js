@@ -29,41 +29,85 @@ function CustomVisualizations() {
   return (
     <div className="graphs-page">
 
+          <>
+            <Container fluid>
+              <Row>
+                <Col md="12">
+                  <Card>
+                    <Card.Header>
+                      <Card.Title as="h3">Total Citation Context Types by Model: Stacked/Grouped Bar Chart</Card.Title>
+                      <p className="card-category">March 2020 - November 2024</p>
+                      <div style={{ margin: "20px 0" }}></div>
+                      <RechartsStackedBarChart />
+                    </Card.Header>
+                    <Card.Body>
+                    </Card.Body>
+                    <Card.Footer>
+                    </Card.Footer>
+                  </Card>
+                </Col>
+              </Row>
+            </Container>
+          </>
 
-    <div className="chart-container">
-      <h3>Total Citation Context Types by Model: Stacked/Grouped Bar Chart</h3>
-      <RechartsStackedBarChart />
-    </div>
+    <div style={{ margin: "0px 0" }}></div>
+    <>
+            <Container fluid>
+              <Row>
+                <Col md="12">
+                  <Card>
+                    <Card.Header>
+                      <Card.Title as="h3">Citation Context Types Over Time: Stacked Area Chart</Card.Title>
+                      <p className="card-category">March 2020 - November 2024</p>
+                      <div style={{ margin: "20px 0" }}></div>
+                    </Card.Header>
+                    <Card.Body style={{ height: "560px" }}>
+                    <RechartsStackedAreaChart />
+                    </Card.Body>
+                    <Card.Footer>
+                    </Card.Footer>
+                  </Card>
+                </Col>
+              </Row>
+            </Container>
+          </>
 
-    <div style={{ margin: "80px 0" }}></div>
+    {/* <div style={{ margin: "80px 0" }}></div> */}
 
-    <div className="chart-container">
-      <h3>Citation Context Types Over Time: Stacked Area Chart</h3>
-      <RechartsStackedAreaChart />
-    </div>
-    <div style={{ margin: "80px 0" }}></div>
-    
-    <div className="chart-container">
-      <h3>Citation Context Types By Model: Radar Chart</h3>
-      <RechartsRadarChart />
-    </div>
-    <div style={{ margin: "80px 0" }}></div>
-
-    <div className="chart-container">
-      <h3>Total Citation Types: Pie Chart</h3>
-      <RechartsPieChart />
-    </div>
-    <div style={{ margin: "80px 0" }}></div>
-
-    {/* <div className="chart-container">
-      <h3>D3 Bar Chart</h3>
-      <D3BarChart />
-    </div>
-    
-    <div className="chart-container">
-      <h3>Vega Lite Stream Graph</h3>
-      <VegaLiteStreamgraph />
-    </div> */}
+    <>
+            <Container fluid>
+              <Row>
+                <Col md="6">
+                  <Card>
+                    <Card.Header>
+                      <Card.Title as="h3">Citation Context Types By Model: Radar Chart</Card.Title>
+                      <p className="card-category">March 2020 - November 2024</p>
+                      <div style={{ margin: "20px 0" }}></div>
+                    </Card.Header>
+                    <Card.Body style={{ height: "500px" }}>
+                    <RechartsRadarChart />
+                    </Card.Body>
+                    <Card.Footer>
+                    </Card.Footer>
+                  </Card>
+                </Col>
+                <Col md="6">
+                  <Card>
+                    <Card.Header>
+                      <Card.Title as="h3">Total Citation Types: Pie Chart</Card.Title>
+                      <p className="card-category">March 2020 - November 2024</p>
+                      <div style={{ margin: "20px 0" }}></div>
+                    </Card.Header>
+                    <Card.Body style={{ height: "500px" }}>
+                    <RechartsPieChart />
+                    </Card.Body>
+                    <Card.Footer>
+                    </Card.Footer>
+                  </Card>
+                </Col>
+              </Row>
+            </Container>
+          </>
   </div>
   )
 }

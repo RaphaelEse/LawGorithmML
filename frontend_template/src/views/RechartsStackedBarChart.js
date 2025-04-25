@@ -20,8 +20,8 @@ const RechartsStackedBarChart = () => {
   const modelKeys = data.columns?.slice(1) ?? []; // ['Model1', ..., 'Model7']
 
   return (
-    <div style={{ width: "100%", height: 400 }}>
-      <label style={{ display: "block", marginBottom: "10px" }}>
+    <div style={{ width: "100%", height: 500 }}>
+      <label style={{ display: "block", marginBottom: "10px", fontWeight: "bold", fontSize: "14px", color: "#333" }}>
         <input
           type="checkbox"
           checked={isStacked}

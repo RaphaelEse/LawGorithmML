@@ -44,7 +44,7 @@ function Sidebar({ color, image, routes }) {
             className="simple-text logo-mini mx-1"
           >
             <div className="logo-img">
-              <img src={require("assets/img/reactlogo.png")} alt="..." />
+              <img src={require("assets/img/lawgorithm_logo.png")} alt="..." />
             </div>
           </a>
           <p className="simple-text">

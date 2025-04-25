@@ -61,7 +61,7 @@ const StackedAreaChart = () => {
         ))}
       </div>
 
-      <ResponsiveContainer width="100%" height={400}>
+      <ResponsiveContainer width="100%" height={500}>
         <AreaChart key={data.length > 0 ? "loaded" : "loading"} data={data}> //Ensures animation of chart
           <CartesianGrid strokeDasharray="3 3" />
           <XAxis dataKey="Date" />
@@ -74,10 +74,10 @@ const StackedAreaChart = () => {
             }}
           />
           <Area type="natural" dataKey="Authority" stackId="1" stroke="#ff5733" fill="#ff5733" />
-          <Area type="natural" dataKey="Definition" stackId="1" stroke="#ff8a33" fill="#ff8a33" />
-          <Area type="natural" dataKey="Exception" stackId="1" stroke="#609f20" fill="#609f20" />
+          <Area type="natural" dataKey="Amending" stackId="1" stroke="#ff8a33" fill="#ff8a33" />
+          <Area type="natural" dataKey="Definition" stackId="1" stroke="#609f20" fill="#609f20" />
           <Area type="natural" dataKey="Precedent" stackId="1" stroke="#3383ff" fill="#3383ff" />
-          <Area type="natural" dataKey="Rescinding" stackId="1" stroke="#7c33ff" fill="#7c33ff" />
+          {/* <Area type="natural" dataKey="Exception" stackId="1" stroke="#7c33ff" fill="#7c33ff" /> */}
           <Area type="natural" dataKey="Amending" stackId="1" stroke="#ff33aa" fill="#ff33aa" />
         </AreaChart>
       </ResponsiveContainer>
