@@ -6,7 +6,10 @@ function Homepage() {
       <Container fluid className="mt-4">
         <Row className="justify-content-center text-center">
           <Col md="10">
-            <h1 className="display-4">LawGorithm</h1>
+          <div className="d-flex align-items-center justify-content-center">
+            <h1 className="display-3">LawGorithm</h1>
+            <img src={require("assets/img/lawgorithm_logo_black.png")} alt="Lawgorithm Logo" width={250}/>
+            </div>
             <h3 className="text-muted">Group Members: Jacob Albright, Alip Yalikun, Evan Lee, Jay Sarode, Raphael Esedebe</h3>
             <p className="lead">
               Welcome to LawGorithm! Below is a brief overview of the sections and how to navigate through them.

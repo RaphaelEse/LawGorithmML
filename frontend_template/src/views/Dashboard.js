@@ -137,6 +137,10 @@ function Dashboard() {
                 <p className="card-category">March 2020 - November 2024</p>
               </Card.Header>
               <Card.Body>
+                <Badge>
+                  <i className="fas fa-circle text-info"></i>
+                  Legal Basis/Precedent
+                </Badge>
                 <div className="ct-chart" id="chartHours">
                   <ChartistGraph
                     data={{

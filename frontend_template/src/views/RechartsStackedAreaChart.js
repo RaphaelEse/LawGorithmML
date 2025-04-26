@@ -16,8 +16,8 @@ const modelNames = {
   model4: "Graph Convolutional Network (GCN)"
 }
 
-const timeDivisions = {
-  model1: "By Date",
+const maxValues = {
+  model1: 503,
   model2: "By Month",
   model3: "By Quarter",
   model4: "By Year"
@@ -41,7 +41,7 @@ const StackedAreaChart = () => {
   return (
     // Four buttons to select the model
     <div>
-      <div style={{ marginBottom: "10px" }}>
+      <div style={{ marginBottom: "15px" }}>
         {Object.keys(modelNames).map((model) => (
           <button
             key={model}
@@ -51,7 +51,8 @@ const StackedAreaChart = () => {
               padding: "5px 10px",
               backgroundColor: selectedModel === model ? "#007bff" : "#f0f0f0",
               color: selectedModel === model ? "#fff" : "#000",
-              border: "none",
+              border: "2px solid #aaa",
+
               borderRadius: "4px",
               cursor: "pointer",
             }}
@@ -61,46 +62,23 @@ const StackedAreaChart = () => {
         ))}
       </div>
 
-      <ResponsiveContainer width="100%" height={500}>
-        <AreaChart key={data.length > 0 ? "loaded" : "loading"} data={data}> //Ensures animation of chart
+      <ResponsiveContainer width="100%" height={500} >
+        <AreaChart key={selectedModel} data={data}>
           <CartesianGrid strokeDasharray="3 3" />
-          <XAxis dataKey="Date" />
-          <YAxis />
-          <Tooltip />
-          <Legend
-            formatter={(value, entry) => {
-              const { color } = entry;
-              return <span style={{ color }}>{value}</span>;
-            }}
+          <XAxis dataKey="Date" tickMargin={5} tickSize={10}/>
+          <YAxis tickMargin={5} domain={[0, 1]}/>
+          <Tooltip />          
+          <Legend 
+            verticalAlign="bottom"
+            wrapperStyle={{ marginTop: 100 }}
           />
-          <Area type="natural" dataKey="Authority" stackId="1" stroke="#ff5733" fill="#ff5733" />
-          <Area type="natural" dataKey="Amending" stackId="1" stroke="#ff8a33" fill="#ff8a33" />
-          <Area type="natural" dataKey="Definition" stackId="1" stroke="#609f20" fill="#609f20" />
-          <Area type="natural" dataKey="Precedent" stackId="1" stroke="#3383ff" fill="#3383ff" />
-          {/* <Area type="natural" dataKey="Exception" stackId="1" stroke="#7c33ff" fill="#7c33ff" /> */}
-          <Area type="natural" dataKey="Amending" stackId="1" stroke="#ff33aa" fill="#ff33aa" />
+          <Area type="monotone" dataKey="Amending" stackId="1" stroke="#ff5733" fill="#ff5733" />
+          <Area type="monotone" dataKey="Definition" stackId="1" stroke="#ff8a33" fill="#ff8a33" />
+          <Area type="monotone" dataKey="Precedent" stackId="1" stroke="#609f20" fill="#609f20" />
+          <Area type="monotone" dataKey="Exception" stackId="1" stroke="#3383ff" fill="#3383ff" />
+          <Area type="monotone" dataKey="Authority" stackId="1" stroke="#ff33aa" fill="#ff33aa" />
         </AreaChart>
       </ResponsiveContainer>
-
-      {/* <div style={{ marginBottom: "10px" }}>
-        {Object.keys(modelNames).map((model) => (
-          <button
-            key={model}
-            onClick={() => setSelectedModel(model)}
-            style={{
-              margin: "0 5px",
-              padding: "5px 10px",
-              backgroundColor: selectedModel === model ? "#007bff" : "#f0f0f0",
-              color: selectedModel === model ? "#fff" : "#000",
-              border: "none",
-              borderRadius: "4px",
-              cursor: "pointer",
-            }}
-          >
-            {modelNames[model]}
-          </button>
-        ))}
-      </div> */}
     </div>
   );
 };

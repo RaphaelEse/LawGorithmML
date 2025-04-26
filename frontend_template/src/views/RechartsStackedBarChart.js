@@ -9,6 +9,7 @@ import * as d3 from 'd3'
 const RechartsStackedBarChart = () => {
   const [data, setData] = useState([]);
   const [isStacked, setIsStacked] = useState(false); // toggle state
+  const colors = ["#ff5733", "#ff8a33", "#609f20", "#3383ff", "#3383ff"]; // Color array for different bars
   
   useEffect(() => {
     // Fetch data from the CSV file 
@@ -35,6 +36,7 @@ const RechartsStackedBarChart = () => {
           key={isStacked ? "stacked" : "grouped"} // Update key to force re-render on toggle
           data={data}
           margin={{ top: 20, right: 30, left: 20, bottom: 5 }}
+          stroke="#555"
           animationDuration={1000}
         >
           <CartesianGrid strokeDasharray="3 3" />
@@ -47,7 +49,7 @@ const RechartsStackedBarChart = () => {
               key={key}
               dataKey={key}
               stackId={isStacked ? "a" : undefined}
-              fill={d3.schemeCategory10[index % 10]}
+              fill={colors[index % colors.length]} // Use a color array for different bars
             />
           ))}
         </BarChart>

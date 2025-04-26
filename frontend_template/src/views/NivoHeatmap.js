@@ -22,41 +22,41 @@ const NivoHeatmap = () => {
         {
             "id": "Custom Zero-Shot Model",
             "data": [
-                { "x": "Authority", "y": 0.5 },
-                { "x": "Amending", "y": 0.6 },
-                { "x": "Definition", "y": 0.7 },
-                { "x": "Precedent", "y": 0.8 },
-                { "x": "Exception", "y": 0.9 }
+                { "x": "Authority", "y": 0.861 },
+                { "x": "Amending", "y": 0.908 },
+                { "x": "Definition", "y": 0.960 },
+                { "x": "Precedent", "y": 0.9454 },
+                { "x": "Exception", "y": 0.868 }
             ]
         },
         {
             "id": "LegalBERT",
             "data": [
-                { "x": "Authority", "y": 0.4 },
-                { "x": "Amending", "y": 0.5 },
-                { "x": "Definition", "y": 0.6 },
-                { "x": "Precedent", "y": 0.7 },
+                { "x": "Authority", "y": 0.8 },
+                { "x": "Amending", "y": 0.8 },
+                { "x": "Definition", "y": 0.8 },
+                { "x": "Precedent", "y": 0.8 },
                 { "x": "Exception", "y": 0.8 }
             ]
         },
         {
             "id": "Longformer",
             "data": [
-                { "x": "Authority", "y": 0.5 },
-                { "x": "Amending", "y": 0.6 },
-                { "x": "Definition", "y": 0.7 },
+                { "x": "Authority", "y": 0.8 },
+                { "x": "Amending", "y": 0.8 },
+                { "x": "Definition", "y": 0.8 },
                 { "x": "Precedent", "y": 0.8 },
-                { "x": "Exception", "y": 0.9 }
+                { "x": "Exception", "y": 0.8 }
             ]
         },
         {
             "id": "GCN",
             "data": [
-                { "x": "Authority", "y": 0.4 },
-                { "x": "Amending", "y": 0.5 },
-                { "x": "Definition", "y": 0.6 },
-                { "x": "Precedent", "y": 0.7 },
-                { "x": "Exception", "y": 0.8 }
+                { "x": "Authority", "y": 0.812 },
+                { "x": "Amending", "y": 0.972 },
+                { "x": "Definition", "y": 0.774 },
+                { "x": "Precedent", "y": 0.772 },
+                { "x": "Exception", "y": 0.889 }
             ]
         }
     ];
@@ -90,8 +90,8 @@ return (
         colors={{
             type: 'diverging',
             scheme: 'red_yellow_blue',
-            divergeAt: 0.3,
-            minValue: 0.5,
+            divergeAt: 0.48,
+            minValue: 0.7,
             maxValue: 1.0
         }}
         emptyColor="#555555"

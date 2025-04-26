@@ -20,7 +20,7 @@ const RechartsLineChartMetrics = () => {
         <LineChart key={data.length > 0 ? "loaded" : "loading"} data={data}>
           <CartesianGrid strokeDasharray="3 3" />
           <XAxis dataKey="Metric" padding={{ left: 30, right: 30 }}/>
-          <YAxis domain={[0.3, 0.8]}/>
+          <YAxis domain={[0.8, 0.95]}/>
           <Tooltip />
           <Legend />
           <Line type="monotone" dataKey="Custom Zero-Shot Classification Model" stroke="#ff5733" strokeWidth={3}/>
