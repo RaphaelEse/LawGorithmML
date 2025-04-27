@@ -67,7 +67,7 @@ return (
         data={data}
         margin={{ top: 60, right: 90, bottom: 60, left: 200 }}
         keys={['Authority', 'Amending', 'Definition', 'Precedent', 'Exception']}
-        // valueFormat=">-.2s"
+        valueFormat={value => `${(value * 100)}%`}
         axisTop={{
             tickSize: 5,
             tickPadding: 5,
@@ -77,15 +77,34 @@ return (
             legendOffset: 46,
             truncateTickAt: 0
         }}
- 
+
+        theme={{
+            text: {
+                fontSize: 15,
+                fill: '#000000'
+            },
+            labels: {
+                text: {
+                    fontSize: 18,
+                    fill: '#000000'
+                }
+            },
+            legend: {
+                text: {
+                    fontSize: 8,
+                    fill: '#000000'
+                }
+            },
+
+        }}
         axisLeft={{
-            tickSize: 10,
-            tickPadding: 5,
-            tickRotation: 0,
-            legend: 'Model',
-            legendPosition: 'middle',
-            legendOffset: -100,
-            truncateTickAt: 0
+            // tickSize: 10,
+            // tickPadding: 5,
+            // tickRotation: 0,
+            // legend: 'Model',
+            // legendPosition: 'middle',
+            // legendOffset: -100,
+            // truncateTickAt: 0
         }}
         colors={{
             type: 'diverging',
@@ -97,6 +116,7 @@ return (
         emptyColor="#555555"
         legends={[
             {
+                tickFormat: value => `${(value * 100)}%`,
                 anchor: 'bottom',
                 translateX: 0,
                 translateY: 40,

@@ -27,6 +27,7 @@ const StackedAreaChart = () => {
 
   const [data, setData] = useState([]);
   const [selectedModel, setSelectedModel] = useState("model1");
+  const [limitExtremes, setLimitExtremes] = useState(false); // toggle state
   
     useEffect(() => {
       // Fetch data from the selected CSV file 
@@ -79,7 +80,17 @@ const StackedAreaChart = () => {
           <Area type="monotone" dataKey="Authority" stackId="1" stroke="#ff33aa" fill="#ff33aa" />
         </AreaChart>
       </ResponsiveContainer>
+      <label style={{ display: "block", marginBottom: "10px", fontWeight: "bold", fontSize: "14px", color: "#333" }}>
+        <input
+          type="checkbox"
+          checked={isStacked}
+          onChange={() => setLimitExtremes((prev) => !prev)}
+        />{" "}
+        Omit Outliers
+      </label>
     </div>
+
+    //checkbox to cap 
   );
 };
 

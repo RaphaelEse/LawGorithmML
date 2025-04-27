@@ -1,6 +1,6 @@
 ﻿Type,Custom Zero-Shot Classification Model,LegalBERT,Longformer,Graph Convolutional Network (GCN)
-Authority,33,34,29,31
-Amending,25,20,22,24
-Definition,12,16,14,18
-Precedent,43,32,30,25
-Exception,8,10,9,11
+Amending,3055,2000,2000,2000
+Definition,3165,2000,2000,2000
+Precedent,2854,2000,2000,2000
+Exception,3265,2000,2000,2000
+Authority,2877,2000,2000,2000

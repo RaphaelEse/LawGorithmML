@@ -1,6 +1,15 @@
 import React, { PureComponent } from 'react';
 import { PieChart, Pie, Sector, Cell, ResponsiveContainer } from 'recharts';
 
+  useEffect(() => {
+    // Fetch data from the CSV file 
+    d3.csv("/typesNumbersMultipleModels.csv", d3.autoType).then((parsedData) => {
+      console.log(parsedData)
+      setData(parsedData);
+    });
+  }, []);
+
+
 const data = [
   { name: 'Authority', value: 130 },
   { name: 'Amending', value: 127 },
@@ -10,32 +19,6 @@ const data = [
 
 ];
 
-const data2 = [
-  { name: 'A1', value: 43 },
-  { name: 'A2', value: 32 },
-  { name: 'A3', value: 30 },
-  { name: 'A4', value: 25 },
-  { name: 'B1', value: 33 },
-  { name: 'B2', value: 34 },
-  { name: 'B3', value: 29 },
-  { name: 'B4', value: 31 },
-  { name: 'C1', value: 12 },
-  { name: 'C2', value: 16 },
-  { name: 'C3', value: 14 },
-  { name: 'C4', value: 18 },
-  { name: 'D1', value: 8 },
-  { name: 'D2', value: 10 },
-  { name: 'D3', value: 9 },
-  { name: 'D4', value: 11 },
-  { name: 'E1', value: 25 },
-  { name: 'E2', value: 20 },
-  { name: 'E3', value: 22 },
-  { name: 'E4', value: 24 },
-  { name: 'F1', value: 21 },
-  { name: 'F2', value: 17 },
-  { name: 'F3', value: 19 },
-  { name: 'F4', value: 20 },
-];
 
 const COLORS = ["#ff5133", "#ff8a33", "#609f20", "#3383ff", "#ff33aa" ];
 
