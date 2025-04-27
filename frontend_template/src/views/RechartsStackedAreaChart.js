@@ -12,7 +12,7 @@ const modelCsvFiles = {
 const modelNames = {
   model1: "Custom Zero-Shot Classification Model",
   model2: "LegalBERT",
-  model3: "Longformer",
+  model3: "Distil-BERT",
   model4: "Graph Convolutional Network (GCN)"
 }
 
@@ -80,14 +80,14 @@ const StackedAreaChart = () => {
           <Area type="monotone" dataKey="Authority" stackId="1" stroke="#ff33aa" fill="#ff33aa" />
         </AreaChart>
       </ResponsiveContainer>
-      <label style={{ display: "block", marginBottom: "10px", fontWeight: "bold", fontSize: "14px", color: "#333" }}>
+      {/* <label style={{ display: "block", marginBottom: "10px", fontWeight: "bold", fontSize: "14px", color: "#333" }}>
         <input
           type="checkbox"
           checked={isStacked}
           onChange={() => setLimitExtremes((prev) => !prev)}
         />{" "}
         Omit Outliers
-      </label>
+      </label> */}
     </div>
 
     //checkbox to cap 

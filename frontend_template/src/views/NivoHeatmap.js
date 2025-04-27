@@ -22,41 +22,44 @@ const NivoHeatmap = () => {
         {
             "id": "Custom Zero-Shot Model",
             "data": [
-                { "x": "Authority", "y": 0.861 },
-                { "x": "Amending", "y": 0.908 },
-                { "x": "Definition", "y": 0.960 },
-                { "x": "Precedent", "y": 0.9454 },
-                { "x": "Exception", "y": 0.868 }
+                
+                { "x": "Amending", "y": 90.84 },
+                { "x": "Definition", "y": 96.02 },
+                { "x": "Precedent", "y": 86.82 },
+                { "x": "Exception", "y": 94.54 },
+                { "x": "Authority", "y": 86.11 },
             ]
         },
         {
             "id": "LegalBERT",
             "data": [
-                { "x": "Authority", "y": 0.8 },
-                { "x": "Amending", "y": 0.8 },
-                { "x": "Definition", "y": 0.8 },
-                { "x": "Precedent", "y": 0.8 },
-                { "x": "Exception", "y": 0.8 }
+                
+                { "x": "Amending", "y": 96.45 },
+                { "x": "Definition", "y": 96.67 },
+                { "x": "Precedent", "y": 95.32 },
+                { "x": "Exception", "y": 97.28 },
+                { "x": "Authority", "y": 88.56 },
             ]
         },
         {
-            "id": "Longformer",
+            "id": "Distil-BERT",
             "data": [
-                { "x": "Authority", "y": 0.8 },
-                { "x": "Amending", "y": 0.8 },
-                { "x": "Definition", "y": 0.8 },
-                { "x": "Precedent", "y": 0.8 },
-                { "x": "Exception", "y": 0.8 }
+                
+                { "x": "Amending", "y": 97.01 },
+                { "x": "Definition", "y": 97.39 },
+                { "x": "Precedent", "y": 94.68 },
+                { "x": "Exception", "y": 97.23 },
+                { "x": "Authority", "y": 92.30 }
             ]
         },
         {
             "id": "GCN",
             "data": [
-                { "x": "Authority", "y": 0.812 },
                 { "x": "Amending", "y": 0.972 },
                 { "x": "Definition", "y": 0.774 },
                 { "x": "Precedent", "y": 0.772 },
-                { "x": "Exception", "y": 0.889 }
+                { "x": "Exception", "y": 0.889 },
+                { "x": "Authority", "y": 0.812 }
             ]
         }
     ];
@@ -67,7 +70,7 @@ return (
         data={data}
         margin={{ top: 60, right: 90, bottom: 60, left: 200 }}
         keys={['Authority', 'Amending', 'Definition', 'Precedent', 'Exception']}
-        valueFormat={value => `${(value * 100)}%`}
+        valueFormat={value => `${value}%`}
         axisTop={{
             tickSize: 5,
             tickPadding: 5,
@@ -110,13 +113,13 @@ return (
             type: 'diverging',
             scheme: 'red_yellow_blue',
             divergeAt: 0.48,
-            minValue: 0.7,
-            maxValue: 1.0
+            minValue: 70,
+            maxValue: 100
         }}
         emptyColor="#555555"
         legends={[
             {
-                tickFormat: value => `${(value * 100)}%`,
+                tickFormat: value => `${value}%`,
                 anchor: 'bottom',
                 translateX: 0,
                 translateY: 40,

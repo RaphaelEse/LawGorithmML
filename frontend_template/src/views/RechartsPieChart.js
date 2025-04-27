@@ -1,13 +1,13 @@
 import React, { PureComponent } from 'react';
 import { PieChart, Pie, Sector, Cell, ResponsiveContainer } from 'recharts';
 
-  useEffect(() => {
-    // Fetch data from the CSV file 
-    d3.csv("/typesNumbersMultipleModels.csv", d3.autoType).then((parsedData) => {
-      console.log(parsedData)
-      setData(parsedData);
-    });
-  }, []);
+  // useEffect(() => {
+  //   // Fetch data from the CSV file 
+  //   d3.csv("/typesNumbersMultipleModels.csv", d3.autoType).then((parsedData) => {
+  //     console.log(parsedData)
+  //     setData(parsedData);
+  //   });
+  // }, []);
 
 
 const data = [

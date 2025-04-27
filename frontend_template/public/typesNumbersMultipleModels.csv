@@ -1,6 +1,6 @@
-﻿Type,Custom Zero-Shot Classification Model,LegalBERT,Longformer,Graph Convolutional Network (GCN)
-Amending,3055,2000,2000,2000
-Definition,3165,2000,2000,2000
-Precedent,2854,2000,2000,2000
-Exception,3265,2000,2000,2000
-Authority,2877,2000,2000,2000
+﻿Type,Custom Zero-Shot Classification Model,LegalBERT,Distil-BERT,Graph Convolutional Network (GCN)
+Amending,3055,3049,3075,4335
+Definition,3165,3028,3049,4058
+Precedent,2854,3097,3074,3970
+Exception,3265,3172,3161,3610
+Authority,2877,2870,2857,4027

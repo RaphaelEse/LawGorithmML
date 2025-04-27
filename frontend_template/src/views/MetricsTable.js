@@ -51,19 +51,19 @@ function TableList() {
                     </tr>
                     <tr>
                       <td>LegalBERT</td>
-                      <td>73.3%</td>
-                      <td>73.3%</td>
-                      <td>73.3%</td>
-                      <td>73.3%</td>
-                      <td>73.3%</td>
+                      <td>95.80%</td>
+                      <td>95.86%</td>
+                      <td>95.80%</td>
+                      <td>95.80%</td>
+                      <td>95.80%</td>
                     </tr>
                     <tr>
-                      <td>Longformer</td>
-                      <td>81.6%</td>
-                      <td>81.6%</td>
-                      <td>81.6%</td>
-                      <td>81.6%</td>
-                      <td>81.6%</td>
+                      <td>Distil-BERT</td>
+                      <td>95.72%</td>
+                      <td>95.77%</td>
+                      <td>95.71%</td>
+                      <td>95.71%</td>
+                      <td>95.71%</td>
                     </tr>
                     <tr>
                       <td>Graph Convolutional Networks (GCN)</td>

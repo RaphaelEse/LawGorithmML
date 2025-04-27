@@ -9,7 +9,7 @@ import * as d3 from 'd3'
 const modelNames = {
   model1: "Custom Zero-Shot Classification Model",
   model2: "LegalBERT",
-  model3: "Longformer",
+  model3: "Distil-BERT",
   model4: "Graph Convolutional Network (GCN)"
 }
 
