@@ -43,13 +43,14 @@ function Sidebar({ color, image, routes }) {
             href="https://www.creative-tim.com?ref=lbd-sidebar"
             className="simple-text logo-mini mx-1"
           >
-            <div className="logo-img">
-              <img src={require("assets/img/reactlogo.png")} alt="..." />
-            </div>
           </a>
-          <p className="simple-text">
+          <p className="simple-text ">
             LawGorithm
           </p>
+          
+          <div className="logo-img">
+              <img src={require("assets/img/lawgorithm_logo.png")} alt="Lawgorithm Logo" />
+            </div>
         </div>
         <Nav>
           {routes.map((prop, key) => {

@@ -21,9 +21,11 @@ function TableList() {
           <Col md="12">
             <Card className="strpied-tabled-with-hover">
               <Card.Header>
-                <Card.Title as="h4">Comparative Analysis Results:</Card.Title>
-                <p className="card-category">
-                  Scores compared among our own Custom NLP Model and industry-standard models
+                <Card.Title as="h3">Comparative Analysis Results:</Card.Title>
+                <div style={{ margin: "5px 0" }}></div>
+                <p className="card-category" style={{ fontSize: "1rem" }}>
+                  Below are industry-standard metrics for machine learning models compared between Lawgorithm's Custom Zero-Shot Classification
+                  Model and three other legal classification models chosen for comparative analysis.
                 </p>
               </Card.Header>
               <Card.Body className="table-full-width table-responsive px-0">
@@ -40,52 +42,36 @@ function TableList() {
                   </thead>
                   <tbody>
                     <tr>
-                      <td>Custom NLP Model</td>
-                      <td>91.4%</td>
-                      <td>91.4%</td>
-                      <td>91.4%</td>
-                      <td>91.4%</td>
-                      <td>91.4%</td>
+                      <td>Custom Zero-Shot Classification Model</td>
+                      <td>90.87%</td>
+                      <td>90.88%</td>
+                      <td>90.87%</td>
+                      <td>90.82%</td>
+                      <td>90.82%</td>
                     </tr>
                     <tr>
                       <td>LegalBERT</td>
-                      <td>73.3%</td>
-                      <td>73.3%</td>
-                      <td>73.3%</td>
-                      <td>73.3%</td>
-                      <td>73.3%</td>
+                      <td>95.80%</td>
+                      <td>95.86%</td>
+                      <td>95.80%</td>
+                      <td>95.80%</td>
+                      <td>95.80%</td>
                     </tr>
                     <tr>
-                      <td>Legal-RoBERTa</td>
-                      <td>81.6%</td>
-                      <td>81.6%</td>
-                      <td>81.6%</td>
-                      <td>81.6%</td>
-                      <td>81.6%</td>
+                      <td>Distil-BERT</td>
+                      <td>95.72%</td>
+                      <td>95.77%</td>
+                      <td>95.71%</td>
+                      <td>95.71%</td>
+                      <td>95.71%</td>
                     </tr>
                     <tr>
-                      <td>Custom-LegalBERT</td>
-                      <td>57.9%</td>
-                      <td>57.9%</td>
-                      <td>57.9%</td>
-                      <td>57.9%</td>
-                      <td>57.9%</td>
-                    </tr>
-                    <tr>
-                      <td>Graph Convolutional Networks</td>
-                      <td>86.5%</td>
-                      <td>86.5%</td>
-                      <td>86.5%</td>
-                      <td>86.5%</td>
-                      <td>86.5%</td>
-                    </tr>
-                    <tr>
-                      <td>Long-Short Term Memory Network</td>
-                      <td>90.1%</td>
-                      <td>90.1%</td>
-                      <td>90.1%</td>
-                      <td>90.1%</td>
-                      <td>90.1%</td>
+                      <td>Graph Convolutional Networks (GCN)</td>
+                      <td>84.23%</td>
+                      <td>84.99%</td>
+                      <td>84.23%</td>
+                      <td>84.23%</td>
+                      <td>84.19%</td>
                     </tr>
                   </tbody>
                 </Table>

@@ -15,18 +15,11 @@
 * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 */
-import Dashboard from "views/Dashboard.js";
-import UserProfile from "views/UserProfile.js";
-import TableList from "views/TableList.js";
-import Typography from "views/Typography.js";
-import Icons from "views/Icons.js";
-import Maps from "views/Maps.js";
-import Notifications from "views/Notifications.js";
-import Upgrade from "views/Upgrade.js";
-import D3BarChart from "views/D3BarChart";
-import VegaLiteStreamgraph from "views/VegaLiteStreamgraph";
+import HomePage from "views/HomePage";
 import CustomVisualizations from "views/CustomVisualizations";
 import BillDetails from "views/BillDetails";
+import ComparativeAnalysis from "views/ComparativeAnalysis";
+import Homepage from "views/HomePage";
 
 
 const dashboardRoutes = [
@@ -35,7 +28,7 @@ const dashboardRoutes = [
     path: "/homepage",
     name: "Home Page",
     icon: "nc-icon nc-globe-2",
-    component: Notifications,
+    component: Homepage,
     layout: "/admin"
   },
 
@@ -43,17 +36,10 @@ const dashboardRoutes = [
     path: "/comparative-analysis",
     name: "Comparative Analysis",
     icon: "nc-icon nc-preferences-circle-rotate",
-    component: TableList,
+    component: ComparativeAnalysis,
     layout: "/admin"
   },
 
-  // {
-  //   path: "/visualizations",
-  //   name: "Visualizations",
-  //   icon: "nc-icon nc-chart-pie-36",
-  //   component: Dashboard,
-  //   layout: "/admin"
-  // },
 
   {
     path: "/bill_details",
@@ -71,13 +57,6 @@ const dashboardRoutes = [
     layout: "/admin"
   },
 
-  // {
-  //   path: "/icons",
-  //   name: "Icons",
-  //   icon: "nc-icon nc-atom",
-  //   component: Icons,
-  //   layout: "/admin"
-  // },
 ];
 
 export default dashboardRoutes;

@@ -3,6 +3,8 @@
   "version": "2.0.1",
   "dependencies": {
     "@fortawesome/fontawesome-free": "5.15.2",
+    "@nivo/core": "^0.89.1",
+    "@nivo/heatmap": "^0.89.1",
     "ajv": "^8.16.0",
     "bootstrap": "4.6.0",
     "chartist": "0.10.1",
