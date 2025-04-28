@@ -1,8 +1,6 @@
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import ChartistGraph from "react-chartist";
-import D3BarChart from "./D3BarChart"
-import VegaLiteStreamgraph from "./VegaLiteStreamgraph"
-import GraphVisualization from "./GraphVisualization";
+
 import BillSearch from "./BillSearch";
 
 // react-bootstrap components

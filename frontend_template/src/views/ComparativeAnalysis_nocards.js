@@ -1,5 +1,4 @@
 import React from "react";
-import Recharts from "./RechartsStackedBarChart"
 import RechartsLineChartMetrics from "./RechartsLineChartMetrics";
 import TableList from "./MetricsTable";
 import NivoHeatmap from "./NivoHeatmap";
