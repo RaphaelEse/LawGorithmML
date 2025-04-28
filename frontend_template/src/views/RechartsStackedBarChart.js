@@ -32,14 +32,15 @@ const RechartsStackedBarChart = () => {
       </label>
 
       <ResponsiveContainer width="100%" height="100%">
-        <BarChart
+        
+        <BarChart 
           key={isStacked ? "stacked" : "grouped"} // Update key to force re-render on toggle
           data={data}
           margin={{ top: 20, right: 30, left: 20, bottom: 5 }}
           stroke="#555"
           animationDuration={1000}
         >
-          <CartesianGrid strokeDasharray="3 3" />
+          <CartesianGrid strokeDasharray="3 3"/>
           <XAxis dataKey="Type" />
           <YAxis />
           <Tooltip />
@@ -51,6 +52,9 @@ const RechartsStackedBarChart = () => {
               stackId={isStacked ? "a" : undefined}
               fill={colors[index % colors.length]} // Use a color array for different bars
             />
+          //Add dashed red bar at y=3000 along entire graph
+
+
           ))}
         </BarChart>
       </ResponsiveContainer>

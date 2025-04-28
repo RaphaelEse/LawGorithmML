@@ -11,11 +11,12 @@ import { PieChart, Pie, Sector, Cell, ResponsiveContainer } from 'recharts';
 
 
 const data = [
-  { name: 'Authority', value: 130 },
-  { name: 'Amending', value: 127 },
-  { name: 'Definition', value: 60 },
-  { name: 'Precedent', value: 113 },
-  { name: 'Exception', value: 38 },
+  { name: 'Amending', value: 11916 },
+  { name: 'Definition', value: 12310 },
+  { name: 'Precedent', value: 12109 },
+  { name: 'Exception', value: 11885 },
+  { name: 'Authority', value: 12644 },
+
 
 ];
 

@@ -41,32 +41,31 @@ const NivoHeatmap = () => {
         {
             "id": "GCN",
             "data": [
-                { "x": "Amending", "y": 0.972 },
-                { "x": "Definition", "y": 0.774 },
-                { "x": "Precedent", "y": 0.772 },
-                { "x": "Exception", "y": 0.889 },
-                { "x": "Authority", "y": 0.812 }
+                { "x": "Amending", "y": 73.28 },
+                { "x": "Definition", "y": 77.42 },
+                { "x": "Precedent", "y": 84.62 },
+                { "x": "Exception", "y": 68.79 },
+                { "x": "Authority", "y": 75.68 }
             ]
         }
     ];
 
 return (
-    <div style={{ height: 700 }}>
+    <div style={{ height: 720 }}>
     <ResponsiveHeatMap
         data={data}
-        margin={{ top: 60, right: 90, bottom: 60, left: 200 }}
+        margin={{ top: 60, right: 90, bottom: 90, left: 200 }}
         keys={['Authority', 'Amending', 'Definition', 'Precedent', 'Exception']}
         valueFormat={value => `${value}%`}
         axisTop={{
-            tickSize: 5,
+            tickSize: 10,
             tickPadding: 5,
-            legend: 'Model',
-            legendPosition: 'middle',
-            legendOffset: -1000,
-            legendOffset: 46,
-            truncateTickAt: 0
         }}
-
+        axisLeft={{
+            tickSize: 10,
+            tickPadding: 5,
+        }}
+        labelTextColor={"#000000"}
         theme={{
             text: {
                 fontSize: 15,
@@ -75,40 +74,34 @@ return (
             labels: {
                 text: {
                     fontSize: 18,
-                    fill: '#000000'
+                    fill: '#000000',
+                    strokeWidth: 0.5,
+                    stroke: '#000000',
+                    
+
                 }
             },
             legend: {
                 text: {
-                    fontSize: 8,
-                    fill: '#000000'
+                    fontSize: 18,
+                    fill: '#ffffff'
                 }
             },
 
-        }}
-        axisLeft={{
-            // tickSize: 10,
-            // tickPadding: 5,
-            // tickRotation: 0,
-            // legend: 'Model',
-            // legendPosition: 'middle',
-            // legendOffset: -100,
-            // truncateTickAt: 0
         }}
         colors={{
             type: 'diverging',
             scheme: 'red_yellow_blue',
             divergeAt: 0.48,
-            minValue: 70,
+            minValue: 65,
             maxValue: 100
         }}
-        emptyColor="#555555"
         legends={[
             {
                 tickFormat: value => `${value}%`,
                 anchor: 'bottom',
                 translateX: 0,
-                translateY: 40,
+                translateY: 70,
                 length: 800,
                 thickness: 20,
                 direction: 'row',

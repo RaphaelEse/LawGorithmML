@@ -1,6 +1,6 @@
 ﻿Type,Custom Zero-Shot Classification Model,LegalBERT,Distil-BERT,Graph Convolutional Network (GCN)
-Amending,3055,3049,3075,4335
-Definition,3165,3028,3049,4058
-Precedent,2854,3097,3074,3970
-Exception,3265,3172,3161,3610
-Authority,2877,2870,2857,4027
+Amending,3055,3049,3075,2737
+Definition,3165,3028,3049,3068
+Precedent,2854,3097,3074,3084
+Exception,3265,3172,3161,2287
+Authority,2877,2870,2857,4040
