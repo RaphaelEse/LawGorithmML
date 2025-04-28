@@ -1,6 +1,6 @@
 Metric,Custom Zero-Shot Classification Model,LegalBERT,Distil-BERT,Graph Convolutional Network (GCN)
-Accuracy,0.909,0.958,0.957,0.842
-Precision,0.909,0.959,0.958,0.850
-Recall,0.909,0.958,0.957,0.842
-F1-Score,0.908,0.958,0.957,0.842
-Weighted F1-Score,0.908,0.958,0.957,0.842
+Accuracy,0.909,0.958,0.957,0.861
+Precision,0.909,0.959,0.958,0.863
+Recall,0.909,0.958,0.957,0.861
+F1-Score,0.908,0.958,0.957,0.861
+Weighted F1-Score,0.908,0.958,0.957,0.861
