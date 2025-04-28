@@ -23,24 +23,6 @@ function Dashboard() {
 
   const [graphData, setGraphData] = useState({ nodes: [], links: [] });
 
-  // useEffect(() => {
-  //   fetch("http://127.0.0.1:5000/full-graph")
-  //     .then((res) => res.json())
-  //     .then((data) => {
-  //       console.log(data)
-
-  //       const nodes = data.nodes || [];
-  //       const links = (data.relationships || []).map(rel => ({
-  //         source: rel.source,
-  //         target: rel.target,
-  //         type: rel.type
-  //       }));
-  //       setGraphData({ nodes, links });
-  //       console.log(graphData)
-  //     })
-  //     .catch((err) => console.error("Error fetching graph data:", err));
-  // }, []);
-
   return (
 
     <>
