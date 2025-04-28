@@ -1,22 +1,8 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 
 import {ResponsiveHeatMap} from '@nivo/heatmap'
 
-import * as d3 from 'd3'
-
 const NivoHeatmap = () => {
-
-
-    //   const [data, setData] = useState([]);
-      
-    //  //Fetch data from the CSV file, keep only data arrays and delete "columns" array
-    //     useEffect(() => {
-    //         d3.csv("/model_metrics_by_type.csv", d3.autoType).then((parsedData) => {
-    //             const dataWithoutColumns = [...parsedData];
-    //             console.log(dataWithoutColumns)
-    //             setData(dataWithoutColumns);
-    //         });
-    //         }, []);
 
     const data = [
         {

@@ -1,14 +1,9 @@
 import React from "react";
-import Recharts from "./RechartsStackedBarChart"
 import RechartsLineChartMetrics from "./RechartsLineChartMetrics";
 import MetricsTable from "./MetricsTable";
 import NivoHeatmap from "./NivoHeatmap";
 import {
-  Badge,
-  Button,
   Card,
-  Navbar,
-  Nav,
   Table,
   Container,
   Row,
