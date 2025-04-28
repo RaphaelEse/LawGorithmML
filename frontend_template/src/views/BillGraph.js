@@ -15,11 +15,10 @@ const BillGraph = ({ billId }) => {
 
   useEffect(() => {
     if (!billId) return;
-    // Fetch the graph data for the given billId
-    fetch(`http://127.0.0.1:5000/bills/${billId}/graph`)
-      .then(response => response.json())
+    fetch(`http://34.205.59.36/api/bills/${billId}/graph`)
+      .then(r => r.json())
       .then(data => setGraphData(data))
-      .catch(error => console.error('Error fetching bill graph data:', error));
+      .catch(err => console.error('Error fetching bill graph data:', err));
   }, [billId]);
 
   if (!graphData) {

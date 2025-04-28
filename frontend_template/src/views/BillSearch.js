@@ -11,11 +11,11 @@ const BillSearch = () => {
       setBillSuggestions([]);
       return;
     }
-    fetch(`http://127.0.0.1:5000/bills/search?q=${encodeURIComponent(query)}`)
-      .then((response) => response.json())
-      .then((data) => setBillSuggestions(data))
-      .catch((error) => {
-        console.error('Error fetching autocomplete suggestions:', error);
+    fetch(`http://34.205.59.36/api/bills/search?q=${encodeURIComponent(query)}`)
+      .then(res => res.json())
+      .then(data => setBillSuggestions(data))
+      .catch(err => {
+        console.error('Error fetching autocomplete suggestions:', err);
       });
   }, [query]);
 
