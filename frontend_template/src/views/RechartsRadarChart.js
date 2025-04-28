@@ -68,7 +68,7 @@ const RechartsRadarChart = () => {
         <RadarChart key={selectedModel} cx="50%" cy="50%" outerRadius="90%" data={data}>
           <PolarGrid />
           <PolarAngleAxis dataKey="Type" />
-          <PolarRadiusAxis domain={[0, 40]}/>
+          <PolarRadiusAxis domain={[0, 4040]}/>
 
             <Radar
               name={modelNames.model1}
@@ -107,7 +107,7 @@ const RechartsRadarChart = () => {
         <RadarChart key={selectedModel} cx="50%" cy="50%" outerRadius="90%" data={data}>
           <PolarGrid />
           <PolarAngleAxis dataKey="Type" />
-          <PolarRadiusAxis domain={[0, 40]}/>
+          <PolarRadiusAxis domain={[0, 4040]}/>
             <Radar
               name={modelNames[selectedModel]}
               dataKey={modelNames[selectedModel]}

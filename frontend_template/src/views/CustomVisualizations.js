@@ -83,6 +83,7 @@ function CustomVisualizations() {
                     <RechartsStackedAreaChart />
                     </Card.Body>
                     <Card.Footer>
+                      Note: This is the only visualization that uses original data without SMOTE balancing to preserve citation date authenticity. This results in an imbalanced dataset skewed towards the "Authority" citation context type.
                     </Card.Footer>
                   </Card>
                 </Col>
