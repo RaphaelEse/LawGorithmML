@@ -42,7 +42,7 @@ const RechartsStackedBarChart = () => {
         >
           <CartesianGrid strokeDasharray="3 3"/>
           <XAxis dataKey="Type" />
-          <YAxis />
+          <YAxis domain={isStacked ? [0, 13000] : [0,4500]}/>
           <Tooltip />
           <Legend />
           {modelKeys.map((key, index) => (

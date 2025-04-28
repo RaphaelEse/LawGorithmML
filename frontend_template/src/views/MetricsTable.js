@@ -67,11 +67,11 @@ function TableList() {
                     </tr>
                     <tr>
                       <td>Graph Convolutional Networks (GCN)</td>
-                      <td>86.10%</td>
-                      <td>86.26%</td>
-                      <td>86.10%</td>
-                      <td>86.07%</td>
-                      <td>86.07%</td>
+                      <td>75.96%</td>
+                      <td>77.99%</td>
+                      <td>75.96%</td>
+                      <td>75.96%</td>
+                      <td>76.34%</td>
                     </tr>
                   </tbody>
                 </Table>

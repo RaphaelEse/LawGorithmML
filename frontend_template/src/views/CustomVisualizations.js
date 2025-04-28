@@ -33,10 +33,10 @@ function CustomVisualizations() {
                       <Card.Title as="h3">Total Citation Context Types by Model: Stacked/Grouped Bar Chart</Card.Title>
                       <div style={{ margin: "5px 0" }}></div>
                 <p className="card-category" style={{ fontSize: "1rem" }}>
-                 Below is a bar chart comparing the total number of classifications for all five citation context classification types among the four models used for comparative analysis.
+                <b>1)</b> Below is a bar chart comparing the total number of classifications for all five citation context classification types among the four models used for comparative analysis.
                 </p>
                 <p className="card-category" style={{ fontSize: "1rem" }}>
-                The "Toggle Stacked View" option allows you to view the chart in either stacked or grouped format.
+                <b>2)</b> The "Toggle Stacked View" option allows you to view the chart in either stacked or grouped format.
                 </p>
                 {/* <p className="card-category" style={{ fontSize: "1rem" }}>
                  When the "Toggle Stacked View" option is unchecked, the chart will compare the number of classifications for each citation context type by model.
@@ -45,7 +45,7 @@ function CustomVisualizations() {
                 When the "Toggle Stacked View" option is checked, the chart will compare the total number of classifications for each citation context type.
                 </p> */}
                 <p className="card-category" style={{ fontSize: "1rem" }}>
-                Upon mouseover, the chart will display the total number of classifications for each citation context type by model.
+                <b>3)</b> Upon mouseover, the chart will display the total number of classifications for each citation context type by model.
                 </p>
                       <div style={{ margin: "20px 0" }}></div>
                       <RechartsStackedBarChart />
@@ -70,16 +70,20 @@ function CustomVisualizations() {
                       <Card.Title as="h3">Citation Context Types Over Time: Stacked Area Chart</Card.Title>
                       <div style={{ margin: "5px 0" }}></div>
                 <p className="card-category" style={{ fontSize: "1rem" }}>
-                 Below is a stacked area chart describing how the number of classifications for citation context type changes over time.
+                <b>1)</b> Below is a stacked area chart describing how the number of classifications for citation context type changes over time.
                 </p>
                 <p className="card-category" style={{ fontSize: "1rem" }}>
-                The four buttons above the chart allow you to select between the four models used for comparative analysis.
+                <b>2)</b> The four buttons above the chart allow you to select between the four models used for comparative analysis.
                 </p>
                 <p className="card-category" style={{ fontSize: "1rem" }}>
-                Upon mouseover, the chart will display a specific date and the number of classifications for each citation context type.
+                <b>3)</b> Upon mouseover, the chart will display a specific date and the number of classifications for each citation context type.
                 </p>
+                <p className="card-category" style={{ fontSize: "1rem" }}>
+                <b>4)</b> To remove outliers in the "Authority" citation context type, check the "Omit Outliers" box below the stacked area chart.
+                </p>
+                
                     </Card.Header>
-                    <Card.Body style={{ height: "560px" }}>
+                    <Card.Body style={{ height: "600px" }}>
                     <RechartsStackedAreaChart />
                     </Card.Body>
                     <Card.Footer>
@@ -102,10 +106,10 @@ function CustomVisualizations() {
                       <Card.Title as="h3">Citation Context Types By Model: Radar Chart</Card.Title>
                       <div style={{ margin: "5px 0" }}></div>
                       <p className="card-category" style={{ fontSize: "1rem" }}>
-                      Below is a radar chart comparing the number of classifications among the citation context classification types for a chosen model.
+                      <b>1)</b> Below is a radar chart comparing the number of classifications among the citation context classification types for a chosen model.
                       </p>
                       <p className="card-category" style={{ fontSize: "1rem" }}>
-                        By default, all models are shown in a stacked format. To choose a single model, use the dropdown menu above the chart.
+                      <b>2)</b> By default, all models are shown in a stacked format. To choose a single model, use the dropdown menu above the chart.
                       </p>
                       <div style={{ margin: "0px 0" }}></div>
                     </Card.Header>
@@ -122,10 +126,10 @@ function CustomVisualizations() {
                       <Card.Title as="h3">Total Citation Types: Pie Chart</Card.Title>
                       <div style={{ margin: "5px 0" }}></div>
                       <p className="card-category" style={{ fontSize: "1rem" }}>
-                      Below is a pie chart comparing the total number of classifications among the citation context classification types for all models.
+                      <b>1)</b> Below is a pie chart comparing the total number of classifications among the citation context classification types for all models.
                       </p>
                       <p className="card-category" style={{ fontSize: "1rem" }}>
-                      Upon mouseover, the chart will display the total number of classifications and the percentage of total classifications for the chosen citation context classification type.
+                      <b>2)</b> Upon mouseover, the chart will display the the total number of classifications for the chosen citation context type, as well as the overall percentage of classifications the chosen citation context type represents.
                       </p>
                     </Card.Header>
                     <Card.Body style={{ height: "500px" }}>
