@@ -1,6 +1,7 @@
 import os
 import json
 from dotenv import load_dotenv
+import csv
 from neo4j import GraphDatabase
 
 load_dotenv()
@@ -32,66 +33,6 @@ def test_db_connection():
         result = session.run("RETURN 1 AS test_value")
         record = result.single()
         return record["test_value"] if record else None
-
-def save_bill_with_citations(bill_data):
-    with get_db_session() as session:
-        def tx_func(tx, bill_data):
-            # 1) Create the Bill node (only bill_id)
-            create_bill_query = """
-            CREATE (b:Bill { bill_id: $bill_id })
-            RETURN b
-            """
-            tx.run(create_bill_query, bill_id=bill_data["bill_id"])
-            
-            # 2) Prepare and batch create Citation nodes using UNWIND.
-            citations = bill_data.get("citations", [])
-            # Add a composite key so that each citation is unique per bill
-            for citation in citations:
-                citation["uniqueCitationId"] = f"{bill_data['bill_id']}_{citation['citation_id']}"
-            
-            create_citations_query = """
-            UNWIND $citations AS citation
-            CREATE (c:Citation {
-                uniqueCitationId: citation.uniqueCitationId,
-                citation_id: citation.citation_id,
-                text: citation.text,
-                startPosition: coalesce(citation.startPosition, 0),
-                endPosition: coalesce(citation.endPosition, 0),
-                normCite: coalesce(citation.normCite, ""),
-                citeType: coalesce(citation.citeType, ""),
-                altCite: coalesce(citation.altCite, ""),
-                pinCiteStr: coalesce(citation.pinCiteStr, ""),
-                pageRangeStr: coalesce(citation.pageRangeStr, ""),
-                nodeId: coalesce(citation.nodeId, 0),
-                section: coalesce(citation.section, ""),
-                sectionAndSubSection: coalesce(citation.sectionAndSubSection, ""),
-                isShortCite: coalesce(citation.isShortCite, false),
-                chunk_id: coalesce(citation.chunk_id, 0),
-                context: coalesce(citation.context, ""),
-                low_confidence: coalesce(citation.low_confidence, "")
-            })
-            """
-            tx.run(create_citations_query, citations=citations)
-            
-            # 3) Group citations by their dynamic relationship type (from high_confidence)
-            relationship_groups = {}
-            for citation in citations:
-                rel_type = citation.get("high_confidence", "DEFAULT")
-                if rel_type not in relationship_groups:
-                    relationship_groups[rel_type] = []
-                relationship_groups[rel_type].append(citation)
-            
-            # 4) Create relationships for each group using the composite key
-            for rel_type, group in relationship_groups.items():
-                create_relationships_query = f"""
-                UNWIND $group AS citation
-                MATCH (b:Bill {{ bill_id: $bill_id }})
-                MATCH (c:Citation {{ uniqueCitationId: citation.uniqueCitationId }})
-                CREATE (b)-[:`{rel_type}`]->(c)
-                """
-                tx.run(create_relationships_query, bill_id=bill_data["bill_id"], group=group)
-
-        session.execute_write(tx_func, bill_data)
 
 
 def get_all_bills():
@@ -162,21 +103,24 @@ def get_full_graph():
 
 def search_bills(search_term):
     """
-    Searches for Bill nodes where bill_id contains the search_term (case-insensitive).
+    Searches for Bill nodes where bill_id OR bill_title contains the search_term (case-insensitive).
     Returns:
-        A list of matching bill_id strings.
+      [ { "bill_id": "...", "bill_title": "..." }, … ]
     """
     with get_db_session() as session:
         def tx_func(tx, search_term):
-            result = tx.run(
+            res = tx.run(
                 """
                 MATCH (b:Bill)
                 WHERE toLower(b.bill_id) CONTAINS toLower($search_term)
-                RETURN b.bill_id AS bill_id
+                   OR toLower(b.bill_title) CONTAINS toLower($search_term)
+                RETURN b.bill_id AS bill_id, b.bill_title AS bill_title
+                ORDER BY b.bill_id
+                LIMIT 20
                 """,
                 {"search_term": search_term}
             )
-            return [record["bill_id"] for record in result]
+            return [ {"bill_id": r["bill_id"], "bill_title": r["bill_title"]} for r in res ]
         return session.execute_read(tx_func, search_term)
 
 def get_bill_graph(bill_id):
@@ -206,25 +150,80 @@ def get_bill_graph(bill_id):
             else:
                 return {"nodes": [], "relationships": []}
         return session.execute_read(tx_func, bill_id)
+    
+current_dir  = os.path.dirname(os.path.abspath(__file__))
+csv_path     = os.path.join(current_dir, "Bills and Names - Sheet1.csv")
 
+bill_title_map = {}
+with open(csv_path, newline="", encoding="utf-8") as fh:
+    reader = csv.DictReader(fh)
+    for row in reader:
+        bid   = row["File Name"].strip()   # <-- this is your bill_id
+        title = row["Bill Name"].strip()   # <-- this is the human‐readable title
+        bill_title_map[bid] = title
+
+def save_bill_with_citations(bill_data, bill_title):
+    with get_db_session() as session:
+        def tx(tx, bd, title):
+            bid = bd["bill_id"]
+
+            # 1) MERGE Bill and set its title
+            tx.run("""
+                MERGE (b:Bill { bill_id: $bill_id })
+                SET   b.bill_title = $bill_title
+            """, bill_id=bid, bill_title=title)
+
+            # 2) Build composite key so citations never collide
+            citations = bd.get("citations", [])
+            for c in citations:
+                c["uniqueCitationId"] = f"{bid}__{c['citation_id']}"
+
+            # 3) MERGE all Citation nodes
+            tx.run("""
+                UNWIND $citations AS c
+                MERGE (cit:Citation { uniqueCitationId: c.uniqueCitationId })
+                SET
+                  cit.citation_id     = c.citation_id,
+                  cit.text            = c.text,
+                  cit.context         = coalesce(c.context, ""),
+                  cit.original_label  = coalesce(c.original_label, ""),
+                  cit.predicted_label = coalesce(c.predicted_label, ""),
+                  cit.bill_full_name  = coalesce(c.bill_full_name, ""),
+                  cit.bill_id         = coalesce(c.bill_id, ""),
+                  cit.model_name      = coalesce(c.model_name, ""),
+                  cit.prob_Amending   = c.prob_Amending,
+                  cit.prob_Authority  = c.prob_Authority,
+                  cit.prob_Definition = c.prob_Definition,
+                  cit.prob_Exception  = c.prob_Exception,
+                  cit.prob_Precedent  = c.prob_Precedent
+            """, citations=citations)
+
+            # 4) Group by predicted_label and create relationships
+            rel_groups = {}
+            for c in citations:
+                lbl = c.get("predicted_label", "DEFAULT")
+                rel_groups.setdefault(lbl, []).append(c)
+
+            for rel_type, grp in rel_groups.items():
+                tx.run(f"""
+                    UNWIND $grp AS c
+                    MATCH (b:Bill {{ bill_id: $bill_id }})
+                    MATCH (cit:Citation {{ uniqueCitationId: c.uniqueCitationId }})
+                    MERGE (b)-[:`{rel_type}`]->(cit)
+                """, bill_id=bid, grp=grp)
+
+        session.execute_write(tx, bill_data, bill_title)
 
 if __name__ == "__main__":
-    import os
-    import json
-    import glob
+    json_path = os.path.join(current_dir, "new_distilbert_results.json")
+    with open(json_path, "r", encoding="utf-8") as jf:
+        all_bills = json.load(jf)
 
-    # Determine the absolute path to the 'fin_labeled' folder at the same level as this file.
-    current_dir = os.path.dirname(os.path.abspath(__file__))
-    json_dir = os.path.join(current_dir, "fin_labeled")
-    
-    # Find all JSON files in the folder
-    json_files = glob.glob(os.path.join(json_dir, "*.json"))
-    print(json_files)
-    # Process each JSON file in the folder
-    for json_file in json_files:
-        print(f"Processing file: {json_file}")
-        with open(json_file, "r") as f:
-            bill_data = json.load(f)
-        # Save the bill and its citations
-        save_bill_with_citations(bill_data)
+    for bill in all_bills:
+        bid   = bill.get("bill_id")
+        title = bill_title_map.get(bid, "")
+        print(f"→ Importing {bid!r} as “{title}” ({len(bill.get('citations', []))} citations)")
+        save_bill_with_citations(bill, title)
+
+    print("✅ Done importing all bills.")
 

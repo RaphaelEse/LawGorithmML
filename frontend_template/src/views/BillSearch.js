@@ -1,66 +1,78 @@
 import React, { useState, useEffect } from 'react';
-import BillGraph from './BillGraph'; // Make sure BillGraph is exported from its file
+import BillGraph from './BillGraph';
 
 const BillSearch = () => {
   const [query, setQuery] = useState('');
-  const [billSuggestions, setBillSuggestions] = useState([]);
-  const [selectedBill, setSelectedBill] = useState(null);
+  const [suggestions, setSuggestions] = useState([]);    // now: array of {bill_id, bill_title}
+  const [selectedBillId, setSelectedBillId] = useState(null);
 
   useEffect(() => {
-    if (query.trim() === '') {
-      setBillSuggestions([]);
+    if (!query.trim()) {
+      setSuggestions([]);
       return;
     }
+
     fetch(`http://34.205.59.36/api/bills/search?q=${encodeURIComponent(query)}`)
-      .then(res => res.json())
-      .then(data => setBillSuggestions(data))
-      .catch(err => {
-        console.error('Error fetching autocomplete suggestions:', err);
-      });
+      .then(r => r.json())
+      .then(data => setSuggestions(data))
+      .catch(console.error);
   }, [query]);
 
-  const handleSuggestionClick = (billId) => {
-    // Set the query to the selected bill id
-    setQuery(billId);
-    // Clear suggestions from the view
-    setBillSuggestions([]);
-    // Set the selected bill for further graph visualization
-    setSelectedBill(billId);
+  //   useEffect(() => {
+  //   if (query.trim() === '') {
+  //     setSuggestions([]);
+  //     return;
+  //   }
+  //   fetch(`http://34.205.59.36/api/bills/search?q=${encodeURIComponent(query)}`)
+  //     .then(res => res.json())
+  //     .then(data => setSuggestions(data))
+  //     .catch(err => {
+  //       console.error('Error fetching autocomplete suggestions:', err);
+  //     });
+  // }, [query]);
+
+
+  const handleSelect = (bill_id) => {
+    setSelectedBillId(bill_id);
+    setQuery('');            // clear input if you like
+    setSuggestions([]);      
   };
 
   return (
-    <div >
+    <div>
       <input
         type="text"
-        placeholder="Search bills..."
+        placeholder="Search by ID or title…"
         value={query}
-        onChange={(e) => {
+        onChange={e => {
           setQuery(e.target.value);
-          // Clear the selected bill when typing a new query.
-          setSelectedBill(null);
+          setSelectedBillId(null);
         }}
-        style={{ width: '100%', padding: '8px', fontSize: '16px' }}
+        style={{ width: '100%', padding: 8, fontSize: 16 }}
       />
-      {billSuggestions.length > 0 && (
-        <ul style={{ listStyle: 'none', paddingLeft: 0, border: '1px solid #ccc' }}>
-          {billSuggestions.slice(0, 10).map((billId) => (
-            <li
-              key={billId}
+
+      {suggestions.length > 0 && (
+        <ul style={{
+          listStyle: 'none', margin: 0, padding: 0,
+          border: '1px solid #ccc', maxHeight: 200, overflowY: 'auto'
+        }}>
+          {suggestions.map(s => (
+            <li 
+              key={s.bill_id}
+              onClick={() => handleSelect(s.bill_id)}
               style={{
-                padding: '8px',
-                borderBottom: '1px solid #eee',
-                cursor: 'pointer'
+                padding: 8, cursor: 'pointer', borderBottom: '1px solid #eee'
               }}
-              onClick={() => handleSuggestionClick(billId)}
             >
-              {billId}
+              <strong>{s.bill_id}</strong> — {s.bill_title}
             </li>
           ))}
         </ul>
       )}
-      {selectedBill && (
-        <div style={{ marginTop: '16px' }}>
-          <BillGraph billId={selectedBill} />
+
+      {selectedBillId && (
+        <div style={{ marginTop: 16 }}>
+          <BillGraph billId={selectedBillId} />
         </div>
       )}
     </div>
