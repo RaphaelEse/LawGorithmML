@@ -34,13 +34,9 @@ def api_test_connection():
 
 @app.route("/bills/search", methods=["GET"])
 def api_search_bills():
-    """
-    Search for bill IDs using a query parameter 'q'. This is used for autocomplete.
-    For example, a query of 'HR' will return bill IDs that contain 'HR'.
-    """
-    query = request.args.get("q", "")
-    bill_ids = search_bills(query)
-    return jsonify(bill_ids)
+    q = request.args.get("q", "")
+    hits = search_bills(q)
+    return jsonify(hits)
 
 @app.route("/bills/<bill_id>/graph", methods=["GET"])
 def api_get_bill_graph(bill_id):

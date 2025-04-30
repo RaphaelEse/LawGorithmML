@@ -6,19 +6,28 @@ const BillGraph = ({ billId }) => {
   const [selectedNode, setSelectedNode] = useState(null);
   // Mapping for relationship types to colors
   const typeColors = {
-    "Example": "#FF5733",
+    "Amending": "#FF5733",
     "Authority": "#33FF57",
-    "Precedent": "#3357FF",
-    "Amendment": "#F1C40F",
-    "DEFAULT": "#CCCCCC"
+    "Definition": "#3357FF",
+    "Exception": "#F1C40F",
+    "Precedent ": "#CCCCCC"
   };
+
+  // useEffect(() => {
+  //   if (!billId) return;
+  //   fetch(`http://34.205.59.36/api/bills/${billId}/graph`)
+  //     .then(r => r.json())
+  //     .then(data => setGraphData(data))
+  //     .catch(err => console.error('Error fetching bill graph data:', err));
+  // }, [billId]);
 
   useEffect(() => {
     if (!billId) return;
-    fetch(`http://34.205.59.36/api/bills/${billId}/graph`)
-      .then(r => r.json())
+    // Fetch the graph data for the given billId
+    fetch(`http://127.0.0.1:5000/bills/${billId}/graph`)
+      .then(response => response.json())
       .then(data => setGraphData(data))
-      .catch(err => console.error('Error fetching bill graph data:', err));
+      .catch(error => console.error('Error fetching bill graph data:', error));
   }, [billId]);
 
   if (!graphData) {
@@ -28,7 +37,7 @@ const BillGraph = ({ billId }) => {
   // Map nodes to include a "name" property using bill_id or citation-specific property.
   const nodes = graphData.nodes.map(node => ({
     ...node,
-    name: node.properties.bill_id || node.properties.text || "Node"
+    name: node.properties.text || node.properties.bill_id || "Node"
   }));
 
   // Map relationships (edges)
