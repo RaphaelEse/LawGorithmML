@@ -18,19 +18,6 @@ const BillSearch = () => {
       .catch(console.error);
   }, [query]);
 
-  //   useEffect(() => {
-  //   if (query.trim() === '') {
-  //     setSuggestions([]);
-  //     return;
-  //   }
-  //   fetch(`http://34.205.59.36/api/bills/search?q=${encodeURIComponent(query)}`)
-  //     .then(res => res.json())
-  //     .then(data => setSuggestions(data))
-  //     .catch(err => {
-  //       console.error('Error fetching autocomplete suggestions:', err);
-  //     });
-  // }, [query]);
-
 
   const handleSelect = (bill_id) => {
     setSelectedBillId(bill_id);
