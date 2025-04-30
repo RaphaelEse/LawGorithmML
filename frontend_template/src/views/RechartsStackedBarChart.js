@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 
 import {
-  BarChart, Bar, XAxis, YAxis, Tooltip, Legend, ResponsiveContainer,CartesianGrid
+  BarChart, Bar, XAxis, YAxis, Tooltip, Legend, ResponsiveContainer, CartesianGrid, ReferenceLine, Label
 } from 'recharts';
 
 import * as d3 from 'd3'
@@ -36,24 +36,25 @@ const RechartsStackedBarChart = () => {
         <BarChart 
           key={isStacked ? "stacked" : "grouped"} // Update key to force re-render on toggle
           data={data}
-          margin={{ top: 20, right: 30, left: 20, bottom: 5 }}
+          margin={{ top: 20, right: 30, left: 60, bottom: 5 }}
           stroke="#555"
           animationDuration={1000}
         >
           <CartesianGrid strokeDasharray="3 3"/>
           <XAxis dataKey="Type" />
-          <YAxis domain={isStacked ? [0, 13000] : [0,4500]}/>
+          <YAxis domain={isStacked ? [0, 13000] : [0,4100]}/>
           <Tooltip />
           <Legend />
+          <ReferenceLine y={isStacked ? 12172 : 3043} strokeDasharray="0 0" stroke="#000000" strokeWidth={2.5}>
+          <Label value={isStacked ? "Correct: 12172" : "Correct: 3043"} fill="#111" position="left" offset={10} />
+        </ReferenceLine>
           {modelKeys.map((key, index) => (
             <Bar
               key={key}
               dataKey={key}
-              stackId={isStacked ? "a" : undefined}
+              stackId={isStacked ? "a" : undefined} //StackId determines if the bars are stacked (a) or grouped (undefined)
               fill={colors[index % colors.length]} // Use a color array for different bars
             />
-          //Add dashed red bar at y=3000 along entire graph
-
 
           ))}
         </BarChart>
