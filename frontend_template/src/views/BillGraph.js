@@ -6,11 +6,16 @@ const BillGraph = ({ billId }) => {
   const [selectedNode, setSelectedNode] = useState(null);
   // Mapping for relationship types to colors
   const typeColors = {
-    "Amending": "#FF5733",
-    "Authority": "#33FF57",
-    "Definition": "#3357FF",
-    "Exception": "#F1C40F",
-    "Precedent ": "#CCCCCC"
+    // Amending relations → green
+    Amending:   "#00FF00",
+    // Authority relations → red
+    Authority:  "#FF0000",
+    // Definition relations → purple
+    Definition: "#800080",
+    // Exception relations → brown
+    Exception:  "#A52A2A",
+    // Precedent relations → yellow
+    Precedent:  "#FFFF00"
   };
 
   useEffect(() => {
