@@ -29,7 +29,6 @@ const dashboardRoutes = [
     name: "Home Page",
     icon: "nc-icon nc-globe-2",
     component: Homepage,
-    layout: "/admin"
   },
 
   {
@@ -37,7 +36,6 @@ const dashboardRoutes = [
     name: "Comparative Analysis",
     icon: "nc-icon nc-preferences-circle-rotate",
     component: ComparativeAnalysis,
-    layout: "/admin"
   },
 
 
@@ -46,7 +44,6 @@ const dashboardRoutes = [
     name: "Bill Details",
     icon: "nc-icon nc-vector",
     component: BillDetails,
-    layout: "/admin"
   },
 
   {
@@ -54,7 +51,6 @@ const dashboardRoutes = [
     name: "Visualizations",
     icon: "nc-icon nc-chart-pie-36",
     component: CustomVisualizations,
-    layout: "/admin"
   },
 
 ];

@@ -16,8 +16,8 @@ const root = createRoot(container);                  // create a root
 root.render(                                        // use root.render instead of ReactDOM.render
   <BrowserRouter>
     <Switch>
-      <Route path="/admin" render={(props) => <AdminLayout {...props} />} />
-      <Redirect from="/" to="/admin/homepage" />
+      <Route path="/" render={(props) => <AdminLayout {...props} />} />
+      {/* <Redirect from="/" to="/homepage" /> */}
     </Switch>
   </BrowserRouter>
 );
