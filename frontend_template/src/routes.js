@@ -32,19 +32,19 @@ const dashboardRoutes = [
   },
 
   {
+    path: "/bill_details",
+    name: "Bill Details",
+    icon: "nc-icon nc-vector",
+    component: BillDetails,
+  },
+
+  {
     path: "/comparative-analysis",
     name: "Comparative Analysis",
     icon: "nc-icon nc-preferences-circle-rotate",
     component: ComparativeAnalysis,
   },
 
-
-  {
-    path: "/bill_details",
-    name: "Bill Details",
-    icon: "nc-icon nc-vector",
-    component: BillDetails,
-  },
 
   {
     path: "/visualizations",
