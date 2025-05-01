@@ -18,11 +18,11 @@ function Homepage() {
         </Row>
 
         <Row className="justify-content-center mt-4">
-          <Col md="6">
+          <Col md="7">
             <Card className="text-center">
               <Card.Body>
-                <i className="nc-icon nc-globe-2" style={{ fontSize: "3rem" }}></i>
-                <Card.Title>Navigation Overview</Card.Title>
+                <i className="nc-icon nc-globe-2" style={{ fontSize: "4rem" }}></i>
+                <Card.Title style={{ fontSize: "1.5rem" }}>Navigation Overview</Card.Title>
                 <Card.Text>
                   Use the left navigation bar to explore different tabs, each covering key aspects of our project.
                 </Card.Text>
@@ -32,13 +32,13 @@ function Homepage() {
         </Row>
 
         <Row className="justify-content-center mt-4">
-          <Col md="6">
+          <Col md="7">
             <Card className="text-center">
               <Card.Body>
-                <i className="nc-icon nc-app" style={{ fontSize: "3rem" }}></i>
-                <Card.Title>Project Overview</Card.Title>
+                <i className="nc-icon nc-app" style={{ fontSize: "4rem" }}></i>
+                <Card.Title style={{ fontSize: "1.5rem" }}>Project Overview</Card.Title>
                 <Card.Text>
-                  LawGorithm has conducted a comparative analysis between a fine-tuned, custom machine learning model and various inudstry-standard machine learning models to classify the context of citations within legal documentation.
+                  LawGorithm has conducted a comparative analysis between a fine-tuned, custom machine learning model and various industry-standard machine learning models to classify the context of citations within legal documentation.
                 </Card.Text>
               </Card.Body>
             </Card>
@@ -47,11 +47,11 @@ function Homepage() {
 
         {/* Stakeholders & Industry Impact */}
         <Row className="justify-content-center mt-4">
-          <Col md="6">
+          <Col md="7">
             <Card className="text-center">
               <Card.Body>
-                <i className="nc-icon nc-bank" style={{ fontSize: "3rem" }}></i>
-                <Card.Title>Industry Impact</Card.Title>
+                <i className="nc-icon nc-bank" style={{ fontSize: "4rem" }}></i>
+                <Card.Title style={{ fontSize: "1.5rem" }}>Industry Impact</Card.Title>
                 <Card.Text>
                   Stakeholders include law firms, government agencies, financial institutions, and corporate compliance teams.
                   Benefits extend to legislators, attorneys, and policymakers by gaining clarity for legal decisions. NLP and ML researchers will also benefit from enhanced workflows in law-related AI by advancing citation classification techniques.
@@ -62,11 +62,11 @@ function Homepage() {
         </Row>
 
         <Row className="justify-content-center mt-4">
-          <Col md="6">
+          <Col md="7">
             <Card className="text-center">
               <Card.Body>
-                <i className="nc-icon nc-chart-bar-32" style={{ fontSize: "3rem" }}></i>
-                <Card.Title>Additional Information</Card.Title>
+                <i className="nc-icon nc-chart-bar-32" style={{ fontSize: "4rem" }}></i>
+                <Card.Title style={{ fontSize: "1.5rem" }}>Additional Information</Card.Title>
                 <Card.Text>
                   Here is where additional information could be shown about our project
                 </Card.Text>
