@@ -4,18 +4,10 @@ import RechartsStackedAreaChart from "./RechartsStackedAreaChart";
 import RechartsRadarChart from "./RechartsRadarChart";
 import RechartsPieChart from "./RechartsPieChart";
 import {
-  Badge,
-  Button,
   Card,
-  Navbar,
-  Nav,
-  Table,
   Container,
   Row,
   Col,
-  Form,
-  OverlayTrigger,
-  Tooltip,
 } from "react-bootstrap";
 
 
@@ -101,7 +93,7 @@ function CustomVisualizations() {
             <Container fluid>
               <Row>
                 <Col md="6">
-                  <Card>
+                  <Card style={{ height: "700px" }}>
                     <Card.Header>
                       <Card.Title as="h3">Citation Context Types By Model: Radar Chart</Card.Title>
                       <div style={{ margin: "5px 0" }}></div>
@@ -113,7 +105,7 @@ function CustomVisualizations() {
                       </p>
                       <div style={{ margin: "0px 0" }}></div>
                     </Card.Header>
-                    <Card.Body style={{ height: "500px" }}>
+                    <Card.Body >
                     <RechartsRadarChart />
                     </Card.Body>
                     <Card.Footer>
@@ -121,8 +113,7 @@ function CustomVisualizations() {
                   </Card>
                 </Col>
                 <Col md="6">
-                  <Card>
-                    <Card.Header>
+                <Card style={{ height: "700px" }}>                    <Card.Header>
                       <Card.Title as="h3">Total Citation Types: Pie Chart</Card.Title>
                       <div style={{ margin: "5px 0" }}></div>
                       <p className="card-category" style={{ fontSize: "1rem" }}>
@@ -132,7 +123,7 @@ function CustomVisualizations() {
                       <b>2)</b> Upon mouseover, the chart will display the the total number of classifications for the chosen citation context type, as well as the overall percentage of classifications the chosen citation context type represents.
                       </p>
                     </Card.Header>
-                    <Card.Body style={{ height: "500px" }}>
+                    <Card.Body>
                     <RechartsPieChart />
                     </Card.Body>
                     <Card.Footer>

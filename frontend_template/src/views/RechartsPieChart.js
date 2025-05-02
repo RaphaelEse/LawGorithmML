@@ -1,13 +1,6 @@
 import React, { PureComponent } from 'react';
 import { PieChart, Pie, Sector, Cell, ResponsiveContainer } from 'recharts';
 
-  // useEffect(() => {
-  //   // Fetch data from the CSV file 
-  //   d3.csv("/typesNumbersMultipleModels.csv", d3.autoType).then((parsedData) => {
-  //     console.log(parsedData)
-  //     setData(parsedData);
-  //   });
-  // }, []);
 
 
 const data = [
@@ -107,16 +100,6 @@ export default class Example extends PureComponent {
               <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
             ))}
           </Pie>
-          {/* <Pie
-            activeShape={renderActiveShape}
-            data={data2}
-            cx="50%"
-            cy="50%"
-            innerRadius={160}
-            outerRadius={200}
-            fill="#8884d8"
-            dataKey="value"
-          /> */}
         </PieChart>
       </ResponsiveContainer>
             

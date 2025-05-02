@@ -4,13 +4,9 @@ import MetricsTable from "./MetricsTable";
 import NivoHeatmap from "./NivoHeatmap";
 import {
   Card,
-  Table,
   Container,
   Row,
   Col,
-  Form,
-  OverlayTrigger,
-  Tooltip,
 } from "react-bootstrap";
 
 

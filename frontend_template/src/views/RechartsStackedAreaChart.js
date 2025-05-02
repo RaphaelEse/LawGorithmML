@@ -95,8 +95,6 @@ const StackedAreaChart = () => {
         Omit Outliers
       </label>
     </div>
-
-    //checkbox to cap 
   );
 };
 

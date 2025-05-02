@@ -77,8 +77,6 @@ return (
                     fill: '#000000',
                     strokeWidth: 0.5,
                     stroke: '#000000',
-                    
-
                 }
             },
             legend: {

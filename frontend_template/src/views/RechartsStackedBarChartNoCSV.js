@@ -23,7 +23,7 @@ Adjusting,21,17,19,20,18,21,22`;
 
   const data = d3.csvParse(csvData);
 
-  const modelKeys = data.columns.slice(1); // ['Model1', ..., 'Model7']
+  const modelKeys = data.columns.slice(1); 
 
   return (
     <div style={{ width: "100%", height: 400 }}>

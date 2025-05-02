@@ -16,7 +16,7 @@
 
 */
 import React, { Component } from "react";
-import { useLocation, Route, Switch } from "react-router-dom";
+import { useLocation, Route, Switch, Redirect } from "react-router-dom";
 
 import AdminNavbar from "components/Navbars/AdminNavbar";
 import Footer from "components/Footer/Footer";
@@ -64,7 +64,11 @@ function Admin() {
         <div className="main-panel" ref={mainPanel}>
           <AdminNavbar />
           <div className="content">
-            <Switch>{getRoutes(routes)}</Switch>
+            <Switch>
+              {getRoutes(routes)}
+              <Redirect from="/" to="/homepage" />
+              
+              </Switch>
           </div>
           <Footer />
         </div>

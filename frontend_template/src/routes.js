@@ -15,12 +15,11 @@
 * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 */
-import HomePage from "views/HomePage";
 import CustomVisualizations from "views/CustomVisualizations";
 import BillDetails from "views/BillDetails";
 import ComparativeAnalysis from "views/ComparativeAnalysis";
 import Homepage from "views/HomePage";
-
+ 
 
 const dashboardRoutes = [
 
@@ -52,7 +51,6 @@ const dashboardRoutes = [
     icon: "nc-icon nc-chart-pie-36",
     component: CustomVisualizations,
   },
-
 ];
 
 export default dashboardRoutes;

@@ -17,7 +17,7 @@ root.render(                                        // use root.render instead o
   <BrowserRouter>
     <Switch>
       <Route path="/" render={(props) => <AdminLayout {...props} />} />
-      {/* <Redirect from="/" to="/homepage" /> */}
+      <Redirect from="/" to="/homepage" />
     </Switch>
   </BrowserRouter>
 );
