@@ -12,8 +12,8 @@ const BillGraph = ({ billId }) => {
     Authority:  "#FF0000",
     // Definition relations → purple
     Definition: "#800080",
-    // Exception relations → brown
-    Exception:  "#A52A2A",
+    // Exception relations → orange
+    Exception:  "#FFA500",
     // Precedent relations → yellow
     Precedent:  "#FFFF00"
   };

@@ -24,7 +24,7 @@ function TableList() {
                 <Card.Title as="h3">Comparative Analysis Results:</Card.Title>
                 <div style={{ margin: "5px 0" }}></div>
                 <p className="card-category" style={{ fontSize: "1rem" }}>
-                  Below are industry-standard metrics for machine learning models compared between Lawgorithm's Custom Zero-Shot Classification
+                <b>1)</b> Below are industry-standard metrics for machine learning models compared between Lawgorithm's Custom Zero-Shot Classification
                   Model and three other legal classification models chosen for comparative analysis.
                 </p>
               </Card.Header>

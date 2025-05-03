@@ -18,7 +18,7 @@ const RechartsStackedBarChart = () => {
     });
   }, []);
   
-  const modelKeys = data.columns?.slice(1) ?? []; // ['Model1', ..., 'Model7']
+  const modelKeys = data.columns?.slice(1) ?? []; 
 
   return (
     <div style={{ width: "100%", height: 500 }}>

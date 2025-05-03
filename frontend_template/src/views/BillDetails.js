@@ -17,7 +17,9 @@ import {
   Tooltip,
 } from "react-bootstrap";
 
-function Dashboard() {
+import Stack from "react-bootstrap/Stack"
+
+function BillDetails() {
   return (
     
     <>
@@ -26,7 +28,12 @@ function Dashboard() {
           <Col md="12">
             <Card>
               <Card.Header>
-                <Card.Title as="h4">Bill Details</Card.Title>
+                <Card.Title as="h3">Bill Details</Card.Title>
+                <div style={{ margin: "5px 0" }}></div>
+                <p className="card-category" style={{ fontSize: "1rem" }}>
+                <b>1) </b> Below is a search bar allowing input of a bill number or title to create an interactive graph visualization showing citations with semantic context.
+                </p>
+
               </Card.Header>
               <Card.Body>
                 <BillSearch />
@@ -40,4 +47,4 @@ function Dashboard() {
   );
 }
 
-export default Dashboard;
+export default BillDetails;

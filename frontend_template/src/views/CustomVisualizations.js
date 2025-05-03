@@ -25,10 +25,10 @@ function CustomVisualizations() {
                       <Card.Title as="h3">Total Citation Context Types by Model: Stacked/Grouped Bar Chart</Card.Title>
                       <div style={{ margin: "5px 0" }}></div>
                 <p className="card-category" style={{ fontSize: "1rem" }}>
-                <b>1)</b> Below is a bar chart comparing the total number of classifications for all five citation context classification types among the four models used for comparative analysis.
+                <b>1) </b> Below is a bar chart comparing the total number of classifications for all five citation context classification types among the four models used for comparative analysis.
                 </p>
                 <p className="card-category" style={{ fontSize: "1rem" }}>
-                <b>2)</b> The "Toggle Stacked View" option allows you to view the chart in either stacked or grouped format.
+                <b>2) </b> The "Toggle Stacked View" option allows you to view the chart in either stacked or grouped format.
                 </p>
                 {/* <p className="card-category" style={{ fontSize: "1rem" }}>
                  When the "Toggle Stacked View" option is unchecked, the chart will compare the number of classifications for each citation context type by model.
@@ -79,7 +79,7 @@ function CustomVisualizations() {
                     <RechartsStackedAreaChart />
                     </Card.Body>
                     <Card.Footer>
-                      Note: This is the only visualization that uses original data without SMOTE balancing to preserve citation date authenticity. This results in an imbalanced dataset skewed towards the "Authority" citation context type.
+                      Note: This visualization uses original data without SMOTE balancing to preserve citation date authenticity. This results in an imbalanced dataset skewed towards the "Authority" citation context type.
                     </Card.Footer>
                   </Card>
                 </Col>
@@ -120,7 +120,7 @@ function CustomVisualizations() {
                       <b>1)</b> Below is a pie chart comparing the total number of classifications among the citation context classification types for all models.
                       </p>
                       <p className="card-category" style={{ fontSize: "1rem" }}>
-                      <b>2)</b> Upon mouseover, the chart will display the the total number of classifications for the chosen citation context type, as well as the overall percentage of classifications the chosen citation context type represents.
+                      <b>2)</b> Upon mouseover, the chart will display the total number of classifications for the chosen citation context type, as well as the overall percentage of classifications the chosen citation context type represents.
                       </p>
                     </Card.Header>
                     <Card.Body>
