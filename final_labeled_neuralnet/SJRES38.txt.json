@@ -1,0 +1,47 @@
+{
+  "bill_id": "SJRES38",
+  "citations": [
+    {
+      "text": "chapter 8 of title 5",
+      "startPosition": 191,
+      "endPosition": 211,
+      "normCite": "",
+      "citeType": "",
+      "altCite": "",
+      "pinCiteStr": "",
+      "pageRangeStr": "",
+      "nodeId": 0,
+      "section": "",
+      "sectionAndSubSection": "",
+      "isShortCite": false,
+      "chunk_id": 0,
+      "high_confidence": "Precedent",
+      "context": " <!DOCTYPE resolution SYSTEM \"blp-dscs-billres.dtd\"> 118th Congress 2d Session S. J. RES. 38 IN THE SENATE OF THE UNITED STATES JOINT RESOLUTION Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Federal Highway Administration relating to Waiver of Buy America Requirements for Electric Vehicle Chargers. Resolved by the Senate and House of Representatives of the United States of America in Congress assembled That Congress disapproves the rule submitted by the Federal Highway Administration relating to Waiver of Buy America Requirements for Electric Vehicle Chargers (88 Fed.",
+      "low_confidence": "Exception",
+      "predicted_label": "Precedent",
+      "predicted_score": 0.9989579916000366,
+      "citation_id": "precedent_1"
+    },
+    {
+      "text": "88 Fed. Reg. 10619",
+      "startPosition": 638,
+      "endPosition": 656,
+      "normCite": "88 federal register 10619",
+      "citeType": "FR",
+      "altCite": "",
+      "pinCiteStr": "",
+      "pageRangeStr": "",
+      "nodeId": 0,
+      "section": "",
+      "sectionAndSubSection": "",
+      "isShortCite": false,
+      "chunk_id": 0,
+      "high_confidence": "Example",
+      "context": "38 IN THE SENATE OF THE UNITED STATES JOINT RESOLUTION Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Federal Highway Administration relating to Waiver of Buy America Requirements for Electric Vehicle Chargers. Resolved by the Senate and House of Representatives of the United States of America in Congress assembled That Congress disapproves the rule submitted by the Federal Highway Administration relating to Waiver of Buy America Requirements for Electric Vehicle Chargers (88 Fed. Reg.",
+      "low_confidence": "Exception",
+      "predicted_label": "Example",
+      "predicted_score": 0.9913526177406311,
+      "citation_id": "example_1"
+    }
+  ]
+}
