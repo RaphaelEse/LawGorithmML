@@ -3,21 +3,29 @@
   "version": "2.0.1",
   "dependencies": {
     "@fortawesome/fontawesome-free": "5.15.2",
+    "@nivo/core": "^0.89.1",
+    "@nivo/heatmap": "^0.89.1",
     "ajv": "^8.16.0",
     "bootstrap": "4.6.0",
-    "chartist": "0.11.4",
+    "chartist": "0.10.1",
+    "d3": "^7.9.0",
     "gulp": "4.0.2",
     "gulp-append-prepend": "1.0.9",
-    "react": ">=16.8.0",
+    "react": "^19.1.0",
     "react-bootstrap": "2.4.0",
-    "react-chartist": "0.14.4",
-    "react-dom": ">=16.8.0",
-    "react-notification-alert": "0.0.13",
+    "react-dom": "^19.1.0",
+    "react-force-graph": "^1.47.6",
+    "react-force-graph-2d": "^1.27.1",
     "react-router": "5.2.0",
     "react-router-dom": "5.2.0",
     "react-scripts": "5.0.1",
+    "react-vega": "^7.6.0",
     "reactstrap": "8.8.1",
-    "sass": "1.53.0"
+    "recharts": "^2.15.2",
+    "sass": "1.53.0",
+    "vega": "^6.1.2",
+    "vega-embed": "^7.0.2",
+    "vega-lite": "^6.1.0"
   },
   "optionalDependencies": {
     "jquery": "3.5.1",
@@ -32,10 +40,6 @@
     "compile:scss": "sass src/assets/scss/light-bootstrap-dashboard-pro-react.scss src/assets/css/light-bootstrap-dashboard-pro-react.css",
     "minify:scss": "sass src/assets/scss/light-bootstrap-dashboard-pro-react.scss src/assets/css/light-bootstrap-dashboard-pro-react.min.css --style compressed",
     "build:scss": "npm run compile:scss && npm run minify:scss"
-  },
-  "peerDependencies": {
-    "react": ">=16.8.0",
-    "react-dom": ">=16.8.0"
   },
   "browserslist": {
     "production": [

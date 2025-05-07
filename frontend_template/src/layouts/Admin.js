@@ -16,12 +16,12 @@
 
 */
 import React, { Component } from "react";
-import { useLocation, Route, Switch } from "react-router-dom";
+import { useLocation, Route, Switch, Redirect } from "react-router-dom";
 
 import AdminNavbar from "components/Navbars/AdminNavbar";
 import Footer from "components/Footer/Footer";
 import Sidebar from "components/Sidebar/Sidebar";
-import FixedPlugin from "components/FixedPlugin/FixedPlugin.js";
+// import FixedPlugin from "components/FixedPlugin/FixedPlugin.js";
 
 import routes from "routes.js";
 
@@ -35,17 +35,13 @@ function Admin() {
   const mainPanel = React.useRef(null);
   const getRoutes = (routes) => {
     return routes.map((prop, key) => {
-      if (prop.layout === "/admin") {
         return (
           <Route
-            path={prop.layout + prop.path}
+            path={prop.path}
             render={(props) => <prop.component {...props} />}
             key={key}
           />
         );
-      } else {
-        return null;
-      }
     });
   };
   React.useEffect(() => {
@@ -68,19 +64,23 @@ function Admin() {
         <div className="main-panel" ref={mainPanel}>
           <AdminNavbar />
           <div className="content">
-            <Switch>{getRoutes(routes)}</Switch>
+            <Switch>
+              {getRoutes(routes)}
+              <Redirect from="/" to="/homepage" />
+              
+              </Switch>
           </div>
           <Footer />
         </div>
       </div>
-      <FixedPlugin
+      {/* <FixedPlugin
         hasImage={hasImage}
         setHasImage={() => setHasImage(!hasImage)}
         color={color}
         setColor={(color) => setColor(color)}
         image={image}
         setImage={(image) => setImage(image)}
-      />
+      /> */}
     </>
   );
 }

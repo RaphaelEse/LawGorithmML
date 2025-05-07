@@ -22,32 +22,35 @@ import { Nav } from "react-bootstrap";
 
 import logo from "assets/img/reactlogo.png";
 
+import image2 from "assets/img/sidebar-4.jpg"
+
 function Sidebar({ color, image, routes }) {
   const location = useLocation();
   const activeRoute = (routeName) => {
     return location.pathname.indexOf(routeName) > -1 ? "active" : "";
   };
   return (
-    <div className="sidebar" data-image={image} data-color={color}>
+    <div className="sidebar" data-image={image2} data-color={color}>
       <div
         className="sidebar-background"
         style={{
-          backgroundImage: "url(" + image + ")"
+          backgroundImage: "url(" + image2 + ")"
         }}
       />
       <div className="sidebar-wrapper">
         <div className="logo d-flex align-items-center justify-content-start">
           <a
-            href="https://www.creative-tim.com?ref=lbd-sidebar"
+            href=""
             className="simple-text logo-mini mx-1"
           >
-            <div className="logo-img">
-              <img src={require("assets/img/reactlogo.png")} alt="..." />
-            </div>
           </a>
-          <p className="simple-text">
+          <p className="simple-text ">
             LawGorithm
           </p>
+          
+          <div className="logo-img">
+              <img src={require("assets/img/lawgorithm_logo.png")} alt="Lawgorithm Logo" />
+            </div>
         </div>
         <Nav>
           {routes.map((prop, key) => {
@@ -57,12 +60,12 @@ function Sidebar({ color, image, routes }) {
                   className={
                     prop.upgrade
                       ? "active active-pro"
-                      : activeRoute(prop.layout + prop.path)
+                      : activeRoute(prop.path)
                   }
                   key={key}
                 >
                   <NavLink
-                    to={prop.layout + prop.path}
+                    to={prop.path}
                     className="nav-link"
                     activeClassName="active"
                   >
